@@ -52,6 +52,7 @@ PRINTF_RE = re.compile(
     r"%(?:\d+\$)?[-+0#]*\d*(?:\.\d+)?(?:hh|h|ll|l|L|z|j|t)?[diuoxXfFeEgGaAcspnD]"
 )
 DOLLAR_RE = re.compile(r"\$[A-Za-z][A-Za-z0-9_]*(?::\d+)?")
+CYRILLIC_RE = re.compile(r"[\u0400-\u04FF]")
 
 
 def token_signature(text: str) -> list[str]:
