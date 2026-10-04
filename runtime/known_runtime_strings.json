@@ -1,0 +1,92 @@
+{
+  "checkpoint": "2026-10-05",
+  "purpose": "Known runtime locations/seeds. Not a complete runtime translation catalog.",
+  "objects_package": {
+    "index_entry_bytes": 24,
+    "dir_record_bytes": 20,
+    "resource_types": {
+      "TTAs": "0x54544173",
+      "CTSS": "0x43545353",
+      "STR": "0x53545223"
+    },
+    "known_catalog": [
+      {
+        "group": "0x7f04cee9",
+        "instance": "0x7d0",
+        "type": "CTSS",
+        "english": [
+          "Hatchet",
+          "With the hatchet, the days of lugging entire trees across the island are no longer! Use the hatchet to chop wood into smaller pieces that can easily be transported."
+        ],
+        "vietnamese_seed": [
+          "Rìu nhỏ",
+          "Có chiếc rìu nhỏ này rồi thì khỏi phải ì ạch vác nguyên cây khắp đảo nữa! Dùng nó chặt gỗ thành từng khúc nhỏ để mang đi cho nhẹ nhàng."
+        ]
+      },
+      {
+        "group": "0x7f12081f",
+        "instance": "0x7d0",
+        "type": "CTSS",
+        "note": "duplicate Hatchet resource; patch together with 0x7f04cee9"
+      },
+      {
+        "group": "0x7f5f2e77",
+        "instance": "0x7d0",
+        "type": "CTSS",
+        "english_title": "\"Don't Wear Short Shorts\" Loveseat"
+      },
+      {
+        "group": "0x7f0b0b4b",
+        "instance": "0x7d0",
+        "type": "CTSS",
+        "english": [
+          "Concoction Junction",
+          "Herbs! You know the effects and the correct doses of every individual species on the island, but now it's time to spread your wings. What does this one do if you add it to that other one? This is what you need in order to find out!"
+        ],
+        "status": "located; untranslated in latest runtime screenshot"
+      },
+      {
+        "group": "0x7f5ecd66",
+        "instance": "0x7d0",
+        "type": "CTSS",
+        "english": [
+          "\"Out a Home, But In a Hut\" Shell Lamp",
+          "Did you ever stop to think that the shells you find along the beach are more than just pretty? Sure, some poor beach dwelling creature may now be out of a home now. But at least you got a workable table lamp out of the deal."
+        ],
+        "status": "located; untranslated in latest runtime screenshot"
+      }
+    ],
+    "known_interactions": [
+      {
+        "group": "0x7fe6afcd",
+        "instance": "0x1",
+        "type": "TTAs",
+        "english": [
+          "Drink Coconut Juice",
+          "Gather Coconuts",
+          "Look Around",
+          "Scan Horizon",
+          "Monkey Around"
+        ],
+        "status": "located; several visible untranslated in latest runtime screenshot"
+      }
+    ]
+  },
+  "neighborhood": [
+    {
+      "package": "N001_Neighborhood.package",
+      "type": "CTSS",
+      "instance": "0x1",
+      "english_title": "Shipwrecked and Single",
+      "status": "patched locally in v0.7b but runtime still showed English"
+    },
+    {
+      "package": "N002_Neighborhood.package",
+      "type": "CTSS",
+      "instance": "0x1",
+      "english_title": "Wanmami Island",
+      "status": "patched locally in v0.7b but runtime still showed English"
+    }
+  ],
+  "warning": "This file is a checkpoint seed only. Re-run and persist a full player-facing runtime audit before claiming completion."
+}
