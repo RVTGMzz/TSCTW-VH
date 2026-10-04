@@ -1,0 +1,40 @@
+Mood	Tâm trạng
+Relationships	Mối quan hệ
+Skills & Career	Kỹ năng & Sự nghiệp
+Personality	Tính cách
+Inventory	Túi đồ
+Interests	Sở thích
+Memories	Ký ức
+Simology	Thông tin Sim
+Satisfy your Sim's basic needs to keep their Mood in the green. Mood affects every aspect of a Sim's life, from how they interact with other Sims, to their Job Performance.	Đáp ứng các nhu cầu cơ bản để giữ Tâm trạng của Sim ở vùng xanh. Tâm trạng ảnh hưởng gần như mọi thứ trong cuộc sống của Sim, từ cách họ tương tác với người khác đến Hiệu suất công việc.
+Keyboard shortcuts can be used to help keep your Sim's Mood in the green.  Mouse over each need to find out what the specific shortcut is.	Bạn có thể dùng phím tắt để giữ Tâm trạng của Sim ở vùng xanh. Di chuột lên từng nhu cầu để xem phím tắt tương ứng.
+The Mood Meter	Thanh Tâm trạng
+Cleaning	Dọn dẹp
+Cooking	Nấu ăn
+Mechanical	Cơ khí
+Charisma	Quyến rũ
+Body	Thể lực
+Logic	Logic
+Creativity	Sáng tạo
+Unemployed	Thất nghiệp
+n/a	không áp dụng
+Vacation Days: %s	Ngày nghỉ: %s
+Toddler	Trẻ tập đi
+A toddler's job is growing up, and they have fun learning new skills. Supportive family members help them learn everything they need to know.	Công việc của trẻ tập đi là lớn lên, và tụi nhỏ rất thích học kỹ năng mới. Người thân quan tâm sẽ giúp bé học được mọi thứ cần thiết.
+Child	Trẻ em
+A child's job is becoming a teen, and they have fun learning new skills. Supportive family members help them learn everything they need to know.	Công việc của trẻ em là lớn lên thành thiếu niên, và học kỹ năng mới cũng là một phần rất vui. Người thân quan tâm sẽ giúp tụi nhỏ chuẩn bị thật tốt.
+Cooking Skill|Sims that keep reading and cooking to build this skill will be surprised by how much more satisfying their meals become. Cooking is especially important to making better use of your food resources.\n|0xab211110|0xab211115|0x4906501d	Kỹ năng Nấu ăn|Sim càng đọc và nấu nhiều thì tay nghề càng lên, món ăn cũng ngon và no hơn hẳn. Nấu ăn đặc biệt quan trọng để tận dụng tốt nguồn thực phẩm ít ỏi trên đảo.\n|0xab211110|0xab211115|0x4906501d
+Mechanical Skill|Being handy around the camp can help life go more smoothly in case something breaks. Sims can improve this skill by studying do-it-yourself books from a bookshelf or the steamer trunk, or by repairing broken items.\n|0xab211150|0xab211155|0x4906501d	Kỹ năng Cơ khí|Biết sửa chữa sẽ khiến cuộc sống ở trại nhẹ đầu hơn nhiều mỗi khi có thứ gì đó hỏng. Sim có thể nâng kỹ năng bằng cách đọc sách tự làm từ kệ sách hoặc Rương Hành lý, hay trực tiếp sửa đồ hỏng.\n|0xab211150|0xab211155|0x4906501d
+Charisma Skill|Sims know that good communication abilities and confidence are essential skills for making and keeping friends. They should spend some time practicing in front of any mirror to improve this skill. Nice, outgoing Sims are especially good at building charisma.\n|0xab211130|0xab211135|0x4906501d	Kỹ năng Quyến rũ|Giao tiếp tốt và tự tin là bí kíp để kết bạn rồi giữ bạn. Hãy cho Sim luyện tập trước gương để tăng kỹ năng này. Sim tốt bụng, hướng ngoại thường lên Quyến rũ nhanh hơn.\n|0xab211130|0xab211135|0x4906501d
+Body Skill|Strength, dexterity and speed can be improved by swimming in the ocean. Keep your Sim in shape and their body skill will be especially valuable in the Hunter career track. Active Sims can build this skill more quickly than others.\n|0xab211140|0xab211145|0x4906501d	Kỹ năng Thể lực|Bơi ngoài biển giúp tăng sức mạnh, độ khéo léo và tốc độ. Giữ Sim khỏe mạnh vì Thể lực đặc biệt hữu ích trong nhánh nghề Thợ săn. Sim năng động sẽ tăng kỹ năng này nhanh hơn người khác.\n|0xab211140|0xab211145|0x4906501d
+Logic Skill|Logic combines deduction and organization ability. Sims can study logic using books or  develop it using the telescope, which will be useful in the Crafter career track. This is a good skill for lazier Sims to work on.\n|0xab211160|0xab211165|0x4906501d	Kỹ năng Logic|Logic kết hợp khả năng suy luận và tổ chức. Sim có thể học từ sách hoặc luyện bằng kính thiên văn; kỹ năng này rất hữu ích trong nhánh nghề Chế tác. Đây cũng là lựa chọn khá hợp cho những Sim hơi lười vận động.\n|0xab211160|0xab211165|0x4906501d
+Creativity Skill|Let your Sims try a hand at writing in the diary to improve their creativity; it can play an important part in many different career tracks. This skill includes artistic and musical ability as well as the potential for invention. A light-hearted Sim tends to be more open to creativity.\n|0xab211100|0xab211105|0x4906501d\n	Kỹ năng Sáng tạo|Cho Sim thử viết nhật ký để tăng Sáng tạo; kỹ năng này có thể quan trọng trong nhiều nhánh nghề khác nhau. Nó bao gồm khả năng nghệ thuật, âm nhạc và cả tiềm năng phát minh. Sim vui tính thường dễ phát triển Sáng tạo hơn.\n|0xab211100|0xab211105|0x4906501d\n
+Cleaning Skill|It goes without saying that a clean camp is a happy camp, but Sims should work on their housekeeping abilities to make the cleaning process quicker and easier. They can tidy up their living area to improve this skill; it comes most naturally to neater Sims.\n|0xab211120|0xab211125|0x4906501d	Kỹ năng Dọn dẹp|Trại sạch thì ở mới sướng, mà luyện kỹ năng Dọn dẹp sẽ giúp mọi việc nhanh và nhẹ hơn. Sim có thể dọn khu sinh hoạt để nâng kỹ năng; những Sim gọn gàng thường học khoản này tự nhiên nhất.\n|0xab211120|0xab211125|0x4906501d
+Unemployed|A desired state for some and a dreaded state for others. A Sim can find a job by clicking on themselves to become a Hunter, Gatherer, or Crafter .|||0x4906501c	Thất nghiệp|Có người mơ ước trạng thái này, có người nghe thôi đã rén. Sim có thể tìm việc bằng cách nhấp vào chính mình rồi chọn trở thành Thợ săn, Người thu thập hoặc Thợ chế tác.|||0x4906501c
+Hours|%s-%s\r|||0x4906501c	Giờ làm|%s-%s\r|||0x4906501c
+School Hours|%s-%s\rBus arrives: %s\r|||0x4906501c	Giờ học|%s-%s\rXe buýt tới: %s\r|||0x4906501c
+Retired	Đã nghỉ hưu
+(At School)	(Đang đi học)
+(At Work)	(Đang đi làm)
+(Ran Away)	(Bỏ nhà đi)
+(Snuck Out)	(Lẻn ra ngoài)
