@@ -6,7 +6,7 @@ Bản dịch cộng đồng cho bản PC.
 
 - Bản phát hành đã đóng gói gần nhất: **Text v0.6 — 486 câu/nhãn duy nhất**. Font03 đã được Ron xác nhận hoạt động ổn.
 - **v0.6 chưa được Ron kiểm tra trực tiếp đầy đủ trong game.**
-- Nguồn dịch hiện đi tới **`extra38`**.
+- Nguồn dịch hiện đi tới **`extra42`**.
 - Không dùng số unique mapping ghi tay nữa vì các batch sau có override/key trùng có chủ đích; chạy `python src/builder/build_v07.py --audit-only` để lấy số merged chính xác.
 - Các batch sau v0.6 **chưa được đóng gói thành bản test mới** vì repo không chứa file `.package` của game.
 
@@ -37,7 +37,7 @@ Các package như `eCAS.package` (Body Shop), `UIText2.package` (nhãn expansion
 
 ## Kiểm tra source
 
-`extra23`–`extra29` đã được audit ở mốc trước. Từ `extra32` đến `extra38` bổ sung Build/Buy tools, object stats, Castaway Needs, animal motives, Simology/skills/career, 24 tên chương, Player Profile, mô tả Wanmami và Barter/alternate skill tooltips.
+`extra23`–`extra29` đã được audit ở mốc trước. Từ `extra32` đến `extra42` bổ sung Build/Buy tools, object stats, Castaway Needs, animal motives, Simology/skills/career, 24 tên chương, Player Profile, mô tả Wanmami và Barter/alternate skill tooltips.
 
 Builder v0.7 nay có `--audit-only` để merge và kiểm toàn bộ source mà không cần package game; audit còn phát hiện placeholder/line-break/tooltip metadata sai và ký tự Cyrillic lạc.
 
@@ -72,7 +72,7 @@ Chi tiết: [`BUILD.md`](BUILD.md).
 
 ## Thư mục
 
-- `translations/`: bảng dịch nền và batch bổ sung tới `extra38`.
+- `translations/`: bảng dịch nền và batch bổ sung tới `extra42`.
 - `src/builder/`: parser DBPF/QFS và builder.
 - `installer-source/`: nguồn installer/manifest của v0.6; payload không nằm trong repo.
 - `castaway-english-strings.json`: catalog tiếng Anh dùng để audit; không phải package game.
