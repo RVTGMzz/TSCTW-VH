@@ -81,7 +81,7 @@ Builder mới đã có tại **`src/builder/build_v07.py`**; `build_v06.py` đư
 - có `--audit-only` để kiểm source mà không cần package game;
 - nhận diện các câu đã dịch trong baseline v0.6 theo package/resource/ngôn ngữ bằng `validation.json`; giá trị mơ hồ không bị áp sai ngữ cảnh.
 
-Builder đã qua kiểm tra cú pháp và thử logic ánh xạ lịch sử v0.6. **Chưa chạy end-to-end với package thật**, nên chưa có build v0.7 mới hay claim runtime test.
+Builder Text v0.7 đã được chạy với package Ron cung cấp và build test đã được Ron cài/chạy trong game. Tuy nhiên builder này **chỉ phủ nhóm Text package cũ**; runtime sweep mới phát hiện thêm nhiều player-facing resource ngoài scope đó. Vì vậy không được coi v0.7 là bản hoàn thiện.
 
 Build incremental từ v0.6 hiện cần đúng 7 file:
 - `Options.package`
