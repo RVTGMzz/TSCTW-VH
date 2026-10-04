@@ -1,9 +1,14 @@
 # Build notes
 
-The build scripts use the local project layout from the working session. Keep this repository source-only. Place user-owned extracted inputs locally (ignored by Git):
+The repository is source-only. The scripts were originally run from a local `work/` directory, where their inputs and translation maps sit beside the Python files.
 
-- `work/text/Text/Options.package` and `UIText.package` from Text v0.5 for `build_v06.py`
-- original `Live.package`, `Neighborhood.package`, and `Tutorial.package` in the same folder
-- for font rebuilds, original game fonts under `work/fonts/Fonts/` and installed fontTools
+For a local build:
 
-The English string extraction `english.json` and all binary source/output assets are intentionally omitted. Do not commit game packages, fonts copied from the game, or patched payloads. The original Windows game is the runtime test; Linux-side structural checks do not replace it.
+1. Clone this repository.
+2. Create a local `work/` directory. Copy `src/builder/*.py` and `translations/*.tsv` / `translations/*.json` into `work/`.
+3. Put user-owned extracted packages in `work/text/Text/`. For `build_v06.py`, use Text v0.5 `Options.package` and `UIText.package`, plus original `Live.package`, `Neighborhood.package`, and `Tutorial.package`.
+4. Run `python build_v06.py` from the copied `work/` directory. It writes the package payload and manifest to a sibling `Castaway-Text-v06/` directory.
+
+For font rebuilds, the original font assets belong under `work/fonts/Fonts/`; install `fontTools` locally first.
+
+The full extraction `english.json` and all binary source/output assets are intentionally omitted. Do not commit game packages, fonts copied from the game, or patched payloads. Structural checks do not replace testing in the original Windows game.
