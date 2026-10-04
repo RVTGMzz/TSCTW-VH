@@ -1,0 +1,102 @@
+Increment	Tăng
+Decrement	Giảm
+Food Units	Đơn vị thức ăn
+Rate (per unit)	Giá (mỗi đơn vị)
+Delivery Cost	Phí giao hàng
+Cost	Chi phí
+%s Items In Cart	%s món trong giỏ
+%s Total	Tổng: %s
+Add to Cart	Thêm vào giỏ
+Remove from Cart	Bỏ khỏi giỏ
+View Cart	Xem giỏ hàng
+View Rack	Xem kệ hàng
+Insufficient Funds!	Không đủ tiền!
+This object is not designable.	Vật thể này không thể đổi thiết kế.
+Total Cost	Tổng chi phí
+Food Cost	Tiền thức ăn
+Buy Food	Mua thức ăn
+Plan Outfit	Chọn trang phục
+Try On	Thử đồ
+Buy Clothing	Mua quần áo
+Change Appearance	Đổi diện mạo
+Make Selection	Hãy chọn
+Hunger: %d	Đói: %d
+Comfort: %d	Thoải mái: %d
+Hygiene: %d	Vệ sinh: %d
+Bladder: %d	Bàng quang: %d
+Energy: %d	Năng lượng: %d
+Fun: %d	Vui vẻ: %d
+Environment: %d	Môi trường: %d
++ Cooking	+ Nấu ăn
++ Mechanical	+ Cơ khí
++ Logic	+ Logic
++ Body	+ Thể lực
++ Creativity	+ Sáng tạo
++ Charisma	+ Giao tiếp
++ Study	+ Học tập
+Group Activity	Hoạt động nhóm
+Can only be used by Children	Chỉ Trẻ em mới dùng được
+Can only be used by Adults	Chỉ Sim Trưởng thành mới dùng được
+Can only be used by Teens	Chỉ Thiếu niên mới dùng được
+Can only be used by Elders	Chỉ Sim Cao tuổi mới dùng được
+Can only be used by Toddlers	Chỉ Trẻ tập đi mới dùng được
++ Cleaning	+ Dọn dẹp
+Hand Tool - H	Công cụ Bàn tay - H
+Eyedropper Tool - E	Công cụ Sao chép - E
+Design Tool - R	Công cụ Thiết kế - R
+Top Down View - T	Góc nhìn từ trên xuống - T
+Undo - Ctrl-Z	Hoàn tác - Ctrl-Z
+Redo - Ctrl-Y	Làm lại - Ctrl-Y
+Sort by Function	Sắp xếp theo công dụng
+Sort by Room	Sắp xếp theo phòng
+Collections	Bộ sưu tập
+Build Tools	Công cụ xây dựng
+Hand Tool|Use the Hand Tool to manipulate objects in your house.  Click once to pick up an object, and click again to place an object.  Click and hold to rotate the object before placing it.|||L	Công cụ Bàn tay|Dùng Công cụ Bàn tay để di chuyển vật thể trong nhà. Nhấp một lần để nhấc vật thể, nhấp lần nữa để đặt xuống. Nhấp và giữ để xoay trước khi đặt.|||L
+Design Tool|Getting tired of that outdated animal print?  Use the Design Tool to change the material on certain objects, including many beds, sofas, chairs, windows, and trees.|||L	Công cụ Thiết kế|Chán họa tiết da thú cũ mèm rồi hả? Dùng Công cụ Thiết kế để đổi chất liệu/màu của nhiều vật thể như giường, sofa, ghế, cửa sổ và cây.|||L
+Eyedropper Tool|No more searching for the same pattern over and over.  With the Eyedropper Tool, you can locate walls, floors, and objects with a single click.|||L	Công cụ Sao chép|Khỏi phải mò lại cùng một mẫu hết lần này tới lần khác. Công cụ Sao chép giúp bạn chọn nhanh tường, sàn và vật thể tương tự chỉ bằng một cú nhấp.|||L
+Top Down View|Get a birds eye view with the top down Build Mode camera.|||L	Góc nhìn từ trên xuống|Xem toàn cảnh từ trên cao với camera từ trên xuống trong Chế độ Xây dựng.|||L
+Day/Night Toggle - L	Chuyển Ngày/Đêm - L
+Day/Night Toggle|Switch between daylight and nightime to see the dramatic effects of your lighting scheme while designing your house.|||L	Chuyển Ngày/Đêm|Đổi giữa ban ngày và ban đêm để xem hệ thống ánh sáng của bạn trông ra sao trong từng thời điểm khi thiết kế nhà.|||L
+Cost to Update: %s	Chi phí thay đổi: %s
+Throw A Party	Tổ chức tiệc
+Invite List	Danh sách khách mời
+List of Neighbors	Danh sách hàng xóm
+Sort Alphabetically	Sắp xếp theo ABC
+Sort by Relationship	Sắp xếp theo quan hệ
+Add	Thêm
+Remove	Xóa
+Service Phone Book	Danh bạ dịch vụ
+Neighbor Phone Book	Danh bạ hàng xóm
+Call This Sim	Gọi Sim này
+Show as Text	Hiện dạng chữ
+Show as Thumbnails	Hiện ảnh thu nhỏ
+%s Family	Gia đình %s
+Call %s	Gọi %s
+Call for %s	Gọi tìm %s
+Saving Lot	Đang lưu khu đất
+More...	Thêm...
+This Sim means the world to me.  There's no one I'd rather spend my life with. Sure we might have some ups and downs, but if we treat each other well, we'll be together for a long time.	Sim này là cả thế giới với mình. Chẳng có ai mình muốn cùng đi hết cuộc đời hơn. Tất nhiên sẽ có lúc lên lúc xuống, nhưng chỉ cần cả hai biết trân trọng nhau thì còn bên nhau dài dài.
+I adore this Sim. It would be wonderful if we both feel the same way. I'll have to be careful in my advances and take the time to determine if this Sim shares my feelings. This can only be true love.	Mình mê Sim này mất rồi. Sẽ tuyệt biết bao nếu người ta cũng cảm thấy như mình. Phải từ từ tìm hiểu xem tình cảm có hai chiều không đã. Có khi đây là tình yêu thật sự đó.
+I really like this Sim. I hope we can become more than just friends. I think we're meant to be together.	Mình thích Sim này lắm. Mong hai đứa có thể hơn cả bạn bè. Không hiểu sao cứ thấy tụi mình sinh ra là để gặp nhau ấy.
+There's no Sim I enjoy spending time with more than this Sim.  I can't wait for just 5 more minutes to spend together.  Now that we're going steady, everyone knows we only have eyes for each other.	Chẳng có Sim nào mình thích ở cạnh hơn người này. Thêm năm phút bên nhau thôi cũng thấy đáng. Giờ đã chính thức hẹn hò rồi, ai cũng biết hai đứa chỉ có mắt cho nhau.
+The smiley faces say it all—we're very close. I know even good relationships take work, so we can't forget to spend time together or those smiley faces could be wiped away.	Mấy cái mặt cười nói lên tất cả: tụi mình rất thân. Nhưng quan hệ tốt cũng phải chăm nha; bỏ bê nhau lâu quá thì mặt cười cũng bay màu như chơi.
+I'm so happy I took the time to make this Sim my friend.  I'm going to have to work to keep us so close, but it will be worth it.	Mừng ghê vì mình đã dành thời gian kết bạn với Sim này. Muốn giữ được độ thân này chắc vẫn phải vun đắp, nhưng hoàn toàn xứng đáng.
+The way things are now, I couldn't dislike this Sim much more if I tried. I suppose if I wanted to turn things around, I could try to get a read on what seems to generate a positive response when we interact.	Với tình hình hiện tại thì chắc mình khó mà ghét Sim này hơn được nữa. Nếu thật sự muốn cứu mối quan hệ, có lẽ phải để ý xem người ta phản ứng tốt với kiểu tương tác nào rồi bắt đầu lại từ đó.
+I've known this Sim for awhile but we still don't know each other very well.  I'd like for us to be friends, maybe I should pick up the phone and chat.	Biết Sim này cũng một thời gian rồi mà hai đứa vẫn chưa thân lắm. Mình muốn làm bạn hơn, chắc nên nhấc điện thoại lên tám chuyện một chút.
+I barely know this Sim, but I bet if we spend more time getting to know each other we could become good friends.  I should pay attention to our conversations and make a plan to get together sometime.	Mình gần như chưa biết gì về Sim này, nhưng dành thêm thời gian tìm hiểu thì biết đâu thành bạn tốt. Lần tới nói chuyện phải để ý hơn rồi kiếm dịp gặp nhau nữa.
+It's so exciting that we're about to start our life together, but I know we'll still have to work at keeping our relationship strong.  If we take the time to talk to and appreciate each other, I'm sure we'll stay just as close.	Háo hức ghê, tụi mình sắp bắt đầu cuộc sống chung rồi. Nhưng muốn tình cảm bền thì vẫn phải chăm sóc nó. Chỉ cần chịu khó trò chuyện và trân trọng nhau, mình tin hai đứa sẽ luôn gần gũi như bây giờ.
+I'm happy to have this Sim in my family. Although we may not always get along, our close family bonds will help keep us together.	Mình vui vì có Sim này trong gia đình. Có thể không phải lúc nào cũng hòa thuận, nhưng tình thân sẽ giúp mọi người vẫn gắn bó với nhau.
+Relationship|Relationships are represented by a daily meter (top) and lifetime meter (bottom). Daily relationships change quickly based on recent interactions, while lifetime relationships change slowly over time. The icons below the meters show what type of relationship two Sims share. Remember, Sims in a relationship may not share the same feelings toward each other at the same time. \r|||0x4906501b	Quan hệ|Mối quan hệ được thể hiện bằng thanh Hằng ngày (trên) và Dài hạn (dưới). Quan hệ hằng ngày thay đổi nhanh theo những tương tác gần đây, còn quan hệ dài hạn thay đổi chậm hơn theo thời gian. Các biểu tượng bên dưới cho biết kiểu quan hệ giữa hai Sim. Nhớ nhé, hai Sim trong cùng một mối quan hệ không nhất thiết phải có cảm xúc giống nhau. \r|||0x4906501b
+%s %s is the %s of %s.	%s %s là %s của %s.
+%s %s	%s %s
+Family Tree of 	Cây gia đình của 
+Engaged	Đính hôn
+Married/Joined	Kết hôn/Chung đôi
+Crush	Cảm nắng
+Going Steady	Đang hẹn hò
+Best Friend	Bạn thân
+Friend	Bạn bè
+Enemy	Kẻ thù
+Acquaintance	Người quen
+Just Met	Mới gặp
+Family Tree of %s	Cây gia đình của %s
