@@ -1,6 +1,9 @@
+Family Only	Chỉ gia đình
+Friends Only	Chỉ bạn bè
+Household Only	Chỉ hộ gia đình
+Memories	Ký ức
 Press Delete or click here \rto dispose of the %.	Nhấn Delete hoặc nhấp vào đây \rđể vứt bỏ %.
 Press Delete or click here \rto sell the % for $.	Nhấn Delete hoặc nhấp vào đây \rđể bán % với giá $.
-% cannot be deleted.	% không thể bị xóa.
 Click here (or press Delete) to sell the object for %s \r(press ESC to cancel)	Nhấp vào đây (hoặc nhấn Delete) để bán vật thể với giá %s \r(nhấn ESC để hủy)
 Click here (or press Delete) to dispose of the object \r(press ESC to cancel)	Nhấp vào đây (hoặc nhấn Delete) để vứt vật thể \r(nhấn ESC để hủy)
 There are no actions available	Không có thao tác nào khả dụng
@@ -14,3 +17,4 @@ Error recording video capture file.	Lỗi khi ghi file video.
 Unspecified error.	Lỗi không xác định.
 There was a problem accessing the graphic device.	Có sự cố khi truy cập thiết bị đồ họa.
 Your movie could not be written to disk. Check to make sure you have enough disk space and correct read/write permissions.	Không thể ghi video xuống ổ đĩa. Hãy kiểm tra dung lượng trống và quyền đọc/ghi của thư mục.
+% cannot be deleted.	% không thể bị xóa.
