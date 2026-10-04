@@ -139,10 +139,33 @@ Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `
 - File test của phiên chat: `TSCTW_VH_v0.7a_RUNTIME_FIX.zip`. Chưa đánh dấu runtime tested cho tới khi Ron chạy game.
 - **Story selector vẫn chưa fix:** `Shipwrecked and Single`, `Wanmami Island` và mô tả vẫn không nằm trong các package vừa scan. Bước kế tiếp cần Ron cung cấp `TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package` và `.../N002/N002_Neighborhood.package` để locate metadata runtime.
 
+## Checkpoint mới nhất — runtime sweep toàn diện (2026-10-05)
+Ron đã test thật v0.7, v0.7a và v0.7b trong game. Kết luận quan trọng: source sweep cũ **không đồng nghĩa runtime đã phủ hết**. Còn nhiều text player-facing nằm trong `objects.package`, Text `Wants.package`, neighborhood/runtime data.
+
+Ảnh test mới nhất vẫn còn English ở:
+- story selector: `Shipwrecked and Single`, `Wanmami Island` và mô tả;
+- reward/item: `Concoction Junction` + mô tả;
+- catalog: `"Out a Home, But In a Hut" Shell Lamp` + mô tả, và nhiều item khác;
+- pie menu: `Examine`, `Use`, `Drink Coconut Juice`, `Monkey Around`, `Look Around`, `Scan Horizon`.
+
+Ron yêu cầu rõ: **không tiếp tục vá từng screenshot**. Phải audit toàn bộ resource player-facing rồi dịch theo cụm, sau đó build một bản tổng hợp mới (ưu tiên v0.8 TEST).
+
+Đã thêm:
+- `RUNTIME_AUDIT.md`: checkpoint kỹ thuật/runtime đầy đủ;
+- `runtime/known_runtime_strings.json`: seed resource/string đã locate;
+- `NEXT_SESSION_PROMPT.md`: prompt copy/paste cho phiên model mới.
+
+**Bắt buộc model tiếp theo đọc `RUNTIME_AUDIT.md` trước khi tiếp tục runtime translation.**
+
+Lưu ý cực quan trọng: các status count lớn từng nói trong chat trước khi phiên bị ngắt không được persist thành audit/source file. Không coi các số đó là bằng chứng đã hoàn tất; phải rerun audit và commit report/source mới được báo tiến độ bằng số.
+
 ## Việc tiếp theo
-**Core translation sweep đã hoàn tất ở mức source.**
-1. Chạy lại source audit sau thay đổi builder và xác nhận CI PASS.
-2. Tạo build incremental từ đúng 7 package v0.6: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
-3. Vẫn cần xác định story selector (`Shipwrecked and Single`, `Wanmami Island`) trong `N001_Neighborhood.package` và `N002_Neighborhood.package`; patch metadata sau khi locate.
-4. Gửi bản test, rồi sửa chuỗi tiếng Anh còn lòi, chữ bị cắt hoặc ngữ cảnh sai theo xác nhận của Ron.
-5. Chỉ sau khi Ron chạy game mới cập nhật trạng thái “tested”.
+1. Đọc `RUNTIME_AUDIT.md` và `runtime/known_runtime_strings.json`.
+2. Nếu package không còn trong context, yêu cầu Ron upload đúng file cần scan; ưu tiên `objects.package`, Text `Wants.package`, N001/N002 và các package runtime liên quan.
+3. Viết/hoàn thiện extractor có thể audit DBPF 20-byte và 24-byte, xuất catalog player-facing có package/type/group/instance/row/description.
+4. Phân loại Castaway player-facing vs debug/internal/base-game/expansion; **không dịch mù** mọi English trong objects.package.
+5. Dịch toàn diện theo cụm: TTAs interaction, CTSS catalog/reward, Wants/Goals/hints, neighborhood/story selector, STR# runtime UI/tutorial/story/dialog.
+6. Persist bảng dịch runtime + audit report vào repo để tiến độ có thể tái lập.
+7. Sửa story selector bằng cách tìm nguồn runtime thật sự game đang đọc; patch N001/N002 alone đã structural PASS nhưng Ron vẫn thấy English.
+8. Build **một bản tổng hợp v0.8 TEST**, không tiếp tục bắt Ron cài nhiều hotfix lẻ.
+9. Ron test runtime; chỉ sau đó mới cập nhật phần nào thực sự fixed.
