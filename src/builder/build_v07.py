@@ -92,10 +92,11 @@ def translation_files() -> list[Path]:
     return [p for p in files if p.exists()]
 
 
-def load_translations() -> tuple[dict[str, str], list[str]]:
+def load_translations() -> tuple[dict[str, str], list[str], list[dict[str, str]]]:
     merged: dict[str, str] = {}
     origin: dict[str, str] = {}
     used_files: list[str] = []
+    overrides: list[dict[str, str]] = []
 
     for path in translation_files():
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -107,14 +108,19 @@ def load_translations() -> tuple[dict[str, str], list[str]]:
             if not isinstance(en, str) or not isinstance(vi, str):
                 raise TypeError(f"{path}: translation keys and values must be strings")
             if en in merged and merged[en] != vi:
-                raise ValueError(
-                    f"Conflicting translation for {en!r}: "
-                    f"{origin[en]}={merged[en]!r}, {path.name}={vi!r}"
+                overrides.append(
+                    {
+                        "en": en,
+                        "from_file": origin[en],
+                        "from_vi": merged[en],
+                        "to_file": path.name,
+                        "to_vi": vi,
+                    }
                 )
             merged[en] = vi
             origin[en] = path.name
 
-    return merged, used_files
+    return merged, used_files, overrides
 
 
 def derive_targets(translations: dict[str, str]) -> tuple[dict[str, set[int]], dict[str, int]]:
@@ -296,7 +302,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    translations, used_files = load_translations()
+    translations, used_files, translation_overrides = load_translations()
     targets, catalog_hits = derive_targets(translations)
 
     required = FULL_REQUIRED if args.full else INCREMENTAL_REQUIRED
@@ -330,6 +336,7 @@ def main() -> None:
         "runtime_tested": False,
         "translation_files": used_files,
         "translation_mapping_count": len(translations),
+        "translation_overrides": translation_overrides,
         "catalog_mapping_hits": len(catalog_hits),
         "required_packages": sorted(required),
         "checks": [
