@@ -36,7 +36,7 @@ Nên chạy audit-only trước mọi build test mới. Repo còn có workflow `
 
 ### Build incremental từ bản v0.6 Ron đang dùng
 
-> **CẢNH BÁO 2026-10-04:** bản `build_v07.py` hiện trên repo vẫn có lỗi incremental với các key đã được Việt hóa ở v0.6 rồi bị batch sau override. Bản test v0.7 đầu tiên đã được build bằng logic sửa context-aware và idempotency PASS. Trước lần build incremental tiếp theo, phải tích hợp fix dựa trên `validation.json` v0.6 để nhận diện `(package, STR# instance, language, old_vi) → English source`. Không dùng nguyên logic `value in translations` cho baseline v0.6.
+`build_v07.py` đã tích hợp nhận diện ngữ cảnh cho baseline v0.6: builder dùng `validation.json` để ánh xạ `(package, STR# instance, language, old_vi) → English source`. Nếu một giá trị tiếng Việt cũ có nhiều nguồn English nhưng cho ra các bản dịch mới khác nhau, builder bỏ qua giá trị mơ hồ thay vì ghi nhầm.
 
 
 Đặt đúng 7 file user-owned sau vào:
@@ -80,7 +80,7 @@ Chế độ này sẽ yêu cầu đủ 8 package và áp toàn bộ mapping ngu�
 
 ## Lưu ý
 
-- Builder mới đã được review source và sửa lỗi khai báo regex trong audit mode, nhưng **chưa được thực thi end-to-end trong runtime repo ở phiên hiện tại**. Build package thật vẫn cần file game do người dùng cung cấp.
+- Đã kiểm tra cú pháp Python và thử logic ánh xạ lịch sử với các trường hợp mơ hồ, duy nhất, tiếng Anh gốc và override riêng theo package. **Chưa chạy end-to-end với package game thật**; bước đó vẫn cần các file `.package` của Ron.
 - Structural validation không thay thế test trong game Windows.
 - Chỉ ghi “đã test trong game” khi Ron xác nhận trực tiếp.
 - Font03 đang hoạt động ổn theo xác nhận trước đó; không rebuild font nếu chỉ thay text.
