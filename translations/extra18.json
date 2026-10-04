@@ -1,0 +1,19 @@
+{
+  "Direct3D returned an error: %s! The application will now terminate.": "Direct3D trả về lỗi: %s! Ứng dụng sẽ đóng ngay bây giờ.",
+  "Failed to initialize Direct3D. Please make sure DirectX 9.0c has been installed on this system. The application will now terminate.": "Không thể khởi tạo Direct3D. Hãy đảm bảo DirectX 9.0c đã được cài trên hệ thống. Ứng dụng sẽ đóng ngay bây giờ.",
+  "Failed to find any DirectX 9.0c compatible graphics adapters in this system! Please make sure you have a DirectX 9.0c compatible graphics adapter and have installed the latest drivers provided by the manufacturer. The application will now terminate.": "Không tìm thấy card đồ họa nào tương thích DirectX 9.0c! Hãy đảm bảo máy có card đồ họa tương thích DirectX 9.0c và đã cài driver mới nhất từ nhà sản xuất. Ứng dụng sẽ đóng ngay bây giờ.",
+  "No display monitors found in this system. Please make your desktop is configured properly. The application will now terminate.": "Không tìm thấy màn hình hiển thị trên hệ thống. Hãy kiểm tra lại cấu hình màn hình/desktop. Ứng dụng sẽ đóng ngay bây giờ.",
+  "The graphics adapter in this system experienced an internal error. Please contact your graphics adapter manufacturer for technical support. The application will now terminate.": "Card đồ họa gặp lỗi nội bộ. Hãy liên hệ nhà sản xuất card đồ họa để được hỗ trợ kỹ thuật. Ứng dụng sẽ đóng ngay bây giờ.",
+  "The application experienced a rendering error. The application will now terminate.": "Ứng dụng gặp lỗi dựng hình và sẽ đóng ngay bây giờ.",
+  "The startup neighborhood is invalid.  The application will now terminate.": "Khu phố khởi động không hợp lệ. Ứng dụng sẽ đóng ngay bây giờ.",
+  "Please make sure that The Sims 2 and The Sims 2 Body Shop are not running before installing this content.": "Hãy đảm bảo game và The Sims 2 Body Shop đã được đóng trước khi cài nội dung này.",
+  "Please enter a project name at least 3 characters long.": "Hãy nhập tên dự án dài ít nhất 3 ký tự.",
+  "The Sims 2 Body Shop is currently running. You must shut down The Sims 2 Body Shop before running The Sims 2.": "The Sims 2 Body Shop đang chạy. Bạn phải đóng Body Shop trước khi mở game.",
+  "Some needed files were corrupted during the installation. Please reinstall this application.": "Một số file cần thiết đã bị hỏng trong quá trình cài đặt. Hãy cài lại ứng dụng.",
+  "Home": "Trang chủ",
+  "Reset Tutorial": "Đặt lại hướng dẫn",
+  "%s to %s": "%s đến %s",
+  "Family Friends|Networking and making friends is vital to any career. The first number is the number of family friends your Sim has. The second number in parentheses is the number of additional family friends your Sim needs in order to be promoted.\r|||0x4906501c": "Bạn của gia đình|Xây dựng quan hệ và kết bạn rất quan trọng cho sự nghiệp. Số đầu tiên là số bạn của gia đình mà Sim đang có. Số thứ hai trong ngoặc là số bạn cần thêm để được thăng chức.\r|||0x4906501c",
+  "Work Days|Days highlighted in light blue represent the days of the week spent at work. The dark blue color represent days off, when a Sim can skip work without getting in trouble. The light blue arrow points to the current day of the week.|||0x4906501c": "Ngày đi làm|Các ngày màu xanh nhạt là ngày Sim phải đi làm. Màu xanh đậm là ngày nghỉ, Sim có thể nghỉ mà không gặp rắc rối. Mũi tên xanh nhạt chỉ ngày hiện tại trong tuần.|||0x4906501c",
+  "School Days|Days highlighted in light blue represent the days of the week spent at school. The dark blue color represent days off, when a Sim can skip school without getting in trouble. The light blue arrow points to the current day of the week.|||0x4906501c": "Ngày đi học|Các ngày màu xanh nhạt là ngày Sim phải đi học. Màu xanh đậm là ngày nghỉ, Sim có thể nghỉ mà không gặp rắc rối. Mũi tên xanh nhạt chỉ ngày hiện tại trong tuần.|||0x4906501c"
+}
