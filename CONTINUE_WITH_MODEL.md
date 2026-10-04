@@ -123,6 +123,14 @@ Chỉ cần 7 file từ bản Ron đang dùng:
 
 Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `--full` từ original baseline.
 
+## Phát hiện khi build test v0.7 (2026-10-04)
+- Ron đã cung cấp đủ 7 package incremental từ bản đang dùng; `UIText2.package` cũng được gửi để kiểm tra nhưng xác nhận chỉ chứa tên expansion legacy và **không patch**.
+- Phát hiện bug trong `build_v07.py`: incremental từ v0.6 chỉ nhận diện English gốc, nên các key đã được Việt hóa ở v0.6 rồi bị batch sau override sẽ bị bỏ sót.
+- Build test cục bộ đã dùng logic context-aware để nhận diện giá trị Việt cũ theo package/STR#; áp được **207 historical v0.6 updates**. Tổng build thay đổi **1.481 English key**, và chạy build lần hai trên chính output cho kết quả **0 thay đổi ở cả 7 package** (idempotency PASS).
+- Spot-check các collision quan trọng đã đúng ngữ cảnh: `Fun → Vui vẻ`, `Social → Giao tiếp`, `Charisma → Quyến rũ`, `Entertainment → Giải trí`.
+- Trước lần build tiếp theo, **không dùng nguyên `build_v07.py` incremental hiện tại** nếu chưa tích hợp fix. Cách fix bền vững: dùng `validation.json` v0.6 để map `(package, instance, language, old_vi) → English source`; nếu một old_vi có nhiều English candidate thì chỉ chấp nhận khi tất cả candidate resolve về cùng final Vietnamese value.
+- Bản test đã được tạo ở phiên chat dưới tên `TSCTW_VH_v0.7_TEST.zip`; chưa được đánh dấu runtime tested cho tới khi Ron chạy game.
+
 ## Việc tiếp theo
 **Core translation sweep đã hoàn tất ở mức source và đủ để bước sang build test đầu tiên.**
 1. Nhận đúng 7 package từ bản Ron đang dùng: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
