@@ -1,0 +1,38 @@
+Change Snapshot Size	Đổi kích thước ảnh chụp
+Change Snapshot Quality	Đổi chất lượng ảnh chụp
+[autotext] Family Album	[autotext] Album Gia đình
+Edit Album	Chỉnh sửa Album
+Edit Blog	Chỉnh sửa Nhật ký
+Remove Entry From Story	Xóa mục khỏi Câu chuyện
+Move Entry Up	Di chuyển mục lên
+Move Entry Down	Di chuyển mục xuống
+Camera Snapshot - C	Chụp ảnh - C
+Video Capture - V	Quay video - V
+Choose Categories	Chọn danh mục
+Press the "C" key to choose a subject	Nhấn phím "C" để chọn chủ thể
+Video Capture	Quay video
+Your Video Capture is saved in: %s	Video của bạn được lưu tại: %s
+Snapshots are saved to the Story Mode Editor, where you can create a Story. You can open the Story Editor by pressing F4 in the neighborhood, or from inside a family's lot.	Ảnh chụp sẽ được lưu trong Trình chỉnh sửa Câu chuyện, nơi bạn có thể tạo một câu chuyện của riêng mình. Bạn có thể mở trình chỉnh sửa bằng phím F4 ở Khu phố hoặc ngay trong khu đất của một gia đình.
+To take Family snapshots, click the "Camera Snapshot" button (C) on the Control Panel	Để chụp ảnh Gia đình, nhấp nút "Chụp ảnh" (C) trên Bảng điều khiển
+To take Neighborhood snapshots, click the "Camera Snapshot" button (C) on the Neighborhood Control Panel.	Để chụp ảnh Khu phố, nhấp nút "Chụp ảnh" (C) trên Bảng điều khiển Khu phố.
+There are no entries for this Album. To add an entry, click "Organize Story" and move a snapshot into the story column.	Album này chưa có mục nào. Muốn thêm, hãy nhấp "Sắp xếp Câu chuyện" rồi chuyển một ảnh chụp vào cột câu chuyện.
+There are no entries for this Blog. To add an entry, click "Organize Story" and move a snapshot into the story column.	Nhật ký này chưa có mục nào. Muốn thêm, hãy nhấp "Sắp xếp Câu chuyện" rồi chuyển một ảnh chụp vào cột câu chuyện.
+Double-click to Add to Story	Nhấp đúp để thêm vào Câu chuyện
+Edit Story	Chỉnh sửa Câu chuyện
+Enter description here	Nhập mô tả tại đây
+This setting works best with high performance machines, and may cause noticeable game slow-down on low-end machines.	Thiết lập này phù hợp nhất với máy cấu hình mạnh và có thể khiến game chậm rõ rệt trên máy cấu hình thấp.
+Enabling audio capture while recording a high quality video is only recommended for use with high performance machines. The game may slow down severely on lower performance machines.	Chỉ nên bật thu âm khi quay video chất lượng cao trên máy cấu hình mạnh. Game có thể chậm đáng kể trên máy yếu hơn.
+If game performance seems too slow during video capture, you may want to try a smaller capture size setting in camera options.	Nếu game chạy quá chậm khi quay video, hãy thử giảm kích thước video trong tùy chọn Camera.
+Warning: You don't seem to have a compatible codec installed for video capture. Capture will only be possible in uncompressed raw AVI mode, thus file sizes will be much bigger than normal.	Cảnh báo: Có vẻ máy bạn chưa cài codec tương thích để quay video. Bạn chỉ có thể quay ở chế độ AVI thô không nén, vì vậy dung lượng file sẽ lớn hơn bình thường rất nhiều.
+To take snapshots, click the "Camera Snapshot" button (C) on the control panel.	Để chụp ảnh, nhấp nút "Chụp ảnh" (C) trên bảng điều khiển.
+Warning: Recording uncompressed video will generate extremely large files on the hard drive. 	Cảnh báo: Quay video không nén sẽ tạo các file có dung lượng cực lớn trên ổ cứng. 
+No valid codec was found to compress video. Please see the Readme.txt file for instructions on how to install or specify a different video codec. Video quality will be set to uncompressed. 	Không tìm thấy codec hợp lệ để nén video. Hãy xem file Readme.txt để biết cách cài hoặc chọn codec khác. Chất lượng video sẽ được chuyển sang chế độ không nén. 
+Cannot capture video with Smooth Edges option active.\nClick OK below to go to the Graphics Options screen. Set the Smooth Edges slider to the Less setting, and then press the Apply Changes button.	Không thể quay video khi tùy chọn Làm mịn cạnh đang bật.\nNhấn OK bên dưới để mở Tùy chọn Đồ họa. Kéo thanh Làm mịn cạnh về mức Thấp hơn, rồi nhấn Áp dụng thay đổi.
+Deleting Custom Content	Đang xóa nội dung tùy chỉnh
+This element cannot be deleted because it is currently in use.	Không thể xóa mục này vì nó đang được sử dụng.
+Are you sure you want to permanently delete this item?\n\nThis action cannot be undone.	Bạn có chắc muốn xóa vĩnh viễn mục này không?\n\nThao tác này không thể hoàn tác.
+This content requires Expansion Pack data that is not installed.	Nội dung này cần dữ liệu từ gói mở rộng chưa được cài đặt.
+Updating Neighborhood	Đang cập nhật Khu phố
+Packaging Lot	Đang đóng gói khu đất
+Packaging Story	Đang đóng gói Câu chuyện
+Updating Catalog	Đang cập nhật danh mục
