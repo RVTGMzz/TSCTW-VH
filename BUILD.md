@@ -18,7 +18,21 @@ Nó:
 - chỉ sửa language ID 1/2;
 - giữ nguyên số lượng/thứ tự string, description, ngôn ngữ khác, compression state và resource không liên quan;
 - kiểm placeholder, line break, tooltip metadata, QFS round-trip và decompressed-size directory;
-- giữ override ngữ cảnh `Neighborhood.package: Play → Chơi`.
+- giữ override ngữ cảnh `Neighborhood.package: Play → Chơi`;
+- có `--audit-only` để merge và kiểm source mà không cần package game;
+- audit-only kiểm placeholder, line break, tooltip metadata, catalog presence và ký tự Cyrillic lạc.
+
+### Audit source trước khi build
+
+Từ root repo chạy:
+
+`python src/builder/build_v07.py --audit-only`
+
+Lệnh này **không cần file `.package`**. Kết quả ghi vào:
+
+`work/build_v07/source_audit.json`
+
+Nên chạy audit-only trước mọi build test mới.
 
 ### Build incremental từ bản v0.6 Ron đang dùng
 
@@ -63,7 +77,7 @@ Chế độ này sẽ yêu cầu đủ 8 package và áp toàn bộ mapping ngu�
 
 ## Lưu ý
 
-- Builder mới đã được kiểm tra cú pháp/logic source nhưng **chưa thể chạy end-to-end** trong repo vì repo không có package game.
+- Builder mới đã được review source và sửa lỗi khai báo regex trong audit mode, nhưng **chưa được thực thi end-to-end trong runtime repo ở phiên hiện tại**. Build package thật vẫn cần file game do người dùng cung cấp.
 - Structural validation không thay thế test trong game Windows.
 - Chỉ ghi “đã test trong game” khi Ron xác nhận trực tiếp.
 - Font03 đang hoạt động ổn theo xác nhận trước đó; không rebuild font nếu chỉ thay text.
