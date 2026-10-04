@@ -13,6 +13,7 @@ from qfs import compress as qfs_compress
 ROOT = Path(__file__).resolve().parents[2]
 TRANSLATIONS_DIR = ROOT / "translations"
 CATALOG_PATH = ROOT / "castaway-english-strings.json"
+V06_VALIDATION_PATH = ROOT / "validation.json"
 DEFAULT_INPUT = ROOT / "work" / "text" / "Text"
 DEFAULT_OUTPUT = ROOT / "work" / "build_v07"
 
@@ -70,6 +71,61 @@ def metadata_signature(text: str) -> list[str] | None:
 
 def translated_value(package_name: str, en: str, translations: dict[str, str]) -> str:
     return PACKAGE_OVERRIDES.get(package_name, {}).get(en, translations[en])
+
+
+def load_v06_history() -> dict[tuple[str, int, int, str], set[str]]:
+    """Map each v0.6 translated row back to its English source key."""
+    if not V06_VALIDATION_PATH.is_file():
+        raise FileNotFoundError(
+            f"Missing v0.6 validation baseline: {V06_VALIDATION_PATH}"
+        )
+
+    validation = json.loads(V06_VALIDATION_PATH.read_text(encoding="utf-8"))
+    history: dict[tuple[str, int, int, str], set[str]] = {}
+
+    for file_report in validation.get("files", []):
+        package = file_report.get("file")
+        if package not in ALLOWED_PACKAGES:
+            continue
+        for change in file_report.get("changes", []):
+            key = (
+                package,
+                int(change["instance"]),
+                int(change["language"]),
+                change["vi"],
+            )
+            history.setdefault(key, set()).add(change["en"])
+
+    return history
+
+
+def resolve_source_value(
+    package: str,
+    instance: int,
+    language: int,
+    value: str,
+    translations: dict[str, str],
+    v06_history: dict[tuple[str, int, int, str], set[str]],
+) -> tuple[str, str] | None:
+    """Resolve an English baseline string or an unambiguous v0.6 Vietnamese value."""
+    if value in translations:
+        return value, translated_value(package, value, translations)
+
+    candidates = v06_history.get((package, instance, language, value), set())
+    final_values = {
+        translated_value(package, en, translations)
+        for en in candidates
+        if en in translations
+    }
+    if len(final_values) != 1:
+        return None
+
+    final_value = next(iter(final_values))
+    source_keys = [
+        en for en in candidates
+        if en in translations and translated_value(package, en, translations) == final_value
+    ]
+    return (source_keys[0], final_value) if source_keys else None
 
 
 def validate_translation(en: str, vi: str) -> None:
@@ -213,6 +269,7 @@ def patch_package(
     destination: Path,
     target_instances: set[int],
     translations: dict[str, str],
+    v06_history: dict[tuple[str, int, int, str], set[str]],
 ) -> dict[str, object]:
     original = source.read_bytes()
     new = bytearray(original)
@@ -232,11 +289,22 @@ def patch_package(
 
         for row in rows:
             language, value, _description = row
-            if language not in (1, 2) or value not in translations:
+            if language not in (1, 2):
                 continue
 
-            translated = translated_value(source.name, value, translations)
-            validate_translation(value, translated)
+            resolved = resolve_source_value(
+                source.name,
+                instance_id,
+                language,
+                value,
+                translations,
+                v06_history,
+            )
+            if resolved is None:
+                continue
+
+            source_english, translated = resolved
+            validate_translation(source_english, translated)
             if translated == value:
                 continue
 
@@ -246,7 +314,7 @@ def patch_package(
                 {
                     "instance": instance_id,
                     "language": language,
-                    "en": value,
+                    "en": source_english,
                     "vi": translated,
                 }
             )
@@ -316,9 +384,21 @@ def patch_package(
                 assert language == new_language
                 assert old_description == new_description
 
-                if language in (1, 2) and old_value in translations:
-                    expected = translated_value(source.name, old_value, translations)
-                    validate_translation(old_value, expected)
+                resolved = (
+                    resolve_source_value(
+                        source.name,
+                        instance_id,
+                        language,
+                        old_value,
+                        translations,
+                        v06_history,
+                    )
+                    if language in (1, 2)
+                    else None
+                )
+                if resolved is not None:
+                    source_english, expected = resolved
+                    validate_translation(source_english, expected)
                     assert new_value == expected
                 else:
                     assert new_value == old_value
@@ -387,6 +467,7 @@ def main() -> None:
         print("Output:", audit_path)
         return
 
+    v06_history = load_v06_history()
     required = FULL_REQUIRED if args.full else INCREMENTAL_REQUIRED
     missing = sorted(name for name in required if not (args.input / name).is_file())
     if missing:
@@ -404,6 +485,7 @@ def main() -> None:
             payload / name,
             targets.get(name, set()),
             translations,
+            v06_history,
         )
         reports.append(report)
 
