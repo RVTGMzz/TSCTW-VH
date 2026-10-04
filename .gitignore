@@ -1,0 +1,11 @@
+# Game data and local extraction (never commit copyrighted game files)
+text/
+fonts/
+Castaway-Text-*/
+Castaway-Font*/
+Payload/
+*.package
+*.mxf
+*.rar
+*.zip
+english.json

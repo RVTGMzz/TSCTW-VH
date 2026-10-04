@@ -1,0 +1,27 @@
+[
+  {
+    "path": "TSData/Res/Text/Options.package",
+    "original": "2621b6f02f6e566b601190c11ad51a500d447fb6cd3ee5107d9de3520c9f8a06",
+    "patched": "2621b6f02f6e566b601190c11ad51a500d447fb6cd3ee5107d9de3520c9f8a06"
+  },
+  {
+    "path": "TSData/Res/Text/UIText.package",
+    "original": "72d586ea0c7286ff3c43048af333ac36917fdde51d01d7a1530e23e2a1f8386e",
+    "patched": "66bf5743ab64f08d71a180e69adfcb38c54578e0f38c89dbe2c0ceaeac4a18e2"
+  },
+  {
+    "path": "TSData/Res/Text/Live.package",
+    "original": "baddf49d9b074338cd8757d98b87771dd276ad55a034020170587bf0a97ebb60",
+    "patched": "b476d7697cbd563cd74dc2c865e546a3daf0133618f15585a313ae6c69b7bbe7"
+  },
+  {
+    "path": "TSData/Res/Text/Neighborhood.package",
+    "original": "dda1c6385fb52776836d9374d63a1e0e94a54825964d3865132c7654d23a8b69",
+    "patched": "dda1c6385fb52776836d9374d63a1e0e94a54825964d3865132c7654d23a8b69"
+  },
+  {
+    "path": "TSData/Res/Text/Tutorial.package",
+    "original": "8bc79511825c6d8852efbd6eae66d97ea3175ae0963ad1270cc0cc1187ede6a2",
+    "patched": "8bc79511825c6d8852efbd6eae66d97ea3175ae0963ad1270cc0cc1187ede6a2"
+  }
+]

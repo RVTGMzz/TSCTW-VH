@@ -1,0 +1,4326 @@
+{
+  "checks": "Original header/index order/resource IDs retained; untouched resource bytes identical; original compression type retained; QFS round-trip; compression directory sizes verified; string order/count/descriptions and other languages preserved. Windows runtime not tested.",
+  "files": [
+    {
+      "file": "Options.package",
+      "changes": [
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "On",
+          "vi": "Bật"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Off",
+          "vi": "Tắt"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Low",
+          "vi": "Thấp"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Medium",
+          "vi": "Vừa"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "High",
+          "vi": "Cao"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Neighborhood",
+          "vi": "Khu dân cư"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Quit",
+          "vi": "Thoát"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Save",
+          "vi": "Lưu"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Do you want to keep these settings?",
+          "vi": "Bạn muốn giữ các thiết lập này chứ?"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Default Settings",
+          "vi": "Mặc định"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Enabled",
+          "vi": "Bật"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Disabled",
+          "vi": "Tắt"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Classic",
+          "vi": "Cổ điển"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Automatic",
+          "vi": "Tự động"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Do you want to keep these settings? Changes will revert at the end of the countdown.",
+          "vi": "Bạn muốn giữ các thiết lập này chứ? Khi hết thời gian đếm ngược, thiết lập cũ sẽ được khôi phục."
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Credits",
+          "vi": "Đội ngũ thực hiện"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "More",
+          "vi": "Nhiều hơn"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Less",
+          "vi": "Ít hơn"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Apply Changes",
+          "vi": "Áp dụng"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Back",
+          "vi": "Trở lại"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Exit Tutorial",
+          "vi": "Thoát hướng dẫn"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "High, uncompressed",
+          "vi": "Cao, không nén"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Click to center",
+          "vi": "Nhấp để căn giữa"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Main Menu",
+          "vi": "Menu chính"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Low",
+          "vi": "Thấp"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "High",
+          "vi": "Cao"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Small",
+          "vi": "Nhỏ"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Large",
+          "vi": "Lớn"
+        },
+        {
+          "instance": 128,
+          "language": 1,
+          "en": "Extra Large",
+          "vi": "Rất lớn"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "On",
+          "vi": "Bật"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Off",
+          "vi": "Tắt"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Low",
+          "vi": "Thấp"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Medium",
+          "vi": "Vừa"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "High",
+          "vi": "Cao"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Neighborhood",
+          "vi": "Khu dân cư"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Quit",
+          "vi": "Thoát"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Default Settings",
+          "vi": "Mặc định"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Enabled",
+          "vi": "Bật"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Disabled",
+          "vi": "Tắt"
+        },
+        {
+          "instance": 128,
+          "language": 2,
+          "en": "Exit Tutorial",
+          "vi": "Thoát hướng dẫn"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Graphics/Performance Options",
+          "vi": "Đồ họa"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Rendering",
+          "vi": "Kết xuất"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Hardware (Recommended)",
+          "vi": "Phần cứng (đề xuất)"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Software",
+          "vi": "Phần mềm"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Rendering Acceleration",
+          "vi": "Tăng tốc kết xuất"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Color",
+          "vi": "Màu sắc"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Sim Detail",
+          "vi": "Chi tiết Sim"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Graphic Effects",
+          "vi": "Hiệu ứng"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Texture Detail",
+          "vi": "Bề mặt"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Sim/Object Detail",
+          "vi": "Chi tiết"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Picture in Picture",
+          "vi": "Cửa sổ phụ"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Reflections",
+          "vi": "Phản chiếu"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Screen Size",
+          "vi": "Độ phân giải"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Lighting",
+          "vi": "Ánh sáng"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Shadows",
+          "vi": "Bóng đổ"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Refresh Rate",
+          "vi": "Tần số quét"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "UI Transparency",
+          "vi": "Độ trong"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Smooth Edges",
+          "vi": "Khử răng cưa"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Use Square Pixels",
+          "vi": "Dùng điểm ảnh vuông"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Object Hiding",
+          "vi": "Ẩn vật thể"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Snow on Ground",
+          "vi": "Tuyết trên mặt đất"
+        },
+        {
+          "instance": 129,
+          "language": 1,
+          "en": "Snow X-Ray Cursor",
+          "vi": "Con trỏ nhìn xuyên tuyết"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Graphics/Performance Options",
+          "vi": "Đồ họa"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Rendering",
+          "vi": "Kết xuất"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Hardware (Recommended)",
+          "vi": "Phần cứng (đề xuất)"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Software",
+          "vi": "Phần mềm"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Rendering Acceleration",
+          "vi": "Tăng tốc kết xuất"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Color",
+          "vi": "Màu sắc"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Sim Detail",
+          "vi": "Chi tiết Sim"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Graphic Effects",
+          "vi": "Hiệu ứng"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Texture Detail",
+          "vi": "Bề mặt"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Sim/Object Detail",
+          "vi": "Chi tiết"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Picture in Picture",
+          "vi": "Cửa sổ phụ"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Reflections",
+          "vi": "Phản chiếu"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Screen Size",
+          "vi": "Độ phân giải"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Lighting",
+          "vi": "Ánh sáng"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Shadows",
+          "vi": "Bóng đổ"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Snow on Ground",
+          "vi": "Tuyết trên mặt đất"
+        },
+        {
+          "instance": 129,
+          "language": 2,
+          "en": "Snow X-Ray Cursor",
+          "vi": "Con trỏ nhìn xuyên tuyết"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Audio Options",
+          "vi": "Âm thanh"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Volume",
+          "vi": "Âm lượng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Sound Effects",
+          "vi": "Hiệu ứng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Ambient",
+          "vi": "Môi trường"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Performance",
+          "vi": "Hiệu năng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Voices",
+          "vi": "Giọng nói"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Music",
+          "vi": "Nhạc"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Audio Quality",
+          "vi": "Chất lượng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Barter Mode",
+          "vi": "Chế độ trao đổi"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Build Mode",
+          "vi": "Chế độ xây dựng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Create A Family",
+          "vi": "Tạo gia đình"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Mute",
+          "vi": "Tắt tiếng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Custom",
+          "vi": "Tùy chỉnh"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Play",
+          "vi": "Phát"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Stop",
+          "vi": "Dừng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Enable/Disable",
+          "vi": "Bật / Tắt"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Classical",
+          "vi": "Nhạc cổ điển"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Oldies",
+          "vi": "Nhạc xưa"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Classical",
+          "vi": "Nhạc cổ điển"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "DJ Booth",
+          "vi": "Bàn DJ"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Speakers",
+          "vi": "Loa"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Scroll Up",
+          "vi": "Cuộn lên"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Scroll Down",
+          "vi": "Cuộn xuống"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Audio Options",
+          "vi": "Âm thanh"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Volume",
+          "vi": "Âm lượng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Sound Effects",
+          "vi": "Hiệu ứng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Ambient",
+          "vi": "Môi trường"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Performance",
+          "vi": "Hiệu năng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Voices",
+          "vi": "Giọng nói"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Music",
+          "vi": "Nhạc"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Audio Quality",
+          "vi": "Chất lượng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Barter Mode",
+          "vi": "Chế độ trao đổi"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Build Mode",
+          "vi": "Chế độ xây dựng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Create A Family",
+          "vi": "Tạo gia đình"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Scroll Up",
+          "vi": "Cuộn lên"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Scroll Down",
+          "vi": "Cuộn xuống"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Game Options",
+          "vi": "Trò chơi"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Auto Centering",
+          "vi": "Tự căn giữa"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Quick Tips",
+          "vi": "Mẹo nhanh"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Live Picture in Picture",
+          "vi": "Cửa sổ trực tiếp"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Edge Scrolling",
+          "vi": "Cuộn mép"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Simulate in Background",
+          "vi": "Chạy game ở nền"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Parental Controls",
+          "vi": "Kiểm soát của phụ huynh"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Catalogs Display Custom Content",
+          "vi": "Hiện đồ tùy chỉnh"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Do not connect to the Web",
+          "vi": "Tắt kết nối mạng"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Auto Login",
+          "vi": "Tự đăng nhập"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Sim While Minimized",
+          "vi": "Chạy khi thu nhỏ"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Show Welcome Screen",
+          "vi": "Hiện màn hình chào"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Camera Rotation",
+          "vi": "Xoay máy quay"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Default",
+          "vi": "Mặc định"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Sims 1 Style",
+          "vi": "Kiểu Sims 1"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Check For Updates Automatically",
+          "vi": "Tự cập nhật"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Display Custom Content Dialog at Startup",
+          "vi": "Bảng đồ tùy chỉnh"
+        },
+        {
+          "instance": 131,
+          "language": 1,
+          "en": "Display Custom Content Dialog",
+          "vi": "Bảng đồ tùy chỉnh"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Game Options",
+          "vi": "Trò chơi"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Auto Centering",
+          "vi": "Tự căn giữa"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Quick Tips",
+          "vi": "Mẹo nhanh"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Live Picture in Picture",
+          "vi": "Cửa sổ trực tiếp"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Edge Scrolling",
+          "vi": "Cuộn mép"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Simulate in Background",
+          "vi": "Chạy game ở nền"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Parental Controls",
+          "vi": "Kiểm soát của phụ huynh"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Catalogs Display Custom Content",
+          "vi": "Hiện đồ tùy chỉnh"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Do not connect to the Web",
+          "vi": "Tắt kết nối mạng"
+        },
+        {
+          "instance": 131,
+          "language": 2,
+          "en": "Sim While Minimized",
+          "vi": "Chạy khi thu nhỏ"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "House Options",
+          "vi": "Hộ gia đình"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Aging",
+          "vi": "Lão hóa"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Free Will",
+          "vi": "Tự hành động"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "House-Specific Options",
+          "vi": "Hộ gia đình"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Lot View Options",
+          "vi": "Hiển thị khu đất"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "View Distance",
+          "vi": "Tầm nhìn"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Neighbors",
+          "vi": "Hàng xóm"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Decorations",
+          "vi": "Trang trí"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Fade Distance",
+          "vi": "Độ mờ xa"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Clickable Neighbors",
+          "vi": "Cho phép chọn nhà bên cạnh"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "House Options",
+          "vi": "Hộ gia đình"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Aging",
+          "vi": "Lão hóa"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Free Will",
+          "vi": "Tự hành động"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Camera Options",
+          "vi": "Máy quay"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Picture In Picture Window",
+          "vi": "Cửa sổ phụ"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Special Event Camera",
+          "vi": "Máy quay sự kiện"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Neighborhood Camera Drift",
+          "vi": "Lướt máy quay"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Snapshot Picture Quality",
+          "vi": "Chất lượng ảnh"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Maximum Video Recording Time",
+          "vi": "Thời lượng quay"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Seconds",
+          "vi": "Giây"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Video Sound Capture",
+          "vi": "Thu âm khi quay"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Video Capture Quality",
+          "vi": "Chất lượng video"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Video Capture Size",
+          "vi": "Kích thước video"
+        },
+        {
+          "instance": 133,
+          "language": 1,
+          "en": "Snapshot Size",
+          "vi": "Kích thước ảnh"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Camera Options",
+          "vi": "Máy quay"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Picture In Picture Window",
+          "vi": "Cửa sổ phụ"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Special Event Camera",
+          "vi": "Máy quay sự kiện"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Neighborhood Camera Drift",
+          "vi": "Lướt máy quay"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Snapshot Picture Quality",
+          "vi": "Chất lượng ảnh"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Maximum Video Recording Time",
+          "vi": "Thời lượng quay"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Seconds",
+          "vi": "Giây"
+        },
+        {
+          "instance": 133,
+          "language": 2,
+          "en": "Video Sound Capture",
+          "vi": "Thu âm khi quay"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Game Tip Encyclopedia",
+          "vi": "Sổ tay mẹo chơi"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Reset Game Tips",
+          "vi": "Đặt lại mẹo chơi"
+        }
+      ],
+      "changed_resources": 7
+    },
+    {
+      "file": "UIText.package",
+      "changes": [
+        {
+          "instance": 82,
+          "language": 1,
+          "en": "Learn to Play",
+          "vi": "Hướng dẫn chơi"
+        },
+        {
+          "instance": 82,
+          "language": 1,
+          "en": "If you are new to The Sims, check out these tutorials for a few basic guidelines on how to play.",
+          "vi": "Nếu mới chơi The Sims, bạn có thể bắt đầu với các bài hướng dẫn cơ bản này."
+        },
+        {
+          "instance": 82,
+          "language": 1,
+          "en": "Character Select Menu",
+          "vi": "Chọn nhân vật"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Almost Paradise",
+          "vi": "Ngỡ như thiên đường"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "I Will Survive",
+          "vi": "Tôi sẽ sống sót"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Still Haven't Found What I'm Looking For",
+          "vi": "Vẫn chưa tìm thấy điều tôi kiếm tìm"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Idol Hands",
+          "vi": "Trong tay tượng thần"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "The Eye That Binds",
+          "vi": "Con mắt kết nối"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "A Brand New Day",
+          "vi": "Một ngày mới"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "The Shady Lagoon",
+          "vi": "Đầm nước rợp bóng"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "A Class Act",
+          "vi": "Phong thái hơn người"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "You Got Served",
+          "vi": "Được phục vụ tận nơi"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "A Fresh Start",
+          "vi": "Khởi đầu mới"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "A Social Networking Site",
+          "vi": "Nơi kết giao"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "A Tribal Affair",
+          "vi": "Chuyện của bộ lạc"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Hot Times",
+          "vi": "Những ngày nóng bỏng"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Full Court Press",
+          "vi": "Dốc sức theo đuổi"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Village People",
+          "vi": "Người trong làng"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Idol Fancy",
+          "vi": "Say mê tượng thần"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "The Cat's Meow",
+          "vi": "Tiếng mèo kêu"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Spirit Quest",
+          "vi": "Hành trình tâm linh"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Luau Time",
+          "vi": "Đến giờ dự tiệc"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Home Is Where The Hut Is",
+          "vi": "Có mái lều là có nhà"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "The Tides Turn",
+          "vi": "Thế cục đổi chiều"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Eruption",
+          "vi": "Phun trào"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Let My Love Open The Door",
+          "vi": "Để tình yêu mở lối"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "The Power Of Love",
+          "vi": "Sức mạnh tình yêu"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 1",
+          "vi": "Chương 1"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 2",
+          "vi": "Chương 2"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 3",
+          "vi": "Chương 3"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 4",
+          "vi": "Chương 4"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 5",
+          "vi": "Chương 5"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 6",
+          "vi": "Chương 6"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 7",
+          "vi": "Chương 7"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 8",
+          "vi": "Chương 8"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 9",
+          "vi": "Chương 9"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 10",
+          "vi": "Chương 10"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 11",
+          "vi": "Chương 11"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 12",
+          "vi": "Chương 12"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 13",
+          "vi": "Chương 13"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 14",
+          "vi": "Chương 14"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 15",
+          "vi": "Chương 15"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 16",
+          "vi": "Chương 16"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 17",
+          "vi": "Chương 17"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 18",
+          "vi": "Chương 18"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 19",
+          "vi": "Chương 19"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 20",
+          "vi": "Chương 20"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 21",
+          "vi": "Chương 21"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 22",
+          "vi": "Chương 22"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 23",
+          "vi": "Chương 23"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Chapter 24",
+          "vi": "Chương 24"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "The End",
+          "vi": "Hết"
+        },
+        {
+          "instance": 84,
+          "language": 1,
+          "en": "Two Days Later",
+          "vi": "Hai ngày sau"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Glasses & Masks",
+          "vi": "Kính và mặt nạ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Equipment Skills",
+          "vi": "Kỹ năng dụng cụ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Windowed Mode",
+          "vi": "Chế độ cửa sổ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Toggle Hints",
+          "vi": "Bật/tắt gợi ý"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Story Rewards",
+          "vi": "Phần thưởng cốt truyện"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Goal",
+          "vi": "Mục tiêu"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Go to Community ",
+          "vi": "Đến khu công cộng"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Return to Sim",
+          "vi": "Về với Sim"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Movement",
+          "vi": "Di chuyển"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Move Forward",
+          "vi": "Tiến lên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "W or hold right mouse button down and move mouse forward",
+          "vi": "W hoặc giữ chuột phải rồi đẩy chuột lên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Move Backward",
+          "vi": "Lùi lại"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "S or hold right mouse button down and move mouse backwards",
+          "vi": "S hoặc giữ chuột phải rồi kéo chuột xuống"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Move Left",
+          "vi": "Sang trái"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "A or hold right mouse button down and move mouse left",
+          "vi": "A hoặc giữ chuột phải rồi kéo chuột sang trái"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Move Right",
+          "vi": "Sang phải"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "D or hold right mouse button down and move mouse right",
+          "vi": "D hoặc giữ chuột phải rồi kéo chuột sang phải"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Rotate Left",
+          "vi": "Xoay trái"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Shift A or hold middle mouse button and move mouse left",
+          "vi": "Shift A hoặc giữ nút chuột giữa rồi kéo sang trái"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Rotate Right",
+          "vi": "Xoay phải"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Shift D or hold middle mouse button and move mouse right",
+          "vi": "Shift D hoặc giữ nút chuột giữa rồi kéo sang phải"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Rotate Up",
+          "vi": "Xoay lên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Shift W or hold middle mouse button and move mouse forward",
+          "vi": "Shift W hoặc giữ nút chuột giữa rồi đẩy lên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Rotate Down",
+          "vi": "Xoay xuống"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Shift S or hold middle mouse button and move mouse backwards",
+          "vi": "Shift S hoặc giữ nút chuột giữa rồi kéo xuống"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Zoom In",
+          "vi": "Phóng to"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Z or roll mouse wheel forward",
+          "vi": "Z hoặc lăn con lăn lên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Zoom Out",
+          "vi": "Thu nhỏ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "X or roll mouse wheel backwards",
+          "vi": "X hoặc lăn con lăn xuống"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Needs",
+          "vi": "Nhu cầu"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will prepare a meal",
+          "vi": "Sim sẽ chuẩn bị bữa ăn"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will clean",
+          "vi": "Sim sẽ dọn dẹp"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will chat with nearby Sim",
+          "vi": "Sim sẽ trò chuyện với Sim ở gần"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will take a shower",
+          "vi": "Sim sẽ tắm"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will go to the toilet",
+          "vi": "Sim sẽ đi vệ sinh"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim pie menu will appear",
+          "vi": "Mở menu hành động của Sim"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will do something fun",
+          "vi": "Sim sẽ tìm trò giải trí"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will go to bed",
+          "vi": "Sim sẽ đi ngủ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sim will find something to relax on",
+          "vi": "Sim sẽ tìm chỗ nghỉ ngơi"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Game Speed",
+          "vi": "Tốc độ game"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": " Normal Game Speed",
+          "vi": "Tốc độ thường"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "High Game Speed",
+          "vi": "Tốc độ nhanh"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Ultra Game Speed",
+          "vi": "Tốc độ rất nhanh"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": " Pause the Game",
+          "vi": "Tạm dừng game"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Shortcuts",
+          "vi": "Phím tắt"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Toggles the Keyboard Shortcut Help Screen",
+          "vi": "Bật/tắt bảng hướng dẫn phím tắt"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Cycles through menus",
+          "vi": "Chuyển lần lượt qua các menu"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Cycles backwards through menus",
+          "vi": "Chuyển ngược qua các menu"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Quits the Game",
+          "vi": "Thoát game"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Takes a Screenshot which is saved in the Storytelling folder",
+          "vi": "Chụp ảnh màn hình và lưu vào thư mục Storytelling"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Misc",
+          "vi": "Khác"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Live Mode (Move your Sim around to interact with other Sims and objects)",
+          "vi": "Chế độ sinh hoạt (Điều khiển Sim giao tiếp và tương tác với đồ vật)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Barter Mode (Opens the panel to buy objects such as furniture, appliances, etc.)",
+          "vi": "Chế độ trao đổi (Mua đồ nội thất, thiết bị và các vật dụng khác)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Build Mode (Opens the panel to build or modify a house: add walls, paint walls or floors, etc)",
+          "vi": "Chế độ xây dựng (Xây hoặc sửa nhà: thêm tường, sơn tường, lát sàn...)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Family Journal (This brings up the Family Journal where Sims can see what they have done)",
+          "vi": "Nhật ký gia đình (Xem lại những việc các Sim đã trải qua)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Options (This brings up the options panel where you can Save, Quit, or change other options)",
+          "vi": "Tùy chọn (Lưu, thoát hoặc điều chỉnh thiết lập)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Families (Select to Create a Family or choose an existing family to move into a house)",
+          "vi": "Gia đình (Tạo gia đình mới hoặc chọn gia đình có sẵn để chuyển vào nhà)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Decorations (select to place decorations in the neighborhood)",
+          "vi": "Trang trí (Đặt đồ trang trí trong khu dân cư)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Return to Sim (Returns to the last Sim you were playing)",
+          "vi": "Trở về Sim (Quay lại Sim bạn vừa điều khiển)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Neighborhood Story (Displays the Neighborhood description)",
+          "vi": "Chuyện khu dân cư (Xem phần giới thiệu khu dân cư)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Options (Allows the player to Quit, go to Main Menu, or alter other Game Options)",
+          "vi": "Tùy chọn (Thoát, về menu chính hoặc thay đổi thiết lập trò chơi)"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Keyboard Shortcut Help",
+          "vi": "Hướng dẫn phím tắt"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Go up one floor",
+          "vi": "Lên một tầng"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Hide User Interface",
+          "vi": "Ẩn giao diện"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Center on current Sim",
+          "vi": "Căn giữa vào Sim đang chọn"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Cycle through Sims in the family",
+          "vi": "Chuyển giữa các Sim trong gia đình"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Next wall mode",
+          "vi": "Kiểu tường tiếp theo"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Previous wall mode",
+          "vi": "Kiểu tường trước"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Toggles day and night in build or barter mode",
+          "vi": "Đổi ngày/đêm trong chế độ xây dựng hoặc trao đổi"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Switches to a top down view in build or barter mode",
+          "vi": "Chuyển sang góc nhìn từ trên xuống khi xây dựng hoặc trao đổi"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Update Browser",
+          "vi": "Cập nhật trình duyệt"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Go down one floor",
+          "vi": "Xuống một tầng"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Upload",
+          "vi": "Tải lên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Turn on Game Tips",
+          "vi": "Bật mẹo chơi"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Battery Indicator On/Off",
+          "vi": "Bật/tắt báo pin"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Hand Tool",
+          "vi": "Công cụ bàn tay"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Table of Contents",
+          "vi": "Mục lục"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Next Entry",
+          "vi": "Mục tiếp"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Previous Entry",
+          "vi": "Mục trước"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Chapter",
+          "vi": "Chương"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Player Profile",
+          "vi": "Hồ sơ người chơi"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Add Player Profile",
+          "vi": "Thêm hồ sơ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Delete Player Profile",
+          "vi": "Xóa hồ sơ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Return to Sim - F2",
+          "vi": "Về với Sim - F2"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Map",
+          "vi": "Bản đồ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Food",
+          "vi": "Thức ăn"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Resources",
+          "vi": "Tài nguyên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Hints",
+          "vi": "Gợi ý"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Fun",
+          "vi": "Giải trí"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Storage",
+          "vi": "Lưu trữ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Survival",
+          "vi": "Sinh tồn"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Nature",
+          "vi": "Thiên nhiên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Seating",
+          "vi": "Ghế ngồi"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Surfaces",
+          "vi": "Bàn và kệ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Decorations",
+          "vi": "Trang trí"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Cooking",
+          "vi": "Nấu ăn"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Tattoos",
+          "vi": "Hình xăm"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Decorations - F3",
+          "vi": "Trang trí - F3"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Return to Home",
+          "vi": "Về nhà"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Options - ESC",
+          "vi": "Tùy chọn - ESC"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Dependency: Plumbing",
+          "vi": "Cần có hệ thống nước"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Dependency: Electricity",
+          "vi": "Cần có điện"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Easy",
+          "vi": "Dễ"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Hard",
+          "vi": "Khó"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Difficulty Setting",
+          "vi": "Độ khó"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Can't create family: catalog is full.",
+          "vi": "Không thể tạo gia đình: danh mục đã đầy."
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Sailing the world on the crew of a luxury yacht has been rewarding, but lonely. Could that be about to change? The captain just announced that the ship is heading for shore leave at Meet Your Mate -- the hottest singles resort in the world! This is a once in a lifetime opportunity to meet the love of your life.",
+          "vi": "Làm việc trên du thuyền sang trọng, đi khắp thế giới thật thú vị, nhưng cũng cô đơn. Liệu điều đó sắp thay đổi? Thuyền trưởng vừa thông báo cả đoàn sẽ lên bờ nghỉ tại Meet Your Mate, khu nghỉ dưỡng dành cho người độc thân nổi tiếng nhất thế giới! Đây có thể là cơ hội có một không hai để gặp tình yêu của đời mình."
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Yesterday you were trapped in the daily grind back in Sim City. Today you're on your way to the hottest singles resort in the world to do a story for 'Going Places' magazine. It's a once in a lifetime opportunity, and not just for your writing career. Somewhere out there you're determined to find your own special someone.",
+          "vi": "Mới hôm qua, bạn còn mắc kẹt trong nhịp sống lặp lại ở Sim City. Hôm nay, bạn đang đến khu nghỉ dưỡng dành cho người độc thân nổi tiếng nhất thế giới để viết bài cho tạp chí Going Places. Cơ hội hiếm có này còn mang ý nghĩa hơn cả sự nghiệp: đâu đó ngoài kia, bạn tin mình sẽ tìm được người đặc biệt."
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "%s resources",
+          "vi": "%s tài nguyên"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "%s food",
+          "vi": "%s thức ăn"
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Can't evict family: catalog is full.",
+          "vi": "Không thể chuyển gia đình ra: danh mục đã đầy."
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Can't move lot into catalog: catalog is full.",
+          "vi": "Không thể đưa khu đất vào danh mục: danh mục đã đầy."
+        },
+        {
+          "instance": 85,
+          "language": 1,
+          "en": "Create A Sim",
+          "vi": "Tạo Sim"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Go Up a Floor - Page Up",
+          "vi": "Lên tầng - Page Up"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Go Down a Floor - Page Down",
+          "vi": "Xuống tầng - Page Down"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Roof",
+          "vi": "Mái nhà"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Rotate",
+          "vi": "Xoay"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Rotate",
+          "vi": "Xoay"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Zoom In  +",
+          "vi": "Phóng to  +"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Zoom Out  -",
+          "vi": "Thu nhỏ  -"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls Up",
+          "vi": "Hiện tường"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls Cutaway",
+          "vi": "Ẩn bớt tường"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls Down",
+          "vi": "Ẩn tường"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Live Mode - F1",
+          "vi": "Sinh hoạt - F1"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Barter Mode - F2",
+          "vi": "Trao đổi - F2"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Build Mode - F3",
+          "vi": "Xây dựng - F3"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Options - F5",
+          "vi": "Tùy chọn - F5"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Funds",
+          "vi": "Tài sản"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Pause - P",
+          "vi": "Tạm dừng - P"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Normal Speed - 1",
+          "vi": "Tốc độ thường - 1"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "High Speed - 2",
+          "vi": "Tốc độ nhanh - 2"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Ultra Speed - 3",
+          "vi": "Tốc độ rất nhanh - 3"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Story Mode - F4",
+          "vi": "Cốt truyện - F4"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Family Friend Count",
+          "vi": "Số bạn của gia đình"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Help",
+          "vi": "Trợ giúp"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Show Roof",
+          "vi": "Hiện mái"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Hide Roof",
+          "vi": "Ẩn mái"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls & Roof Cutaway",
+          "vi": "Ẩn bớt tường và mái"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls Down - Home or End",
+          "vi": "Ẩn tường - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls Cutaway - Home or End",
+          "vi": "Ẩn bớt tường - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls Up - Home or End",
+          "vi": "Hiện tường - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Walls & Roof Cutaway - Home or End",
+          "vi": "Ẩn tường và mái - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Roof - Home or End",
+          "vi": "Mái nhà - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Go Up a Floor - Page Up",
+          "vi": "Lên tầng - Page Up"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Go Down a Floor - Page Down",
+          "vi": "Xuống tầng - Page Down"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Roof",
+          "vi": "Mái nhà"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Rotate",
+          "vi": "Xoay"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Rotate",
+          "vi": "Xoay"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Zoom In  +",
+          "vi": "Phóng to  +"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Zoom Out  -",
+          "vi": "Thu nhỏ  -"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls Up",
+          "vi": "Hiện tường"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls Cutaway",
+          "vi": "Ẩn bớt tường"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls Down",
+          "vi": "Ẩn tường"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Live Mode - F1",
+          "vi": "Sinh hoạt - F1"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Build Mode - F3",
+          "vi": "Xây dựng - F3"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Options - F5",
+          "vi": "Tùy chọn - F5"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Funds",
+          "vi": "Tài sản"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Pause - P",
+          "vi": "Tạm dừng - P"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Normal Speed - 1",
+          "vi": "Tốc độ thường - 1"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "High Speed - 2",
+          "vi": "Tốc độ nhanh - 2"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Ultra Speed - 3",
+          "vi": "Tốc độ rất nhanh - 3"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Story Mode - F4",
+          "vi": "Cốt truyện - F4"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Family Friend Count",
+          "vi": "Số bạn của gia đình"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Help",
+          "vi": "Trợ giúp"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Show Roof",
+          "vi": "Hiện mái"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Hide Roof",
+          "vi": "Ẩn mái"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls & Roof Cutaway",
+          "vi": "Ẩn bớt tường và mái"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls Down - Home or End",
+          "vi": "Ẩn tường - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls Cutaway - Home or End",
+          "vi": "Ẩn bớt tường - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls Up - Home or End",
+          "vi": "Hiện tường - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Walls & Roof Cutaway - Home or End",
+          "vi": "Ẩn tường và mái - Home / End"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Roof - Home or End",
+          "vi": "Mái nhà - Home / End"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "OK",
+          "vi": "Đồng ý"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Cancel",
+          "vi": "Hủy"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Yes",
+          "vi": "Có"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "No",
+          "vi": "Không"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Retry",
+          "vi": "Thử lại"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Previous",
+          "vi": "Trước"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Next",
+          "vi": "Tiếp"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Expand",
+          "vi": "Mở rộng"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Collapse",
+          "vi": "Thu gọn"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Back",
+          "vi": "Trở lại"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Abort",
+          "vi": "Hủy bỏ"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Ignore",
+          "vi": "Bỏ qua"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Close",
+          "vi": "Đóng"
+        },
+        {
+          "instance": 142,
+          "language": 1,
+          "en": "Exit",
+          "vi": "Thoát"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "OK",
+          "vi": "Đồng ý"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Cancel",
+          "vi": "Hủy"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Yes",
+          "vi": "Có"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "No",
+          "vi": "Không"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Retry",
+          "vi": "Thử lại"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Previous",
+          "vi": "Trước"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Next",
+          "vi": "Tiếp"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Expand",
+          "vi": "Mở rộng"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Back",
+          "vi": "Trở lại"
+        },
+        {
+          "instance": 142,
+          "language": 2,
+          "en": "Abort",
+          "vi": "Hủy bỏ"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Quit?",
+          "vi": "Thoát game?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Are you sure you want to quit?",
+          "vi": "Bạn có chắc muốn thoát game?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Save?",
+          "vi": "Lưu game?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Do you want to save your game before exiting to the Neighborhood? Any unsaved changes will be lost.",
+          "vi": "Bạn muốn lưu game trước khi về khu dân cư không? Mọi thay đổi chưa lưu sẽ mất."
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Quit?",
+          "vi": "Thoát game?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Do you want to save before quitting? Any unsaved changes will be lost.",
+          "vi": "Lưu trước khi thoát? Các thay đổi chưa lưu sẽ mất."
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "The application has crashed. The application will now terminate.",
+          "vi": "Trò chơi gặp lỗi và sẽ đóng lại."
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Your lot name cannot include any of the following characters:",
+          "vi": "Tên khu đất không được chứa các ký tự sau:"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Invalid lot name",
+          "vi": "Tên khu đất không hợp lệ"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "This action will flatten your entire lot to the same level. Are you sure you want to do this?",
+          "vi": "Thao tác này sẽ san phẳng toàn bộ khu đất về cùng độ cao. Bạn có chắc muốn tiếp tục?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Are you sure you want to leave this lot without saving your changes?",
+          "vi": "Bạn có chắc muốn rời khu đất này mà không lưu thay đổi?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Save & Quit",
+          "vi": "Lưu và thoát"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Quit without Saving",
+          "vi": "Không lưu"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Don't Quit",
+          "vi": "Chơi tiếp"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "To Story One",
+          "vi": "Đến câu chuyện thứ nhất"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "To Story Two",
+          "vi": "Đến câu chuyện thứ hai"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Would you like to play a quick tutorial that teaches you movement and actions before starting the game?",
+          "vi": "Bạn muốn xem hướng dẫn nhanh về di chuyển và hành động trước khi bắt đầu chơi không?"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "WARNING: Your battery power level is low.",
+          "vi": "CẢNH BÁO: Pin sắp hết."
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "WARNING: Your battery power level is critically low.",
+          "vi": "CẢNH BÁO: Pin gần cạn."
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "WARNING: Your battery power level is low.",
+          "vi": "CẢNH BÁO: Pin sắp hết."
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "WARNING: Your battery power level is critically low.",
+          "vi": "CẢNH BÁO: Pin gần cạn."
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Quit?",
+          "vi": "Thoát game?"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Are you sure you want to quit?",
+          "vi": "Bạn có chắc muốn thoát game?"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Save?",
+          "vi": "Lưu game?"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Do you want to save your game before exiting to the Neighborhood? Any unsaved changes will be lost.",
+          "vi": "Bạn muốn lưu game trước khi về khu dân cư không? Mọi thay đổi chưa lưu sẽ mất."
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Quit?",
+          "vi": "Thoát game?"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Do you want to save before quitting? Any unsaved changes will be lost.",
+          "vi": "Lưu trước khi thoát? Các thay đổi chưa lưu sẽ mất."
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Your lot name cannot include any of the following characters:",
+          "vi": "Tên khu đất không được chứa các ký tự sau:"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Invalid lot name",
+          "vi": "Tên khu đất không hợp lệ"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Save & Quit",
+          "vi": "Lưu và thoát"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Quit without Saving",
+          "vi": "Không lưu"
+        },
+        {
+          "instance": 153,
+          "language": 2,
+          "en": "Don't Quit",
+          "vi": "Chơi tiếp"
+        },
+        {
+          "instance": 750,
+          "language": 1,
+          "en": "From the air, Wanmami doesn't look especially unlike any other somewhat-inhabited island, but for the handful of plane crash and shipwreck survivors whose ways have been found here by malfunction-induced circumstance, it's a welcome return to dry land. The sun always shines on Wanmami Island except when it sets, and the weather is exactly as ordered in a tropical paradise.\n\nNote: Several necessary objects such as a Hatchet, Machete, Shell Phone, and Windmill Generator cannot be obtained unless 'Shipwrecked and Single' is played through first which will unlock these objects.  These objects are located in the Story Rewards Bin.",
+          "vi": "Nhìn từ trên cao, Wanmami chẳng khác mấy những hòn đảo có người ở khác. Nhưng với những người sống sót sau tai nạn máy bay và đắm tàu, nơi này là đất liền quý giá sau chuỗi sự cố. Mặt trời luôn rực rỡ trên đảo Wanmami, trừ khi đã lặn, còn thời tiết thì đúng như một thiên đường nhiệt đới.\n\nLưu ý: Một số vật dụng cần thiết như rìu nhỏ, dao phát, điện thoại vỏ sò và máy phát điện gió chỉ được mở khóa sau khi hoàn thành Shipwrecked and Single. Bạn có thể tìm chúng trong mục Phần thưởng cốt truyện."
+        },
+        {
+          "instance": 755,
+          "language": 1,
+          "en": "Very little is known about this remote tropical paradise. Its location isn't recorded on any chart or map. Wild animals prowl its dense jungles, from the ominous volcanic crater to the wide sandy beaches. Lost and alone, can you survive long enough to find other castaways and meet island natives?",
+          "vi": "Ít ai biết về thiên đường nhiệt đới xa xôi này. Hòn đảo không được đánh dấu trên bất kỳ hải đồ hay bản đồ nào. Thú hoang lẩn khuất trong rừng rậm, từ miệng núi lửa đáng ngại đến những bãi cát mênh mông. Lạc lối và cô độc, liệu bạn có sống sót đủ lâu để tìm những người cùng cảnh ngộ và gặp cư dân bản địa?"
+        }
+      ],
+      "changed_resources": 8
+    },
+    {
+      "file": "Live.package",
+      "changes": [
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Needs",
+          "vi": "Nhu cầu"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hunger (H)",
+          "vi": "Đói (H)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hunger|The Steamer Trunk should be the first stop for any hungry Sim, but certain trees also provide ready-to-eat food. Cooking skill will affect the quality of the different meals Sims can prepare with the campfire. To have your Sim automatically look for something to eat, press H.|0xab201575|0xab201582|0x4906500d",
+          "vi": "Đói|Tìm thức ăn trong rương hành lý hoặc hái quả ăn được trên cây. Kỹ năng nấu ăn giúp Sim làm những bữa ngon hơn bên lửa trại. Nhấn H để Sim tự tìm đồ ăn.|0xab201575|0xab201582|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Energy (R)",
+          "vi": "Năng lượng (R)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Energy|A good night's sleep is hard to get here, but basic shelter will provide weary Sims with a place to lay their heads. Eating coffee beans straight from the bush will also boost energy. To have your Sim automatically look for something comfortable to sleep on, press R. |0xab201585|0xab201580|0x4906500d",
+          "vi": "Năng lượng|Một chỗ trú đơn sơ cũng giúp Sim mệt mỏi có nơi ngả lưng. Ăn hạt cà phê ngay trên bụi cây cũng tăng năng lượng. Nhấn R để Sim tìm chỗ ngủ.|0xab201585|0xab201580|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Comfort (M)",
+          "vi": "Thoải mái (M)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Comfort|Comfort can be an issue here, but it is available from a few interesting sources. Certain rocks are actually quite nice to sit on, and so is the trusty lean-to. To have your Sim find a place to relax press M. |0xab201590|0xab201595|0x4906500d",
+          "vi": "Thoải mái|Trên đảo vẫn có những chỗ nghỉ dễ chịu: một số tảng đá ngồi khá êm, và mái trú cũng là nơi đáng tin cậy. Nhấn M để Sim tìm chỗ thư giãn.|0xab201590|0xab201595|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Fun (F)",
+          "vi": "Giải trí (F)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Fun|The natural beauty of Felicity Island can be quite enjoyable. Sims can relax by watching the sky in either day or night. To have your Sim find something fun to do press F. |0xab201577|0xab201591|0x4906500d",
+          "vi": "Giải trí|Vẻ đẹp tự nhiên của đảo Felicity có thể mang lại nhiều niềm vui. Sim có thể ngắm trời cả ngày lẫn đêm để thư giãn. Nhấn F để tìm hoạt động giải trí.|0xab201577|0xab201591|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hygiene (Y)",
+          "vi": "Vệ sinh (Y)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hygiene|Running water isn't freely available, but the ocean is quite capable of tackling soiled Sims and leaving them cleaner than when they first waded in. To have your Sim clean themselves press Y.  |0xab201583|0xab201584|0x4906500d",
+          "vi": "Vệ sinh|Nước máy không sẵn có, nhưng bơi dưới biển sẽ giúp Sim sạch hơn. Nhấn Y để Sim tự làm vệ sinh.|0xab201583|0xab201584|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Social (L)",
+          "vi": "Giao tiếp (L)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Social|Sims are friendly creatures that crave social interaction -- the only problem is there aren't that many around. Sims can write in a diary or write letters home to ease the loneliness; and can hold a conversation with a surprising number of things in a pinch. To fulfill your Sims social need press L. |0xab201576|0xab201593|0x4906500d",
+          "vi": "Giao tiếp|Sim thích giao tiếp, dù trên đảo chẳng có mấy người. Viết nhật ký, viết thư về nhà hoặc trò chuyện với những thứ quanh mình có thể giúp vơi cô đơn. Nhấn L để đáp ứng nhu cầu giao tiếp.|0xab201576|0xab201593|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Bladder (B)",
+          "vi": "Tiểu tiện (B)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Bladder|When a Sim's gotta go, a Sim's gotta go. And there's really only one solution to that kind of problem-get them to an appropriate bush or toilet as fast as possible. To have your Sim relieve themselves press B. |0xab201579|0xab201581|0x4906500d",
+          "vi": "Tiểu tiện|Khi Sim cần đi vệ sinh, hãy đưa họ đến một bụi cây phù hợp hoặc nhà vệ sinh càng sớm càng tốt. Nhấn B để Sim tự giải quyết nhu cầu này.|0xab201579|0xab201581|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Environment (K)",
+          "vi": "Môi trường (K)"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Environment|Decorations and landscaping around the lot will affect the environment. Sims like bright, clean spaces with plenty of color and light. A nice dwelling with well kept surroundings will surely fulfill this need. To have your Sim clean press K. |0xab201578|0xab201594|0x4906500d",
+          "vi": "Môi trường|Đồ trang trí và cảnh quan ảnh hưởng đến cảm nhận của Sim về nơi ở. Họ thích không gian sạch, sáng và nhiều màu sắc. Nhấn K để Sim dọn dẹp.|0xab201578|0xab201594|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Family",
+          "vi": "Gia đình"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Family|There's nothing like the bonds of family to make a Sim feel happy inside. Giving hugs and talking to relatives will boost this need and strengthen relationships. |0xab201592|0xab201587|0x4906500d",
+          "vi": "Gia đình|Sự gắn bó với gia đình giúp Sim hạnh phúc. Ôm và trò chuyện với người thân sẽ đáp ứng nhu cầu này, đồng thời củng cố quan hệ.|0xab201592|0xab201587|0x4906500d"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hunger",
+          "vi": "Đói"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hunger|All animals, like Sims, need to eat. Hyenas and jaguars will usually leave the lot to hunt and come back when full, while orangutans primarliy eat fruit. |0xFeed8c11|0|0xfeed2001",
+          "vi": "Đói|Động vật cũng cần ăn như Sim. Linh cẩu và báo đốm thường rời khu đất để săn mồi rồi trở lại khi đã no, còn đười ươi chủ yếu ăn trái cây.|0xFeed8c11|0|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Energy",
+          "vi": "Năng lượng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Energy|Few things will energize a pet like a long slumber on the ground, except even more of the same. |0xFeed8c07|0|0xfeed2001",
+          "vi": "Năng lượng|Một giấc ngủ dài trên mặt đất giúp thú cưng lấy lại sức. Nếu vẫn còn mệt, chúng có thể ngủ thêm.|0xFeed8c07|0|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Comfort",
+          "vi": "Thoải mái"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Comfort|Animals love to be comfortable and will certainly lie on the ground to ease their aching muscles. |0xFeed8c05|0|0xfeed2001",
+          "vi": "Thoải mái|Động vật cũng thích được thoải mái và thường nằm xuống đất để thư giãn cơ bắp đang nhức mỏi.|0xFeed8c05|0|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Fun",
+          "vi": "Giải trí"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Fun|Animals enjoy breaks filled with fun and games just like Sims. Teach them to fetch, play finger wiggle or encourage them to play with others when they need a boost of Fun. |Feed8c09|0|0xfeed2001",
+          "vi": "Giải trí|Động vật cũng thích vui chơi như Sim. Hãy dạy chúng nhặt đồ, chơi đùa bằng ngón tay hoặc khuyến khích chúng chơi cùng những con khác.|Feed8c09|0|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Hygiene",
+          "vi": "Vệ sinh"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Social",
+          "vi": "Giao tiếp"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Social|Animals require frequent attention from their masters to stay happy. Sims should train them and encourage playfulness to maximize a pet's social well-being. |0xFeed8c17|0|0xfeed2001",
+          "vi": "Giao tiếp|Thú cưng cần được chủ quan tâm thường xuyên để vui vẻ. Huấn luyện và khuyến khích chúng chơi đùa sẽ giúp đáp ứng nhu cầu giao tiếp.|0xFeed8c17|0|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Bladder",
+          "vi": "Tiểu tiện"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Bladder|Animals do not enjoy a full bladder, so they will be quick to relieve themselves. Sims should train their animal friends in order to avoid any unfortunate accidents. |0xFeed8c01|0|0xfeed2001",
+          "vi": "Tiểu tiện|Động vật sẽ nhanh chóng đi vệ sinh khi cần. Sim nên huấn luyện các bạn thú để tránh những lần đi bậy.|0xFeed8c01|0|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Scratch",
+          "vi": "Cào móng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Chew",
+          "vi": "Gặm nhấm"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Chew|Hyenas have an uncontrollable desire to chew on things. This habit can be moderated somewhat by giving them chew toys and teaching them to behave. |0xFeed8c03|04|0xfeed2001",
+          "vi": "Gặm nhấm|Linh cẩu rất thích gặm đồ. Cho chúng đồ chơi để gặm và dạy chúng ngoan ngoãn sẽ giúp hạn chế thói quen này.|0xFeed8c03|04|0xfeed2001"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Water",
+          "vi": "Nước"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Love",
+          "vi": "Tình yêu"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Sunlight",
+          "vi": "Ánh nắng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Family",
+          "vi": "Gia đình"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Water",
+          "vi": "Nước"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Love",
+          "vi": "Tình yêu"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Sunlight",
+          "vi": "Ánh nắng"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Mood",
+          "vi": "Tâm trạng"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Relationships",
+          "vi": "Quan hệ"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Skills & Career",
+          "vi": "Kỹ năng / Nghề nghiệp"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Personality",
+          "vi": "Tính cách"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Inventory",
+          "vi": "Túi đồ"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Interests",
+          "vi": "Sở thích"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Memories",
+          "vi": "Ký ức"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Needs",
+          "vi": "Nhu cầu"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Simology",
+          "vi": "Thông tin Sim"
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Satisfy your Sim's basic needs to keep their Mood in the green. Mood affects every aspect of a Sim's life, from how they interact with other Sims, to their Job Performance.",
+          "vi": "Đáp ứng các nhu cầu cơ bản để giữ tâm trạng Sim ở mức xanh. Tâm trạng ảnh hưởng đến mọi mặt cuộc sống, từ giao tiếp đến hiệu quả làm việc."
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "Keyboard shortcuts can be used to help keep your Sim's Mood in the green.  Mouse over each need to find out what the specific shortcut is.",
+          "vi": "Dùng phím tắt để chăm sóc nhu cầu của Sim. Rê chuột lên từng nhu cầu để xem phím tương ứng."
+        },
+        {
+          "instance": 134,
+          "language": 1,
+          "en": "The Mood Meter",
+          "vi": "Thanh tâm trạng"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Mood",
+          "vi": "Tâm trạng"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Relationships",
+          "vi": "Quan hệ"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Skills & Career",
+          "vi": "Kỹ năng / Nghề nghiệp"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Personality",
+          "vi": "Tính cách"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Inventory",
+          "vi": "Túi đồ"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Interests",
+          "vi": "Sở thích"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Memories",
+          "vi": "Ký ức"
+        },
+        {
+          "instance": 134,
+          "language": 2,
+          "en": "Needs",
+          "vi": "Nhu cầu"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Cleaning",
+          "vi": "Dọn dẹp"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Cooking",
+          "vi": "Nấu ăn"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Mechanical",
+          "vi": "Sửa chữa"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Charisma",
+          "vi": "Giao tiếp"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Body",
+          "vi": "Thể lực"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Logic",
+          "vi": "Tư duy"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Creativity",
+          "vi": "Sáng tạo"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Unemployed",
+          "vi": "Chưa có việc"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Need %d",
+          "vi": "Cần %d"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Vacation Days: %s",
+          "vi": "Ngày nghỉ: %s"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Toddler",
+          "vi": "Trẻ tập đi"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "A toddler's job is growing up, and they have fun learning new skills. Supportive family members help them learn everything they need to know.",
+          "vi": "Trẻ tập đi lớn lên qua việc vui chơi và học kỹ năng mới. Sự quan tâm của gia đình giúp trẻ học những điều cần thiết."
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "Child",
+          "vi": "Trẻ em"
+        },
+        {
+          "instance": 136,
+          "language": 1,
+          "en": "A child's job is becoming a teen, and they have fun learning new skills. Supportive family members help them learn everything they need to know.",
+          "vi": "Trẻ em đang trên đường trở thành thiếu niên và thích học kỹ năng mới. Sự quan tâm của gia đình giúp các em trưởng thành."
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Cleaning",
+          "vi": "Dọn dẹp"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Cooking",
+          "vi": "Nấu ăn"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Mechanical",
+          "vi": "Sửa chữa"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Charisma",
+          "vi": "Giao tiếp"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Body",
+          "vi": "Thể lực"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Logic",
+          "vi": "Tư duy"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Creativity",
+          "vi": "Sáng tạo"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Unemployed",
+          "vi": "Chưa có việc"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Need %d",
+          "vi": "Cần %d"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "Vacation Days: %s",
+          "vi": "Ngày nghỉ: %s"
+        },
+        {
+          "instance": 136,
+          "language": 2,
+          "en": "A toddler's job is growing up, and they have fun learning new skills. Supportive family members help them learn everything they need to know.",
+          "vi": "Trẻ tập đi lớn lên qua việc vui chơi và học kỹ năng mới. Sự quan tâm của gia đình giúp trẻ học những điều cần thiết."
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Cooking Skill|Sims that keep reading and cooking to build this skill will be surprised by how much more satisfying their meals become. Cooking is especially important to making better use of your food resources.\n|0xab211110|0xab211115|0x4906501d",
+          "vi": "Nấu ăn|Đọc sách và nấu nướng giúp Sim làm những bữa ăn ngon, no lâu hơn. Kỹ năng này đặc biệt hữu ích để tận dụng nguồn thức ăn trên đảo.\n|0xab211110|0xab211115|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Mechanical Skill|Being handy around the camp can help life go more smoothly in case something breaks. Sims can improve this skill by studying do-it-yourself books from a bookshelf or the steamer trunk, or by repairing broken items.\n|0xab211150|0xab211155|0x4906501d",
+          "vi": "Sửa chữa|Biết sửa đồ giúp cuộc sống trong trại thuận lợi hơn. Sim có thể học qua sách trong tủ hoặc rương hành lý, cũng như sửa những vật dụng bị hỏng.\n|0xab211150|0xab211155|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Charisma Skill|Sims know that good communication abilities and confidence are essential skills for making and keeping friends. They should spend some time practicing in front of any mirror to improve this skill. Nice, outgoing Sims are especially good at building charisma.\n|0xab211130|0xab211135|0x4906501d",
+          "vi": "Giao tiếp|Khả năng trò chuyện và sự tự tin giúp Sim kết bạn, giữ tình bạn. Luyện tập trước gương để nâng kỹ năng này. Sim thân thiện, hướng ngoại thường học tốt hơn.\n|0xab211130|0xab211135|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Body Skill|Strength, dexterity and speed can be improved by swimming in the ocean. Keep your Sim in shape and their body skill will be especially valuable in the Hunter career track. Active Sims can build this skill more quickly than others.\n|0xab211140|0xab211145|0x4906501d",
+          "vi": "Thể lực|Bơi ngoài biển giúp rèn sức mạnh, sự nhanh nhẹn và tốc độ. Thể lực rất hữu ích cho nghề Thợ săn. Sim năng động sẽ tiến bộ nhanh hơn.\n|0xab211140|0xab211145|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Logic Skill|Logic combines deduction and organization ability. Sims can study logic using books or  develop it using the telescope, which will be useful in the Crafter career track. This is a good skill for lazier Sims to work on.\n|0xab211160|0xab211165|0x4906501d",
+          "vi": "Tư duy|Rèn khả năng suy luận và tổ chức bằng sách hoặc kính thiên văn. Kỹ năng này hữu ích cho nghề Thợ chế tác và phù hợp cả với những Sim ít vận động.\n|0xab211160|0xab211165|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Creativity Skill|Let your Sims try a hand at writing in the diary to improve their creativity; it can play an important part in many different career tracks. This skill includes artistic and musical ability as well as the potential for invention. A light-hearted Sim tends to be more open to creativity.\n|0xab211100|0xab211105|0x4906501d\n",
+          "vi": "Sáng tạo|Viết nhật ký giúp Sim phát triển khả năng sáng tạo. Kỹ năng này gồm nghệ thuật, âm nhạc và sáng chế, hữu ích cho nhiều nghề. Sim vui vẻ thường dễ phát huy hơn.\n|0xab211100|0xab211105|0x4906501d\n"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Cleaning Skill|It goes without saying that a clean camp is a happy camp, but Sims should work on their housekeeping abilities to make the cleaning process quicker and easier. They can tidy up their living area to improve this skill; it comes most naturally to neater Sims.\n|0xab211120|0xab211125|0x4906501d",
+          "vi": "Dọn dẹp|Một khu trại sạch sẽ giúp mọi người dễ chịu. Dọn nơi ở thường xuyên sẽ nâng kỹ năng, giúp công việc nhanh và nhẹ hơn. Sim ngăn nắp có lợi thế khi học kỹ năng này.\n|0xab211120|0xab211125|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Body Skill|Strength, dexterity and speed can be improved by swimming in the ocean. Keep your Sim in shape and their body skill will be especially valuable in the Hunter career track. Active Sims can build this skill more quickly than others.\n|0xbee00368|0xbee00367|0x4906501d",
+          "vi": "Thể lực|Bơi ngoài biển giúp rèn sức mạnh, sự nhanh nhẹn và tốc độ. Thể lực rất hữu ích cho nghề Thợ săn. Sim năng động sẽ tiến bộ nhanh hơn.\n|0xbee00368|0xbee00367|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Logic Skill|Logic combines deduction and organization ability. Sims can study logic using books or  develop it using the telescope, which will be useful in the Crafter career track. This is a good skill for lazier Sims to work on.\n|0xbee00366|0xbee00369|0x4906501d",
+          "vi": "Tư duy|Rèn khả năng suy luận và tổ chức bằng sách hoặc kính thiên văn. Kỹ năng này hữu ích cho nghề Thợ chế tác và phù hợp cả với những Sim ít vận động.\n|0xbee00366|0xbee00369|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Creativity Skill|Let your Sims try a hand at writing in the diary to improve their creativity; it can play an important part in many different career tracks. This skill includes artistic and musical ability as well as the potential for invention. A light-hearted Sim tends to be more open to creativity.\n|0xbee00370|0xbee00371|0x4906501d\n",
+          "vi": "Sáng tạo|Viết nhật ký giúp Sim phát triển khả năng sáng tạo. Kỹ năng này gồm nghệ thuật, âm nhạc và sáng chế, hữu ích cho nhiều nghề. Sim vui vẻ thường dễ phát huy hơn.\n|0xbee00370|0xbee00371|0x4906501d\n"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Unemployed|A desired state for some and a dreaded state for others. A Sim can find a job by clicking on themselves to become a Hunter, Gatherer, or Crafter .|||0x4906501c",
+          "vi": "Thất nghiệp|Có người thích, có người lại lo lắng khi chưa có việc. Nhấn vào Sim để chọn nghề Thợ săn, Người hái lượm hoặc Thợ chế tác.|||0x4906501c"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Hours|%s-%s\r|||0x4906501c",
+          "vi": "Giờ làm|%s-%s\r|||0x4906501c"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "School Hours|%s-%s\rBus arrives: %s\r|||0x4906501c",
+          "vi": "Giờ học|%s-%s\rXe buýt đến: %s\r|||0x4906501c"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "Retired",
+          "vi": "Đã nghỉ hưu"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "(At School)",
+          "vi": "(Đang đi học)"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "(At Work)",
+          "vi": "(Đang làm việc)"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "(Ran Away)",
+          "vi": "(Đã bỏ đi)"
+        },
+        {
+          "instance": 137,
+          "language": 1,
+          "en": "(Snuck Out)",
+          "vi": "(Đã lẻn ra ngoài)"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "Body Skill|Strength, dexterity and speed can be improved by swimming in the ocean. Keep your Sim in shape and their body skill will be especially valuable in the Hunter career track. Active Sims can build this skill more quickly than others.\n|0xbee00368|0xbee00367|0x4906501d",
+          "vi": "Thể lực|Bơi ngoài biển giúp rèn sức mạnh, sự nhanh nhẹn và tốc độ. Thể lực rất hữu ích cho nghề Thợ săn. Sim năng động sẽ tiến bộ nhanh hơn.\n|0xbee00368|0xbee00367|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "Logic Skill|Logic combines deduction and organization ability. Sims can study logic using books or  develop it using the telescope, which will be useful in the Crafter career track. This is a good skill for lazier Sims to work on.\n|0xbee00366|0xbee00369|0x4906501d",
+          "vi": "Tư duy|Rèn khả năng suy luận và tổ chức bằng sách hoặc kính thiên văn. Kỹ năng này hữu ích cho nghề Thợ chế tác và phù hợp cả với những Sim ít vận động.\n|0xbee00366|0xbee00369|0x4906501d"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "Creativity Skill|Let your Sims try a hand at writing in the diary to improve their creativity; it can play an important part in many different career tracks. This skill includes artistic and musical ability as well as the potential for invention. A light-hearted Sim tends to be more open to creativity.\n|0xbee00370|0xbee00371|0x4906501d\n",
+          "vi": "Sáng tạo|Viết nhật ký giúp Sim phát triển khả năng sáng tạo. Kỹ năng này gồm nghệ thuật, âm nhạc và sáng chế, hữu ích cho nhiều nghề. Sim vui vẻ thường dễ phát huy hơn.\n|0xbee00370|0xbee00371|0x4906501d\n"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "School Hours|%s-%s\rBus arrives: %s\r|||0x4906501c",
+          "vi": "Giờ học|%s-%s\rXe buýt đến: %s\r|||0x4906501c"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "Retired",
+          "vi": "Đã nghỉ hưu"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "(At School)",
+          "vi": "(Đang đi học)"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "(At Work)",
+          "vi": "(Đang làm việc)"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "(Ran Away)",
+          "vi": "(Đã bỏ đi)"
+        },
+        {
+          "instance": 137,
+          "language": 2,
+          "en": "(Snuck Out)",
+          "vi": "(Đã lẻn ra ngoài)"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Monday",
+          "vi": "Thứ hai"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Tuesday",
+          "vi": "Thứ ba"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Wednesday",
+          "vi": "Thứ tư"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Thursday",
+          "vi": "Thứ năm"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Friday",
+          "vi": "Thứ sáu"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Saturday",
+          "vi": "Thứ bảy"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Today",
+          "vi": "Hôm nay"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Sun",
+          "vi": "CN"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Mon",
+          "vi": "T2"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Tue",
+          "vi": "T3"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Wed",
+          "vi": "T4"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Thur",
+          "vi": "T5"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Fri",
+          "vi": "T6"
+        },
+        {
+          "instance": 138,
+          "language": 1,
+          "en": "Sat",
+          "vi": "T7"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Monday",
+          "vi": "Thứ hai"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Tuesday",
+          "vi": "Thứ ba"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Wednesday",
+          "vi": "Thứ tư"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Thursday",
+          "vi": "Thứ năm"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Friday",
+          "vi": "Thứ sáu"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Saturday",
+          "vi": "Thứ bảy"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Today",
+          "vi": "Hôm nay"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Sun",
+          "vi": "CN"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Mon",
+          "vi": "T2"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Tue",
+          "vi": "T3"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Wed",
+          "vi": "T4"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Thur",
+          "vi": "T5"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Fri",
+          "vi": "T6"
+        },
+        {
+          "instance": 138,
+          "language": 2,
+          "en": "Sat",
+          "vi": "T7"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Monday",
+          "vi": "Thứ hai"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Tuesday",
+          "vi": "Thứ ba"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Wednesday",
+          "vi": "Thứ tư"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Thursday",
+          "vi": "Thứ năm"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Friday",
+          "vi": "Thứ sáu"
+        },
+        {
+          "instance": 153,
+          "language": 1,
+          "en": "Saturday",
+          "vi": "Thứ bảy"
+        }
+      ],
+      "changed_resources": 6
+    },
+    {
+      "file": "Neighborhood.package",
+      "changes": [
+        {
+          "instance": 203,
+          "language": 1,
+          "en": "Reset Game Tips",
+          "vi": "Đặt lại mẹo chơi"
+        },
+        {
+          "instance": 203,
+          "language": 1,
+          "en": "Continue",
+          "vi": "Tiếp tục"
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "There is a player profile by that name already, please enter another.",
+          "vi": "Tên hồ sơ này đã có người dùng. Vui lòng nhập tên khác."
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "Are you sure you want to remove this profile?",
+          "vi": "Bạn có chắc muốn xóa hồ sơ này?"
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "Unable to load player profile.",
+          "vi": "Không thể tải hồ sơ người chơi."
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "You cannot delete the current player. Please switch to another profile before deleting this profile.",
+          "vi": "Không thể xóa hồ sơ đang dùng. Hãy chuyển sang hồ sơ khác trước."
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "You must exit the current neighborhood in order to change profiles. Would you like to do so now?",
+          "vi": "Bạn cần rời khu dân cư để đổi hồ sơ. Bạn muốn rời ngay bây giờ không?"
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "Default Player",
+          "vi": "Người chơi mặc định"
+        },
+        {
+          "instance": 220,
+          "language": 1,
+          "en": "You have entered an invalid name. Only names with alphanumeric characters are allowed.",
+          "vi": "Tên không hợp lệ. Tên chỉ được gồm chữ cái và chữ số."
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "For Sale",
+          "vi": "Đang bán"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Community Lot",
+          "vi": "Khu công cộng"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "The %s family cannot afford this lot.",
+          "vi": "Gia đình %s không đủ tài nguyên để mua khu đất này."
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Families cannot move into community lots.",
+          "vi": "Gia đình không thể chuyển đến sống ở khu công cộng."
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "This lot is already occupied.",
+          "vi": "Khu đất này đã có người ở."
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Move %s family into this lot?",
+          "vi": "Chuyển gia đình %s đến khu đất này?"
+        },
+        {
+          "instance": 130,
+          "language": 1,
+          "en": "Cost to move in: ",
+          "vi": "Chi phí chuyển đến: "
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "For Sale",
+          "vi": "Đang bán"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Community Lot",
+          "vi": "Khu công cộng"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "The %s family cannot afford this lot.",
+          "vi": "Gia đình %s không đủ tài nguyên để mua khu đất này."
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Families cannot move into community lots.",
+          "vi": "Gia đình không thể chuyển đến sống ở khu công cộng."
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "This lot is already occupied.",
+          "vi": "Khu đất này đã có người ở."
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Move %s family into this lot?",
+          "vi": "Chuyển gia đình %s đến khu đất này?"
+        },
+        {
+          "instance": 130,
+          "language": 2,
+          "en": "Cost to move in: ",
+          "vi": "Chi phí chuyển đến: "
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Choose Lot Type",
+          "vi": "Chọn loại khu đất"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Residential",
+          "vi": "Nhà ở"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Community",
+          "vi": "Công cộng"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "- Give this lot a name -",
+          "vi": "- Đặt tên khu đất -"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Build something here that your Sims will enjoy.",
+          "vi": "Xây nơi mà các Sim của bạn sẽ yêu thích."
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Enter lot to build or select a family to move in.",
+          "vi": "Vào khu đất để xây dựng hoặc chọn gia đình chuyển đến."
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Please enter a family bio. . .",
+          "vi": "Nhập giới thiệu về gia đình. . ."
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Done",
+          "vi": "Xong"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Edit Neighborhood Story",
+          "vi": "Sửa giới thiệu khu dân cư"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Play Tutorials",
+          "vi": "Chơi hướng dẫn"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "More?",
+          "vi": "Xem thêm?"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Welcome to %s!",
+          "vi": "Chào mừng đến %s!"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Loading",
+          "vi": "Đang tải"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Name this Lot",
+          "vi": "Đặt tên khu đất"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "<Enter Lot Name>",
+          "vi": "<Nhập tên khu đất>"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Welcome to ...",
+          "vi": "Chào mừng đến ..."
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Learn",
+          "vi": "Học cách chơi"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "The Basics",
+          "vi": "Cơ bản"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Beyond the Basics",
+          "vi": "Nâng cao"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Don't Show Again",
+          "vi": "Không hiện lại"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Take me to %s",
+          "vi": "Đưa tôi đến %s"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Rename this lot?",
+          "vi": "Đổi tên khu đất?"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Play",
+          "vi": "Chơi"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Return to Welcome Screen",
+          "vi": "Về màn hình chào"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Now Playing!",
+          "vi": "Đang chơi!"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Learn to Play",
+          "vi": "Hướng dẫn chơi"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Reset Tutorials",
+          "vi": "Đặt lại hướng dẫn"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Play",
+          "vi": "Chơi"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Your Sims Live Here",
+          "vi": "Sim của bạn sống ở đây"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Step %d of %d",
+          "vi": "Bước %d / %d"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Episode Guide",
+          "vi": "Danh sách chương"
+        },
+        {
+          "instance": 132,
+          "language": 1,
+          "en": "Loading Main Menu",
+          "vi": "Đang tải menu chính"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Choose Lot Type",
+          "vi": "Chọn loại khu đất"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Residential",
+          "vi": "Nhà ở"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Community",
+          "vi": "Công cộng"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "- Give this lot a name -",
+          "vi": "- Đặt tên khu đất -"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Build something here that your Sims will enjoy.",
+          "vi": "Xây nơi mà các Sim của bạn sẽ yêu thích."
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Enter lot to build or select a family to move in.",
+          "vi": "Vào khu đất để xây dựng hoặc chọn gia đình chuyển đến."
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Please enter a family bio. . .",
+          "vi": "Nhập giới thiệu về gia đình. . ."
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Done",
+          "vi": "Xong"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Edit Neighborhood Story",
+          "vi": "Sửa giới thiệu khu dân cư"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Play Tutorials",
+          "vi": "Chơi hướng dẫn"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "More?",
+          "vi": "Xem thêm?"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Welcome to %s!",
+          "vi": "Chào mừng đến %s!"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Loading",
+          "vi": "Đang tải"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Name this Lot",
+          "vi": "Đặt tên khu đất"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "<Enter Lot Name>",
+          "vi": "<Nhập tên khu đất>"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Welcome to ...",
+          "vi": "Chào mừng đến ..."
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Learn",
+          "vi": "Học cách chơi"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "The Basics",
+          "vi": "Cơ bản"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Beyond the Basics",
+          "vi": "Nâng cao"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Don't Show Again",
+          "vi": "Không hiện lại"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Take me to %s",
+          "vi": "Đưa tôi đến %s"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Rename this lot?",
+          "vi": "Đổi tên khu đất?"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Play",
+          "vi": "Chơi"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Return to Welcome Screen",
+          "vi": "Về màn hình chào"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Now Playing!",
+          "vi": "Đang chơi!"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Learn to Play",
+          "vi": "Hướng dẫn chơi"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Reset Tutorials",
+          "vi": "Đặt lại hướng dẫn"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Play",
+          "vi": "Chơi"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Your Sims Live Here",
+          "vi": "Sim của bạn sống ở đây"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Step %d of %d",
+          "vi": "Bước %d / %d"
+        },
+        {
+          "instance": 132,
+          "language": 2,
+          "en": "Episode Guide",
+          "vi": "Danh sách chương"
+        }
+      ],
+      "changed_resources": 4
+    },
+    {
+      "file": "Tutorial.package",
+      "changes": [
+        {
+          "instance": 1,
+          "language": 1,
+          "en": "Part One",
+          "vi": "Phần một"
+        },
+        {
+          "instance": 1,
+          "language": 1,
+          "en": "If you've never played The Sims before, this is a great place to get to know the game. Part One will teach you how to give commands to a friendly chap named Tutorial Joe and walk you through taking care of his basic needs.",
+          "vi": "Nếu chưa từng chơi The Sims, đây là nơi thích hợp để bắt đầu. Phần một hướng dẫn bạn điều khiển anh chàng Tutorial Joe và chăm sóc các nhu cầu cơ bản của anh ấy."
+        },
+        {
+          "instance": 1,
+          "language": 2,
+          "en": "Part One",
+          "vi": "Phần một"
+        },
+        {
+          "instance": 1,
+          "language": 2,
+          "en": "If you've never played The Sims before, this is a great place to get to know the game. Part One will teach you how to give commands to a friendly chap named Tutorial Joe and walk you through taking care of his basic needs.",
+          "vi": "Nếu chưa từng chơi The Sims, đây là nơi thích hợp để bắt đầu. Phần một hướng dẫn bạn điều khiển anh chàng Tutorial Joe và chăm sóc các nhu cầu cơ bản của anh ấy."
+        },
+        {
+          "instance": 2,
+          "language": 1,
+          "en": "Part Two",
+          "vi": "Phần hai"
+        },
+        {
+          "instance": 2,
+          "language": 1,
+          "en": "Part Two of The Basics takes you into a small family of Sims to learn about social interactions and relationships.",
+          "vi": "Phần hai đưa bạn đến một gia đình Sim nhỏ để làm quen với giao tiếp và các mối quan hệ."
+        },
+        {
+          "instance": 2,
+          "language": 2,
+          "en": "Part Two",
+          "vi": "Phần hai"
+        },
+        {
+          "instance": 2,
+          "language": 2,
+          "en": "Part Two of The Basics takes you into a small family of Sims to learn about social interactions and relationships.",
+          "vi": "Phần hai đưa bạn đến một gia đình Sim nhỏ để làm quen với giao tiếp và các mối quan hệ."
+        },
+        {
+          "instance": 3,
+          "language": 1,
+          "en": "Building a Home",
+          "vi": "Xây tổ ấm"
+        },
+        {
+          "instance": 3,
+          "language": 1,
+          "en": "Building a Home covers the very basics of residential construction. Learn about placing walls, doors, and windows, as well as handy shortcuts to things like painting walls and carpeting floors.",
+          "vi": "Bài Xây tổ ấm giới thiệu cách dựng nhà cơ bản: đặt tường, cửa ra vào, cửa sổ, cùng các phím tắt tiện dụng để sơn tường và lát sàn."
+        },
+        {
+          "instance": 3,
+          "language": 2,
+          "en": "Building a Home",
+          "vi": "Xây tổ ấm"
+        },
+        {
+          "instance": 3,
+          "language": 2,
+          "en": "Building a Home covers the very basics of residential construction. Learn about placing walls, doors, and windows, as well as handy shortcuts to things like painting walls and carpeting floors.",
+          "vi": "Bài Xây tổ ấm giới thiệu cách dựng nhà cơ bản: đặt tường, cửa ra vào, cửa sổ, cùng các phím tắt tiện dụng để sơn tường và lát sàn."
+        },
+        {
+          "instance": 4,
+          "language": 1,
+          "en": "New Gameplay",
+          "vi": "Cách chơi mới"
+        },
+        {
+          "instance": 4,
+          "language": 1,
+          "en": "New players and returning players alike will enjoy a tour of some of the new game play and controls in The Sims Castaway Stories. Learn about Sims' aspirations and familiarize yourself with their Wants.",
+          "vi": "Khám phá cách chơi và điều khiển mới trong The Sims Castaway Stories. Bài hướng dẫn giới thiệu khát vọng của Sim và giúp bạn làm quen với những mong muốn của họ."
+        },
+        {
+          "instance": 4,
+          "language": 2,
+          "en": "New Gameplay",
+          "vi": "Cách chơi mới"
+        },
+        {
+          "instance": 5,
+          "language": 1,
+          "en": "New Building Tools",
+          "vi": "Công cụ xây dựng mới"
+        },
+        {
+          "instance": 5,
+          "language": 1,
+          "en": "The Sims Castaway Stories adds even more features to building a home, including raised foundations and decks. New Building Tools will introduce you to the latest and greatest trends for Sim architects.",
+          "vi": "The Sims Castaway Stories bổ sung nhiều cách xây nhà, gồm nền nâng cao và sàn hiên. Bài Công cụ xây dựng mới sẽ giới thiệu những tính năng này."
+        },
+        {
+          "instance": 5,
+          "language": 2,
+          "en": "New Building Tools",
+          "vi": "Công cụ xây dựng mới"
+        }
+      ],
+      "changed_resources": 5
+    }
+  ],
+  "additional_checks": "All v05 translations retained; both Font03 fonts cover translated characters; installer baseline hashes match v05. Windows runtime not tested."
+}

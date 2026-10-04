@@ -1,0 +1,21 @@
+﻿CASTAWAY — BẢN DỊCH CHỮ v0.6
+
+Cài trên Text v0.5 + Font03. Nếu chưa cài v0.5, cài v0.5 trước.
+Không gỡ v0.5. Không thay font.
+
+1. Tắt game.
+2. Giải nén ZIP ra thư mục riêng; chạy CAI-BAN-DICH06.cmd.
+3. Mở game bằng file chạy đang dùng.
+
+Bổ sung 70 câu/nhãn; tổng 486 câu/nhãn, 715 mục chuỗi.
+Gồm tên 24 chương, trợ giúp phím tắt, nhu cầu thú cưng,
+thông tin nghề nghiệp và thông báo. Chưa dịch toàn bộ cốt truyện.
+
+Gỡ riêng v0.6: chạy VietHoa\v06\GO-BAN-DICH06.cmd trong thư mục game.
+Công cụ khôi phục Text v0.5 và giữ font. Sao lưu ở VietHoa\Backups\v06.
+Nếu muốn gỡ tiếp v0.5, gỡ v0.6 trước rồi mới dùng công cụ gỡ v0.5.
+Không chép đè thủ công các bản sao lưu.
+
+Đã kiểm tra cấu trúc gói, QFS, chuỗi, tham số và ký tự trong font;
+giữ lại toàn bộ bản dịch v0.5. Chưa thử trực tiếp v0.6 trong game Windows.
+Source lưu mã đóng gói, bảng dịch và kết quả kiểm tra để tiếp tục lần sau.
