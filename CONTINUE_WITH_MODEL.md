@@ -11,7 +11,7 @@ Hoàn thiện Việt hóa The Sims Castaway Stories PC, build một bản test m
 - v0.4 từng được Ron xác nhận hiển thị ổn.
 - Bản đóng gói gần nhất là **Text v0.6**, 486 câu/nhãn duy nhất; **v0.6 chưa được Ron test trực tiếp đầy đủ**.
 - Repo source-only, không chứa package game/payload đã vá.
-- Nguồn dịch hiện tới **`extra38`**.
+- Nguồn dịch hiện tới **`extra42`**.
 - Không dùng số merged mapping ghi tay nữa; chạy `python src/builder/build_v07.py --audit-only` để lấy số chính xác.
 
 ## Tiến độ dịch
@@ -34,7 +34,7 @@ Hoàn thiện Việt hóa The Sims Castaway Stories PC, build một bản test m
 - `extra35`: 50 tên chương/section Castaway.
 - `extra36`: 8 Player Profile + residential-lot warning.
 - `extra37`: 3 Collection/Wanmami neighborhood descriptions.
-- `extra38`: 7 Barter Mode + alternate skill tooltip resource IDs.
+- `extra42`: 7 Barter Mode + alternate skill tooltip resource IDs.
 
 ### Hậu kiểm
 `extra23`–`extra29`: 344 mapping, 0 duplicate nội bộ, 0 missing catalog, 0 placeholder mismatch, 0 line-break mismatch, 0 tooltip metadata mismatch, 0 Cyrillic stray.
@@ -102,8 +102,8 @@ Chỉ cần 7 file từ bản Ron đang dùng:
 Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `--full` từ original baseline.
 
 ## Việc tiếp theo
-1. Chạy `python src/builder/build_v07.py --audit-only` ở môi trường có checkout repo và sửa mọi lỗi source nếu có.
-2. Sau khi source audit sạch, xin Ron đúng 7 package trên.
-3. Chạy incremental build v0.7, đọc `validation.json` và sửa mọi lỗi trước khi đóng gói.
-4. Gửi bản test cho Ron và ghi lại mọi tiếng Anh còn lòi/ngữ cảnh sai.
-5. Chỉ sau khi Ron chạy game mới cập nhật trạng thái “tested”.
+**Core translation sweep đã đủ để bước sang build test đầu tiên.**
+1. Nhận đúng 7 package từ bản Ron đang dùng: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
+2. Chạy source audit/build v0.7 và đọc `validation.json`; sửa mọi lỗi trước khi đóng gói.
+3. Gửi bản test cho Ron và ghi lại mọi tiếng Anh còn lòi, chuỗi bị cắt hoặc ngữ cảnh sai.
+4. Chỉ sau khi Ron chạy game mới cập nhật trạng thái “tested”.
