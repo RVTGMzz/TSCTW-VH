@@ -36,6 +36,9 @@ Nên chạy audit-only trước mọi build test mới. Repo còn có workflow `
 
 ### Build incremental từ bản v0.6 Ron đang dùng
 
+> **CẢNH BÁO 2026-10-04:** bản `build_v07.py` hiện trên repo vẫn có lỗi incremental với các key đã được Việt hóa ở v0.6 rồi bị batch sau override. Bản test v0.7 đầu tiên đã được build bằng logic sửa context-aware và idempotency PASS. Trước lần build incremental tiếp theo, phải tích hợp fix dựa trên `validation.json` v0.6 để nhận diện `(package, STR# instance, language, old_vi) → English source`. Không dùng nguyên logic `value in translations` cho baseline v0.6.
+
+
 Đặt đúng 7 file user-owned sau vào:
 
 `work/text/Text/`
