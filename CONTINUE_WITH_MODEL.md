@@ -12,7 +12,7 @@ Hoàn thiện Việt hóa The Sims Castaway Stories PC, build một bản test m
 - Bản đóng gói gần nhất là **Text v0.6**, 486 câu/nhãn duy nhất; **v0.6 chưa được Ron test trực tiếp đầy đủ**.
 - Repo source-only, không chứa package game/payload đã vá.
 - Nguồn dịch hiện tới **`extra44`**.
-- Không dùng số merged mapping ghi tay nữa; chạy `python src/builder/build_v07.py --audit-only` để lấy số chính xác.
+- **Audit thật đã PASS ngày 2026-10-04 trên GitHub Actions:** 1.774 mapping sau merge; 1.774/1.774 key có mặt trong package allowlist; 0 key thiếu khỏi catalog; 274 override có chủ đích.\n- Không dùng số merged mapping ghi tay nữa; chạy `python src/builder/build_v07.py --audit-only` để tái kiểm.
 
 ## Tiến độ dịch
 - `extra07`: 127 UI/gameplay.
@@ -109,7 +109,7 @@ Builder:
 - audit-only kiểm placeholder, line break, tooltip metadata, catalog presence và ký tự Cyrillic lạc;
 - output `work/build_v07/Payload/...`, `manifest.json`, `validation.json`.
 
-`--audit-only` đã được thêm vào builder; source đã được review và sửa lỗi thiếu khai báo regex Cyrillic. Builder vẫn **chưa chạy end-to-end với package thật** vì repo không có package game.
+`--audit-only` đã được thêm vào builder; source đã được review và sửa lỗi thiếu khai báo regex Cyrillic. **Audit-only đã chạy thật và PASS trên CI ngày 2026-10-04.** Builder vẫn **chưa chạy end-to-end với package thật** vì repo không có package game.
 
 ### Package cần khi build incremental từ v0.6
 Chỉ cần 7 file từ bản Ron đang dùng:
