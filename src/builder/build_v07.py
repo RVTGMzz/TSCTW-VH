@@ -72,6 +72,8 @@ def translated_value(package_name: str, en: str, translations: dict[str, str]) -
 
 
 def validate_translation(en: str, vi: str) -> None:
+    if CYRILLIC_RE.search(vi):
+        raise AssertionError(("unexpected Cyrillic character", en, vi))
     if token_signature(en) != token_signature(vi):
         raise AssertionError(("placeholder mismatch", en, vi, token_signature(en), token_signature(vi)))
     if line_signature(en) != line_signature(vi):
@@ -138,6 +140,59 @@ def derive_targets(translations: dict[str, str]) -> tuple[dict[str, set[int]], d
         hits[en] = hits.get(en, 0) + 1
 
     return targets, hits
+
+
+def audit_translation_source(
+    translations: dict[str, str],
+    targets: dict[str, set[int]],
+    used_files: list[str],
+    overrides: list[dict[str, str]],
+) -> dict[str, object]:
+    catalog = json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+    locations: dict[str, list[dict[str, object]]] = {}
+
+    for row in catalog:
+        en = row.get("text")
+        if not isinstance(en, str):
+            continue
+        locations.setdefault(en, []).append(
+            {
+                "file": row.get("file"),
+                "id": row.get("id"),
+            }
+        )
+
+    for en, vi in translations.items():
+        validate_translation(en, vi)
+
+    missing_from_catalog = sorted(en for en in translations if en not in locations)
+    allowed_mapping_keys = sorted(
+        en
+        for en in translations
+        if any(loc.get("file") in ALLOWED_PACKAGES for loc in locations.get(en, []))
+    )
+
+    target_summary = {
+        package: sorted(instances)
+        for package, instances in sorted(targets.items())
+        if instances
+    }
+
+    return {
+        "runtime_tested": False,
+        "translation_files": used_files,
+        "translation_mapping_count": len(translations),
+        "translation_overrides": overrides,
+        "mapping_keys_present_in_allowed_packages": len(allowed_mapping_keys),
+        "mapping_keys_missing_from_catalog": missing_from_catalog,
+        "target_resource_instances": target_summary,
+        "checks": [
+            "All merged source mappings pass placeholder, line-break and tooltip-metadata validation.",
+            "Vietnamese values are checked for accidental Cyrillic characters.",
+            "Catalog presence is reported without requiring game package files.",
+            "No claim of in-game testing is made by this audit.",
+        ],
+    }
 
 
 def encode_string_table(raw: bytes, rows: list[list[object]]) -> bytes:
@@ -296,6 +351,11 @@ def main() -> None:
         help="Build output folder (default: work/build_v07).",
     )
     parser.add_argument(
+        "--audit-only",
+        action="store_true",
+        help="Validate merged translation sources against the catalog without requiring .package files.",
+    )
+    parser.add_argument(
         "--full",
         action="store_true",
         help="Require Tutorial.package too and rebuild all known translated text packages from an original baseline.",
@@ -304,6 +364,27 @@ def main() -> None:
 
     translations, used_files, translation_overrides = load_translations()
     targets, catalog_hits = derive_targets(translations)
+
+    if args.audit_only:
+        audit = audit_translation_source(
+            translations,
+            targets,
+            used_files,
+            translation_overrides,
+        )
+        output_root = args.output
+        output_root.mkdir(parents=True, exist_ok=True)
+        audit_path = output_root / "source_audit.json"
+        audit_path.write_text(
+            json.dumps(audit, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        print("SOURCE AUDIT PASS")
+        print("Translation mappings:", audit["translation_mapping_count"])
+        print("Mappings in allowed packages:", audit["mapping_keys_present_in_allowed_packages"])
+        print("Missing from catalog:", len(audit["mapping_keys_missing_from_catalog"]))
+        print("Output:", audit_path)
+        return
 
     required = FULL_REQUIRED if args.full else INCREMENTAL_REQUIRED
     missing = sorted(name for name in required if not (args.input / name).is_file())
