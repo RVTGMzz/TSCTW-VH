@@ -42,6 +42,12 @@ INCREMENTAL_REQUIRED = {
 
 FULL_REQUIRED = INCREMENTAL_REQUIRED | {"Tutorial.package"}
 
+PACKAGE_OVERRIDES = {
+    "Neighborhood.package": {
+        "Play": "Chơi",
+    },
+}
+
 PRINTF_RE = re.compile(
     r"%(?:\d+\$)?[-+0#]*\d*(?:\.\d+)?(?:hh|h|ll|l|L|z|j|t)?[diuoxXfFeEgGaAcspnD]"
 )
@@ -59,6 +65,10 @@ def line_signature(text: str) -> tuple[int, int]:
 def metadata_signature(text: str) -> list[str] | None:
     parts = text.split("|")
     return parts[2:] if len(parts) >= 3 else None
+
+
+def translated_value(package_name: str, en: str, translations: dict[str, str]) -> str:
+    return PACKAGE_OVERRIDES.get(package_name, {}).get(en, translations[en])
 
 
 def validate_translation(en: str, vi: str) -> None:
@@ -163,7 +173,7 @@ def patch_package(
             if language not in (1, 2) or value not in translations:
                 continue
 
-            translated = translations[value]
+            translated = translated_value(source.name, value, translations)
             validate_translation(value, translated)
             if translated == value:
                 continue
@@ -245,7 +255,7 @@ def patch_package(
                 assert old_description == new_description
 
                 if language in (1, 2) and old_value in translations:
-                    expected = translations[old_value]
+                    expected = translated_value(source.name, old_value, translations)
                     validate_translation(old_value, expected)
                     assert new_value == expected
                 else:
