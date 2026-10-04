@@ -109,7 +109,7 @@ Builder:
 - audit-only kiểm placeholder, line break, tooltip metadata, catalog presence và ký tự Cyrillic lạc;
 - output `work/build_v07/Payload/...`, `manifest.json`, `validation.json`.
 
-`--audit-only` đã được thêm vào builder; source đã được review và sửa lỗi thiếu khai báo regex Cyrillic. **Audit-only đã chạy thật và PASS trên CI ngày 2026-10-04.** Builder vẫn **chưa chạy end-to-end với package thật** vì repo không có package game.
+`--audit-only` đã được thêm vào builder; source audit PASS trên CI ngày 2026-10-04. Builder đã tích hợp ánh xạ lịch sử v0.6 theo package/resource/language và đã qua kiểm tra cú pháp cùng logic tổng hợp. **Chưa chạy end-to-end với package thật** vì repo source-only.
 
 ### Package cần khi build incremental từ v0.6
 Chỉ cần 7 file từ bản Ron đang dùng:
@@ -125,10 +125,9 @@ Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `
 
 ## Phát hiện khi build test v0.7 (2026-10-04)
 - Ron đã cung cấp đủ 7 package incremental từ bản đang dùng; `UIText2.package` cũng được gửi để kiểm tra nhưng xác nhận chỉ chứa tên expansion legacy và **không patch**.
-- Phát hiện bug trong `build_v07.py`: incremental từ v0.6 chỉ nhận diện English gốc, nên các key đã được Việt hóa ở v0.6 rồi bị batch sau override sẽ bị bỏ sót.
-- Build test cục bộ đã dùng logic context-aware để nhận diện giá trị Việt cũ theo package/STR#; áp được **207 historical v0.6 updates**. Tổng build thay đổi **1.481 English key**, và chạy build lần hai trên chính output cho kết quả **0 thay đổi ở cả 7 package** (idempotency PASS).
-- Spot-check các collision quan trọng đã đúng ngữ cảnh: `Fun → Vui vẻ`, `Social → Giao tiếp`, `Charisma → Quyến rũ`, `Entertainment → Giải trí`.
-- Trước lần build tiếp theo, **không dùng nguyên `build_v07.py` incremental hiện tại** nếu chưa tích hợp fix. Cách fix bền vững: dùng `validation.json` v0.6 để map `(package, instance, language, old_vi) → English source`; nếu một old_vi có nhiều English candidate thì chỉ chấp nhận khi tất cả candidate resolve về cùng final Vietnamese value.
+- Phát hiện lỗi incremental: builder cũ chỉ nhận diện English gốc nên bỏ sót các câu v0.6 cần override.
+- Đã tích hợp fix vào `build_v07.py`: dùng `validation.json` v0.6 để ánh xạ `(package, instance, language, old_vi) → English source`; giá trị lịch sử mơ hồ bị bỏ qua nếu các ứng viên cho ra bản dịch cuối khác nhau.
+- Đã kiểm tra cú pháp và chạy thử logic với trường hợp mơ hồ, duy nhất, English baseline và override riêng theo package. Chưa chạy end-to-end với package game trong lượt hiện tại.
 - Bản test đã được tạo ở phiên chat dưới tên `TSCTW_VH_v0.7_TEST.zip`; chưa được đánh dấu runtime tested cho tới khi Ron chạy game.
 
 ## Runtime text discovery / v0.7a (2026-10-04)
@@ -141,8 +140,9 @@ Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `
 - **Story selector vẫn chưa fix:** `Shipwrecked and Single`, `Wanmami Island` và mô tả vẫn không nằm trong các package vừa scan. Bước kế tiếp cần Ron cung cấp `TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package` và `.../N002/N002_Neighborhood.package` để locate metadata runtime.
 
 ## Việc tiếp theo
-**Core translation sweep đã hoàn tất ở mức source và đủ để bước sang build test đầu tiên.**
-1. Nhận đúng 7 package từ bản Ron đang dùng: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
-2. Chạy source audit/build v0.7 và đọc `validation.json`; sửa mọi lỗi trước khi đóng gói.
-3. Gửi bản test cho Ron và ghi lại mọi tiếng Anh còn lòi, chuỗi bị cắt hoặc ngữ cảnh sai.
-4. Chỉ sau khi Ron chạy game mới cập nhật trạng thái “tested”.
+**Core translation sweep đã hoàn tất ở mức source.**
+1. Chạy lại source audit sau thay đổi builder và xác nhận CI PASS.
+2. Tạo build incremental từ đúng 7 package v0.6: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
+3. Vẫn cần xác định story selector (`Shipwrecked and Single`, `Wanmami Island`) trong `N001_Neighborhood.package` và `N002_Neighborhood.package`; patch metadata sau khi locate.
+4. Gửi bản test, rồi sửa chuỗi tiếng Anh còn lòi, chữ bị cắt hoặc ngữ cảnh sai theo xác nhận của Ron.
+5. Chỉ sau khi Ron chạy game mới cập nhật trạng thái “tested”.
