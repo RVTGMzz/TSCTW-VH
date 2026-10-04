@@ -6,23 +6,24 @@ Bản dịch cộng đồng cho bản PC.
 
 - Bản phát hành đã đóng gói gần nhất: **Text v0.6 — 486 câu/nhãn duy nhất**. Font03 đã được Ron xác nhận hoạt động ổn.
 - **v0.6 chưa được Ron kiểm tra trực tiếp đầy đủ trong game.**
-- Nguồn dịch đang phát triển sau v0.6 hiện đi tới **`extra29`**.
-- Tổng số mapping nguồn hiện tại: **1.760**. Đây là số mapping trong source, **không phải số chuỗi đã build/test trong game**.
-- Các batch mới sau v0.6 **chưa được đóng gói thành bản test mới** vì repo không chứa file `.package` của game.
+- Nguồn dịch hiện đi tới **`extra31`**.
+- Tổng số **unique mapping nguồn vẫn là 1.760**: `extra30` và `extra31` chỉ tinh chỉnh/xác nhận các key đã có từ bảng nền, không làm tăng unique count.
+- Các batch sau v0.6 **chưa được đóng gói thành bản test mới** vì repo không chứa file `.package` của game.
 
 ## Phạm vi đã phủ
 
-Ngoài nhật ký/cốt truyện Castaway, source hiện đã phủ thêm phần lớn UI dùng thật:
+Ngoài nhật ký/cốt truyện Castaway, source hiện đã phủ phần lớn UI dùng thật:
 - Buy Mode / Build Mode categories, công cụ, tooltip và lỗi đặt vật thể.
-- Create-a-Sim: bước tạo Sim, giới tính/tuổi, tóc, mặt, trang điểm, quần áo, cung hoàng đạo và tính cách.
+- Create-a-Sim: các bước tạo Sim, giới tính/tuổi, tóc, mặt, trang điểm, quần áo, cung hoàng đạo và tính cách.
 - Neighborhood: gia đình, khu đất, đổi/xóa khu phố, lot management.
 - Simology: Khát vọng, mức Khát vọng, quan hệ, trường học, sở thích, lịch làm việc.
 - Story/Camera, Inventory, Collection, system/loading messages.
-- Một số hội thoại/popup được Việt hóa tự nhiên, vui và hơi Gen Z theo style guide.
+- Popup save/quit, tutorial nhanh, battery warning và các thông báo Castaway thường gặp.
+- Thoại/popup được Việt hóa tự nhiên, vui và hơi Gen Z theo style guide khi phù hợp.
 
 Toàn bộ chuỗi **gắn tag Castaway rõ ràng và có nội dung cần dịch** đã được xử lý. Những mục Cast-tagged còn tiếng Anh chủ yếu là **tên riêng/địa điểm, phím tắt, tên nhạc và copyright**, được cố ý giữ nguyên.
 
-Các package như `eCAS.package` (Body Shop), `UIText2.package` (nhãn expansion) và `Installer.package` (chuỗi Seasons) được xem là di sản không thuộc gameplay Castaway nên không dịch đại trà.
+Các package như `eCAS.package` (Body Shop), `UIText2.package` (nhãn expansion) và `Installer.package` (chuỗi Seasons) là di sản không thuộc gameplay Castaway nên không dịch đại trà.
 
 ## Phong cách dịch
 
@@ -36,18 +37,26 @@ Các package như `eCAS.package` (Body Shop), `UIText2.package` (nhãn expansion
 
 ## Kiểm tra source
 
-Các batch `extra23`–`extra29` hiện có **344 mapping**, không trùng key lẫn nhau. Hậu kiểm gần nhất:
-- 0 câu thiếu trong catalog.
-- 0 lỗi placeholder.
-- 0 lỗi line break điều khiển.
-- 0 lỗi metadata tooltip.
-- 0 ký tự Cyrillic lạc vào bản dịch.
+`extra23`–`extra29` đã được audit: 344 mapping, 0 duplicate giữa các batch, 0 missing catalog, 0 lỗi placeholder/line-break/tooltip metadata và 0 ký tự Cyrillic lạc.
+
+`extra30` gồm 15 bản tinh chỉnh cho key cũ. `extra31` xác nhận 15 nhãn ngày/tuần đã có đúng trong bảng nền. Builder mới ghi rõ các override thay vì cộng chúng thành mapping mới.
 
 ## Build / test
 
-`build_v06.py` là builder cũ và **không đọc các batch mới**. Không sửa phá builder v0.6; bản kế tiếp cần builder riêng.
+Builder mới đã có tại **`src/builder/build_v07.py`**; `build_v06.py` được giữ nguyên.
 
-Các batch mới hiện chạm tới:
+`build_v07.py`:
+- đọc `translations.json` và toàn bộ `extra*.json` theo thứ tự số;
+- ghi lại override của batch sau;
+- dùng catalog để suy ra STR# instance cần sửa;
+- giữ allowlist package đã audit;
+- bảo toàn language khác, description, string order/count và compression state;
+- kiểm placeholder, line break, tooltip metadata, DBPF/QFS round-trip;
+- giữ rule ngữ cảnh `Neighborhood.package: Play → Chơi`.
+
+Builder **chưa được chạy end-to-end với package thật** vì repo source-only, nên chưa có bản test mới và chưa có claim runtime test.
+
+Build incremental từ v0.6 hiện cần đúng 7 file:
 - `Options.package`
 - `UIText.package`
 - `Live.package`
@@ -56,14 +65,16 @@ Các batch mới hiện chạm tới:
 - `CAS.package`
 - `CAS_Shared.package`
 
-Nếu build incremental từ bản v0.6 Ron đang cài, chỉ cần đúng các package bị chạm ở trên. `Tutorial.package` không có mapping mới sau v0.6. Không cần gửi cả thư mục game và không đưa package game lên repo công khai.
+Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu rebuild full từ original baseline.
 
-Chỉ ghi “đã test trong game” khi Ron xác nhận trực tiếp.
+Chi tiết: [`BUILD.md`](BUILD.md).
 
 ## Thư mục
 
-- `translations/`: bảng dịch nền và các batch bổ sung tới `extra29`.
+- `translations/`: bảng dịch nền và batch bổ sung tới `extra31`.
 - `src/builder/`: parser DBPF/QFS và builder.
 - `installer-source/`: nguồn installer/manifest của v0.6; payload không nằm trong repo.
 - `castaway-english-strings.json`: catalog tiếng Anh dùng để audit; không phải package game.
 - `validation.json`: validation của build v0.6, chưa đại diện cho draft hiện tại.
+
+Chỉ ghi “đã test trong game” khi Ron xác nhận trực tiếp.
