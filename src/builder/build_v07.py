@@ -43,9 +43,9 @@ INCREMENTAL_REQUIRED = {
 FULL_REQUIRED = INCREMENTAL_REQUIRED | {"Tutorial.package"}
 
 PRINTF_RE = re.compile(
-    r"%(?:\\d+\\$)?[-+0#]*\\d*(?:\\.\\d+)?(?:hh|h|ll|l|L|z|j|t)?[diuoxXfFeEgGaAcspnD]"
+    r"%(?:\d+\$)?[-+0#]*\d*(?:\.\d+)?(?:hh|h|ll|l|L|z|j|t)?[diuoxXfFeEgGaAcspnD]"
 )
-DOLLAR_RE = re.compile(r"\\$[A-Za-z][A-Za-z0-9_]*(?::\\d+)?")
+DOLLAR_RE = re.compile(r"\$[A-Za-z][A-Za-z0-9_]*(?::\d+)?")
 
 
 def token_signature(text: str) -> list[str]:
@@ -53,7 +53,7 @@ def token_signature(text: str) -> list[str]:
 
 
 def line_signature(text: str) -> tuple[int, int]:
-    return text.count("\\r"), text.count("\\n")
+    return text.count("\r"), text.count("\n")
 
 
 def metadata_signature(text: str) -> list[str] | None:
@@ -75,7 +75,7 @@ def translation_files() -> list[Path]:
     files = [TRANSLATIONS_DIR / "translations.json"]
 
     def extra_number(path: Path) -> int:
-        m = re.fullmatch(r"extra(\\d+)\\.json", path.name)
+        m = re.fullmatch(r"extra(\d+)\.json", path.name)
         return int(m.group(1)) if m else 10**9
 
     files.extend(sorted(TRANSLATIONS_DIR.glob("extra*.json"), key=extra_number))
@@ -128,9 +128,9 @@ def encode_string_table(raw: bytes, rows: list[list[object]]) -> bytes:
     body = b"".join(
         bytes([int(lang)])
         + str(value).encode("utf-8", "surrogateescape")
-        + b"\\0"
+        + b"\0"
         + str(description).encode("utf-8", "surrogateescape")
-        + b"\\0"
+        + b"\0"
         for lang, value, description in rows
     )
     return raw[:68] + body
@@ -183,7 +183,7 @@ def patch_package(
             continue
 
         rebuilt = encode_string_table(raw, rows)
-        compressed = original[offset + 4 : offset + 6] == b"\\x10\\xfb"
+        compressed = original[offset + 4 : offset + 6] == b"\x10\xfb"
         packed = qfs_compress(rebuilt) if compressed else rebuilt
         assert unpack(packed) == rebuilt
 
@@ -230,8 +230,8 @@ def patch_package(
             assert old_raw[:68] == new_raw[:68]
             assert unpack(new[new_offset : new_offset + new_size]) == new_raw
 
-            old_compressed = original[old_offset + 4 : old_offset + 6] == b"\\x10\\xfb"
-            new_compressed = new[new_offset + 4 : new_offset + 6] == b"\\x10\\xfb"
+            old_compressed = original[old_offset + 4 : old_offset + 6] == b"\x10\xfb"
+            new_compressed = new[new_offset + 4 : new_offset + 6] == b"\x10\xfb"
             assert old_compressed == new_compressed
 
             old_rows = strings(old_raw)
@@ -293,7 +293,7 @@ def main() -> None:
     missing = sorted(name for name in required if not (args.input / name).is_file())
     if missing:
         raise FileNotFoundError(
-            "Missing required package files:\\n  - " + "\\n  - ".join(missing)
+            "Missing required package files:\n  - " + "\n  - ".join(missing)
         )
 
     output_root = args.output
