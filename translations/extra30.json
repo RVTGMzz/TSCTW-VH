@@ -1,0 +1,17 @@
+{
+  "Quit?": "Thoát game?",
+  "Are you sure you want to quit?": "Bạn có chắc muốn thoát game không?",
+  "Save?": "Lưu game?",
+  "Do you want to save your game before exiting to the Neighborhood? Any unsaved changes will be lost.": "Bạn có muốn lưu game trước khi trở về Khu phố không? Mọi thay đổi chưa lưu sẽ bị mất.",
+  "Do you want to save before quitting? Any unsaved changes will be lost.": "Bạn có muốn lưu trước khi thoát không? Mọi thay đổi chưa lưu sẽ bị mất.",
+  "Your lot name cannot include any of the following characters:": "Tên khu đất không được chứa các ký tự sau:",
+  "Invalid lot name": "Tên khu đất không hợp lệ",
+  "This action will flatten your entire lot to the same level. Are you sure you want to do this?": "Thao tác này sẽ san phẳng toàn bộ khu đất về cùng một độ cao. Bạn có chắc muốn làm không?",
+  "Are you sure you want to leave this lot without saving your changes?": "Bạn có chắc muốn rời khu đất này mà không lưu thay đổi không?",
+  "Save & Quit": "Lưu & thoát",
+  "Quit without Saving": "Thoát không lưu",
+  "Don't Quit": "Chơi tiếp",
+  "Would you like to play a quick tutorial that teaches you movement and actions before starting the game?": "Bạn có muốn chơi một hướng dẫn nhanh về di chuyển và thao tác trước khi bắt đầu game không?",
+  "WARNING: Your battery power level is low.": "CẢNH BÁO: Pin của bạn sắp hết.",
+  "WARNING: Your battery power level is critically low.": "CẢNH BÁO: Pin của bạn sắp cạn hoàn toàn."
+}
