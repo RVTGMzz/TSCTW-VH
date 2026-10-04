@@ -131,6 +131,15 @@ Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `
 - Trước lần build tiếp theo, **không dùng nguyên `build_v07.py` incremental hiện tại** nếu chưa tích hợp fix. Cách fix bền vững: dùng `validation.json` v0.6 để map `(package, instance, language, old_vi) → English source`; nếu một old_vi có nhiều English candidate thì chỉ chấp nhận khi tất cả candidate resolve về cùng final Vietnamese value.
 - Bản test đã được tạo ở phiên chat dưới tên `TSCTW_VH_v0.7_TEST.zip`; chưa được đánh dấu runtime tested cho tới khi Ron chạy game.
 
+## Runtime text discovery / v0.7a (2026-10-04)
+- Từ ảnh test của Ron, phát hiện nhiều gameplay string không nằm trong 7 Text package cũ mà nằm ở `TSData/Res/Objects/objects.package` và `TSData/Res/Text/Wants.package`.
+- `objects.package` dùng DBPF index entry **24 byte** (khác 20 byte của Text package), DIR entry tương ứng 20 byte. Các resource text quan trọng: `TTAs 0x54544173` (pie menu), `CTSS 0x43545353` (catalog title/description), và `STR# 0x53545223`.
+- Đã build local **v0.7a runtime fix** từ chính package Ron cung cấp. Vá: `Go Here → Đi tới đây`, `Run Here → Chạy tới đây`, `Skip Here → Nhảy chân sáo tới đây`, `Watch Clouds → Ngắm mây`; Hatchet Story Reward + mô tả; item `"Don't Wear Short Shorts" Loveseat` + mô tả; Want `Get $ObjectType` + `an Easel`; `Aspiration Value → Điểm Khát vọng`.
+- Hatchet có **hai CTSS group trùng nội dung** (`0x7f04cee9` và `0x7f12081f`); phải patch cả hai.
+- Build v0.7a thay đổi 16+ resource trong `objects.package`, 3 resource trong Text `Wants.package`, và 1 resource trong `Live.package`; modified resources đều QFS round-trip / parse lại thành công.
+- File test của phiên chat: `TSCTW_VH_v0.7a_RUNTIME_FIX.zip`. Chưa đánh dấu runtime tested cho tới khi Ron chạy game.
+- **Story selector vẫn chưa fix:** `Shipwrecked and Single`, `Wanmami Island` và mô tả vẫn không nằm trong các package vừa scan. Bước kế tiếp cần Ron cung cấp `TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package` và `.../N002/N002_Neighborhood.package` để locate metadata runtime.
+
 ## Việc tiếp theo
 **Core translation sweep đã hoàn tất ở mức source và đủ để bước sang build test đầu tiên.**
 1. Nhận đúng 7 package từ bản Ron đang dùng: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
