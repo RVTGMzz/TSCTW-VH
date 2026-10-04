@@ -11,7 +11,7 @@ Hoàn thiện Việt hóa The Sims Castaway Stories PC, build một bản test m
 - v0.4 từng được Ron xác nhận hiển thị ổn.
 - Bản đóng gói gần nhất là **Text v0.6**, 486 câu/nhãn duy nhất; **v0.6 chưa được Ron test trực tiếp đầy đủ**.
 - Repo source-only, không chứa package game/payload đã vá.
-- Nguồn dịch hiện tới **`extra42`**.
+- Nguồn dịch hiện tới **`extra44`**.
 - Không dùng số merged mapping ghi tay nữa; chạy `python src/builder/build_v07.py --audit-only` để lấy số chính xác.
 
 ## Tiến độ dịch
@@ -34,10 +34,26 @@ Hoàn thiện Việt hóa The Sims Castaway Stories PC, build một bản test m
 - `extra35`: 50 tên chương/section Castaway.
 - `extra36`: 8 Player Profile + residential-lot warning.
 - `extra37`: 3 Collection/Wanmami neighborhood descriptions.
-- `extra42`: 7 Barter Mode + alternate skill tooltip resource IDs.
+- `extra38`: 7 Barter Mode + alternate skill tooltip resource IDs.
+- `extra39`: 12 phone/party UI.
+- `extra40`: 2 CAS name-entry labels.
+- `extra41`: 104 shortcut/help/controls + Castaway misc UI.
+- `extra42`: 29 control-panel/keybind labels.
+- `extra43`: 10 Story/Neighborhood/core UI cleanup.
+- `extra44`: 2 popup hệ thống cuối: application crash + missing required content.
 
 ### Hậu kiểm
 `extra23`–`extra29`: 344 mapping, 0 duplicate nội bộ, 0 missing catalog, 0 placeholder mismatch, 0 line-break mismatch, 0 tooltip metadata mismatch, 0 Cyrillic stray.
+
+## Audit theo package — source sweep hoàn tất
+- **Options.package**: semantic audit sạch; phần còn tiếng Anh là 16/32-bit và tên thể loại nhạc, giữ nguyên.
+- **Neighborhood.package**: gameplay UI sạch; phần còn lại là TheSims2.com/College không dùng hoặc key dùng chung đã dịch.
+- **CAS.package**: gameplay UI sạch; phần còn lại là placeholder nội bộ hoặc key dùng chung đã dịch.
+- **Build.package**: gameplay UI sạch; chỉ còn số giá, duplicate catalog bị đánh dấu xóa và developer placeholder.
+- **Live.package**: gameplay Castaway sạch; phần còn lại là Cast Names, grades/day initials, PlantSim/University/Pets hoặc token nội bộ.
+- **UIText.package**: phần hữu ích đã phủ; phần còn lại chủ yếu là dead Exchange/web, Sims 1 import, base-Sims2 neighborhood albums, expansion/Body Shop/legal/internal strings.
+
+Không dịch các nhóm trên chỉ để tăng % dịch. Bước có giá trị tiếp theo là build/test thực tế rồi sửa theo những chuỗi thật sự còn lòi trong game.
 
 ## Mốc audit quan trọng
 Các chuỗi **tag Castaway rõ ràng và thật sự cần dịch** đã được phủ. Cast-tagged còn tiếng Anh chủ yếu là:
@@ -102,7 +118,7 @@ Chỉ cần 7 file từ bản Ron đang dùng:
 Không cần cả thư mục game. `Tutorial.package` chỉ cần nếu chạy `--full` từ original baseline.
 
 ## Việc tiếp theo
-**Core translation sweep đã đủ để bước sang build test đầu tiên.**
+**Core translation sweep đã hoàn tất ở mức source và đủ để bước sang build test đầu tiên.**
 1. Nhận đúng 7 package từ bản Ron đang dùng: Options, UIText, Live, Neighborhood, Build, CAS, CAS_Shared.
 2. Chạy source audit/build v0.7 và đọc `validation.json`; sửa mọi lỗi trước khi đóng gói.
 3. Gửi bản test cho Ron và ghi lại mọi tiếng Anh còn lòi, chuỗi bị cắt hoặc ngữ cảnh sai.
