@@ -7,7 +7,7 @@ Bản dịch cộng đồng cho bản PC.
 - Bản phát hành đã đóng gói gần nhất: **Text v0.6 — 486 câu/nhãn duy nhất**. Font03 đã được Ron xác nhận hoạt động ổn.
 - **v0.6 chưa được Ron kiểm tra trực tiếp đầy đủ trong game.**
 - Nguồn dịch hiện đi tới **`extra44`**.
-- Không dùng số unique mapping ghi tay nữa vì các batch sau có override/key trùng có chủ đích; chạy `python src/builder/build_v07.py --audit-only` để lấy số merged chính xác.
+- **Source audit v0.7 đã PASS trên GitHub Actions ngày 2026-10-04:** 1.774 mapping sau merge, 1.774/1.774 key hiện diện trong package allowlist, 0 key thiếu khỏi catalog. Có 274 override có chủ đích giữa các batch.\n- Không dùng số unique mapping ghi tay; chạy `python src/builder/build_v07.py --audit-only` để tái kiểm bất cứ lúc nào.
 - Các batch sau v0.6 **chưa được đóng gói thành bản test mới** vì repo không chứa file `.package` của game.
 
 ## Phạm vi đã phủ
@@ -39,7 +39,7 @@ Các package như `eCAS.package` (Body Shop), `UIText2.package` (nhãn expansion
 
 `extra23`–`extra29` đã được audit ở mốc trước. `extra32`–`extra42` bổ sung Build/Buy tools, object stats, Castaway Needs, animal motives, Simology/skills/career, tên chương, Player Profile, mô tả Wanmami, Barter và shortcut UI. `extra43`–`extra44` là lượt cleanup cuối cho Story/Neighborhood và hai popup hệ thống còn hữu ích.
 
-Builder v0.7 nay có `--audit-only` để merge và kiểm toàn bộ source mà không cần package game; audit còn phát hiện placeholder/line-break/tooltip metadata sai và ký tự Cyrillic lạc.
+Builder v0.7 nay có `--audit-only` để merge và kiểm toàn bộ source mà không cần package game; audit còn phát hiện placeholder/line-break/tooltip metadata sai và ký tự Cyrillic lạc. Workflow `.github/workflows/source-audit.yml` tự chạy audit khi source dịch, catalog hoặc builder thay đổi.
 
 ### Audit hoàn thiện source
 
