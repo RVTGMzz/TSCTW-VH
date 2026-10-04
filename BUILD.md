@@ -32,7 +32,7 @@ Lệnh này **không cần file `.package`**. Kết quả ghi vào:
 
 `work/build_v07/source_audit.json`
 
-Nên chạy audit-only trước mọi build test mới.
+Nên chạy audit-only trước mọi build test mới. Repo còn có workflow `.github/workflows/source-audit.yml` để tự chạy kiểm tra này khi source dịch, catalog hoặc builder thay đổi.\n\nMốc CI 2026-10-04: **PASS**, 1.774 mapping sau merge; 1.774 key thuộc package allowlist; 0 key thiếu khỏi catalog.
 
 ### Build incremental từ bản v0.6 Ron đang dùng
 
