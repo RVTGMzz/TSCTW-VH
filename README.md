@@ -65,9 +65,10 @@ Builder mới đã có tại **`src/builder/build_v07.py`**; `build_v06.py` đư
 - bảo toàn language khác, description, string order/count và compression state;
 - kiểm placeholder, line break, tooltip metadata, DBPF/QFS round-trip;
 - giữ rule ngữ cảnh `Neighborhood.package: Play → Chơi`;
-- có `--audit-only` để kiểm source mà không cần package game.
+- có `--audit-only` để kiểm source mà không cần package game;
+- nhận diện các câu đã dịch trong baseline v0.6 theo package/resource/ngôn ngữ bằng `validation.json`; giá trị mơ hồ không bị áp sai ngữ cảnh.
 
-Builder **chưa được chạy end-to-end với package thật** vì repo source-only, nên chưa có bản test mới và chưa có claim runtime test.
+Builder đã qua kiểm tra cú pháp và thử logic ánh xạ lịch sử v0.6. **Chưa chạy end-to-end với package thật**, nên chưa có build v0.7 mới hay claim runtime test.
 
 Build incremental từ v0.6 hiện cần đúng 7 file:
 - `Options.package`
