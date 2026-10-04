@@ -5,10 +5,10 @@ Bản dịch cộng đồng cho bản PC.
 ## Trạng thái
 
 - Bản phát hành đã đóng gói gần nhất: **Text v0.6 — 486 câu/nhãn duy nhất**. Font03 đã được Ron xác nhận hoạt động ổn.
-- **v0.6 chưa được Ron kiểm tra trực tiếp đầy đủ trong game.**
+- Ron đã test các build mới hơn v0.6 trong game; xem mục **Runtime test / hướng đi mới** bên dưới.
 - Nguồn dịch hiện đi tới **`extra44`**.
 - **Source audit v0.7 đã PASS trên GitHub Actions ngày 2026-10-04:** 1.774 mapping sau merge, 1.774/1.774 key hiện diện trong package allowlist, 0 key thiếu khỏi catalog. Có 274 override có chủ đích giữa các batch.\n- Không dùng số unique mapping ghi tay; chạy `python src/builder/build_v07.py --audit-only` để tái kiểm bất cứ lúc nào.
-- Các batch sau v0.6 **chưa được đóng gói thành bản test mới** vì repo không chứa file `.package` của game.
+- Repo không chứa package game/payload; các build test v0.7/v0.7a/v0.7b đã được tạo ngoài repo từ package Ron cung cấp.
 
 ## Phạm vi đã phủ
 
@@ -24,6 +24,19 @@ Ngoài nhật ký/cốt truyện Castaway, source hiện đã phủ phần lớn
 Toàn bộ chuỗi **gắn tag Castaway rõ ràng và có nội dung cần dịch** đã được xử lý. Những mục Cast-tagged còn tiếng Anh chủ yếu là **tên riêng/địa điểm, phím tắt, tên nhạc và copyright**, được cố ý giữ nguyên.
 
 Các package như `eCAS.package` (Body Shop), `UIText2.package` (nhãn expansion) và `Installer.package` (chuỗi Seasons) là di sản không thuộc gameplay Castaway nên không dịch đại trà.
+
+## Runtime test / hướng đi mới
+
+Ron đã test các build v0.7/v0.7a/v0.7b trong game. UI Text cũ hiển thị tiếng Việt, nhưng test xác nhận còn nhiều text player-facing nằm ngoài source catalog ban đầu, đặc biệt trong `objects.package`, Text `Wants.package` và neighborhood/runtime data.
+
+Vì vậy trạng thái hiện tại là: **core Text source sweep hoàn tất, nhưng runtime sweep chưa hoàn tất**. Từ 2026-10-05 dự án chuyển sang audit runtime toàn diện thay vì vá từng screenshot.
+
+Xem:
+- [RUNTIME_AUDIT.md](RUNTIME_AUDIT.md)
+- [NEXT_SESSION_PROMPT.md](NEXT_SESSION_PROMPT.md)
+- [runtime/known_runtime_strings.json](runtime/known_runtime_strings.json)
+
+Mục tiêu kế tiếp: persist catalog + translation runtime có thể tái lập, sau đó build một bản tổng hợp **v0.8 TEST**.
 
 ## Phong cách dịch
 
