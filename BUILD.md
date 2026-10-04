@@ -80,7 +80,15 @@ Chế độ này sẽ yêu cầu đủ 8 package và áp toàn bộ mapping ngu�
 
 ## Lưu ý
 
-- Đã kiểm tra cú pháp Python và thử logic ánh xạ lịch sử với các trường hợp mơ hồ, duy nhất, tiếng Anh gốc và override riêng theo package. **Chưa chạy end-to-end với package game thật**; bước đó vẫn cần các file `.package` của Ron.
+- Builder Text v0.7 đã được dùng với package game Ron cung cấp và tạo build test. Ron đã chạy game. Kết quả runtime cho thấy còn nhiều text ngoài scope 7 Text package, nên `build_v07.py` **không phải builder đầy đủ cho v0.8**.
 - Structural validation không thay thế test trong game Windows.
 - Chỉ ghi “đã test trong game” khi Ron xác nhận trực tiếp.
 - Font03 đang hoạt động ổn theo xác nhận trước đó; không rebuild font nếu chỉ thay text.
+
+## Runtime builder / v0.8
+
+Đọc [RUNTIME_AUDIT.md](RUNTIME_AUDIT.md) trước khi mở rộng builder.
+
+Scope v0.8 cần hỗ trợ thêm package/resource ngoài Text builder cũ, đặc biệt `objects.package` với DBPF index entry 24 byte và resource TTAs/CTSS/STR#. Không dùng parser giả định index 20 byte cho file này.
+
+Các hotfix v0.7a/v0.7b từng được build ngoài repo để test nhanh. Chúng không phải kiến trúc cuối cùng. Bước kế tiếp là persist runtime translation source + audit report rồi build một payload tổng hợp v0.8.
