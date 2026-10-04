@@ -73,6 +73,12 @@ Các nhóm cố ý bỏ qua:
 - University/Nightlife/OFB/Pets/Seasons thừa kế không dùng trong Castaway.
 - online service/Exchange đã chết nếu không ảnh hưởng gameplay.
 
+## Tone pass mới nhất
+- Đã rà lại `extra08`–`extra09`: narrator dùng **“mình”** trung tính giới tính; các ngôi “ông/anh” còn lại đều gắn với NPC/đối tượng có giới rõ trong ngữ cảnh gốc.
+- Thoại/nhật ký giữ chất nói tự nhiên, có thể dùng code-switching Gen Z vừa phải như “KPI”, “fail”, “offer”, “DIY” khi câu đùa hợp ngữ cảnh; không nhét vào cảnh nghiêm túc.
+- `extra35` là batch cuối override tiêu đề chương; đã punch-up một số title: **“Tui Sẽ Sống Sót”**, **“Tới Công Chuyện Rồi”**, **“Con Mắt Ràng Buộc”**, **“Vẫn Chưa Tìm Được Thứ Mình Muốn”**.
+- Khi chỉnh file batch đã tồn tại phải **merge/superset**, không replace mù. Đã khôi phục các key cũ từng bị rơi ở `extra26` và `extra28`.
+
 ## Tone
 - Thoại/nhật ký tự nhiên, vui, lém lỉnh, Gen Z vừa phải.
 - Không spam meme.
