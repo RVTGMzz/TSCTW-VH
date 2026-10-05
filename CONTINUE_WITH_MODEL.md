@@ -198,3 +198,8 @@ The prior checkpoint's 17 candidate rows have now all been resolved by exact sou
 ### Audit filter correction — 2026-10-05
 
 A reproducible audit bug had treated descriptions containing `! Don't translate.` as inherited review instead of explicit exclusions because the filter only matched `Do not translate`. The filter now recognizes both wordings. Re-running source audit and context extraction reduced the inherited queue from 38,556 to 38,009 rows; the 547 removed rows have explicit non-translation metadata. Candidate coverage remains 0 missing/review rows, with zero package parse errors. User action: none yet; no package needs re-upload. When the consolidated v0.8 test package is ready, Ron's requested step is one installation followed by focused game verification.
+
+
+## Latest checkpoint — 2026-10-06 exact-row inherited promotion
+
+Promoted 14 evidence-backed inherited rows from `objects.package`: early Ch01/Ch02 story/tutorial lines, Castaway raft `Build Onto`, and House of Tuzu `Leave World` variants. Added nine new translation-map entries. Current source: 4,400 map entries, 7,516 candidate rows, zero missing/review candidate rows, 37,671 inherited review rows, zero parse errors. `catalog.json.gz`, `review_queue.json.gz`, `review_context.json.gz`, coverage/inventory/summary and exact row guards are synchronized. Package QA from commit `64658bc` is now explicitly stale because the Library package uploads could not be materialized as raw bytes in this session; do not claim the new snapshot passed package-writer QA until `check_runtime_packages.py` is rerun. Do not ask Ron to re-upload the same packages merely because materialization failed. Story-selector runtime read-path is still unverified and no v0.8 TEST has been released.

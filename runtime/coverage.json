@@ -16,7 +16,7 @@
       "translated": 35
     },
     "menu": {
-      "translated": 938,
+      "translated": 939,
       "exclude": 6
     },
     "neighborhood": {
@@ -27,13 +27,13 @@
       "translated": 27
     },
     "story": {
-      "translated": 1544
+      "translated": 1551
     },
     "text": {
       "translated": 1
     },
     "tutorial": {
-      "translated": 125
+      "translated": 126
     },
     "ui": {
       "translated": 235,
@@ -43,10 +43,10 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 4391,
-  "candidate_rows": 7502,
+  "translation_map_entries": 4400,
+  "candidate_rows": 7516,
   "untranslated_or_review_candidate_rows": 0,
-  "untagged_review_rows": 37685,
+  "untagged_review_rows": 37671,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
   "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete."

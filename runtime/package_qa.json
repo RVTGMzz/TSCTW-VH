@@ -140,5 +140,12 @@
     "src/builder/runtime_dbpf.py": "28c73d381cd34e6899b4fc20ea77e3a00b9540a9f319bd85d071d61c2f02c025",
     "runtime/README.md": "84e300ef4216912b93d8cc1f404368b2f48f8d0725e297be542fcd39f61a14bd",
     "RUNTIME_AUDIT.md": "5c310a7000505048cc77f36e1a8aa5827f5a34591d8fe4bea1c97533e6ef6183"
-  }
+  },
+  "status": "stale_after_source_update",
+  "verified_commit": "64658bc140104e3cb0362208ab763b3b02d1c1ec",
+  "verified_candidate_rows": 7502,
+  "current_candidate_rows": 7516,
+  "rerun_required": true,
+  "stale_reason": "Fourteen exact inherited rows were promoted on 2026-10-06 after the last package-writer QA. The prior Library uploads are still known, but raw package bytes could not be materialized in this session. Per-file results and source_sha256 below therefore describe the last verified snapshot, not the current source.",
+  "source_sha256_note": "These hashes are intentionally retained as provenance for the last structurally verified snapshot. Rerun check_runtime_packages.py before treating package QA as current."
 }

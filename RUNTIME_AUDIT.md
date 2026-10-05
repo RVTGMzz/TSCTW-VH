@@ -219,3 +219,8 @@ Added documented visitor-departure dialogue to 10 Castaway portal resources, plu
 
 
 The latest disposable package QA passes: all 6,677 selected rows across the runtime packages were written, re-read and applied a second time without additional changes; unrelated resources were preserved. This is structural/source QA, not an in-game verification.
+
+
+## Sweep continuation — early story runtime rows and raft/door interactions (2026-10-06)
+
+Reviewed and promoted 14 exact inherited rows rather than broad resource families: seven unique early-story monologue values across Ch01/Ch02 controllers, one Live Mode tutorial instruction, `Build Onto` on the Castaway raft, and the two existing `Leave World` spellings on the House of Tuzu door. Debug TTAs, hex identifiers and unrelated inherited rows in the same resources remain outside selected scope. Runtime maps now contain 4,400 entries; candidate coverage is 7,516 rows with zero missing/review decisions; 37,671 inherited rows remain. Source snapshots and context summaries were regenerated. The previous disposable package QA predates this batch and is marked stale pending a package-byte rerun; selector read-path and in-game verification remain outstanding.

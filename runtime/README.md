@@ -52,7 +52,7 @@ python src/builder/build_v07.py --audit-only
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current selected source includes 1,544 story/career values, 938 menu values, 903 catalog values and 35 dialog values. Candidate coverage is 7,502 rows with zero missing/review decisions and zero parser errors. The separate 37,685-row inherited review queue remains unresolved; it is not safe to call the runtime sweep complete. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,551 story/career/runtime-story values, 939 menu values, 903 catalog values, 35 dialog values and 126 tutorial values. Candidate coverage is 7,516 rows with zero missing/review decisions and zero parser errors. The separate 37,671-row inherited review queue remains unresolved; it is not safe to call the runtime sweep complete. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -72,3 +72,8 @@ Reviewed two exact CTSS families attached to Castaway objects: the tropical food
 Reviewed player-visible STR#/TTAs families using exact object and dialog context: visitor departure lines documented as notices the player sees (11 values × 10 portal resources = 220 rows); beach-combing, talking-bird and animal-fight popups (20 rows); orangutan choice dialogs and interaction labels (28 rows); bookcase/easel/fetch/pet/trash hints (30 rows); and bird-cage pie menu actions (22 rows). The developer-only ASPYR nanny diagnostic, bird stock/debug controls, unrelated book resources and unverified expansion entries were not promoted.
 
 Current totals: 834 exact inherited row guards (558 menu, 270 dialog, six catalog); 938 translated menu values; 35 dialog values; 903 catalog values; 7,502 candidate rows with no missing/review rows; 37,685 inherited rows still awaiting broader classification. Placeholder/order and line-break validation passes; source-level package QA passes with idempotent writes and unrelated-resource preservation. No in-game test or v0.8 archive is claimed.
+
+
+### Sweep batch: early-story runtime rows and raft/door interactions (2026-10-06)
+
+Promoted 14 exact inherited rows with strong Castaway ownership evidence: early chapter monologue/tutorial text in Ch01/Ch02 controllers, `Build Onto` on the Castaway raft, and both UK-English `Leave World` variants on the House of Tuzu door. Nine new translation-map entries were added; existing `Leave World` mappings were reused. Candidate coverage is now 7,516 rows with zero missing/review decisions; the inherited queue is 37,671 rows. Derived catalog/review/context snapshots were regenerated in-repo. Package-writer QA is intentionally marked stale until `check_runtime_packages.py` can be rerun against the user-owned package bytes; no new in-game result is claimed.
