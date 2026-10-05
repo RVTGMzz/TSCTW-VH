@@ -16,7 +16,7 @@
       "translated": 2
     },
     "menu": {
-      "translated": 923,
+      "translated": 932,
       "exclude": 6
     },
     "neighborhood": {
@@ -43,10 +43,10 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 4340,
-  "candidate_rows": 7178,
+  "translation_map_entries": 4349,
+  "candidate_rows": 7196,
   "untranslated_or_review_candidate_rows": 0,
-  "untagged_review_rows": 38009,
+  "untagged_review_rows": 37991,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
   "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete."
