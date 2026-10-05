@@ -201,3 +201,8 @@ The prior checkpoint's 17 candidate rows have now all been resolved by exact sou
 ### Audit filter correction — 2026-10-05
 
 A reproducible audit bug had treated descriptions containing `! Don't translate.` as inherited review instead of explicit exclusions because the filter only matched `Do not translate`. The filter now recognizes both wordings. Re-running source audit and context extraction reduced the inherited queue from 38,556 to 38,009 rows; the 547 removed rows have explicit non-translation metadata. Candidate coverage remains 0 missing/review rows, with zero package parse errors. User action: none yet; no package needs re-upload. When the consolidated v0.8 test package is ready, Ron's requested step is one installation followed by focused game verification.
+
+
+## Sweep continuation — Castaway fire-pit cooking (2026-10-05)
+
+Added the nine missing player-facing cooking options attached to the Castaway fire-pit menus, with 18 exact TTAs row overrides and object-name evidence. This extends the curated menu source rather than globally translating inherited labels. Debug/test rows in the same resources remain outside scope. The reproducible source and current package QA are in `runtime/row_scope_overrides.json`, `runtime/translations/menu.json`, `runtime/review_context.json.gz`, `runtime/coverage.json`, and `runtime/package_qa.json`. Candidate coverage is complete within the selected scope (7,196 rows, no missing/review); 37,991 inherited rows remain unresolved, so the overall runtime sweep and v0.8 release gate remain incomplete. In-game state is untested.
