@@ -48,8 +48,15 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` promotes 510 exact rows (167 unique interaction labels) from the inherited review queue into menu scope. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
+`row_scope_overrides.json` promotes 528 exact rows (176 unique interaction labels) from the inherited review queue into menu scope. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current source includes all 1,544 selected unique story/career values, 923 translated menu values and 900 translated catalog values. Candidate coverage now has zero missing/review decisions: ten leftover developer/placeholder/expansion entries are explicitly excluded and Basket Ghost is translated. The separate 38,009-row inherited review queue remains unclassified. Story-selector runtime source remains unverified. No consolidated v0.8 TEST release has been produced.
+Current source includes all 1,544 selected unique story/career values, 932 translated menu values and 900 translated catalog values. Candidate coverage now has zero missing/review decisions: ten leftover developer/placeholder/expansion entries are explicitly excluded and Basket Ghost is translated. The separate 37,991-row inherited review queue remains unclassified. Story-selector runtime source remains unverified. No consolidated v0.8 TEST release has been produced.
+
+
+### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
+
+Reviewed the exact TTAs rows attached to the Castaway Outdoor Fire Pit and Fire Pit Survival objects. Added all nine player-facing cooking choices found in those menus, including nested Grill/Pot paths and Server Dinner. The source records each DBPF key, row ordinal, language, original string/description, and same-group object names in `row_scope_overrides.json`; Vietnamese values are in `translations/menu.json`. Debug-only entries in the same menus (such as `rr`, state setters, or tester choices) were not promoted.
+
+Reproducible result: 18 exact rows promoted; 9 new menu values; candidate snapshot 7,196 rows with zero missing/review; inherited queue decreased from 38,009 to 37,991. Parser reports zero errors. `validate_runtime.py --write` and `build_v07.py --audit-only` pass. Development package QA re-applies the selected translations twice to the supplied baseline packages, verifies idempotence and preserves untouched resources; it does not claim in-game verification or release readiness.
