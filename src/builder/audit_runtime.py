@@ -24,6 +24,14 @@ def classify(path, name, typ, value, description):
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--input',type=Path,default=ROOT/'work/input');ap.add_argument('--output',type=Path,default=ROOT/'runtime');args=ap.parse_args()
     records=[]; inventory=[]; review=[]
+    override_path=ROOT/'runtime/row_scope_overrides.json'
+    overrides={}; used=set()
+    for override in json.loads(override_path.read_text()) if override_path.exists() else []:
+        identity=(override['package'],tuple(override['key']),override['row'])
+        if identity in overrides:raise ValueError(('Duplicate row override',identity))
+        if override['category'] not in ('menu','catalog','ui','story','tutorial','want'):
+            raise ValueError(('Unsupported override category',identity))
+        overrides[identity]=override
     for path in sorted(args.input.rglob('*.package')):
         rel=path.relative_to(args.input).as_posix()
         if '/Text/' in rel and path.name not in ('Wants.package','EPText.package'):continue
@@ -48,6 +56,13 @@ def main():
                 category,reason=classify(rel,name,entry.key[0],value,desc)
                 if category in ('excluded', 'review') and value in confirmed and not INTERNAL.search(desc):
                     category, reason = confirmed[value], 'Exact English variant of a Cast-tagged row in the same resource'
+                identity=(rel,entry.key,ordinal)
+                if identity in overrides:
+                    override=overrides[identity]
+                    if category!='review' or (lang,value,desc)!=(override['language'],override['en'],override['description']):
+                        raise ValueError(('Row override baseline mismatch',identity))
+                    category,reason=override['category'],override['reason']
+                    used.add(identity)
                 counts[category]+=1;found.add(category)
                 if category in ('excluded','retain'):continue
                 record=dict(package=rel,key=list(entry.key),type=TEXT_TYPES[entry.key[0]],name=name,row=ordinal,language=lang,en=value,description=desc,category=category,reason=reason)
@@ -55,6 +70,7 @@ def main():
             resources.update(found)
         inventory.append(dict(package=rel,sha256=hashlib.sha256(pack.data).hexdigest(),bytes=len(pack.data),index_width=pack.width,resources=len(pack.entries),text_row_categories=dict(counts),text_resource_categories=dict(resources),tables_with_preserved_tail=padding,legacy_technical_resources=legacy,errors=errors))
         print(rel,dict(counts), 'parse errors',len(errors),flush=True)
+    if used!=set(overrides):raise ValueError(('Unused row overrides',set(overrides)-used))
     args.output.mkdir(parents=True,exist_ok=True)
     for filename,data in [('catalog.json',records),('review_queue.json',review),('inventory.json',inventory)]:
         (args.output/filename).write_text(json.dumps(data,ensure_ascii=True,indent=2)+'\n')

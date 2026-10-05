@@ -45,3 +45,11 @@ python src/builder/build_v07.py --audit-only
 2. Review inherited/untagged resources with object and behavior context. Cast metadata is a useful seed, not proof of runtime reachability. Default exclusions outside confirmed scope are heuristic, not a claim that all untagged STR# text is internal.
 3. Verify the selector's actual runtime source. See `SELECTOR_DIAGNOSIS.md`. Do not overwrite a user's active neighborhood save with an installation template.
 4. Build one consolidated v0.8 TEST only after source coverage, scope review, package QA and font/installer QA. In-game testing remains Ron's verification; do not claim it has happened here.
+
+## Reviewed inherited interactions
+
+`row_scope_overrides.json` promotes 510 exact rows (167 unique interaction labels) from the inherited review queue into menu scope. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
+
+Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
+
+Current source includes all 1,544 selected unique story/career values, 923 translated menu values and 899 translated catalog values. There are still 17 candidate rows under review and 38,556 inherited rows awaiting classification. Story-selector runtime source remains unverified. No consolidated v0.8 TEST release has been produced.

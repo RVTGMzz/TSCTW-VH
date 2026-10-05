@@ -75,7 +75,7 @@ def assess():
     report = {
         'status': 'incomplete' if remaining or review or parse_errors else 'source-complete',
         'in_game_tested': False,
-        'scope': 'Cast localization metadata + exact same-resource English variants. Untagged inherited rows remain unresolved, not silently excluded.',
+        'scope': 'Cast localization metadata + exact same-resource English variants + reviewed exact row overrides. Remaining inherited rows are unresolved, not silently excluded.',
         'categories': {c:dict(collections.Counter(rows.values())) for c,rows in sorted(groups.items())},
         'translation_map_entries': sum(map(len,maps.values())),
         'candidate_rows': len(records),

@@ -1,0 +1,14 @@
+{
+  "purpose": "Evidence for review, not a replacement for classification or reachability tests",
+  "source_review_queue_sha256": "041a0d5d59d83088bc8f3395eb9da0e624ddcf0c7181738fe2afebc2617ee70c",
+  "rows": 38556,
+  "unique_values": 11183,
+  "decisions": {
+    "review": 37912,
+    "retain": 97,
+    "exclude": 547
+  },
+  "unresolved_in_groups_with_cast_text": 5713,
+  "unresolved_in_cs_named_objects": 2671,
+  "warning": "EP/base-game metadata or a CS object name alone never proves a row unused or reachable. The main coverage report still retains the entire inherited queue until per-resource decisions are integrated."
+}

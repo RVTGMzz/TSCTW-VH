@@ -1,7 +1,7 @@
 {
   "status": "incomplete",
   "in_game_tested": false,
-  "scope": "Cast localization metadata + exact same-resource English variants. Untagged inherited rows remain unresolved, not silently excluded.",
+  "scope": "Cast localization metadata + exact same-resource English variants + reviewed exact row overrides. Remaining inherited rows are unresolved, not silently excluded.",
   "categories": {
     "catalog": {
       "translated": 899,
@@ -17,8 +17,8 @@
       "translated": 2
     },
     "menu": {
-      "translated": 829,
-      "review": 7
+      "translated": 923,
+      "review": 6
     },
     "neighborhood": {
       "translated": 39,
@@ -28,8 +28,7 @@
       "translated": 27
     },
     "story": {
-      "translated": 974,
-      "missing": 570
+      "translated": 1544
     },
     "text": {
       "translated": 1
@@ -45,10 +44,10 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 3675,
-  "candidate_rows": 6668,
-  "untranslated_or_review_candidate_rows": 619,
-  "untagged_review_rows": 39066,
+  "translation_map_entries": 4339,
+  "candidate_rows": 7178,
+  "untranslated_or_review_candidate_rows": 17,
+  "untagged_review_rows": 38556,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
   "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete."

@@ -637,12 +637,6 @@
   },
   {
     "category": "menu",
-    "en": "Cheat",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
-  },
-  {
-    "category": "menu",
     "en": "Cooking test",
     "status": "review",
     "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."

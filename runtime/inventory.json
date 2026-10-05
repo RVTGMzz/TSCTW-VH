@@ -58,8 +58,8 @@
     "index_width": 24,
     "resources": 243065,
     "text_row_categories": {
-      "review": 39066,
-      "menu": 2026,
+      "review": 38556,
+      "menu": 2536,
       "retain": 133224,
       "excluded": 180017,
       "object": 38,
@@ -71,9 +71,9 @@
       "text": 1
     },
     "text_resource_categories": {
-      "review": 5362,
-      "menu": 352,
+      "review": 5306,
       "retain": 10696,
+      "menu": 424,
       "excluded": 19099,
       "object": 16,
       "catalog": 505,
