@@ -9895,5 +9895,193 @@
     "object_names": [
       "CS - Outdoor - Fire Pit Survival"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140023001,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Surfer Paul's Ultra-Tropic Snack Bar",
+    "description": "!Cast Catalog COM",
+    "category": "catalog",
+    "reason": "Reviewed player-facing Castaway catalog title/description; exact CTSS row and owning object recorded.",
+    "object_names": [
+      "CS - Food Stand - Tropics",
+      "Food Stand - Tropics\\ - 0, 0",
+      "Food Stand - Tropics\\ - 0, 1",
+      "Food Stand - Tropics\\ - 0, 2",
+      "Food Stand - Tropics\\ - 0, 3",
+      "Food Stand - Tropics\\ - 0, 4 - Lead",
+      "Food Stand - Tropics\\ - 1, 0",
+      "Food Stand - Tropics\\ - 1, 1",
+      "Food Stand - Tropics\\ - 1, 2",
+      "Food Stand - Tropics\\ - 1, 3",
+      "Food Stand - Tropics\\ - 1, 4",
+      "Food Stand - Tropics\\ - 2, 0",
+      "Food Stand - Tropics\\ - 2, 1",
+      "Food Stand - Tropics\\ - 2, 2",
+      "Food Stand - Tropics\\ - 2, 3",
+      "Food Stand - Tropics\\ - 2, 4",
+      "Food Stand - Tropics\\ - 3, 0",
+      "Food Stand - Tropics\\ - 3, 1",
+      "Food Stand - Tropics\\ - 3, 2",
+      "Food Stand - Tropics\\ - 3, 3",
+      "Food Stand - Tropics\\ - 3, 4"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140023001,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Surfer Paul thought he'd find his calling by learning how to stay upright on his board and ride a wave to the shore. That is, until he got his first taste of tropical barbecue! The grillmaster awarded Surfer Paul a kabob for a truly great swan dive straight into the beach, and the rest is franchise history.",
+    "description": "!Cast Catalog COM",
+    "category": "catalog",
+    "reason": "Reviewed player-facing Castaway catalog title/description; exact CTSS row and owning object recorded.",
+    "object_names": [
+      "CS - Food Stand - Tropics",
+      "Food Stand - Tropics\\ - 0, 0",
+      "Food Stand - Tropics\\ - 0, 1",
+      "Food Stand - Tropics\\ - 0, 2",
+      "Food Stand - Tropics\\ - 0, 3",
+      "Food Stand - Tropics\\ - 0, 4 - Lead",
+      "Food Stand - Tropics\\ - 1, 0",
+      "Food Stand - Tropics\\ - 1, 1",
+      "Food Stand - Tropics\\ - 1, 2",
+      "Food Stand - Tropics\\ - 1, 3",
+      "Food Stand - Tropics\\ - 1, 4",
+      "Food Stand - Tropics\\ - 2, 0",
+      "Food Stand - Tropics\\ - 2, 1",
+      "Food Stand - Tropics\\ - 2, 2",
+      "Food Stand - Tropics\\ - 2, 3",
+      "Food Stand - Tropics\\ - 2, 4",
+      "Food Stand - Tropics\\ - 3, 0",
+      "Food Stand - Tropics\\ - 3, 1",
+      "Food Stand - Tropics\\ - 3, 2",
+      "Food Stand - Tropics\\ - 3, 3",
+      "Food Stand - Tropics\\ - 3, 4"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140023001,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Taste of the Tropics Food Stand",
+    "description": "!Cast Catalog COM",
+    "category": "catalog",
+    "reason": "Reviewed player-facing Castaway catalog title/description; exact CTSS row and owning object recorded.",
+    "object_names": [
+      "CS - Food Stand - Tropics",
+      "Food Stand - Tropics\\ - 0, 0",
+      "Food Stand - Tropics\\ - 0, 1",
+      "Food Stand - Tropics\\ - 0, 2",
+      "Food Stand - Tropics\\ - 0, 3",
+      "Food Stand - Tropics\\ - 0, 4 - Lead",
+      "Food Stand - Tropics\\ - 1, 0",
+      "Food Stand - Tropics\\ - 1, 1",
+      "Food Stand - Tropics\\ - 1, 2",
+      "Food Stand - Tropics\\ - 1, 3",
+      "Food Stand - Tropics\\ - 1, 4",
+      "Food Stand - Tropics\\ - 2, 0",
+      "Food Stand - Tropics\\ - 2, 1",
+      "Food Stand - Tropics\\ - 2, 2",
+      "Food Stand - Tropics\\ - 2, 3",
+      "Food Stand - Tropics\\ - 2, 4",
+      "Food Stand - Tropics\\ - 3, 0",
+      "Food Stand - Tropics\\ - 3, 1",
+      "Food Stand - Tropics\\ - 3, 2",
+      "Food Stand - Tropics\\ - 3, 3",
+      "Food Stand - Tropics\\ - 3, 4"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140023001,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "While hiking through the jungle on a humanitarian mission, a great man came upon a long lost tropical paradise.  He lived with the locals for 6 months before they discovered his private jet and he was forced to leave.  Luckily for our CEO, it was just enough time for him to discover their prized recipe which we have replicated for you using ingredients and materials imported directly from that beautiful paradise.",
+    "description": "!Cast Catalog COM",
+    "category": "catalog",
+    "reason": "Reviewed player-facing Castaway catalog title/description; exact CTSS row and owning object recorded.",
+    "object_names": [
+      "CS - Food Stand - Tropics",
+      "Food Stand - Tropics\\ - 0, 0",
+      "Food Stand - Tropics\\ - 0, 1",
+      "Food Stand - Tropics\\ - 0, 2",
+      "Food Stand - Tropics\\ - 0, 3",
+      "Food Stand - Tropics\\ - 0, 4 - Lead",
+      "Food Stand - Tropics\\ - 1, 0",
+      "Food Stand - Tropics\\ - 1, 1",
+      "Food Stand - Tropics\\ - 1, 2",
+      "Food Stand - Tropics\\ - 1, 3",
+      "Food Stand - Tropics\\ - 1, 4",
+      "Food Stand - Tropics\\ - 2, 0",
+      "Food Stand - Tropics\\ - 2, 1",
+      "Food Stand - Tropics\\ - 2, 2",
+      "Food Stand - Tropics\\ - 2, 3",
+      "Food Stand - Tropics\\ - 2, 4",
+      "Food Stand - Tropics\\ - 3, 0",
+      "Food Stand - Tropics\\ - 3, 1",
+      "Food Stand - Tropics\\ - 3, 2",
+      "Food Stand - Tropics\\ - 3, 3",
+      "Food Stand - Tropics\\ - 3, 4"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136532384,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Naturalist Steven Crest discovered a species of brightly colored birds while exploring the jungle. He quickly noticed that the birds were talking! Realizing he could socialize with birds instead of Sims, Crest devised the Tropico Avian Sanctuary and brought them home. Whether you're lonely and need a companion or just wish to add some colorful plumage to your home, Crest's birds are the answer!",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "catalog",
+    "reason": "Reviewed player-facing Castaway catalog title/description; exact CTSS row and owning object recorded.",
+    "object_names": [
+      "CS - Pet - Contained Pet - Bird"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136532384,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Naturalist Steven Crest discovered a species of brightly colored birds while exploring the jungle. He quickly noticed that the birds were talking! Realizing he could socialize with birds instead of Sims, Crest devised the Tropico Avian Sanctuary and brought them home. Whether you're lonely and need a companion or just wish to add some colorful plumage to your home, Crest's birds are the answer!",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "catalog",
+    "reason": "Reviewed player-facing Castaway catalog title/description; exact CTSS row and owning object recorded.",
+    "object_names": [
+      "CS - Pet - Contained Pet - Bird"
+    ]
   }
 ]
