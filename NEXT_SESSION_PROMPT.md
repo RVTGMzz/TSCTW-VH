@@ -61,3 +61,8 @@ The prior checkpoint's 17 candidate rows have now all been resolved by exact sou
 ### Audit filter correction — 2026-10-05
 
 A reproducible audit bug had treated descriptions containing `! Don't translate.` as inherited review instead of explicit exclusions because the filter only matched `Do not translate`. The filter now recognizes both wordings. Re-running source audit and context extraction reduced the inherited queue from 38,556 to 38,009 rows; the 547 removed rows have explicit non-translation metadata. Candidate coverage remains 0 missing/review rows, with zero package parse errors. User action: none yet; no package needs re-upload. When the consolidated v0.8 test package is ready, Ron's requested step is one installation followed by focused game verification.
+
+
+### Fire-pit menu batch — 2026-10-05
+
+Added nine player-facing cooking menu translations across 18 exact resource rows for Castaway Outdoor Fire Pit / Fire Pit Survival; source is guarded and reproducible. Menu mappings: 932. Candidate rows: 7,196 with zero missing/review. Untagged inherited review queue: 37,991 rows; selector source remains unverified. Package parser/source checks and disposable package QA pass, but no v0.8 TEST archive exists and in-game testing remains Ron's task. Continue the broad sweep by reviewing evidence-backed player-facing resource families; do not claim completion or ask for the already supplied packages again.
