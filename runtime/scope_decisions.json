@@ -632,56 +632,50 @@
   {
     "category": "menu",
     "en": "Age Rhinehart to Toddler",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+    "status": "exclude",
+    "reason": "developer age-forcing action; not a normal player interaction"
   },
   {
     "category": "menu",
     "en": "Cooking test",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+    "status": "exclude",
+    "reason": "developer test action on campfires; the word test and paired TEST behavior mark internal tooling"
   },
   {
     "category": "menu",
     "en": "Drink Lycanthropic-B",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+    "status": "exclude",
+    "reason": "werewolf/lycanthropy potion behavior is Sims 2 expansion content, outside Castaway gameplay"
   },
   {
     "category": "menu",
     "en": "Dynamic Menu",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+    "status": "exclude",
+    "reason": "Dynamic menu dispatch placeholder in campfire TTAB; player sees resolved child interaction"
   },
   {
     "category": "menu",
     "en": "Tend Bar OLD",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+    "status": "exclude",
+    "reason": "explicitly deprecated old bartending action; current refreshment-stand action is separately mapped"
   },
   {
     "category": "menu",
     "en": "blank description",
-    "status": "review",
-    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+    "status": "exclude",
+    "reason": "literal placeholder metadata used on career job-data resources, not player text"
   },
   {
     "category": "catalog",
     "en": "Remote Control Car Race Marker",
-    "status": "review",
-    "reason": "Race marker object; determine whether visible in catalog or internal control object."
+    "status": "exclude",
+    "reason": "hidden race-system marker object; not a purchasable item or player-facing catalog entry"
   },
   {
     "category": "catalog",
     "en": "blah",
     "status": "exclude",
     "reason": "Literal placeholder description: blah."
-  },
-  {
-    "category": "catalog",
-    "en": "Basket Ghost",
-    "status": "review",
-    "reason": "Basket Ghost has no reviewed player-facing context; determine runtime visibility before translation."
   },
   {
     "category": "catalog",

@@ -4,10 +4,9 @@
   "scope": "Cast localization metadata + exact same-resource English variants + reviewed exact row overrides. Remaining inherited rows are unresolved, not silently excluded.",
   "categories": {
     "catalog": {
-      "translated": 899,
-      "exclude": 6,
-      "retain": 5,
-      "review": 2
+      "translated": 900,
+      "exclude": 7,
+      "retain": 5
     },
     "character": {
       "retain": 21,
@@ -18,7 +17,7 @@
     },
     "menu": {
       "translated": 923,
-      "review": 6
+      "exclude": 6
     },
     "neighborhood": {
       "translated": 39,
@@ -44,9 +43,9 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 4339,
+  "translation_map_entries": 4340,
   "candidate_rows": 7178,
-  "untranslated_or_review_candidate_rows": 17,
+  "untranslated_or_review_candidate_rows": 0,
   "untagged_review_rows": 38556,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
