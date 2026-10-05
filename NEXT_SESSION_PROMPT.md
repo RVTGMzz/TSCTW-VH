@@ -66,3 +66,8 @@ A reproducible audit bug had treated descriptions containing `! Don't translate.
 ### Fire-pit menu batch — 2026-10-05
 
 Added nine player-facing cooking menu translations across 18 exact resource rows for Castaway Outdoor Fire Pit / Fire Pit Survival; source is guarded and reproducible. Menu mappings: 932. Candidate rows: 7,196 with zero missing/review. Untagged inherited review queue: 37,991 rows; selector source remains unverified. Package parser/source checks and disposable package QA pass, but no v0.8 TEST archive exists and in-game testing remains Ron's task. Continue the broad sweep by reviewing evidence-backed player-facing resource families; do not claim completion or ask for the already supplied packages again.
+
+
+### Latest sweep update — fire-pit menus and catalog (2026-10-05)
+
+Since the previous checkpoint, nine fire-pit cooking menu strings (18 exact TTAs rows) and three missing catalog strings (six exact CTSS rows) were added. Existing translation entries were preserved. Current selected coverage: 7,202 rows, zero missing/review; menu 932 translations; catalog 903 translations + 7 excluded + 5 retained; 4,352 mapping entries. The inherited review queue is 37,985 rows and remains unresolved in broad scope. Package QA is rerunning; no v0.8 TEST has been built, selector source remains unverified, and in-game QA remains untested. Continue the evidence-based sweep without requesting previously supplied files again.
