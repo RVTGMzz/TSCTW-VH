@@ -9571,5 +9571,329 @@
     "object_names": [
       "CS - ScriptHolder - Staff Heal-Zap"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Cooking.../Grill.../Fruit Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Cooking.../Grill.../Wrap",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 1,
+    "en": "Cooking.../Pot.../Codfish Stew",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 24,
+    "language": 1,
+    "en": "Cooking.../Pot.../Mango Shrimp Chili",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 25,
+    "language": 1,
+    "en": "Cooking.../Grill.../Lobster Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 26,
+    "language": 1,
+    "en": "Cooking.../Grill.../Shrimp Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 47,
+    "language": 2,
+    "en": "Server Dinner",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 48,
+    "language": 2,
+    "en": "Cooking.../Grill.../Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      1,
+      0
+    ],
+    "row": 49,
+    "language": 2,
+    "en": "Cooking.../Grill.../Wrap",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Cooking.../Grill.../Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Cooking.../Grill.../Wrap",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 1,
+    "en": "Cooking.../Pot.../Codfish Stew",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 24,
+    "language": 1,
+    "en": "Cooking.../Pot.../Mango Shrimp",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 25,
+    "language": 1,
+    "en": "Cooking.../Grill.../Lobster Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 26,
+    "language": 1,
+    "en": "Cooking.../Grill.../Shrimp Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 47,
+    "language": 2,
+    "en": "Server Dinner",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 48,
+    "language": 2,
+    "en": "Cooking.../Grill.../Kabob",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 49,
+    "language": 2,
+    "en": "Cooking.../Grill.../Wrap",
+    "description": "!Sims 2 ",
+    "category": "menu",
+    "reason": "Reviewed functional cooking option in Castaway fire-pit pie menu; exact source row and object ownership recorded.",
+    "object_names": [
+      "CS - Outdoor - Fire Pit Survival"
+    ]
   }
 ]
