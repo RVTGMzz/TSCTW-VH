@@ -1,0 +1,53 @@
+{
+  "status": "incomplete",
+  "in_game_tested": false,
+  "scope": "Cast localization metadata + exact same-resource English variants. Untagged inherited rows remain unresolved, not silently excluded.",
+  "categories": {
+    "catalog": {
+      "translated": 156,
+      "exclude": 3,
+      "missing": 753
+    },
+    "character": {
+      "retain": 21,
+      "translated": 21
+    },
+    "dialog": {
+      "translated": 2
+    },
+    "menu": {
+      "translated": 829,
+      "review": 7
+    },
+    "neighborhood": {
+      "translated": 39,
+      "retain": 66
+    },
+    "object": {
+      "translated": 27
+    },
+    "story": {
+      "missing": 1544
+    },
+    "text": {
+      "translated": 1
+    },
+    "tutorial": {
+      "translated": 125
+    },
+    "ui": {
+      "translated": 235,
+      "exclude": 15
+    },
+    "want": {
+      "translated": 518
+    }
+  },
+  "translation_map_entries": 1953,
+  "candidate_rows": 6668,
+  "untranslated_or_review_candidate_rows": 3014,
+  "untagged_review_rows": 39066,
+  "parse_errors": 0,
+  "selector_runtime_source_verified": false,
+  "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete."
+}

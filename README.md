@@ -105,3 +105,8 @@ Chi tiết: [`BUILD.md`](BUILD.md).
 - `validation.json`: validation của build v0.6, chưa đại diện cho draft hiện tại.
 
 Chỉ ghi “đã test trong game” khi Ron xác nhận trực tiếp.
+
+
+### Runtime sweep checkpoint (2026-10-05)
+
+Runtime source, reproducible package audit and development QA are available in [`runtime/README.md`](runtime/README.md). See [`runtime/coverage.json`](runtime/coverage.json) for exact translated/missing/review counts. This checkpoint is incomplete; **v0.8 TEST has not been released**. Core translation history is preserved. Story-selector runtime source remains under investigation.

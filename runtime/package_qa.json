@@ -1,0 +1,139 @@
+{
+  "purpose": "development package QA, not v0.8 release",
+  "in_game_tested": false,
+  "files": [
+    {
+      "package": "TSData/Res/Catalog/CANHObjects/catcanhobjects.bundle.package",
+      "sha256_before": "e721a46865280bf80a75efe51f95c124aab775489d832c677ff0cd8bbbdee535",
+      "sha256_after": "35dbec1902674fdcbbde6de0500206b3f4a6ddf86c07628000c55e397046105b",
+      "changed_rows": 23,
+      "changed_resources": 23,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/ObjectScripts/ObjectScripts.package",
+      "sha256_before": "a9067ef323c4b899fc0e4a85991f4a5c5277d7f81917d5475fd3136e6459f232",
+      "sha256_after": "a9067ef323c4b899fc0e4a85991f4a5c5277d7f81917d5475fd3136e6459f232",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Objects/Global/Behavior.package",
+      "sha256_before": "f6f57159b02fe812882b5b773be3ecdf87fe9c62447e8096ee19b2fb46f8999e",
+      "sha256_after": "f6f57159b02fe812882b5b773be3ecdf87fe9c62447e8096ee19b2fb46f8999e",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Objects/objects.package",
+      "sha256_before": "6fec186b61074c7483474d69ab703de9a62fae2aa3ea8966ed68f9c60e9a457a",
+      "sha256_after": "4b6360661988390f196f9c96577b1fd72164494ffa80be5220c056de892b1635",
+      "changed_rows": 2861,
+      "changed_resources": 526,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Text/EPText.package",
+      "sha256_before": "04e0f5c2f3a2c0646d87eb45f3959770e99ba4abc1ab491b5e48aeada2aa8063",
+      "sha256_after": "04e0f5c2f3a2c0646d87eb45f3959770e99ba4abc1ab491b5e48aeada2aa8063",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Text/Wants.package",
+      "sha256_before": "1e4abb02a7f39eb40d889175e74a4d8947b35da729bc71ce5ede3e35dc2418cb",
+      "sha256_after": "21795e2677bcb945f367e1ca8f9e33017b433607092de7ca7e3cb888ab354e9d",
+      "changed_rows": 545,
+      "changed_resources": 214,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package",
+      "sha256_before": "8bd925c42b78c325ac47d06180c3b4ca7c3618fbc853760151a826b8ac4454d8",
+      "sha256_after": "7df059382325f218b6a50e0115e0995a044465c1fe52c61737026f2387f33801",
+      "changed_rows": 60,
+      "changed_resources": 41,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/UserData/Neighborhoods/N002/N002_Neighborhood.package",
+      "sha256_before": "980b48d85ff335e16883526c530739c72abfeda6ecfd696dac679082297e5e0e",
+      "sha256_after": "66470c561ccf148e26ac5e051965647e15ce6e3ba8d1894a291ab4ed0e30347b",
+      "changed_rows": 19,
+      "changed_resources": 18,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/UserData/Neighborhoods/NeighborhoodManager.package",
+      "sha256_before": "fe133768535a2207857cb8815720b477722be7fda4c9cba5289a1477418e315f",
+      "sha256_after": "fe133768535a2207857cb8815720b477722be7fda4c9cba5289a1477418e315f",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Wants/Goals.package",
+      "sha256_before": "97baa7bbba37502733797dc55619ee37960dc50be0ede06797b91b1a976dbec9",
+      "sha256_after": "97baa7bbba37502733797dc55619ee37960dc50be0ede06797b91b1a976dbec9",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Wants/WantTrees.package",
+      "sha256_before": "16c5778de3b1d7754ffb85372107afbc9b0ad2e3205c0c5d5960705aaaa94515",
+      "sha256_after": "16c5778de3b1d7754ffb85372107afbc9b0ad2e3205c0c5d5960705aaaa94515",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Wants/WantTuning.package",
+      "sha256_before": "44f5897c9113d0e330d614eb09a52052e03569cccff2fe329487a35665040661",
+      "sha256_after": "44f5897c9113d0e330d614eb09a52052e03569cccff2fe329487a35665040661",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    },
+    {
+      "package": "TSData/Res/Wants/Wants.package",
+      "sha256_before": "788cefad7c9b96fa48880f6cc0d48adb851667dca51f92d6afab255e64f89484",
+      "sha256_after": "788cefad7c9b96fa48880f6cc0d48adb851667dca51f92d6afab255e64f89484",
+      "changed_rows": 0,
+      "changed_resources": 0,
+      "idempotence": true,
+      "unchanged_resources_preserved": true
+    }
+  ],
+  "source_sha256": {
+    "runtime/translations/catalog.json": "336f3c1aeafe93ae277db1797f356910df60172fcba365fc56a73e51095be73a",
+    "runtime/translations/character.json": "bf1a261283f80ce2e0be909cc155b02c60b588a16814abb20ee0bb66ec9500dd",
+    "runtime/translations/dialog.json": "f409c660869373400d84e35bbe79492396b5a6f49ce63b42d684c6b57aa02c10",
+    "runtime/translations/menu.json": "6488a6f60ad1676e48d1dd43548668585724cf1b9f619b01bcddf68e7a1e5cdc",
+    "runtime/translations/neighborhood.json": "593e8c922276d4b6388870c8cf29804621f0cc6067d9b2f506b3d2fcdf6216b3",
+    "runtime/translations/object.json": "f635b28fb42436fb3c61e101cdd149aebdb203ee91ca8a4a42291c74b4b4dbce",
+    "runtime/translations/text.json": "334683a16898f51159d0762a0d0c5c7b01197731de23fc67484bf1b89ecf28d9",
+    "runtime/translations/tutorial.json": "f2c8e8fed841f733df130e868db216a0dd704470f46dbac43e9204e9d43f372c",
+    "runtime/translations/ui.json": "212807d992f31d261cedceda05d3c40e00317d208d70224ee4b3ef152be34a63",
+    "runtime/translations/want.json": "5b88ec0c7b6f06480534788c2ffc65d9d5d1c11474b25831cb036aa104287f6c",
+    "runtime/scope_decisions.json": "cdd99d0905277793af0a9256c36502f4a70afe4b4900f70add5d3c4a4700851a",
+    "runtime/catalog.json.gz": "7fc1f595cf64a7cff0fb25e82d5453a9ad38b4bb90c366c49dac6a1659e7937e",
+    "src/builder/runtime_dbpf.py": "28c73d381cd34e6899b4fc20ea77e3a00b9540a9f319bd85d071d61c2f02c025",
+    "src/builder/check_runtime_packages.py": "5ba0deb671a0390a0dfb30999bc1c6ad4178ad16ebea51bcafe5ad38ea2c1bca"
+  }
+}

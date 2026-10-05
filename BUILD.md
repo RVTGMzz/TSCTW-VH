@@ -92,3 +92,8 @@ Chế độ này sẽ yêu cầu đủ 8 package và áp toàn bộ mapping ngu�
 Scope v0.8 cần hỗ trợ thêm package/resource ngoài Text builder cũ, đặc biệt `objects.package` với DBPF index entry 24 byte và resource TTAs/CTSS/STR#. Không dùng parser giả định index 20 byte cho file này.
 
 Các hotfix v0.7a/v0.7b từng được build ngoài repo để test nhanh. Chúng không phải kiến trúc cuối cùng. Bước kế tiếp là persist runtime translation source + audit report rồi build một payload tổng hợp v0.8.
+
+
+## v0.8 runtime development (not a release)
+
+Runtime extraction, source QA and disposable package QA are documented in `runtime/README.md`. Run `python src/builder/validate_runtime.py --require-complete` as the source coverage gate before attempting a consolidated release. It is expected to fail at the current partial checkpoint. Do not distribute the output of `check_runtime_packages.py` as v0.8 TEST: it is an isolated writer QA, not the combined core Text/font/runtime installer.

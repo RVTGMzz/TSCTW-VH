@@ -34,3 +34,8 @@ Nếu cần package để scan/build, nói chính xác file nào tôi phải upl
 
 ---
 
+
+
+## Checkpoint bổ sung 2026-10-05
+
+Sau khi đọc các tài liệu trên, đọc `runtime/README.md`, `runtime/coverage.json`, `runtime/package_qa.json` và `runtime/SELECTOR_DIAGNOSIS.md`. Tiếp tục từ `runtime/remaining.json.gz` và queue chưa phân loại `runtime/review_queue.json.gz`. Đã có bản dịch runtime theo nhóm, không làm lại hoặc thay thế mù. Đây vẫn là checkpoint chưa hoàn thành; chưa có bản tổng hợp v0.8 TEST. Không lấy số câu đã dịch làm bằng chứng toàn game đã hết English.

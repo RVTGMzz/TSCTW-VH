@@ -169,3 +169,10 @@ Lưu ý cực quan trọng: các status count lớn từng nói trong chat trư�
 7. Sửa story selector bằng cách tìm nguồn runtime thật sự game đang đọc; patch N001/N002 alone đã structural PASS nhưng Ron vẫn thấy English.
 8. Build **một bản tổng hợp v0.8 TEST**, không tiếp tục bắt Ron cài nhiều hotfix lẻ.
 9. Ron test runtime; chỉ sau đó mới cập nhật phần nào thực sự fixed.
+
+
+## Runtime source checkpoint — 2026-10-05
+
+Read `runtime/README.md`, `runtime/coverage.json` and `runtime/SELECTOR_DIAGNOSIS.md` next. The source now includes runtime mappings and reproducible DBPF audits. This is **partial work toward v0.8**, not a released v0.8 TEST. The core `translations/` history and root `validation.json` are retained.
+
+Continue from `runtime/remaining.json.gz`, without redoing translated entries or replacing previous maps. Review the separate untagged queue. Source-only QA: `python src/builder/validate_runtime.py`; actual package QA: `python src/builder/check_runtime_packages.py` with baseline packages staged per inventory.

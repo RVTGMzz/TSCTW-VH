@@ -170,3 +170,12 @@ Ron đã thực sự chạy game sau v0.7, v0.7a và v0.7b. Kết quả:
 ## Cảnh báo về các số liệu tạm thời trong chat cũ
 
 Trong phiên trước có các status message nói đã sweep một số lượng lớn resource. Những con số đó **không được persist thành audit/source file trong repo trước khi phiên bị ngắt**. Model tiếp theo không được coi chúng là bằng chứng hoàn tất. Hãy chạy lại audit, lưu kết quả và commit trước khi dùng số đếm để báo tiến độ.
+
+
+## Reproducible checkpoint — 2026-10-05
+
+The runtime extraction and current translations are now under `runtime/`. See `runtime/coverage.json` for actual coverage, `runtime/inventory.json` for input SHA-256 and parse results, and `runtime/remaining.json.gz` for unfinished candidate rows. The separate `runtime/review_queue.json.gz` preserves unresolved inherited/untagged text.
+
+The new DBPF reader/writer supports both 20-byte and 24-byte indices and preserves table suffix bytes. Some Cast-tagged rows are diagnostics or internal identifiers: decisions are explicit in `runtime/scope_decisions.json`. A successful parser or token check is **not** a full sweep completion claim.
+
+The selector's active source is still unverified; inspect `runtime/SELECTOR_DIAGNOSIS.md` before applying any save changes. Do not overwrite an existing neighborhood save with a template. There is no consolidated v0.8 TEST release yet.

@@ -1,0 +1,674 @@
+[
+  {
+    "category": "neighborhood",
+    "en": "Rhinehart",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Pittman",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Zarubin",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Castaway Beach",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Orangutan Jungle",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Broken Wings",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Shady Lagoon",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Jungle Ruins",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Rocky Beach",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Barren Banks",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Swamp",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Boneyard",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Crossroads",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Forbidden Village",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Grasslands",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Friendly Village South",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Friendly Village North",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Hot Springs",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Hullaba Luau",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Abandoned Research Base",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Jungle",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Creepy Hollow",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The House of Tuzu",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Volcano Beach",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Volcano Shores",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Dead Man's Cove",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Village Market",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Simian City",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Primeval Shrine",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Swamp",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Boneyard",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Scavenger Fields",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Hot Springs",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Jungle",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Village Harbor",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Lava Pools",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Petrified Forest",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Chief's Hut",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Men's Hut",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Women's Hut",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "The Shaman's Hut",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Village Residence",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Swaying Palms Nightclub",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "From the Ground Up Market",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Bare Bones Basin",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Division Six",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Machete Glade",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Buccaneer Cove",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Flora Bora",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Big House",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Wreck of the Redsnout",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Highland Station",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Peak Village",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Lerner's Bluff",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Mystery Shack",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Lazy Afternoon Park",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Stillwater Marsh",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Green Lagoon",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Boiling Meadows",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "valley Village",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Valley Village",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Lost City of SomeTribe",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Solitary Shack",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Hot Property",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Beginner's Landing",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "neighborhood",
+    "en": "Spear Point",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Manave",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Gibson",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Tama",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Anuata",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Bailey",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Barnham",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Smith",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Heimata",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Whetu",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Knight",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Herenui",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Bennett",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Valance",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Lerner",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Tiani",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Talani",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Barrett",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Curry",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Wilson",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Folon",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "character",
+    "en": "Pongwa",
+    "reason": "Proper character/family/location name; retain per TRANSLATION_STYLE.md",
+    "status": "retain"
+  },
+  {
+    "category": "ui",
+    "en": "Baby - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Swimsuit Outfits: $Local:0",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Formal Outfits: $Local:0",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Pajama Outfits: $Local:0",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Underwear Outfits: $Local:0",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Baby - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Toddler - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Toddler - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Child- Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Teen - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Teen - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Child - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Adult - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Adult - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "ui",
+    "en": "Elder - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "status": "exclude",
+    "reason": "Wardrobe diagnostic output: age/sex dump with clothing slot counters; not gameplay prose."
+  },
+  {
+    "category": "catalog",
+    "en": "tropicalHammock",
+    "status": "exclude",
+    "reason": "Internal asset identifier in catalog-tagged resource; no player-facing description."
+  },
+  {
+    "category": "catalog",
+    "en": "bedDoubleLoft_broken",
+    "status": "exclude",
+    "reason": "Internal asset identifier in catalog-tagged resource; no player-facing description."
+  },
+  {
+    "category": "catalog",
+    "en": "tropicalTreeHammock",
+    "status": "exclude",
+    "reason": "Internal asset identifier in catalog-tagged resource; no player-facing description."
+  },
+  {
+    "category": "menu",
+    "en": "Age Rhinehart to Toddler",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "menu",
+    "en": "Cheat",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "menu",
+    "en": "Cooking test",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "menu",
+    "en": "Drink Lycanthropic-B",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "menu",
+    "en": "Dynamic Menu",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "menu",
+    "en": "Tend Bar OLD",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "menu",
+    "en": "blank description",
+    "status": "review",
+    "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  }
+]

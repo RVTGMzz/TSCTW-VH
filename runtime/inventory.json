@@ -1,0 +1,2406 @@
+[
+  {
+    "package": "TSData/Res/Catalog/CANHObjects/catcanhobjects.bundle.package",
+    "sha256": "e721a46865280bf80a75efe51f95c124aab775489d832c677ff0cd8bbbdee535",
+    "bytes": 124532,
+    "index_width": 20,
+    "resources": 208,
+    "text_row_categories": {
+      "excluded": 109,
+      "retain": 312,
+      "catalog": 17,
+      "neighborhood": 6
+    },
+    "text_resource_categories": {
+      "excluded": 80,
+      "retain": 103,
+      "catalog": 17,
+      "neighborhood": 6
+    },
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/ObjectScripts/ObjectScripts.package",
+    "sha256": "a9067ef323c4b899fc0e4a85991f4a5c5277d7f81917d5475fd3136e6459f232",
+    "bytes": 261076,
+    "index_width": 24,
+    "resources": 410,
+    "text_row_categories": {},
+    "text_resource_categories": {},
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Objects/Global/Behavior.package",
+    "sha256": "f6f57159b02fe812882b5b773be3ecdf87fe9c62447e8096ee19b2fb46f8999e",
+    "bytes": 429014,
+    "index_width": 20,
+    "resources": 115,
+    "text_row_categories": {
+      "excluded": 2785,
+      "retain": 207
+    },
+    "text_resource_categories": {
+      "excluded": 113,
+      "retain": 21
+    },
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "sha256": "6fec186b61074c7483474d69ab703de9a62fae2aa3ea8966ed68f9c60e9a457a",
+    "bytes": 100068157,
+    "index_width": 24,
+    "resources": 243065,
+    "text_row_categories": {
+      "review": 39066,
+      "menu": 2026,
+      "retain": 133224,
+      "excluded": 180017,
+      "object": 38,
+      "catalog": 1035,
+      "story": 2138,
+      "ui": 548,
+      "dialog": 3,
+      "tutorial": 125,
+      "text": 1
+    },
+    "text_resource_categories": {
+      "review": 5362,
+      "menu": 352,
+      "retain": 10696,
+      "excluded": 19099,
+      "object": 16,
+      "catalog": 505,
+      "story": 31,
+      "ui": 73,
+      "dialog": 2,
+      "tutorial": 1,
+      "text": 1
+    },
+    "tables_with_preserved_tail": 400,
+    "legacy_technical_resources": [
+      {
+        "key": [
+          1398034979,
+          2133331309,
+          129,
+          0
+        ],
+        "name": "Nightstand Expensive skill table",
+        "format": "0000",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141915382,
+          129,
+          0
+        ],
+        "name": "endtable1 skill table",
+        "format": "0000",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132207824,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137353549,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141340938,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143769629,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134583391,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132196972,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137340913,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135040478,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133573775,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132130097,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2142410688,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136490281,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2142238556,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2131027192,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146751103,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143376448,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2142609790,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132674283,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137692554,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135586422,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132124462,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144393191,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2131069361,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143362749,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141325699,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137658046,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145027046,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146391212,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144671053,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2131737026,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145508491,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134892723,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132756678,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144765511,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136707814,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133452146,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137264557,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134579854,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134395916,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146831686,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146786244,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141359102,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143204415,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134821795,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135541605,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2147319697,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144796009,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135098673,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136933768,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135838920,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2147423566,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144564467,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133331309,
+          256,
+          0
+        ],
+        "name": "bedstandex attribute labels",
+        "format": "0000",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141915382,
+          256,
+          0
+        ],
+        "name": "endtable1 attribute labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134638856,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2138837569,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146872443,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132085641,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140927438,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140121071,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133717520,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143911019,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2131695257,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2130728805,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137563148,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146154648,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146277027,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140658835,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132075580,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134222781,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137037069,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137111362,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137392090,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145235911,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140698811,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141361020,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137610252,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143577431,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143878305,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141725943,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141502721,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145851550,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135125452,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135946298,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135728824,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145697606,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136717479,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133831324,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2139939507,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145564750,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134024702,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145578738,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132535182,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146453240,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134910236,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140896119,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132661424,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134412429,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135274198,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141132590,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136043186,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144623576,
+          256,
+          0
+        ],
+        "name": "Attributes",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146663985,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143275060,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2139461185,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141483081,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2131288636,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132405333,
+          257,
+          0
+        ],
+        "name": "ped portal slot labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141915382,
+          257,
+          0
+        ],
+        "name": "END TABLE slots labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146458543,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136939576,
+          257,
+          0
+        ],
+        "name": "end table labels",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146677109,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141444540,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145825636,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141247477,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141093191,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146389712,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144717308,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140766594,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143832396,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135599910,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134519913,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132116235,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146204313,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134322819,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146819850,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141311688,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137948312,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137095250,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2138911133,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132611486,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132219132,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2147403398,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140865578,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146663985,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143275060,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2139461185,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141483081,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133331309,
+          258,
+          0
+        ],
+        "name": "bedstandex relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146944361,
+          258,
+          0
+        ],
+        "name": "floorlamp1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132585963,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2142883847,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135527461,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2138370444,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140500541,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141791435,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143127959,
+          258,
+          0
+        ],
+        "name": "Relationships",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145323434,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2144454333,
+          258,
+          0
+        ],
+        "name": "relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145694772,
+          258,
+          0
+        ],
+        "name": "Mail Box relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132405333,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141915382,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140527987,
+          258,
+          0
+        ],
+        "name": "Scheduler relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132220028,
+          258,
+          0
+        ],
+        "name": "relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146458543,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133215533,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137983561,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2142298631,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2139996809,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145715304,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141928224,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146303921,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132172869,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132619152,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140251985,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2139109903,
+          258,
+          0
+        ],
+        "name": "PedPortal relationship labels",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136939576,
+          258,
+          0
+        ],
+        "name": "endtable1 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141853043,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137884683,
+          258,
+          0
+        ],
+        "name": "Relationships",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137663708,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146189953,
+          258,
+          0
+        ],
+        "name": "BookShelf relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133023244,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2136821023,
+          258,
+          0
+        ],
+        "name": "Paint3 relationship labels",
+        "format": "ffff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143127959,
+          300,
+          0
+        ],
+        "name": "Behavior editor string set",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2137884683,
+          300,
+          0
+        ],
+        "name": "Behavior editor string set",
+        "format": "0002",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140642631,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2135488312,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146022366,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140064765,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133016612,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2147132901,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2143206910,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133633936,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2139347436,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133129525,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132091065,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2133268797,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2145996120,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2134713738,
+          304,
+          0
+        ],
+        "name": "Suit primitive strings",
+        "format": "f6ff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140642631,
+          4096,
+          0
+        ],
+        "name": "named trees",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2146022366,
+          4096,
+          0
+        ],
+        "name": "named trees",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2140064765,
+          4096,
+          0
+        ],
+        "name": "named trees",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2132091065,
+          4096,
+          0
+        ],
+        "name": "named trees",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2130832425,
+          8192,
+          0
+        ],
+        "name": "skin colors",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      },
+      {
+        "key": [
+          1398034979,
+          2141025447,
+          8192,
+          0
+        ],
+        "name": "skin colors",
+        "format": "feff",
+        "reason": "reviewed legacy technical resource; preserved byte-for-byte"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Text/EPText.package",
+    "sha256": "04e0f5c2f3a2c0646d87eb45f3959770e99ba4abc1ab491b5e48aeada2aa8063",
+    "bytes": 648431,
+    "index_width": 20,
+    "resources": 1,
+    "text_row_categories": {
+      "excluded": 239,
+      "retain": 181
+    },
+    "text_resource_categories": {
+      "excluded": 1,
+      "retain": 1
+    },
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Text/Wants.package",
+    "sha256": "1e4abb02a7f39eb40d889175e74a4d8947b35da729bc71ce5ede3e35dc2418cb",
+    "bytes": 4486248,
+    "index_width": 20,
+    "resources": 1094,
+    "text_row_categories": {
+      "want": 541,
+      "retain": 2792,
+      "excluded": 4142,
+      "ui": 4
+    },
+    "text_resource_categories": {
+      "want": 210,
+      "retain": 689,
+      "excluded": 886,
+      "ui": 4
+    },
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package",
+    "sha256": "8bd925c42b78c325ac47d06180c3b4ca7c3618fbc853760151a826b8ac4454d8",
+    "bytes": 969893,
+    "index_width": 24,
+    "resources": 1216,
+    "text_row_categories": {
+      "excluded": 32,
+      "retain": 144,
+      "ui": 2,
+      "character": 29,
+      "neighborhood": 97
+    },
+    "text_resource_categories": {
+      "excluded": 32,
+      "retain": 108,
+      "ui": 1,
+      "character": 12,
+      "neighborhood": 58
+    },
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/UserData/Neighborhoods/N002/N002_Neighborhood.package",
+    "sha256": "980b48d85ff335e16883526c530739c72abfeda6ecfd696dac679082297e5e0e",
+    "bytes": 831689,
+    "index_width": 24,
+    "resources": 1028,
+    "text_row_categories": {
+      "excluded": 31,
+      "retain": 113,
+      "character": 18,
+      "ui": 2,
+      "neighborhood": 38
+    },
+    "text_resource_categories": {
+      "excluded": 31,
+      "retain": 71,
+      "character": 9,
+      "ui": 1,
+      "neighborhood": 30
+    },
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/UserData/Neighborhoods/NeighborhoodManager.package",
+    "sha256": "fe133768535a2207857cb8815720b477722be7fda4c9cba5289a1477418e315f",
+    "bytes": 842,
+    "index_width": 20,
+    "resources": 5,
+    "text_row_categories": {},
+    "text_resource_categories": {},
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Wants/Goals.package",
+    "sha256": "97baa7bbba37502733797dc55619ee37960dc50be0ede06797b91b1a976dbec9",
+    "bytes": 56827,
+    "index_width": 20,
+    "resources": 118,
+    "text_row_categories": {},
+    "text_resource_categories": {},
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Wants/WantTrees.package",
+    "sha256": "16c5778de3b1d7754ffb85372107afbc9b0ad2e3205c0c5d5960705aaaa94515",
+    "bytes": 1007874,
+    "index_width": 20,
+    "resources": 292,
+    "text_row_categories": {},
+    "text_resource_categories": {},
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Wants/WantTuning.package",
+    "sha256": "44f5897c9113d0e330d614eb09a52052e03569cccff2fe329487a35665040661",
+    "bytes": 8232,
+    "index_width": 20,
+    "resources": 2,
+    "text_row_categories": {},
+    "text_resource_categories": {},
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  },
+  {
+    "package": "TSData/Res/Wants/Wants.package",
+    "sha256": "788cefad7c9b96fa48880f6cc0d48adb851667dca51f92d6afab255e64f89484",
+    "bytes": 633090,
+    "index_width": 20,
+    "resources": 760,
+    "text_row_categories": {},
+    "text_resource_categories": {},
+    "tables_with_preserved_tail": 0,
+    "legacy_technical_resources": [],
+    "errors": []
+  }
+]

@@ -1,10 +1,11 @@
-name: Source Audit v0.7
+name: Source Audit
 
 on:
   push:
     branches: [main]
     paths:
       - "translations/**"
+      - "runtime/**"
       - "castaway-english-strings.json"
       - "src/builder/**"
       - ".github/workflows/source-audit.yml"
@@ -31,3 +32,7 @@ jobs:
           if [ -f work/build_v07/source_audit.json ]; then
             cat work/build_v07/source_audit.json
           fi
+
+
+      - name: Runtime source QA (coverage may remain incomplete)
+        run: python src/builder/validate_runtime.py

@@ -9,3 +9,10 @@ Payload/
 *.rar
 *.zip
 english.json
+
+# Reproducible local extraction/build staging
+work/
+__pycache__/
+# Expanded versions of the committed deterministic gzip audit snapshots
+runtime/catalog.json
+runtime/review_queue.json
