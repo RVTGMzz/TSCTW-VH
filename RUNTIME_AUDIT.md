@@ -206,3 +206,8 @@ A reproducible audit bug had treated descriptions containing `! Don't translate.
 ## Sweep continuation — Castaway fire-pit cooking (2026-10-05)
 
 Added the nine missing player-facing cooking options attached to the Castaway fire-pit menus, with 18 exact TTAs row overrides and object-name evidence. This extends the curated menu source rather than globally translating inherited labels. Debug/test rows in the same resources remain outside scope. The reproducible source and current package QA are in `runtime/row_scope_overrides.json`, `runtime/translations/menu.json`, `runtime/review_context.json.gz`, `runtime/coverage.json`, and `runtime/package_qa.json`. Candidate coverage is complete within the selected scope (7,196 rows, no missing/review); 37,991 inherited rows remain unresolved, so the overall runtime sweep and v0.8 release gate remain incomplete. In-game state is untested.
+
+
+## Sweep continuation — Castaway catalog families (2026-10-05)
+
+Added exact CTSS source rows for the Castaway tropical food stand and talking-bird companion. The owning-object names and original descriptions are preserved in `runtime/row_scope_overrides.json`; three absent Vietnamese values were added to `runtime/translations/catalog.json`. Two existing Surfer Paul translations were preserved unchanged. Candidate coverage now reports 7,202 rows, zero untranslated/review; the separate inherited queue has 37,985 rows. No in-game reachability is claimed for the untagged queue, and the overall sweep remains incomplete.
