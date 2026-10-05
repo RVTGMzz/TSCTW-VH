@@ -211,3 +211,11 @@ Added the nine missing player-facing cooking options attached to the Castaway fi
 ## Sweep continuation — Castaway catalog families (2026-10-05)
 
 Added exact CTSS source rows for the Castaway tropical food stand and talking-bird companion. The owning-object names and original descriptions are preserved in `runtime/row_scope_overrides.json`; three absent Vietnamese values were added to `runtime/translations/catalog.json`. Two existing Surfer Paul translations were preserved unchanged. Candidate coverage now reports 7,202 rows, zero untranslated/review; the separate inherited queue has 37,985 rows. No in-game reachability is claimed for the untagged queue, and the overall sweep remains incomplete.
+
+
+## Sweep continuation — portal, pet and gameplay dialogue (2026-10-05)
+
+Added documented visitor-departure dialogue to 10 Castaway portal resources, plus object-scoped beach-combing and talking-bird popups, animal fight/fetch messages, bookcase/easel notices, and the talking-bird cage menu. `row_scope_overrides.json` now stores 834 exact source guards: 558 menu rows, 270 dialog rows and six catalog rows. Source maps contain 938 menu values, 35 dialog values and 903 catalog values. Candidate snapshot is 7,502 rows with zero missing/review decisions; 37,685 inherited rows remain unresolved. Parser errors are zero. The broad sweep and selector read-path are not complete; no v0.8 TEST or in-game result is claimed.
+
+
+The latest disposable package QA passes: all 6,677 selected rows across the runtime packages were written, re-read and applied a second time without additional changes; unrelated resources were preserved. This is structural/source QA, not an in-game verification.

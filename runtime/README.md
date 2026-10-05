@@ -48,11 +48,11 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` promotes 528 exact menu rows (176 unique interaction labels) plus six exact catalog rows from the inherited review queue into reviewed scope. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
+`row_scope_overrides.json` promotes 558 exact menu rows (186 unique labels), 270 dialog rows and six catalog rows from the inherited review queue into reviewed scope (834 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current source includes all 1,544 selected unique story/career values, 932 translated menu values and 903 translated catalog values. Candidate coverage now has zero missing/review decisions: ten leftover developer/placeholder/expansion entries are explicitly excluded and Basket Ghost is translated. The separate 37,985-row inherited review queue remains unclassified. Story-selector runtime source remains unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,544 story/career values, 938 menu values, 903 catalog values and 35 dialog values. Candidate coverage is 7,502 rows with zero missing/review decisions and zero parser errors. The separate 37,685-row inherited review queue remains unresolved; it is not safe to call the runtime sweep complete. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -65,3 +65,10 @@ Reproducible result: 18 exact rows promoted; 9 new menu values; candidate snapsh
 ### Sweep batch: Castaway catalog descriptions (2026-10-05)
 
 Reviewed two exact CTSS families attached to Castaway objects: the tropical food stand and the talking-bird companion. Promoted six English/UK-English rows with owning-object evidence. Three new catalog strings were translated; existing Surfer Paul title and description entries were retained as-is (merge/superset). Candidate snapshot is now 7,202 rows with zero missing/review; catalog has 903 translated values, seven exclusions and five intentionally retained names. The inherited queue is 37,985 rows and is still not fully classified.
+
+
+### Sweep batch: portal dialogue, bird interactions and popups (2026-10-05)
+
+Reviewed player-visible STR#/TTAs families using exact object and dialog context: visitor departure lines documented as notices the player sees (11 values × 10 portal resources = 220 rows); beach-combing, talking-bird and animal-fight popups (20 rows); orangutan choice dialogs and interaction labels (28 rows); bookcase/easel/fetch/pet/trash hints (30 rows); and bird-cage pie menu actions (22 rows). The developer-only ASPYR nanny diagnostic, bird stock/debug controls, unrelated book resources and unverified expansion entries were not promoted.
+
+Current totals: 834 exact inherited row guards (558 menu, 270 dialog, six catalog); 938 translated menu values; 35 dialog values; 903 catalog values; 7,502 candidate rows with no missing/review rows; 37,685 inherited rows still awaiting broader classification. Placeholder/order and line-break validation passes; source-level package QA passes with idempotent writes and unrelated-resource preservation. No in-game test or v0.8 archive is claimed.

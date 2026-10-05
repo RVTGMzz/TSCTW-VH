@@ -71,3 +71,11 @@ Added nine player-facing cooking menu translations across 18 exact resource rows
 ### Latest sweep update — fire-pit menus and catalog (2026-10-05)
 
 Since the previous checkpoint, nine fire-pit cooking menu strings (18 exact TTAs rows) and three missing catalog strings (six exact CTSS rows) were added. Existing translation entries were preserved. Current selected coverage: 7,202 rows, zero missing/review; menu 932 translations; catalog 903 translations + 7 excluded + 5 retained; 4,352 mapping entries. The inherited review queue is 37,985 rows and remains unresolved in broad scope. Package QA is rerunning; no v0.8 TEST has been built, selector source remains unverified, and in-game QA remains untested. Continue the evidence-based sweep without requesting previously supplied files again.
+
+
+### Latest runtime sweep checkpoint — 2026-10-05
+
+Added three evidence-backed batches beyond the earlier menu/catalog checkpoint: 220 exact visitor-departure dialog rows across Castaway portals; 20 beach-combing/bird/fight popups; 30 dialog and 8 menu rows for Orangutan interactions and other object-specific notices; 22 bird-cage interactions. Current source totals: 4,391 map entries; 938 menu, 35 dialog and 903 catalog values; 834 exact inherited row guards; 7,502 selected candidate rows with zero missing/review; 37,685 inherited rows unresolved; zero package parse errors. Overall runtime completion is not claimed. In-game status remains untested, selector runtime source remains unverified, and no v0.8 TEST archive exists. Continue from updated `runtime/coverage.json`, `runtime/row_scope_overrides.json`, `runtime/translations/`, and `runtime/review_context_summary.json`.
+
+
+Package QA for the latest 7,502-row candidate snapshot passed structural round-trip, idempotence and unrelated-resource preservation checks. `runtime/coverage.json` intentionally remains `incomplete`: 37,685 inherited rows are unresolved, and selector runtime source/in-game verification remain outstanding.

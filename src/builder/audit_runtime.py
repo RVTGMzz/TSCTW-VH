@@ -29,7 +29,7 @@ def main():
     for override in json.loads(override_path.read_text()) if override_path.exists() else []:
         identity=(override['package'],tuple(override['key']),override['row'])
         if identity in overrides:raise ValueError(('Duplicate row override',identity))
-        if override['category'] not in ('menu','catalog','ui','story','tutorial','want'):
+        if override['category'] not in ('menu','catalog','ui','story','tutorial','want','dialog'):
             raise ValueError(('Unsupported override category',identity))
         overrides[identity]=override
     for path in sorted(args.input.rglob('*.package')):
