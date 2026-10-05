@@ -12,8 +12,8 @@
       "neighborhood": 6
     },
     "text_resource_categories": {
-      "excluded": 80,
       "retain": 103,
+      "excluded": 80,
       "catalog": 17,
       "neighborhood": 6
     },
@@ -58,8 +58,8 @@
     "index_width": 24,
     "resources": 243065,
     "text_row_categories": {
-      "review": 38009,
-      "menu": 2536,
+      "review": 37991,
+      "menu": 2554,
       "retain": 133224,
       "excluded": 180564,
       "object": 38,
@@ -71,9 +71,9 @@
       "text": 1
     },
     "text_resource_categories": {
-      "review": 5306,
-      "menu": 424,
+      "review": 5305,
       "retain": 10696,
+      "menu": 424,
       "excluded": 19099,
       "object": 16,
       "catalog": 505,
@@ -2266,8 +2266,8 @@
       "retain": 181
     },
     "text_resource_categories": {
-      "excluded": 1,
-      "retain": 1
+      "retain": 1,
+      "excluded": 1
     },
     "tables_with_preserved_tail": 0,
     "legacy_technical_resources": [],
@@ -2286,8 +2286,8 @@
       "ui": 4
     },
     "text_resource_categories": {
-      "retain": 689,
       "want": 210,
+      "retain": 689,
       "excluded": 886,
       "ui": 4
     },
@@ -2309,8 +2309,8 @@
       "neighborhood": 97
     },
     "text_resource_categories": {
-      "excluded": 32,
       "retain": 108,
+      "excluded": 32,
       "ui": 1,
       "character": 12,
       "neighborhood": 58
@@ -2333,8 +2333,8 @@
       "neighborhood": 38
     },
     "text_resource_categories": {
-      "excluded": 31,
       "retain": 71,
+      "excluded": 31,
       "character": 9,
       "ui": 1,
       "neighborhood": 30
