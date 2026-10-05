@@ -32,9 +32,9 @@
     {
       "package": "TSData/Res/Objects/objects.package",
       "sha256_before": "6fec186b61074c7483474d69ab703de9a62fae2aa3ea8966ed68f9c60e9a457a",
-      "sha256_after": "133b5628d933b6e462bf2e320f04e6d1cf09dcb0b42480fd7467d02afcadf25b",
-      "changed_rows": 6371,
-      "changed_resources": 1043,
+      "sha256_after": "6e89214aae34226804c943bffa4b38dc071938019c63e14b9b03006df1b7d099",
+      "changed_rows": 6377,
+      "changed_resources": 1044,
       "idempotence": true,
       "unchanged_resources_preserved": true
     },
@@ -121,16 +121,18 @@
     }
   ],
   "source_sha256": {
+    "runtime/translations/catalog.json": "4647ae23a25e736ebe066e222ec651e2a1e951eadf5118a1d6aefdd92ed7d705",
     "runtime/translations/menu.json": "efb92722530bace145eefa741709c1fe990a1e3f0accd9760b7790d5fb8d8801",
-    "runtime/row_scope_overrides.json": "0710da90e929731c3a92b8674d111b7d12cd2e89218a2a9f69447479bae40926",
-    "runtime/coverage.json": "19f560ad942212e64b28ad6cd96b9c23c2f0cb3d0a9f0ad110737ad92b8f236e",
+    "runtime/row_scope_overrides.json": "4e584f68bcaa5df3b0b59f69497452f15611555aaa4aab3732b13fba3691c0c4",
+    "runtime/coverage.json": "53d5b29974fdc621dc82eb98124e3bd9efd3fcf8bd9a66592dc4b7974a0e98bc",
+    "runtime/inventory.json": "46463d9dd77b35f70b0cacffe5e971b505e86c19f808a0b26226091abfe2343a",
+    "runtime/review_context_summary.json": "ba1c047e6c781130954751c7d69339115c08a4a3032304663fe6c0aa528ceeff",
     "runtime/scope_decisions.json": "49244d536e45d6c98956059dc29190bfc95cb40c47589a78ca68e9acc984cdcf",
+    "runtime/README.md": "01da58e1cc74a96dab53f70938b1845e01c86e3ee8e34f2357a7c927b9d21e20",
     "src/builder/audit_runtime.py": "a7e1762a55770e0763ace90ff48858151f5ea738dbdb0c54d171dc2b179fb51b",
     "src/builder/review_runtime_context.py": "1b665ec17f7613a18ed9cb708f6471c148ffc4072ec64aed0442eac0571e62e3",
     "src/builder/validate_runtime.py": "f6c90f79dc78ab6ec51293d3a30d2ce65bc4fe6207c2ed54e6afefee97458f9e",
     "src/builder/check_runtime_packages.py": "5ba0deb671a0390a0dfb30999bc1c6ad4178ad16ebea51bcafe5ad38ea2c1bca",
-    "src/builder/runtime_dbpf.py": "28c73d381cd34e6899b4fc20ea77e3a00b9540a9f319bd85d071d61c2f02c025",
-    "runtime/review_context_summary.json": "4e7774a1754488d4e7bc274f785a95bd956d3aee8c8be7183e69e65063bbd7bb",
-    "runtime/README.md": "929f3eb87e16a9db84a3e53ec3fe8dfbb29b175061afd885dab0cec513dd4286"
+    "src/builder/runtime_dbpf.py": "28c73d381cd34e6899b4fc20ea77e3a00b9540a9f319bd85d071d61c2f02c025"
   }
 }
