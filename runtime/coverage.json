@@ -46,7 +46,7 @@
   "translation_map_entries": 4340,
   "candidate_rows": 7178,
   "untranslated_or_review_candidate_rows": 0,
-  "untagged_review_rows": 38556,
+  "untagged_review_rows": 38009,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
   "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete."

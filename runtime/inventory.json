@@ -58,10 +58,10 @@
     "index_width": 24,
     "resources": 243065,
     "text_row_categories": {
-      "review": 38556,
+      "review": 38009,
       "menu": 2536,
       "retain": 133224,
-      "excluded": 180017,
+      "excluded": 180564,
       "object": 38,
       "catalog": 1035,
       "story": 2138,
@@ -72,8 +72,8 @@
     },
     "text_resource_categories": {
       "review": 5306,
-      "retain": 10696,
       "menu": 424,
+      "retain": 10696,
       "excluded": 19099,
       "object": 16,
       "catalog": 505,
@@ -2286,8 +2286,8 @@
       "ui": 4
     },
     "text_resource_categories": {
-      "want": 210,
       "retain": 689,
+      "want": 210,
       "excluded": 886,
       "ui": 4
     },

@@ -5,7 +5,7 @@ from runtime_dbpf import Package, TEXT_TYPES, parse_table
 
 ROOT = Path(__file__).resolve().parents[2]
 CAST = re.compile(r'^Cast\s+(Menu|Catalog|UI|Want|Wants|Story|Dialog|Tutorial|Text|Object|Character|Neighborhood)\b',re.I)
-INTERNAL = re.compile(r'debug|do not translate|not used|unused|placeholder|shouldn.t be in the catalog|variable -',re.I)
+INTERNAL = re.compile(r'debug|do not translate|don[\'’]?t\s+translate|not used|unused|placeholder|shouldn.t be in the catalog|variable -',re.I)
 TECH = re.compile(r'anim|bone|mesh|model|material|sound|effect|attribute|slot|script|tree prim|data labels|flags|function table',re.I)
 LEGACY_TECH = re.compile(r'attribute|relationship|skill table|end table (?:slots )?labels|slots? labels|suit primitive|named trees|behavior editor|skin colors',re.I)
 

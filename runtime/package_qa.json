@@ -121,21 +121,21 @@
     }
   ],
   "source_sha256": {
-    "tsctw-v08/runtime/translations/catalog.json": "7b66a167ed4c0898f31636b5c508ba58fbe0ab438caa2b74fa4171518bebf4a4",
-    "tsctw-v08/runtime/translations/character.json": "bf1a261283f80ce2e0be909cc155b02c60b588a16814abb20ee0bb66ec9500dd",
-    "tsctw-v08/runtime/translations/dialog.json": "f409c660869373400d84e35bbe79492396b5a6f49ce63b42d684c6b57aa02c10",
-    "tsctw-v08/runtime/translations/menu.json": "4a71775189797099c8eea6437caccb48c3e6fce9ec484538e26062bf86b3885f",
-    "tsctw-v08/runtime/translations/neighborhood.json": "593e8c922276d4b6388870c8cf29804621f0cc6067d9b2f506b3d2fcdf6216b3",
-    "tsctw-v08/runtime/translations/object.json": "f635b28fb42436fb3c61e101cdd149aebdb203ee91ca8a4a42291c74b4b4dbce",
-    "tsctw-v08/runtime/translations/story.json": "eda450e2ede09a7ebef480ec73cd3b6c92461e3b46f1972481289dfa437be0e9",
-    "tsctw-v08/runtime/translations/text.json": "334683a16898f51159d0762a0d0c5c7b01197731de23fc67484bf1b89ecf28d9",
-    "tsctw-v08/runtime/translations/tutorial.json": "f2c8e8fed841f733df130e868db216a0dd704470f46dbac43e9204e9d43f372c",
-    "tsctw-v08/runtime/translations/ui.json": "519cd06bd3e5d49ec4788929859331f6252b7e1d83af208fb4d59a8578474b4b",
-    "tsctw-v08/runtime/translations/want.json": "0492f6c04bf49c957b5a90f1aedfebbb140463dfa450f540409038f5e4d0b4d7",
-    "tsctw-v08/runtime/scope_decisions.json": "49244d536e45d6c98956059dc29190bfc95cb40c47589a78ca68e9acc984cdcf",
-    "tsctw-v08/runtime/row_scope_overrides.json": "7b22ae2a729c30f4c421c159df3f75ff3017c8fba54c797b6a077af3a0ba6c7c",
-    "tsctw-v08/runtime/catalog.json.gz": "9f34759e307445c3d44a3bc86e3284abe4824ffb0d10944a54632a15dcba8124",
-    "tsctw-v08/src/builder/runtime_dbpf.py": "28c73d381cd34e6899b4fc20ea77e3a00b9540a9f319bd85d071d61c2f02c025",
-    "tsctw-v08/src/builder/check_runtime_packages.py": "5ba0deb671a0390a0dfb30999bc1c6ad4178ad16ebea51bcafe5ad38ea2c1bca"
+    "runtime/translations/catalog.json": "7b66a167ed4c0898f31636b5c508ba58fbe0ab438caa2b74fa4171518bebf4a4",
+    "runtime/translations/character.json": "bf1a261283f80ce2e0be909cc155b02c60b588a16814abb20ee0bb66ec9500dd",
+    "runtime/translations/dialog.json": "f409c660869373400d84e35bbe79492396b5a6f49ce63b42d684c6b57aa02c10",
+    "runtime/translations/menu.json": "4a71775189797099c8eea6437caccb48c3e6fce9ec484538e26062bf86b3885f",
+    "runtime/translations/neighborhood.json": "593e8c922276d4b6388870c8cf29804621f0cc6067d9b2f506b3d2fcdf6216b3",
+    "runtime/translations/object.json": "f635b28fb42436fb3c61e101cdd149aebdb203ee91ca8a4a42291c74b4b4dbce",
+    "runtime/translations/story.json": "eda450e2ede09a7ebef480ec73cd3b6c92461e3b46f1972481289dfa437be0e9",
+    "runtime/translations/text.json": "334683a16898f51159d0762a0d0c5c7b01197731de23fc67484bf1b89ecf28d9",
+    "runtime/translations/tutorial.json": "f2c8e8fed841f733df130e868db216a0dd704470f46dbac43e9204e9d43f372c",
+    "runtime/translations/ui.json": "519cd06bd3e5d49ec4788929859331f6252b7e1d83af208fb4d59a8578474b4b",
+    "runtime/translations/want.json": "0492f6c04bf49c957b5a90f1aedfebbb140463dfa450f540409038f5e4d0b4d7",
+    "runtime/scope_decisions.json": "49244d536e45d6c98956059dc29190bfc95cb40c47589a78ca68e9acc984cdcf",
+    "runtime/row_scope_overrides.json": "7b22ae2a729c30f4c421c159df3f75ff3017c8fba54c797b6a077af3a0ba6c7c",
+    "runtime/catalog.json.gz": "9f34759e307445c3d44a3bc86e3284abe4824ffb0d10944a54632a15dcba8124",
+    "src/builder/runtime_dbpf.py": "28c73d381cd34e6899b4fc20ea77e3a00b9540a9f319bd85d071d61c2f02c025",
+    "src/builder/check_runtime_packages.py": "5ba0deb671a0390a0dfb30999bc1c6ad4178ad16ebea51bcafe5ad38ea2c1bca"
   }
 }
