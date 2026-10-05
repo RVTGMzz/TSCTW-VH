@@ -58,12 +58,12 @@
     "index_width": 24,
     "resources": 243065,
     "text_row_categories": {
-      "review": 37991,
+      "review": 37985,
       "menu": 2554,
       "retain": 133224,
       "excluded": 180564,
       "object": 38,
-      "catalog": 1035,
+      "catalog": 1041,
       "story": 2138,
       "ui": 548,
       "dialog": 3,
@@ -71,12 +71,12 @@
       "text": 1
     },
     "text_resource_categories": {
-      "review": 5305,
+      "review": 5303,
       "retain": 10696,
       "menu": 424,
       "excluded": 19099,
       "object": 16,
-      "catalog": 505,
+      "catalog": 506,
       "story": 31,
       "ui": 73,
       "dialog": 2,
@@ -2286,8 +2286,8 @@
       "ui": 4
     },
     "text_resource_categories": {
-      "want": 210,
       "retain": 689,
+      "want": 210,
       "excluded": 886,
       "ui": 4
     },
