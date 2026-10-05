@@ -179,3 +179,11 @@ The runtime extraction and current translations are now under `runtime/`. See `r
 The new DBPF reader/writer supports both 20-byte and 24-byte indices and preserves table suffix bytes. Some Cast-tagged rows are diagnostics or internal identifiers: decisions are explicit in `runtime/scope_decisions.json`. A successful parser or token check is **not** a full sweep completion claim.
 
 The selector's active source is still unverified; inspect `runtime/SELECTOR_DIAGNOSIS.md` before applying any save changes. Do not overwrite an existing neighborhood save with a template. There is no consolidated v0.8 TEST release yet.
+
+### Correction — uploaded save origin (2026-10-05)
+
+Ron confirmed the supplied N001/N002 packages are from Documents saves. Earlier template-origin assumptions are superseded. See `runtime/input_provenance.json` and `runtime/SELECTOR_DIAGNOSIS.md`. Do not request the same files again and do not ship them wholesale as installation templates.
+
+### Runtime translation checkpoint — 2026-10-05 (continued)
+
+Catalog maps now contain 904 entries (899 translated, five intentional unchanged names); six excluded and two review values remain in the tagged catalog audit. Story/career maps contain 974 of 1,544 selected unique values, including adult/junior/pet career descriptions, main plot, and female dialogue variants. Total runtime mapping entries: 3,675. Full scope is still incomplete: 570 story values and the untagged review queue remain; selector runtime source is unverified. See current coverage and package QA, including source hashes. No v0.8 TEST archive has been released. Supplied Documents saves must never be distributed wholesale.

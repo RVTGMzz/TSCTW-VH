@@ -670,5 +670,65 @@
     "en": "blank description",
     "status": "review",
     "reason": "Developer/test/legacy indicator or expansion-specific action; runtime reachability not established."
+  },
+  {
+    "category": "catalog",
+    "en": "Remote Control Car Race Marker",
+    "status": "review",
+    "reason": "Race marker object; determine whether visible in catalog or internal control object."
+  },
+  {
+    "category": "catalog",
+    "en": "blah",
+    "status": "exclude",
+    "reason": "Literal placeholder description: blah."
+  },
+  {
+    "category": "catalog",
+    "en": "Basket Ghost",
+    "status": "review",
+    "reason": "Basket Ghost has no reviewed player-facing context; determine runtime visibility before translation."
+  },
+  {
+    "category": "catalog",
+    "en": "Simon Stone Controller",
+    "status": "exclude",
+    "reason": "Internal Simon Stone controller and literal placeholder description; preserve identifier."
+  },
+  {
+    "category": "catalog",
+    "en": "Simon Stone Controller description.",
+    "status": "exclude",
+    "reason": "Internal Simon Stone controller and literal placeholder description; preserve identifier."
+  },
+  {
+    "category": "catalog",
+    "en": "Staff of Tuzu",
+    "status": "retain",
+    "reason": "Named relic, character or model name retained deliberately per translation style."
+  },
+  {
+    "category": "catalog",
+    "en": "Hosta Arrivista",
+    "status": "retain",
+    "reason": "Named relic, character or model name retained deliberately per translation style."
+  },
+  {
+    "category": "catalog",
+    "en": "Sopworth Llama C-20",
+    "status": "retain",
+    "reason": "Named relic, character or model name retained deliberately per translation style."
+  },
+  {
+    "category": "catalog",
+    "en": "Sir Bricks-a-Lot",
+    "status": "retain",
+    "reason": "Named relic, character or model name retained deliberately per translation style."
+  },
+  {
+    "category": "catalog",
+    "en": "Ignis Ex Machina ",
+    "status": "retain",
+    "reason": "Named relic, character or model name retained deliberately per translation style."
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "staged_path": "TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package",
+    "sha256": "8bd925c42b78c325ac47d06180c3b4ca7c3618fbc853760151a826b8ac4454d8",
+    "user_reported_origin": "Windows Documents/Electronic Arts/The Sims Castaway Stories/Neighborhoods/N001/N001_Neighborhood.package",
+    "origin_basis": "Ron confirmed the requested Documents save location in conversation on 2026-10-05; do not ask him to upload these files again.",
+    "runtime_read_path_observed": false,
+    "distribution_rule": "Save input: never distribute this whole package as an installation template or replacement save. Use targeted text changes with backup only."
+  },
+  {
+    "staged_path": "TSData/Res/UserData/Neighborhoods/N002/N002_Neighborhood.package",
+    "sha256": "980b48d85ff335e16883526c530739c72abfeda6ecfd696dac679082297e5e0e",
+    "user_reported_origin": "Windows Documents/Electronic Arts/The Sims Castaway Stories/Neighborhoods/N002/N002_Neighborhood.package",
+    "origin_basis": "Ron confirmed the requested Documents save location in conversation on 2026-10-05; do not ask him to upload these files again.",
+    "runtime_read_path_observed": false,
+    "distribution_rule": "Save input: never distribute this whole package as an installation template or replacement save. Use targeted text changes with backup only."
+  }
+]

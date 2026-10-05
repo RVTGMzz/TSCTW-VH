@@ -4,7 +4,7 @@ This is a reproducible **partial translation checkpoint**, not a release or a cl
 
 ## Source and scope
 
-- `inventory.json`: canonical package paths, SHA-256, resource/index counts, parse results and explicitly preserved legacy technical tables.
+- `inventory.json`: staged package paths, SHA-256, resource/index counts, parse results and explicitly preserved legacy technical tables.
 - `catalog.json.gz`: English candidate rows, including exact package, full DBPF key, row ordinal, language, metadata and selection reason.
 - `review_queue.json.gz`: untagged/legacy text whose player visibility is unresolved. It is **not** treated as translated or safe to discard.
 - `translations/*.json`: exact source-to-Vietnamese maps by category. New runtime maps supplement existing `translations/extra*.json`; the original v0.6 history and v0.7 sources are unchanged.
@@ -13,6 +13,10 @@ This is a reproducible **partial translation checkpoint**, not a release or a cl
 - `coverage.json`: source QA and coverage; source validation passing does not mean coverage is complete or the game has been tested.
 
 Gzip files contain UTF-8 JSON using escaped characters to preserve invalid legacy bytes losslessly. Decompress with Python's `gzip` module. The gzip timestamp is fixed to zero for reproducible artifacts.
+
+## Uploaded neighborhood provenance
+
+Ron confirmed the supplied N001/N002 files came from Documents saves. See `input_provenance.json`. Their paths under `TSData/Res/UserData` in this audit are staging aliases, not their real origin. Never package these whole saves as installation-template replacements. No re-upload is needed.
 
 ## Reproduce
 

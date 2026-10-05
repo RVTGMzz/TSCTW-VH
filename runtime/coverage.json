@@ -4,9 +4,10 @@
   "scope": "Cast localization metadata + exact same-resource English variants. Untagged inherited rows remain unresolved, not silently excluded.",
   "categories": {
     "catalog": {
-      "translated": 156,
-      "exclude": 3,
-      "missing": 753
+      "translated": 899,
+      "exclude": 6,
+      "retain": 5,
+      "review": 2
     },
     "character": {
       "retain": 21,
@@ -27,7 +28,8 @@
       "translated": 27
     },
     "story": {
-      "missing": 1544
+      "translated": 974,
+      "missing": 570
     },
     "text": {
       "translated": 1
@@ -43,9 +45,9 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 1953,
+  "translation_map_entries": 3675,
   "candidate_rows": 6668,
-  "untranslated_or_review_candidate_rows": 3014,
+  "untranslated_or_review_candidate_rows": 619,
   "untagged_review_rows": 39066,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,

@@ -1,19 +1,11 @@
-# Story selector: evidence and unresolved runtime source
+# Story selector: source correction and remaining verification
 
-**Not fixed or runtime-verified by this checkpoint.** Ron tested the N001/N002 installation-template patch in v0.7b and still saw English.
+Ron confirmed on 2026-10-05 that the already uploaded N001/N002 files came from the requested **Documents save location**. The earlier assumption that these were installation templates was wrong. Do not ask for these same files again.
 
-The uploaded templates contain CTSS strings for `Shipwrecked and Single` and `Wanmami Island`. Their exact keys, rows and source descriptions are in `catalog.json.gz`; `translations/ui.json` now includes translations for the two titles and descriptions.
+See `input_provenance.json` for their exact SHA-256 and staged aliases. The `TSData/Res/UserData/...` paths in the extraction inventory are local staging aliases inherited from the earlier assumption; they are not evidence of the upload origin. These two files are active-save inputs and must never be shipped wholesale as installation templates or replacement saves.
 
-Local portable-launcher source inspected in this session:
+The received files contain CTSS selector titles and descriptions. Their full resource keys and row positions are in `catalog.json.gz`, with translations in `translations/ui.json`. Ron's prior v0.7b test still showed English. Simply assuming a different Documents copy is no longer a sufficient explanation.
 
-- `deliverables/Castaway-Portable-Builder/Source/Launcher.cs` writes a launcher log saying saves use the normal Documents location. The launcher changes installation configuration, not save locations.
-- `deliverables/Castaway-Startup-Check/Check-Castaway.ps1` uses `[Environment]::GetFolderPath('MyDocuments')` and `Electronic Arts\The Sims Castaway Stories\Logs`.
+The actual game-process read path has not been observed. Continue investigating language fallback, alternate selector resources, package precedence and whether the earlier installed patch touched the same resources. The source confirmation is not an in-game fix verification.
 
-This supports, but **does not prove**, the hypothesis that the selector reads a copied neighborhood from the active user-data directory instead of the installation template. A Documents folder can be redirected (e.g. OneDrive); do not hard-code the physical Windows profile path.
-
-Required next evidence: identify the game process's actual N001/N002 read path, or inspect active neighborhood files plus game/user-data path information. Likely files to compare are:
-
-- `<Windows Documents>\Electronic Arts\The Sims Castaway Stories\Neighborhoods\N001\N001_Neighborhood.package`
-- `<Windows Documents>\Electronic Arts\The Sims Castaway Stories\Neighborhoods\N002\N002_Neighborhood.package`
-
-If that source is confirmed, patch only the targeted text resources of those existing files, with per-file backup, source checks and restore support. Never replace the whole active save with `TSData\Res\UserData` templates. Preserve all families, relationships, lots, history and unrelated resource bytes.
+Any eventual application to saves must alter only targeted text resources, keep full-key and original-row guards, create backups and preserve every unrelated resource byte. Never replace a neighborhood save with another complete package.

@@ -39,3 +39,11 @@ Nếu cần package để scan/build, nói chính xác file nào tôi phải upl
 ## Checkpoint bổ sung 2026-10-05
 
 Sau khi đọc các tài liệu trên, đọc `runtime/README.md`, `runtime/coverage.json`, `runtime/package_qa.json` và `runtime/SELECTOR_DIAGNOSIS.md`. Tiếp tục từ `runtime/remaining.json.gz` và queue chưa phân loại `runtime/review_queue.json.gz`. Đã có bản dịch runtime theo nhóm, không làm lại hoặc thay thế mù. Đây vẫn là checkpoint chưa hoàn thành; chưa có bản tổng hợp v0.8 TEST. Không lấy số câu đã dịch làm bằng chứng toàn game đã hết English.
+
+### Correction — uploaded save origin (2026-10-05)
+
+Ron confirmed the supplied N001/N002 packages are from Documents saves. Earlier template-origin assumptions are superseded. See `runtime/input_provenance.json` and `runtime/SELECTOR_DIAGNOSIS.md`. Do not request the same files again and do not ship them wholesale as installation templates.
+
+### Runtime translation checkpoint — 2026-10-05 (continued)
+
+Catalog maps now contain 904 entries (899 translated, five intentional unchanged names); six excluded and two review values remain in the tagged catalog audit. Story/career maps contain 974 of 1,544 selected unique values, including adult/junior/pet career descriptions, main plot, and female dialogue variants. Total runtime mapping entries: 3,675. Full scope is still incomplete: 570 story values and the untagged review queue remain; selector runtime source is unverified. See current coverage and package QA, including source hashes. No v0.8 TEST archive has been released. Supplied Documents saves must never be distributed wholesale.

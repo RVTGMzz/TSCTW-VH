@@ -176,3 +176,11 @@ Lưu ý cực quan trọng: các status count lớn từng nói trong chat trư�
 Read `runtime/README.md`, `runtime/coverage.json` and `runtime/SELECTOR_DIAGNOSIS.md` next. The source now includes runtime mappings and reproducible DBPF audits. This is **partial work toward v0.8**, not a released v0.8 TEST. The core `translations/` history and root `validation.json` are retained.
 
 Continue from `runtime/remaining.json.gz`, without redoing translated entries or replacing previous maps. Review the separate untagged queue. Source-only QA: `python src/builder/validate_runtime.py`; actual package QA: `python src/builder/check_runtime_packages.py` with baseline packages staged per inventory.
+
+### Correction — uploaded save origin (2026-10-05)
+
+Ron confirmed the supplied N001/N002 packages are from Documents saves. Earlier template-origin assumptions are superseded. See `runtime/input_provenance.json` and `runtime/SELECTOR_DIAGNOSIS.md`. Do not request the same files again and do not ship them wholesale as installation templates.
+
+### Runtime translation checkpoint — 2026-10-05 (continued)
+
+Catalog maps now contain 904 entries (899 translated, five intentional unchanged names); six excluded and two review values remain in the tagged catalog audit. Story/career maps contain 974 of 1,544 selected unique values, including adult/junior/pet career descriptions, main plot, and female dialogue variants. Total runtime mapping entries: 3,675. Full scope is still incomplete: 570 story values and the untagged review queue remain; selector runtime source is unverified. See current coverage and package QA, including source hashes. No v0.8 TEST archive has been released. Supplied Documents saves must never be distributed wholesale.
