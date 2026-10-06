@@ -21,12 +21,19 @@ def classify(path, name, typ, value, description):
     if typ in (0x43545353,0x54544173) or re.search(r'dialog|action|catalog',name,re.I):return 'review','inherited or untagged potentially visible text'
     return 'excluded','no Cast metadata; outside confirmed scope'
 
+def load_row_overrides():
+    rows=[]
+    for path in sorted((ROOT/'runtime').glob('row_scope_overrides*.json')):
+        data=json.loads(path.read_text())
+        if not isinstance(data,list):raise ValueError(('Row override shard must be a JSON list',path.name))
+        rows.extend(data)
+    return rows
+
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--input',type=Path,default=ROOT/'work/input');ap.add_argument('--output',type=Path,default=ROOT/'runtime');args=ap.parse_args()
     records=[]; inventory=[]; review=[]
-    override_path=ROOT/'runtime/row_scope_overrides.json'
     overrides={}; used=set()
-    for override in json.loads(override_path.read_text()) if override_path.exists() else []:
+    for override in load_row_overrides():
         identity=(override['package'],tuple(override['key']),override['row'])
         if identity in overrides:raise ValueError(('Duplicate row override',identity))
         if override['category'] not in ('menu','catalog','ui','story','tutorial','want','dialog'):

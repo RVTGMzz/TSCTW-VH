@@ -6,7 +6,7 @@ import gzip
 import json
 import re
 
-from validate_runtime import RUNTIME, row_identity, read_records
+from validate_runtime import RUNTIME, row_identity, read_records, load_row_overrides
 
 VISIBLE_TYPES = {'STR#', 'CTSS', 'TTAs'}
 DESC_SIGNAL = re.compile(r'needs? translation|dialog|interaction|catalog|message|tooltip|menu|title', re.I)
@@ -60,7 +60,7 @@ def main():
         catalog_grouped[(r['package'], r['key'][1])].append(r)
     overrides = {
         (r['package'], tuple(r['key']), r['row'])
-        for r in json.loads((RUNTIME/'row_scope_overrides.json').read_text())
+        for r in load_row_overrides()
     }
     rows = [
         r for r in read_context()

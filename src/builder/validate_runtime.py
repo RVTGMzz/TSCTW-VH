@@ -21,6 +21,17 @@ def row_identity(row):
     return row['package'], tuple(row['key']), row['row']
 
 
+def load_row_overrides():
+    """Load exact row guards from the base file plus numbered review shards."""
+    rows = []
+    for path in sorted(RUNTIME.glob('row_scope_overrides*.json')):
+        data = json.loads(path.read_text())
+        if not isinstance(data, list):
+            raise ValueError(('Row override shard must be a JSON list', path.name))
+        rows.extend(data)
+    return rows
+
+
 def effective_records():
     """Merge exact row overrides into committed snapshots for source-only QA.
 
@@ -32,7 +43,7 @@ def effective_records():
     """
     records = read_records('catalog')
     review = read_records('review_queue')
-    override_rows = json.loads((RUNTIME/'row_scope_overrides.json').read_text())
+    override_rows = load_row_overrides()
     overrides = {}
     for override in override_rows:
         identity = (override['package'], tuple(override['key']), override['row'])

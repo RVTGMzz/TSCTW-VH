@@ -1,0 +1,392 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133473219,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133473219,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away",
+    "description": "!!!  All Diary Interaction/text in --> Personality_Shy.string.package",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Read",
+    "description": "!!!  All Diary Interaction/text in --> Personality_Shy.string.package",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138836265,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138836265,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141569421,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141569421,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142700019,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142700019,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144531679,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144531679,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145114377,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145114377,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140840069,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140840069,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141131376,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141131376,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143854899,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143854899,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "!",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask To Join",
+    "description": "!",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "!",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask To Join",
+    "description": "!",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135190817,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Prepare for Hanging",
+    "description": "!!",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135190817,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Prepare for Hanging",
+    "description": "!!",
+    "reason": "Reviewed player-facing interaction on a Castaway-owned object; exact inherited row only."
+  }
+]
