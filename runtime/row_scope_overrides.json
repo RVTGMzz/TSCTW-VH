@@ -30102,5 +30102,269 @@
     "object_names": [
       "CS - Bug_Jar"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Rake",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Play In",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Burn",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Dispose",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Add to Compost",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Play In",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Rake",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Play In",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Burn",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Dispose",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "Add to Compost",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "Play In",
+    "description": "Sims 2 EP7: Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on Castaway's Soft Leaf Pile. Castaway-selected catalog text confirms the object is in scope; Get Out of the Way remains under review as likely internal routing.",
+    "object_names": [
+      "CS - Autumn Leaf Pile",
+      "Leaf Pile 0,0",
+      "Leaf Pile 0,1 - Lead",
+      "Leaf Pile 1,0",
+      "Leaf Pile 1,1"
+    ]
   }
 ]
