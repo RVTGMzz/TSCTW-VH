@@ -27069,5 +27069,329 @@
       "CS - Toilet - Outdoor Hut - 2, 0",
       "CS - Toilet - Outdoor Hut - 2, 1"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Get Delivered",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing birthday-cake interaction with explicit localization/context metadata; exact row override. Age-transition and Dynamic Menu developer rows remain under review.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Bring $Object to Cake",
+    "description": "!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch17\r\n\r\nSame as string 0 in table 302. Context: appears under Carry interaction when Sim carrying toddler or baby chooses \"Bring Name\" interaction on Cake.",
+    "category": "menu",
+    "reason": "Reviewed player-facing birthday-cake interaction with explicit localization/context metadata; exact row override. Age-transition and Dynamic Menu developer rows remain under review.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Get Delivered",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing birthday-cake interaction with explicit localization/context metadata; exact row override. Age-transition and Dynamic Menu developer rows remain under review.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Bring $Object to Cake",
+    "description": "!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch17\r\n\r\nSame as string 0 in table 302. Context: appears under Carry interaction when Sim carrying toddler or baby chooses \"Bring Name\" interaction on Cake.",
+    "category": "menu",
+    "reason": "Reviewed player-facing birthday-cake interaction with explicit localization/context metadata; exact row override. Age-transition and Dynamic Menu developer rows remain under review.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137654404,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "London's Famous Birthday Cake",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n\"London's Famous...\" not final but better than Birthday Cake for E3.",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway birthday cake; exact row override.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137654404,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "No birthday celebration would be complete without this festive and lovingly baked confection. Make sure to invite family and friends to the party before it's all gone!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n\"London's Famous...\" not final but better than Birthday Cake.",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway birthday cake; exact row override.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137654404,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "London's Famous Birthday Cake",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n\"London's Famous...\" not final but better than Birthday Cake for E3.",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway birthday cake; exact row override.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137654404,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "No birthday celebration would be complete without this festive and lovingly baked confection. Make sure to invite family and friends to the party before it's all gone!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n\"London's Famous...\" not final but better than Birthday Cake.",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway birthday cake; exact row override.",
+    "object_names": [
+      "CS - Birthday Cake"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146760388,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Birthday Cake Box",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "catalog",
+    "reason": "Reviewed catalog title on the Castaway birthday-cake box; exact row override. Placeholder description marked 'not needed?' remains under review.",
+    "object_names": [
+      "CS - Birthday Cake - Box"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146760388,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Birthday Cake Box",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "catalog",
+    "reason": "Reviewed catalog title on the Castaway birthday-cake box; exact row override. Placeholder description marked 'not needed?' remains under review.",
+    "object_names": [
+      "CS - Birthday Cake - Box"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130886191,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Tinkle Trainer 6000 Potty Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway potty chair; exact row override.",
+    "object_names": [
+      "CS - Potty Chair"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130886191,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Why make toilet training a chore when it can be fun?! The Tinkle Trainer 6000 makes the daunting process of toilet training seem like a drop in the bucket. The all-in-one unit features a simple-to-dump potty basin, an extra sturdy base so kids can’t easily tip it, and a durable seat with a no-skid surface. Plus the Tinkle the Bear decal will really make a splash with the kids!",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway potty chair; exact row override.",
+    "object_names": [
+      "CS - Potty Chair"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130886191,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Tinkle Trainer 6000 Potty Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway potty chair; exact row override.",
+    "object_names": [
+      "CS - Potty Chair"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130886191,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Why make toilet training a chore when it can be fun?! The Tinkle Trainer 6000 makes the daunting process of toilet training seem like a drop in the bucket. The all-in-one unit features a simple-to-dump potty basin, an extra sturdy base so kids can’t easily tip it, and a durable seat with a no-skid surface. Plus the Tinkle the Bear decal will really make a splash with the kids!",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway potty chair; exact row override.",
+    "object_names": [
+      "CS - Potty Chair"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133729598,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "The Kinder Koddler",
+    "description": "Sims2 - Needs Translation - batch3",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway plastic high chair; exact row override. Bare-metadata TTAs remain under review.",
+    "object_names": [
+      "CS - High Chair - Plastic"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133729598,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Kids need to eat, but why they have to make such a mess of the whole process is still a bit of a mystery. They certainly can't use a regular chair during family meals at the dining table. That's why the makers of such family favorites as the Kinder Kontainer, and the Sanitation Station, now bring you the Kinder Koddler high chair toddler feeder. \"Kindly keep your kinder kin in a chair called Kinder Koddler.\"",
+    "description": "Sims2 - Needs Translation - batch22\nMinor edit \"Kids\" in first sentence..and \"toddler\" in second to last.",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway plastic high chair; exact row override. Bare-metadata TTAs remain under review.",
+    "object_names": [
+      "CS - High Chair - Plastic"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133729598,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "The Kinder Koddler",
+    "description": "Sims2 - Needs Translation - batch3",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway plastic high chair; exact row override. Bare-metadata TTAs remain under review.",
+    "object_names": [
+      "CS - High Chair - Plastic"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133729598,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Kids need to eat, but why they have to make such a mess of the whole process is still a bit of a mystery. They certainly can't use a regular chair during family meals at the dining table. That's why the makers of such family favorites as the Kinder Kontainer, and the Sanitation Station, now bring you the Kinder Koddler high chair toddler feeder. \"Kindly keep your kinder kin in a chair called Kinder Koddler.\"",
+    "description": "Sims2 - Needs Translation - batch22\nMinor edit \"Kids\" in first sentence..and \"toddler\" in second to last.",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway plastic high chair; exact row override. Bare-metadata TTAs remain under review.",
+    "object_names": [
+      "CS - High Chair - Plastic"
+    ]
   }
 ]
