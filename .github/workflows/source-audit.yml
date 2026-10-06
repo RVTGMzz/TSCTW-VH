@@ -100,6 +100,8 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Ch15_Jungle - Shaman's Guard Controller" --groups 20 --samples 200
           python src/builder/triage_review_queue.py --object-contains "Controller - Age" --groups 20 --samples 240
           python src/builder/triage_review_queue.py --object-contains "Controller - Disease" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-prefix "*" --groups 250 --samples 5000
+          python -c "import glob,json; ps=glob.glob('runtime/row_scope_overrides*.json')+glob.glob('runtime/row_translation_overrides*.json'); rows=[r for p in ps for r in json.load(open(p,encoding='utf-8'))]; print('PROMOTED_STAR_ROWS',sum(str(r.get('en','')).startswith('*') for r in rows))"
           python src/builder/triage_review_queue.py --instance-id 2135885514 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2145233707 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2145453426 --groups 20 --samples 120
