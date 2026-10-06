@@ -245,3 +245,10 @@ Effective source totals are 4,414 map entries, 7,542 candidate rows, zero missin
 Reviewed two clearly player-facing Castaway-owned resource families. `CS - Food - Lomi Lomi Salmon` contributes 25 exact STR# rows across English and UK English for meal, serving, get-food and resume-cooking menu paths; nine new menu mappings were added and `Resume Cooking` reused the existing translation. `CS - Toilet - Outdoor Hut` contributes 10 exact core TTAs rows for flush/clean/unclog/play/flush-down, all reusing existing menu mappings.
 
 Expansion/debug residue in the same toilet resource remains unresolved rather than being mass-promoted: EP6 pet-training strings, `Throw Up Test`, and developer dirty/clogged state setters. Effective source totals: 4,423 map entries, 7,577 selected candidate rows, zero missing/review candidate decisions and 37,610 inherited review rows. Package QA still predates these exact-row batches and no in-game verification is claimed.
+
+
+## Sweep continuation — Birthday Cake + toddler furniture catalog (2026-10-06)
+
+Promoted 18 exact source rows with Castaway ownership and player-facing evidence: Birthday Cake interactions/catalog, Birthday Cake Box title, Potty Chair catalog and Plastic High Chair catalog. Added two menu and seven catalog mappings. Explicit developer/placeholder rows in the same resources were left unresolved rather than translated by association.
+
+Effective totals are 4,432 translation-map entries, 7,595 candidate rows, zero missing/review candidate decisions and 37,592 inherited review rows. The package-writer QA snapshot still predates these exact-row promotions; no in-game verification is claimed.

@@ -220,3 +220,8 @@ Promoted 22 exact STR# rows (English + UK English) from the dedicated `CS - Chan
 ## Latest checkpoint — 2026-10-06 Lomi Lomi Salmon + Outdoor Hut toilet
 
 Promoted 35 exact menu rows: 25 from `CS - Food - Lomi Lomi Salmon` and 10 core interactions from `CS - Toilet - Outdoor Hut`. Added nine new salmon menu mappings; toilet labels and `Resume Cooking` reuse existing translations. Do not promote the toilet's EP6 pet-training, `Throw Up Test`, or developer `*Set ... State` rows without new reachability evidence. Effective totals: 4,423 maps, 7,577 candidates, zero missing/review candidate rows, 37,610 inherited review rows. Package-writer QA remains stale; selector runtime source remains unverified; no v0.8 TEST has been released.
+
+
+## Latest checkpoint — 2026-10-06 Birthday Cake + toddler catalog
+
+Promoted 18 exact rows: four Birthday Cake interactions, four Birthday Cake catalog rows, two Birthday Cake Box title rows, four Potty Chair catalog rows and four Plastic High Chair catalog rows. Added two menu mappings and seven catalog mappings. Leave Age Trans/Dynamic Menu, the cake-box `not needed?` placeholder description, and bare-metadata high-chair TTAs under review. Effective totals: 4,432 maps, 7,595 candidates, zero missing/review candidate rows, 37,592 inherited review rows. Package QA remains stale; selector source remains unverified; no v0.8 TEST has been released.

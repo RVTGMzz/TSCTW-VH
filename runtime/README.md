@@ -48,11 +48,11 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` promotes 619 exact menu rows (211 unique labels), 271 dialog rows and 9 catalog rows from the inherited review queue into reviewed scope (909 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
+`row_scope_overrides.json` promotes 623 exact menu rows (213 unique labels), 270 dialog rows and 34 catalog rows from the inherited review queue into reviewed scope (927 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current selected source includes 1,551 story/career/runtime-story values, 958 menu values, 906 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,577 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,610 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,551 story/career/runtime-story values, 960 menu values, 913 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,595 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,592 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -98,3 +98,10 @@ Effective coverage is now 7,542 candidate rows with zero missing/review candidat
 Promoted 35 exact inherited menu rows with Castaway owner evidence. The Lomi Lomi Salmon resource contributes 25 English/UK-English rows for eating, serving, getting and resuming the salmon dish; nine new Vietnamese menu mappings were added and the existing `Resume Cooking` mapping was reused. The Castaway Outdoor Hut toilet contributes 10 core interactions (`Flush`, `Clean`, `Unclog`, `Play With`, `Flush Down`) reusing existing translations.
 
 Pet-training rows such as `Train to Pee` / `Be Trained to Pee`, `Throw Up Test`, and developer `*Set ... State` rows remain under inherited review. Effective source totals are 4,423 translation-map entries, 7,577 candidate rows, zero missing/review candidate decisions and 37,610 inherited review rows. Package-writer QA remains stale pending a rerun against the user-owned baseline package bytes; no in-game result is claimed.
+
+
+### Sweep batch: Birthday Cake + toddler furniture catalog (2026-10-06)
+
+Promoted 18 exact rows from clearly owned Castaway resources: four player-facing Birthday Cake TTAs rows, four Birthday Cake catalog rows, two Birthday Cake Box title rows, four Potty Chair catalog rows and four Plastic High Chair catalog rows. Added two menu mappings and seven catalog mappings. The catalog copy keeps product names such as Tinkle Trainer 6000 and Kinder Koddler while localizing the surrounding Sims-style humor.
+
+Developer/internal candidates remain under review, including Birthday Cake Age Trans/Dynamic Menu rows, the cake-box placeholder description marked `not needed?`, and the high chair's bare-metadata TTAs. Effective source totals: 4,432 mappings, 7,595 candidate rows, zero missing/review candidate decisions and 37,592 inherited review rows. Package-writer QA remains stale pending the baseline package-byte rerun; no in-game result is claimed.
