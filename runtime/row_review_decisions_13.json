@@ -1,0 +1,2072 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../1 - Flotsam untouched",
+    "description": "! in sync with #P - Stage Names",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../2 - Flotsam touched",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../3 - Incomplete Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../4 - Completed Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../5 - Masted Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../6 - Rigged Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../7 - Ruddered Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../8 - Singed Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../9 - Raft (Finished)",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage.../10 - Seaweed (Inert)",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv.../Bamboo Logs",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv.../Rudder",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv.../Sail",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv.../Vintage Parachutes",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv.../Warning Totem",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv.../Parachute Ropes",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Start Fire",
+    "description": "",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../1 - Flotsam untouched",
+    "description": "! in sync with #P - Stage Names",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../2 - Flotsam touched",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../3 - Incomplete Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../4 - Completed Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../5 - Masted Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../6 - Rigged Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../7 - Ruddered Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../8 - Singed Raft Base",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../9 - Raft (Finished)",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage.../10 - Seaweed (Inert)",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv.../Bamboo Logs",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv.../Rudder",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv.../Sail",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv.../Vintage Parachutes",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv.../Warning Totem",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv.../Parachute Ropes",
+    "description": "! ",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136282048,
+      302,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Start Fire",
+    "description": "",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Stage",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add 2 Inv",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add All 2 Inv",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Delete Object",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Toggle Movableness",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Stage",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add 2 Inv",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add All 2 Inv",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Delete Object",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Toggle Movableness",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Spawn Simulation Controller",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136282048,
+      1,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Spawn Simulation Controller",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Raft stage/inventory simulation helper; star-prefixed stage/state action is internal and not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Mission Rocket contains no data for Chapter $Local:0",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Chapter $Local:0",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "This will transport you to the correct lot for this mission.  ",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 02...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 03...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 04...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 05...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 06...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 07...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 08...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 09...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 10...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 11...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 12...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mission reload failed. Since your wants are probably screwed up, you should reload your last saved game.  Sorry...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Staring mission...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are at the wedding and trying to skip to another mission. You will now be loaded into stephen's house where you can relaunch the mission rocket to jump to wherever you wanted to go.",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are not in mission 1.  Reset your saved game to default in order to use this debug object.",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to  Chapter",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Satisfy Goals To This Point.",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set True Love",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unhide Raft",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Move To Lucky Lagoon",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Explore All",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 02",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 03",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 04",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 05",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 06",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 07",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 08",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 09",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 10",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 11",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146524492,
+      1,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 12",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to  Chapter $Local:1",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set True Love .../ $NeighborLocal:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to  Chapter $PrivateString:0:1",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146524492,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set True Love To $NeighborLocal:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Mission Rocket contains no data for Chapter $Local:0",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Chapter $Local:0",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "This will transport you to the correct lot for this mission.  ",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 02...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 03...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 04...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 05...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 06...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 07...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 08...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 09...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 10...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 11...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 12...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mission reload failed. Since your wants are probably screwed up, you should reload your last saved game.  Sorry...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Staring mission...",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are at the wedding and trying to skip to another mission. You will now be loaded into stephen's house where you can relaunch the mission rocket to jump to wherever you wanted to go.",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are not in mission 1.  Reset your saved game to default in order to use this debug object.",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to  Chapter",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Satisfy Goals To This Point.",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set True Love",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unhide Raft",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Move To Lucky Lagoon",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Explore All",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 02",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 03",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 04",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 05",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 06",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 07",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 08",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 09",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 10",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 11",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133427986,
+      1,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 12",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to  Chapter $Local:1",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set True Love .../ $NeighborLocal:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to  Chapter $PrivateString:0:1",
+    "description": "",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133427986,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set True Love To $NeighborLocal:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Mission/chapter debug controller row used to skip/reset story state; source explicitly identifies debug-object behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133561268,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Chef.../$NameLocal:1",
+    "description": "Sims2 EP3 bacth 9",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133561268,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Chef",
+    "description": "Sims2 EP3 bacth 9",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133561268,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Chef",
+    "description": "Sims2 EP3 bacth 9 Female version",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133561268,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Assign Chef.../$NameLocal:1",
+    "description": "Sims2 EP3 bacth 9",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133561268,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Chef",
+    "description": "Sims2 EP3 bacth 9",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133561268,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Chef",
+    "description": "Sims2 EP3 bacth 9 Female version",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133561268,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133561268,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133561268,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "EP3 restaurant-control/Dynamic helper residue on Castaway restaurant stove; Castaway has no player-run restaurant business flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Release",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Bug Jar star-prefixed helper action; hidden internal action rather than player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Clean",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Bug Jar star-prefixed helper action; hidden internal action rather than player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Pick Up",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Bug Jar star-prefixed helper action; hidden internal action rather than player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Release",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Bug Jar star-prefixed helper action; hidden internal action rather than player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Clean",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Bug Jar star-prefixed helper action; hidden internal action rather than player-facing menu text."
+  }
+]
