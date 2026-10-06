@@ -1,0 +1,290 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Lessons From .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Nhờ hướng dẫn từ.../$Object",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask $Object For Lessons",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Nhờ $Object hướng dẫn",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Offer Lessons To $Object",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Hướng dẫn $Object",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Offer Lessons To .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Hướng dẫn.../$Object",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask For Lessons From .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Nhờ hướng dẫn từ.../$Object",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask $Object For Lessons",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Nhờ $Object hướng dẫn",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Offer Lessons To $Object",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Hướng dẫn $Object",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Offer Lessons To .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThese are used in the career objects. (Teleprompter, Biotech station, etc). The strings were originally listed in the career objects and code was changed to refer to them here.",
+    "vi": "Hướng dẫn.../$Object",
+    "reason": "Shared career-object lesson menu used by Castaway-derived career interactions; exact-row translation preserves object placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Ngồi",
+    "reason": "Shared player-facing action in the same Castaway-used MakeActionString resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Gender neutral Ask to Join)",
+    "vi": "Mời tham gia",
+    "reason": "Shared player-facing join action; exact-row translation follows existing approved terminology."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Gender Neutal Join)  ",
+    "vi": "Tham gia",
+    "reason": "Shared player-facing join action; exact-row translation follows existing approved terminology."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Join $NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Male Join)  - Sim clicks on another Sim to join them in an interaction. This will be used as a global. ",
+    "vi": "Tham gia cùng $NameLocal:0",
+    "reason": "Global join action documented as player-facing; preserve name placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Join $NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Female Join) - Sim clicks on another Sim to join them in an interaction. This will be used as a global. ",
+    "vi": "Tham gia cùng $NameLocal:0",
+    "reason": "Global join action documented as player-facing; preserve name placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask $NameLocal:0 To Join",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Male Ask X To Join) - Sim in interaction clicks on another Sim ",
+    "vi": "Mời $NameLocal:0 tham gia",
+    "reason": "Global ask-to-join action documented as player-facing; preserve name placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask $NameLocal:0 To Join",
+    "description": "The Sims 2 - Needs Translation - Batch20\nSim in interaction clicks on another Sim \n(Female Ask $Me to Join) ",
+    "vi": "Mời $NameLocal:0 tham gia",
+    "reason": "Global ask-to-join action documented as player-facing; preserve name placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Ngồi",
+    "reason": "Shared player-facing action in the same Castaway-used MakeActionString resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask To Join",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Gender neutral Ask to Join)",
+    "vi": "Mời tham gia",
+    "reason": "Shared player-facing join action; exact-row translation follows existing approved terminology."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      302,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch20\n(Gender Neutal Join)  ",
+    "vi": "Tham gia",
+    "reason": "Shared player-facing join action; exact-row translation follows existing approved terminology."
+  }
+]
