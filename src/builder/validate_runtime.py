@@ -29,10 +29,22 @@ def auto_review_decision(row):
     decisions always take precedence, so a future proven exception can still be
     promoted explicitly.
     """
-    if (row.get('en') or '').startswith('*'):
+    en = row.get('en') or ''
+    description = row.get('description') or ''
+    if en.startswith('*'):
         return {
             'status': 'excluded',
             'reason': 'Leading * marks a hidden/helper interaction; current accepted exact promotions contain zero star-prefixed player-facing rows.',
+        }
+    if re.search(r'\bdeleted\b|\bnot needed\b|\bnot used\b|\bunused\b', description, re.I):
+        return {
+            'status': 'excluded',
+            'reason': 'Source metadata explicitly marks the inherited row deleted/not-needed/not-used/unused; no accepted promotion uses this metadata family.',
+        }
+    if re.fullmatch(r'(?:[0-9a-f]{8}|bebe[0-9a-f]+|ecdb[0-9a-f]+)', en, re.I):
+        return {
+            'status': 'excluded',
+            'reason': 'Opaque internal string identifier/hash rather than player-facing copy; no accepted promotion uses this value family.',
         }
     return None
 
