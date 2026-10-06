@@ -27393,5 +27393,553 @@
     "object_names": [
       "CS - High Chair - Plastic"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139052945,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Basket",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway food-delivery market basket; exact row override.",
+    "object_names": [
+      "CS - Food Delivery - Market Basket"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139052945,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Basket of Groceries",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway food-delivery market basket; exact row override.",
+    "object_names": [
+      "CS - Food Delivery - Market Basket"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139052945,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Basket",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway food-delivery market basket; exact row override.",
+    "object_names": [
+      "CS - Food Delivery - Market Basket"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139052945,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Basket of Groceries",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway food-delivery market basket; exact row override.",
+    "object_names": [
+      "CS - Food Delivery - Market Basket"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140840069,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Rip Co. Xylophone",
+    "description": "the sims 2 - needs translation - batch3",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway xylophone; exact row override.",
+    "object_names": [
+      "CS - Toy - Xylophone"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140840069,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "While children pound out song after song on the colorful Rip Co. Xylophone, they're building a strong creative foundation that will last a lifetime. Rip Co. Toys provides kids with all the building blocks they need, instead of just wooden ones.",
+    "description": "the sims2 - Needs Translation - batch13",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway xylophone; exact row override.",
+    "object_names": [
+      "CS - Toy - Xylophone"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140840069,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Rip Co. Xylophone",
+    "description": "the sims 2 - needs translation - batch3",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway xylophone; exact row override.",
+    "object_names": [
+      "CS - Toy - Xylophone"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140840069,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "While children pound out song after song on the colorful Rip Co. Xylophone, they're building a strong creative foundation that will last a lifetime. Rip Co. Toys provides kids with all the building blocks they need, instead of just wooden ones.",
+    "description": "the sims2 - Needs Translation - batch13",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway xylophone; exact row override.",
+    "object_names": [
+      "CS - Toy - Xylophone"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144073853,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Sanitation Station Baby Changing Table",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway changing table; exact row override.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144073853,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Sometimes, when your little one's got to go, but especially after they've gone, you feel like sending them away for good. Don't take drastic measures! Just put them on the train to the Sanitation Station, and leave your baby-changing woes behind. Complete with diapers, wipes, powder, distraction toys, and a patented automatic nappy disposal unit. Remember: you can't spell \"parental sanity\" without at least some of the letters in Sanitation Station.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway changing table; exact row override.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144073853,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Sanitation Station Baby Changing Table",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway changing table; exact row override.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144073853,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Sometimes, when your little one's got to go, but especially after they've gone, you feel like sending them away for good. Don't take drastic measures! Just put them on the train to the Sanitation Station, and leave your baby-changing woes behind. Complete with diapers, wipes, powder, distraction toys, and a patented automatic nappy disposal unit. Remember: you can't spell \"parental sanity\" without at least some of the letters in Sanitation Station.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway changing table; exact row override.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136744377,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Diary",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog title on the Castaway diary; exact row override. 'Should not see this' rows remain under review.",
+    "object_names": [
+      "CS - Book - Diary"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136744377,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Diary",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog title on the Castaway diary; exact row override. 'Should not see this' rows remain under review.",
+    "object_names": [
+      "CS - Book - Diary"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133852051,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Durably Plush Teddy Bear",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway teddy bear; exact row override.",
+    "object_names": [
+      "CS - Stuffed Animal - Teddy Bear"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133852051,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "It is unclear how the Teddy Bear originally got its name. The name came either from a presidential political cartoon or from a toy maker named Teddy, but what IS clear is that children all over the world love these soft and cuddly toys.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway teddy bear; exact row override.",
+    "object_names": [
+      "CS - Stuffed Animal - Teddy Bear"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135627095,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Book",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nCatalog text and also used as a variable in the skill dialogs.  \"gained a point of Logic skill from the Book\".",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway book; exact row override.",
+    "object_names": [
+      "CS - Book"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135627095,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Book",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nCatalog text and also used as a variable in the skill dialogs.  \"gained a point of Logic skill from the Book\".",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway book; exact row override.",
+    "object_names": [
+      "CS - Book"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138459429,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Serving Bowl",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nBowl used to serve soup, cereal, etc.  Catalog text appearing when selecting bowl to delete in buy mode.",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway serving bowl; exact row override.",
+    "object_names": [
+      "CS - Food Dish - Serving Bowl"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138459429,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Serving Bowl",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nBowl used to serve soup, cereal, etc.  Catalog text appearing when selecting bowl to delete in buy mode.",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway serving bowl; exact row override.",
+    "object_names": [
+      "CS - Food Dish - Serving Bowl"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140824625,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Plate",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nPlate used for individual meals such as sandwiches, omellettes, etc.\r\nOther plates include \"Dessert Plate\", \"Serving Platter\".",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway wooden plate; exact row override.",
+    "object_names": [
+      "CS - Food Dish - Standard - Wood Plate"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140824625,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Plate",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nPlate used for individual meals such as sandwiches, omellettes, etc.\r\nOther plates include \"Dessert Plate\", \"Serving Platter\".",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway wooden plate; exact row override.",
+    "object_names": [
+      "CS - Food Dish - Standard - Wood Plate"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142349730,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Small Bowl",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nsmall bowl used for individual portions. text appears in buy mode when selecting bowl to delete it. Not sure exactly where small bowl appears.",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway small bowl; exact row override.",
+    "object_names": [
+      "CS - Food Dish - Small Bowl"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142349730,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Small Bowl",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nsmall bowl used for individual portions. text appears in buy mode when selecting bowl to delete it. Not sure exactly where small bowl appears.",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway small bowl; exact row override.",
+    "object_names": [
+      "CS - Food Dish - Small Bowl"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142921105,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Baby Bottle",
+    "description": "The Sims2 - Needs Translation - Batch15",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway baby bottle; exact row override.",
+    "object_names": [
+      "CS - Baby Bottle"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142921105,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Baby Bottle",
+    "description": "The Sims2 - Needs Translation - Batch15",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway baby bottle; exact row override.",
+    "object_names": [
+      "CS - Baby Bottle"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143299109,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Birthday Cake Slice",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway birthday-cake slice; exact row override.",
+    "object_names": [
+      "CS - Food - Cake - Birthday - Slice"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143299109,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Birthday Cake Slice",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway birthday-cake slice; exact row override.",
+    "object_names": [
+      "CS - Food - Cake - Birthday - Slice"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143854899,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Magical Mystery's \"Shape, Rattle & Roll\"",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway peg-box toy; exact row override.",
+    "object_names": [
+      "CS - Toy Peg Box"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143854899,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Kids put the square peg in, they take the square peg out, they shove the round peg in, and \"I did it!\" they'll shout! The Shape, Rattle & Roll has a myriad of shapes for a myriad of minds. Watch your kids grow smarter . . . one geometric peg at a time.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway peg-box toy; exact row override.",
+    "object_names": [
+      "CS - Toy Peg Box"
+    ]
   }
 ]
