@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134665070,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Wooden Stairs",
+    "description": "No text necessary",
+    "vi": "Cầu thang gỗ",
+    "reason": "Pirate Ship modular-stair CTSS display name; player-facing Build/Barter catalog copy on a concrete Castaway object family."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134665070,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Bring a new dynamic into your Sims' home with these adaptable wooden stairs.",
+    "description": "No text necessary",
+    "vi": "Mang nét mới mẻ vào ngôi nhà của Sim với bộ cầu thang gỗ linh hoạt này.",
+    "reason": "Pirate Ship modular-stair CTSS product description; player-facing Build/Barter catalog copy on a concrete Castaway object family."
+  }
+]
