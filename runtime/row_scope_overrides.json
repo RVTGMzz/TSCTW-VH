@@ -27941,5 +27941,482 @@
     "object_names": [
       "CS - Toy Peg Box"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137402225,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Rip Co. Toy Bin",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway toy box; exact row override.",
+    "object_names": [
+      "CS - Toy Box"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137402225,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "This brightly patterned toy bin makes cleanup time fun again. Its lively and scientifically placed color blocks stimulate synaptic growth, while its function reinforces the value of organized living. Youngsters can easily lift and lock the lid for storage of rocket ships, ponies, boats, and more.",
+    "description": "The Sims2 - Needs Translation - Batch9",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway toy box; exact row override.",
+    "object_names": [
+      "CS - Toy Box"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144285633,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Diaper",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway diaper object; exact row override.",
+    "object_names": [
+      "CS - Diaper"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135627095,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Recycle",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing recycle action on the Castaway book; exact row override.",
+    "object_names": [
+      "CS - Book"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135627095,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Recycle",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing recycle action on the Castaway book; exact row override.",
+    "object_names": [
+      "CS - Book"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136744377,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Recycle",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing recycle action on the Castaway diary; exact row override.",
+    "object_names": [
+      "CS - Book - Diary"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136744377,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Recycle",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing recycle action on the Castaway diary; exact row override.",
+    "object_names": [
+      "CS - Book - Diary"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140030627,
+      129,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on the Castaway Compy Rock chair; exact row override.",
+    "object_names": [
+      "CS - Chair - Compy Rock",
+      "CS - Chair - Compy Rock 0,0",
+      "CS - Chair - Compy Rock 0,1",
+      "CS - Chair - Compy Rock 1,0",
+      "CS - Chair - Compy Rock 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140030627,
+      129,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on the Castaway Compy Rock chair; exact row override.",
+    "object_names": [
+      "CS - Chair - Compy Rock",
+      "CS - Chair - Compy Rock 0,0",
+      "CS - Chair - Compy Rock 0,1",
+      "CS - Chair - Compy Rock 1,0",
+      "CS - Chair - Compy Rock 1,1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136944247,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on a Castaway sofa/loveseat; exact row override.",
+    "object_names": [
+      "CS - Sofa - Loveseat - Bench - Survival",
+      "CS - Sofa - Loveseat - Bench - Survival - 0, 0 - Lead",
+      "CS - Sofa - Loveseat - Bench - Survival - 1, 0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140411884,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on a Castaway sofa/loveseat; exact row override.",
+    "object_names": [
+      "CS - Sofa - Loveseat - Bench - MakeShift",
+      "CS - Sofa - Loveseat - Bench - MakeShift - 0, 0 - Lead",
+      "CS - Sofa - Loveseat - Bench - MakeShift - 1, 0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132397875,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on a Castaway sofa/loveseat; exact row override.",
+    "object_names": [
+      "CS - Sofa - Loveseat - Fancy",
+      "CS - Sofa - Loveseat - Fancy - 0, 0 - Lead",
+      "CS - Sofa - Loveseat - Fancy - 1, 0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137756047,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on a Castaway sofa/loveseat; exact row override.",
+    "object_names": [
+      "CS - Sofa - Loveseat - Survival",
+      "CS - Sofa - Loveseat - Survival - 0, 0 - Lead",
+      "CS - Sofa - Loveseat - Survival - 1, 0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138150509,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on a Castaway sofa/loveseat; exact row override.",
+    "object_names": [
+      "CS - Sofa - Loveseat - MakeShift",
+      "CS - Sofa - Loveseat - MakeShift - 0, 0 - Lead",
+      "CS - Sofa - Loveseat - MakeShift - 1, 0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134813301,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing seating interaction on the Castaway military sofa; exact row override.",
+    "object_names": [
+      "CS - Sofa - Military",
+      "CS - Sofa - Military - 0, 0 - Lead",
+      "CS - Sofa - Military - 1, 0",
+      "CS - Sofa - Military - 2, 0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130713634,
+      131,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Totem - Mast - 0,0",
+      "CS - Accessory - Totem - Mast - 1,0 - Lead",
+      "CS - Accessory - Totem - Mast - 2,0",
+      "CS - Raft Parts - Warning Totem (for pickup)"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130713634,
+      131,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Totem - Mast - 0,0",
+      "CS - Accessory - Totem - Mast - 1,0 - Lead",
+      "CS - Accessory - Totem - Mast - 2,0",
+      "CS - Raft Parts - Warning Totem (for pickup)"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131021545,
+      131,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Hatchet 2"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131021545,
+      131,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Hatchet 2"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131888159,
+      131,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Hatchet"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131888159,
+      131,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Hatchet"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132913230,
+      131,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Staff of Tuzu"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132913230,
+      131,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Staff of Tuzu"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133773365,
+      131,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Pickaxe"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133773365,
+      131,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "category": "menu",
+    "reason": "Reviewed View action whose source notes explicitly say it appears for adults and children on a Castaway pickup/accessory object; exact row override. Repair rows remain under review.",
+    "object_names": [
+      "CS - Accessory - Pickaxe"
+    ]
   }
 ]
