@@ -65,7 +65,11 @@ def effective_records():
         if row is None:
             raise ValueError(('Row override missing from catalog and review snapshots', identity))
         if row['category'] != 'review' or (row['language'], row['en'], row['description']) != (override['language'], override['en'], override['description']):
-            raise ValueError(('Pending row override baseline mismatch', identity))
+            raise ValueError((
+                'Pending row override baseline mismatch', identity,
+                'source', (row['category'], row['language'], repr(row['en']), repr(row['description'])),
+                'override', (override['category'], override['language'], repr(override['en']), repr(override['description'])),
+            ))
         promoted_row = dict(row)
         promoted_row['category'] = override['category']
         promoted_row['reason'] = override['reason']
