@@ -95,3 +95,15 @@ Trust Source Audit over all older totals: **4,519 translation mappings, 7,894 ef
 Exact translation guards total 1,226 rows (816 menu, 297 dialog, 87 catalog, 9 story, 17 tutorial). Exact inherited classification decisions total 489 rows and are stored in `runtime/row_review_decisions*.json`; never replace these with a broad “CS means visible/unused” heuristic. Recent work recovered 16 `Cast Old FIN` Tutorial Controller strings and classified their opaque IDs/helpers separately. Large mixed groups such as `CS - Not Allowed on Floor - Invisible Marker`, Jaguar/Pets templates and duplicated food-stand `Cup O' Ramen` rows remain deliberately unresolved because they mix plausible gameplay with expansion/stale data.
 
 Package-writer QA is stale: 7,502 verified candidates versus 7,894 current. Rerun against the user-owned baseline packages before any release claim. Selector runtime source remains unverified; no v0.8 TEST or new in-game verification exists yet.
+
+
+## Current handoff checkpoint — 2026-10-06 exact-row translations
+
+Trust Source Audit over older totals: **4,525 translation entries (4,519 ordinary map entries + 6 exact-row translations), 7,900 effective candidate rows, 0 missing/review candidate rows, 36,798 inherited review rows, 0 parse errors**. Catalog has 955 translated source values, menu 990, dialog 37 and tutorial 142.
+
+Use the three exact systems correctly:
+- `row_scope_overrides*.json`: promote an inherited row that can reuse a normal category English→Vietnamese map.
+- `row_translation_overrides*.json`: promote + translate a specific row when duplicated/stale English must resolve differently by object context.
+- `row_review_decisions*.json`: exact exclude/retain after evidence review.
+
+The food stands Mahi-Mahi, Tropical Ribs and Pineapple Surprise are already fixed with six context-specific row translations; do not reintroduce a global `Cup O' Ramen` mapping. Generic exact translation guards total 1,226 and exact inherited review decisions total 489. Package QA remains stale: 7,502 verified candidates versus 7,900 current. Selector runtime source remains unverified; no v0.8 TEST or new in-game verification exists yet.

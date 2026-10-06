@@ -155,3 +155,12 @@ Player-facing work in the same sweep added the Tiki counter locale repair, Casta
 Authoritative effective totals: **4,519 translation mappings, 7,894 candidate rows, zero missing/review candidate rows, 36,804 inherited review rows, zero parse errors**. Current translated category totals include menu 990, catalog 953, dialog 37 and tutorial 142. Exact translation guards total **1,226** = 816 menu + 297 dialog + 87 catalog + nine story + 17 tutorial. Exact inherited review decisions total **489**. The compressed extraction snapshots still predate 378 pending exact promotions; source-only validation is authoritative until the next package extraction.
 
 Package-writer QA remains stale at 7,502 verified candidates versus 7,894 current (392-row gap). Story-selector runtime source remains unverified. No new in-game test or v0.8 TEST release is claimed.
+
+
+### Exact-row translation support + duplicated food stands (2026-10-06)
+
+Added `row_translation_overrides*.json` for context-specific translations when the same inherited English placeholder appears on different Castaway objects. Exact-row translations are guarded by package, DBPF key, row ordinal, language, original value and description; they also carry their own Vietnamese replacement. Validator checks placeholders, line-break signatures and metadata; triage hides selected rows; full extraction promotes them; package QA prefers the exact replacement before falling back to category maps.
+
+First use: the Mahi-Mahi, Tropical Ribs and Pineapple Surprise food-stand resources all inherited the same `Cup O' Ramen` title/description. Six exact catalog rows now receive distinct context-correct Vietnamese names and descriptions without creating a dangerous global `Cup O' Ramen` mapping. Source Audit passes at **4,525 translation entries** (4,519 normal map entries + six exact-row translations), **7,900 effective candidate rows**, zero missing/review candidate rows, **36,798 inherited review rows**, and zero parse errors. Catalog translated source values: 955.
+
+Exact generic translation guards remain 1,226 rows (816 menu, 297 dialog, 87 catalog, 9 story, 17 tutorial); context-specific row translations add six more promoted rows; exact inherited review decisions total 489. Package QA remains stale at 7,502 verified candidates versus 7,900 current. No in-game/v0.8 completion claim.

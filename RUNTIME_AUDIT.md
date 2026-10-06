@@ -292,3 +292,10 @@ The runtime guard loader now supports `row_scope_overrides*.json` shards so new 
 Added exact inherited-row classification infrastructure via `row_review_decisions*.json`. Decisions are guarded by package, DBPF key, row ordinal, language, source value and description; validator/triage/audit reject duplicates, overlaps with translation overrides, stale metadata or unsupported decisions. Current exact review-decision inventory is 489 excluded/retained rows.
 
 This sweep also promoted player-facing Tiki counter/bird-cage/Toy Box/catalog/dialog/menu rows and recovered 16 `Cast Old FIN` Tutorial Controller strings while excluding 45 opaque tutorial IDs/helper actions. Seasons Outerwear and University College Research residues were explicitly excluded by exact row. Current Source Audit: 4,519 mappings, 7,894 effective candidates, zero missing/review candidate rows, 36,804 inherited review rows, zero parse errors. Exact translation guards: 1,226 (816 menu, 297 dialog, 87 catalog, 9 story, 17 tutorial). Package QA remains stale at 7,502 verified candidates; no in-game or v0.8 completion claim.
+
+
+## Context-specific exact-row translation layer (2026-10-06)
+
+Implemented `row_translation_overrides*.json` for inherited collisions where one English value needs different Vietnamese output by owning resource. The validator, audit extractor, triage queue and package writer all use the same exact identity guard. Package application gives exact-row Vietnamese text precedence over ordinary category maps while retaining idempotence/source-baseline checks.
+
+Six catalog rows across Mahi-Mahi, Tropical Ribs and Pineapple Surprise are the first use case; all originally contain the stale `Cup O' Ramen` title/description but now receive object-specific Vietnamese text. Current Source Audit: 4,525 translation entries (six exact-row), 7,900 candidates, 0 missing/review candidate rows, 36,798 inherited review rows, 0 parse errors; catalog translated source values 955. Package QA is stale (7,502 verified vs 7,900 current), selector source remains unverified, no in-game completion claim.
