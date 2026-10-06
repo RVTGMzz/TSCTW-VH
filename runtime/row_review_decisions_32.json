@@ -1,0 +1,3107 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac20",
+    "description": "Simple Build Step 1",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac01",
+    "description": "Simple Build Step 2",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 1,
+    "en": "<----- Sub Basics 1 ---->",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 94,
+    "status": "excluded",
+    "language": 1,
+    "en": "<----- Sub Basics 2 ---->",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 114,
+    "status": "excluded",
+    "language": 1,
+    "en": "<----- Sub Basics 3 (New) ------>",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 140,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac02",
+    "description": "Simple Build Step 3",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 141,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac03",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 142,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac04",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 143,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac05",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 144,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac06",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 145,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac07",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 146,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac08",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 147,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac09",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 148,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac10",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 149,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac11",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 150,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac12",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 151,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac13",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 152,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac14",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 153,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac15",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 154,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac16",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 155,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac17",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 156,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac18",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 157,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac19",
+    "description": "Simple Build Step 20",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 158,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac54",
+    "description": "Simple Build Step 21",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 161,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac52",
+    "description": "Advanced Build Step 1",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 162,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac21",
+    "description": "Advanced Build Step 2",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 163,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac22",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 164,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac23",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 165,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac24",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 166,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac25",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 167,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac26",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 168,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac27",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 169,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac28",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 170,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac29",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 171,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac30",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 172,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac31",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 173,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac32",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 174,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac33",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 175,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac34",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 176,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac27",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 177,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac36",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 178,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac37",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 179,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac38",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 180,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac39",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 181,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac40",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 182,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac41",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 183,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac42",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 184,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac43",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 185,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac44",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 186,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac45",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 187,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac21",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 188,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac47",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 189,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac48",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 190,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac49",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 191,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac50",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 192,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac51",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 193,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac53",
+    "description": "Advanced Build Step 30",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 196,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac55",
+    "description": "Basics1 Step 1",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 197,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac56",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 198,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac57",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 199,
+    "status": "excluded",
+    "language": 1,
+    "en": "bebe0002",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 200,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac59",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 201,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac60",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 202,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac61",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 203,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac62",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 204,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac63",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 205,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac64",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 206,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac65",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 207,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac66",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 208,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac67",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 209,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac68",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 210,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac69",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 211,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac70",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 212,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac71",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 213,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac72",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 214,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac73",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 215,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac74",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 216,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac75",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 217,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac76",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 218,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac77",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 219,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac78",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 220,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac79",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 221,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac80",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 222,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac81",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 223,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac82",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 224,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac83",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 225,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac84",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 226,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac85",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 227,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac86",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 230,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac87",
+    "description": "Basics2 Step 1",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 231,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac88",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 232,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac89",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 233,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac90",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 234,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac91",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 235,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac92",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 236,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac93",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 237,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac94",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 238,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac95",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 239,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac96",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 240,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac97",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 241,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac98",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 242,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac99",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 244,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad01",
+    "description": "New Basics Step 1",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 245,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad02",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 246,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad03",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 247,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad04",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 248,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad05",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 249,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad07",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 250,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad07",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 251,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad08",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 252,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad24",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 253,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad10",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 254,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad11",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 255,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad12",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 256,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad13",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 257,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad14",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 258,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad15",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 259,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad16",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 260,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad17",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 261,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad18",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 262,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad19",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 263,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad20",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 264,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad21",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 265,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad22",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 267,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac47",
+    "description": "New Advanced Build Step 28",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 269,
+    "status": "excluded",
+    "language": 1,
+    "en": "<--- First Time W/F Dialogs --->",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 278,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3002",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 279,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3001",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 280,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3003",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 281,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3004",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 282,
+    "status": "excluded",
+    "language": 1,
+    "en": "<---- College First Time Help ---->",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 283,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3005",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 284,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3006",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 285,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3007",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 286,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3008",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 287,
+    "status": "excluded",
+    "language": 1,
+    "en": "Welcome to college! \n\nYour Sim's college career is tracked by semesters, 2 per class year: Freshman, Sophomore, Junior, and Senior. The amount of time left in your Sim's semester is shown in the Semester Timer. Hover your mouse cursor over the current semester in the timer to see how many hours are remaining until your final, which marks the end of your Sim's semester. If your Sim makes it through all four years of college, they will graduate and move back to their home neighborhood.\n\nSims who have a college degree will have new career tracks available to them, and will be better prepared to perform well in their jobs.\n\nWatch out, if your Sim drops out or gets expelled from college, they can never come back.",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 288,
+    "status": "excluded",
+    "language": 1,
+    "en": "Welcome to College!",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 289,
+    "status": "excluded",
+    "language": 1,
+    "en": "This panel contains all the information you need to know about how your Sims are doing in college. It lists your Sim's current major, which you can change by contacting the registrar on the phone by choosing \"Call...College\" and then choosing \"Registrar - Change Major\" or \"Registrar - Declare Major.\" You can also change your major by clicking on the computer and choosing \"College\" and then choosing \"Registrar - Change Major\" or \"Registrar - Declare Major.\"\n\nDisplayed here is the name of your Sim's current class and what time it meets every day. Sims in a good mood will go to class automatically. You can force not-so-happy Sims to go by clicking on the active Sim and choosing \"College... Go to Class.\"\n\nThis panel also shows your Sim's GPA, which is the average of all the previously completed semesters' grades, shown on a 4 point scale. ",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 290,
+    "status": "excluded",
+    "language": 1,
+    "en": "Getting Started with Classes",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 291,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Class Performance Meter shows how well your Sim is performing in the current semester. The Meter is increased when your Sim does academic activities such as doing their Assignments, going to Class and more. The Meter can only hold so much performance, however, and your Sim is wasting time if they study when the meter is full. Having your Sims build the indicated Skills expands the meter, opening up more room to fill with academic activities. Your Sim gets the best possible grade when they completely expand the meter and fill it up to the top. \n\nWhen the Semester Timer reaches its end, your Sim will have to go to their Final Exam. Sims in a good mood will go to their Final by themselves, but you can send any Sim to their Final by clicking on them when they are active and choosing \"College...Go to Final Exam.\" Sending your Sim to their Final Exam in a good mood can give a nice boost to your Sim's Class Performance, assuming there’s room left in the meter. If your Sim misses their Final Exam, however, their Class Performance will drop! Your final exam may not occur during your normal class time, so keep an eye on the semester timer.\n\nIf your Sim ends the semester with their Class Performance Meter filled below the white line, your Sim will have to repeat the semester on Academic Probation - if they fail to pass the semester while on Academic Probation, they're kicked out of college forever! ",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 292,
+    "status": "excluded",
+    "language": 1,
+    "en": "Keeping the Grades Up",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 293,
+    "status": "excluded",
+    "language": 1,
+    "en": "There are three different types of lots you can live on at college: Dorms, Private Residences, and Greek Houses.\n \nIf your Sims are living in a dorm, you might want to go claim a bedroom for each Sim before the other students show up. Click on the door to the room your Sim wants and select the \"Claim Door\" interaction.  A Sim can only claim one room. If you get tired of Sims just barging in, just use the \"Lock Door\" interaction.\n\nMoving into a private residence is as easy as picking up the newspaper or using the computer and choosing \"Find Own Place\".\n\nIf you'd like to move into a Greek House - call up the house you'd like to join on the phone using the \"Greek House.../Join\" interaction.",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 294,
+    "status": "excluded",
+    "language": 1,
+    "en": "University Living",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 295,
+    "status": "excluded",
+    "language": 1,
+    "en": "In addition to being great places to build skills and meet people, community lots in college offer some exciting moneymaking opportunities. Visit the campus lounge and take over for the Barista making espresso, play music for tips, or hit the campus gym and be a personal trainer!\n \nPerhaps the easiest way of keeping some cash in your Sims' pockets is to make sure they get good grades - the school will award grants to students that perform well.",
+    "description": "! Not in Castaway - Removed",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 296,
+    "status": "excluded",
+    "language": 1,
+    "en": "Making Money",
+    "description": "! Not in Castaway - Removed",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 297,
+    "status": "excluded",
+    "language": 1,
+    "en": "Put your pesky dorm-mates to work! Your Sims now have an \"Influence\" meter, which is filled up by completing special Influence Wants that have a blue border in the Wants panel. Raise the maximum amount of achievable influence for your Sim by getting them more friends. \n \nTo use influence, click on a Sim and choose \"Influence To\" and then pick a task. Get them to clean up for you, cook you some food, or even weed your garden! \n \nThe cost of a particular influence interaction is listed in parentheses after its name. If \"Influence To\" is grayed out, your Sim doesn't have enough influence yet!\n\nTo see this Mini-Tutorial again, go to the Options Mode panel, open the Game Options subpanel, and then click the \"Reset Mini-Tutorial\" button. Then exit the lot and re-enter any lot that has a household moved in. The Mini-Tutorial will play again.",
+    "description": "! Not in Castaway - Removed",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 299,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3009",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 300,
+    "status": "excluded",
+    "language": 1,
+    "en": "ecdb3010",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 303,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fac36",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 305,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad24",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 446,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac02",
+    "description": "Simple Build Step 3",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 447,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac03",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 448,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac04",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 449,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac05",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 450,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac06",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 451,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac07",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 452,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac08",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 453,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac09",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 454,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac10",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 455,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac11",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 456,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac12",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 457,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac13",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 458,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac14",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 459,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac15",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 460,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac16",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 461,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac17",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 462,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac18",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 463,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac19",
+    "description": "Simple Build Step 20",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 464,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac54",
+    "description": "Simple Build Step 21",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 467,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac52",
+    "description": "Advanced Build Step 1",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 468,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac21",
+    "description": "Advanced Build Step 2",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 469,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac22",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 470,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac23",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 471,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac24",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 472,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac25",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 473,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac26",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 474,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac27",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 475,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac28",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 476,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac29",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 477,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac30",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 478,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac31",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 479,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac32",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 480,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac33",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 481,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac34",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 482,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac35",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 575,
+    "status": "excluded",
+    "language": 2,
+    "en": "<--- First Time W/F Dialogs --->",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 593,
+    "status": "excluded",
+    "language": 2,
+    "en": "Welcome to college! \n\nYour Sim's college career is tracked by semesters, 2 per class year: Freshman, Sophomore, Junior, and Senior. The amount of time left in your Sim's semester is shown in the Semester Timer. Hover your mouse cursor over the current semester in the timer to see how many hours are remaining until your final, which marks the end of your Sim's semester. If your Sim makes it through all four years of college, they will graduate and move back to their home neighborhood.\n\nSims who have a college degree will have new career tracks available to them, and will be better prepared to perform well in their jobs.\n\nWatch out, if your Sim drops out or gets expelled from college, they can never come back.",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 594,
+    "status": "excluded",
+    "language": 2,
+    "en": "Welcome to College!",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 595,
+    "status": "excluded",
+    "language": 2,
+    "en": "This panel contains all the information you need to know about how your Sims are doing in college. It lists your Sim's current major, which you can change by contacting the registrar on the phone by choosing \"Call...College\" and then choosing \"Registrar - Change Major\" or \"Registrar - Declare Major.\" You can also change your major by clicking on the computer and choosing \"College\" and then choosing \"Registrar - Change Major\" or \"Registrar - Declare Major.\"\n\nDisplayed here is the name of your Sim's current class and what time it meets every day. Sims in a good mood will go to class automatically. You can force not-so-happy Sims to go by clicking on the active Sim and choosing \"College... Go to Class.\"\n\nThis panel also shows your Sim's GPA, which is the average of all the previously completed semesters' grades, shown on a 4 point scale. ",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 596,
+    "status": "excluded",
+    "language": 2,
+    "en": "Getting Started with Classes",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 597,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Class Performance Meter shows how well your Sim is performing in the current semester. The Meter is increased when your Sim does academic activities such as doing their Assignments, going to Class and more. The Meter can only hold so much performance, however, and your Sim is wasting time if they study when the meter is full. Having your Sims build the indicated Skills expands the meter, opening up more room to fill with academic activities. Your Sim gets the best possible grade when they completely expand the meter and fill it up to the top. \n\nWhen the Semester Timer reaches its end, your Sim will have to go to their Final Exam. Sims in a good mood will go to their Final by themselves, but you can send any Sim to their Final by clicking on them when they are active and choosing \"College...Go to Final Exam.\" Sending your Sim to their Final Exam in a good mood can give a nice boost to your Sim's Class Performance, assuming there’s room left in the meter. If your Sim misses their Final Exam, however, their Class Performance will drop! Your final exam may not occur during your normal class time, so keep an eye on the semester timer.\n\nIf your Sim ends the semester with their Class Performance Meter filled below the white line, your Sim will have to repeat the semester on Academic Probation - if they fail to pass the semester while on Academic Probation, they're kicked out of college forever! ",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 598,
+    "status": "excluded",
+    "language": 2,
+    "en": "Keeping the Grades Up",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 599,
+    "status": "excluded",
+    "language": 2,
+    "en": "There are three different types of lots you can live on at college: Dorms, Private Residences, and Greek Houses.\n \nIf your Sims are living in a dorm, you might want to go claim a bedroom for each Sim before the other students show up. Click on the door to the room your Sim wants and select the \"Claim Door\" interaction.  A Sim can only claim one room. If you get tired of Sims just barging in, just use the \"Lock Door\" interaction.\n\nMoving into a private residence is as easy as picking up the newspaper or using the computer and choosing \"Find Own Place\".\n\nIf you'd like to move into a Greek House - call up the house you'd like to join on the phone using the \"Greek House.../Join\" interaction.",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 600,
+    "status": "excluded",
+    "language": 2,
+    "en": "University Living",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 605,
+    "status": "excluded",
+    "language": 2,
+    "en": "ecdb3009",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 606,
+    "status": "excluded",
+    "language": 2,
+    "en": "ecdb3010",
+    "description": "",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 609,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fac27",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Tutorial Broke",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Steal Flamingo",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141459113,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "BUNNY - Grab Cake",
+    "description": "!",
+    "reason": "Tutorial controller internal identifier/command/test row or University-only first-time help; not Castaway player-facing tutorial content."
+  }
+]

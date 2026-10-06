@@ -1,0 +1,130 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 270,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Fulfill their Wants to pump up their Aspiration Meter while avoiding Fears that bring the Aspiration Meter down, and your Sims will live long and happy lives.",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Hãy đáp ứng Mong muốn để đẩy Thanh Khát vọng lên cao, đồng thời tránh Nỗi sợ làm thanh tụt xuống. Sim của bạn sẽ sống lâu và vui vẻ hơn.",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 271,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Your Sims Have Aspirations!",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Sim của bạn có Khát vọng!",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 272,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Fulfilling Wants earns your Sim Aspiration Reward Points that you can spend in the Aspiration Rewards Catalog.",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Hoàn thành Mong muốn sẽ giúp Sim nhận Điểm Thưởng Khát vọng để dùng trong Danh mục Phần thưởng Khát vọng.",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 273,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Unlock New Rewards!",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Mở khóa phần thưởng mới!",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 274,
+    "category": "tutorial",
+    "language": 1,
+    "en": "But don't forget your Sims' basic Needs! They're smarter than ever, but they still need your help staying on top of things.",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Nhưng đừng quên các Nhu cầu cơ bản! Sim thông minh hơn bao giờ hết, nhưng vẫn cần bạn giúp giữ mọi thứ ổn thỏa.",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 275,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Your Sims Are Smarter!",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Sim thông minh hơn rồi!",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 276,
+    "category": "tutorial",
+    "language": 1,
+    "en": "And with 3-D comes new ways to move the camera! Use the Right Mouse button to scroll. Spin your mouse wheel to zoom in and out, and press your mouse wheel to rotate and tilt the camera. If you're having trouble with the camera, or need a quick overview, try clicking Learn to Play from the Main Menu.",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Thế giới 3D đem đến cách điều khiển camera mới! Giữ chuột phải để kéo màn hình. Lăn bánh xe chuột để phóng to hoặc thu nhỏ; nhấn bánh xe chuột để xoay và nghiêng camera. Nếu thấy camera khó dùng hoặc cần xem hướng dẫn nhanh, hãy chọn Học cách chơi từ Menu chính.",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141459113,
+      301,
+      0
+    ],
+    "row": 277,
+    "category": "tutorial",
+    "language": 1,
+    "en": "The Sims are in 3D!",
+    "description": "! Not in Castaway - Removed",
+    "vi": "Thế giới The Sims đã lên 3D!",
+    "reason": "Potentially player-facing retained base-game first-time help in Castaway Free Play; exact-row translation avoids promoting University/tutorial-controller internals."
+  }
+]
