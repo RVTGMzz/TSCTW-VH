@@ -45,3 +45,4 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Birthday Cake" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Potty Chair" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - High Chair - Plastic" --groups 4 --samples 100
+          python src/builder/triage_review_queue.py --object-contains "Reward" --groups 120 --samples 30
