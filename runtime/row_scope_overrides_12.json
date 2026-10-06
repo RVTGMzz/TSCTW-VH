@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n(was marked Batch15 but not actually in Batch15 - mimicked from other chessboard)",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Cheat",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n(was marked Batch15 but not actually in Batch15 - mimicked from other chessboard)",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n(was marked Batch15 but not actually in Batch15 - mimicked from other chessboard)\nChanged from Ask to Join to Join",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n(was marked Batch15 but not actually in Batch15 - mimicked from other chessboard)",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Cheat",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n(was marked Batch15 but not actually in Batch15 - mimicked from other chessboard)",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n(was marked Batch15 but not actually in Batch15 - mimicked from other chessboard)\nChanged from Ask to Join to Join",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing outdoor chess interaction in Castaway; exact inherited row reuses an existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645177,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on the Castaway pinball machine; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645177,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on the Castaway pinball machine; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645177,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on the Castaway pinball machine; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645177,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on the Castaway pinball machine; exact inherited row reuses existing menu translation."
+  }
+]

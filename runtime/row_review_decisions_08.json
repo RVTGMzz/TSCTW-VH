@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645177,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*test",
+    "description": "!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Pinball *test interaction is an internal test row, not player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645177,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*test",
+    "description": "!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Pinball *test interaction is an internal test row, not player-facing gameplay."
+  }
+]

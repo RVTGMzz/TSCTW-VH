@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Ruin Game",
+    "description": "",
+    "vi": "Phá ván cờ",
+    "reason": "Outdoor chess autonomous/player-visible ruin action; translated by exact row to avoid a global Ruin mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146554773,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Ruin",
+    "description": "",
+    "vi": "Phá bàn cờ",
+    "reason": "Outdoor chess ruin action; translated by exact row to avoid a global Ruin mapping."
+  }
+]
