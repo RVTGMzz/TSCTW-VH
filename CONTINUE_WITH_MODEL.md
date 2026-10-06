@@ -225,3 +225,10 @@ Promoted 35 exact menu rows: 25 from `CS - Food - Lomi Lomi Salmon` and 10 core 
 ## Latest checkpoint — 2026-10-06 Birthday Cake + toddler catalog
 
 Promoted 18 exact rows: four Birthday Cake interactions, four Birthday Cake catalog rows, two Birthday Cake Box title rows, four Potty Chair catalog rows and four Plastic High Chair catalog rows. Added two menu mappings and seven catalog mappings. Leave Age Trans/Dynamic Menu, the cake-box `not needed?` placeholder description, and bare-metadata high-chair TTAs under review. Effective totals: 4,432 maps, 7,595 candidates, zero missing/review candidate rows, 37,592 inherited review rows. Package QA remains stale; selector source remains unverified; no v0.8 TEST has been released.
+
+
+## Latest checkpoint — 2026-10-06 item catalog + object interactions
+
+Promoted 55 exact inherited rows after the Birthday/Potty/High-Chair sweep. Batch A: 30 catalog rows / 17 new catalog mappings for Market Basket, Xylophone, Changing Table, Diary, Teddy Bear, Book, bowls/plate, Baby Bottle, Birthday Cake Slice and Peg Box. Batch B: 25 rows for Toy Box, Diaper, Recycle, Veg Out and documented View actions on pickup/accessory objects; two new menu and three new catalog mappings. Keep obviously mismatched inherited text (for example Cup O' Ramen under Tropical Ribs/Pineapple Surprise) and maintenance/debug/expansion residue under review.
+
+Effective totals: 4,454 maps, 7,650 candidates, 0 missing/review candidate rows, 37,537 inherited review rows, 0 parse errors. Override guards: 982 total = 645 menu, 271 dialog, 56 catalog, 9 story, 1 tutorial. Package QA remains stale; selector runtime source remains unverified; no v0.8 TEST has been released.

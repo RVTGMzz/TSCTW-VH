@@ -48,11 +48,11 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` promotes 623 exact menu rows (213 unique labels), 271 dialog rows, 23 catalog rows, nine story rows and one tutorial row from the inherited review queue into reviewed scope (927 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
+`row_scope_overrides.json` promotes 645 exact menu rows (215 unique labels), 271 dialog rows, 56 catalog rows, nine story rows and one tutorial row from the inherited review queue into reviewed scope (982 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current selected source includes 1,551 story/career/runtime-story values, 960 menu values, 913 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,595 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,592 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,551 story/career/runtime-story values, 962 menu values, 933 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,650 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,537 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -105,3 +105,10 @@ Pet-training rows such as `Train to Pee` / `Be Trained to Pee`, `Throw Up Test`,
 Promoted 18 exact rows from clearly owned Castaway resources: four player-facing Birthday Cake TTAs rows, four Birthday Cake catalog rows, two Birthday Cake Box title rows, four Potty Chair catalog rows and four Plastic High Chair catalog rows. Added two menu mappings and seven catalog mappings. The catalog copy keeps product names such as Tinkle Trainer 6000 and Kinder Koddler while localizing the surrounding Sims-style humor.
 
 Developer/internal candidates remain under review, including Birthday Cake Age Trans/Dynamic Menu rows, the cake-box placeholder description marked `not needed?`, and the high chair's bare-metadata TTAs. Effective source totals: 4,432 mappings, 7,595 candidate rows, zero missing/review candidate decisions and 37,592 inherited review rows. Package-writer QA remains stale pending the baseline package-byte rerun; no in-game result is claimed.
+
+
+### Sweep batch: item catalog + object interactions (2026-10-06)
+
+Two evidence-backed batches added 55 exact inherited rows. The first promoted 30 catalog rows covering Market Basket, Xylophone, Changing Table, Diary, Teddy Bear, Book, serving/meal dishes, Baby Bottle, Birthday Cake Slice and the Peg Box toy; 17 new Vietnamese catalog mappings were added. The second promoted 25 rows: Toy Box and Diaper catalog text, Recycle on Book/Diary, Veg Out on Castaway seating, and View on the Warning Totem/Hatchet/Staff of Tuzu/Pickaxe pickup objects. `View` reused the existing `Ngắm` mapping.
+
+Obviously mismatched or weak inherited text remains unresolved instead of being translated by association, including `Cup O' Ramen` under Tropical Ribs/Pineapple Surprise, pet/plantbaby expansion residue, maintenance/state/debug actions, and generic Repair rows without equivalent player-facing evidence. Effective totals: 4,454 mappings, 7,650 candidate rows, zero missing/review candidate decisions, 37,537 inherited review rows, zero parse errors. Package-writer QA remains stale pending the user-owned baseline package-byte rerun; no in-game result is claimed.

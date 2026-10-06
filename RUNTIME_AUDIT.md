@@ -252,3 +252,10 @@ Expansion/debug residue in the same toilet resource remains unresolved rather th
 Promoted 18 exact source rows with Castaway ownership and player-facing evidence: Birthday Cake interactions/catalog, Birthday Cake Box title, Potty Chair catalog and Plastic High Chair catalog. Added two menu and seven catalog mappings. Explicit developer/placeholder rows in the same resources were left unresolved rather than translated by association.
 
 Effective totals are 4,432 translation-map entries, 7,595 candidate rows, zero missing/review candidate decisions and 37,592 inherited review rows. The package-writer QA snapshot still predates these exact-row promotions; no in-game verification is claimed.
+
+
+## Sweep continuation — item catalog + object interactions (2026-10-06)
+
+Added 55 exact source rows in two passes. Catalog coverage expanded across clearly owned Castaway objects (market basket, toys, changing table, diary/book, dishes, baby bottle, birthday-cake slice, toy box and diaper), while the interaction pass added Recycle, Veg Out and explicitly documented View rows on Castaway pickup/accessory objects. Mismatched inherited rows such as Cup O' Ramen under unrelated food-stand objects were deliberately left under review.
+
+Current effective source totals are 4,454 translation-map entries, 7,650 candidate rows, 962 translated menu values, 933 translated catalog values, zero missing/review candidate decisions and 37,537 inherited review rows. Parser errors are zero. Package-writer QA still predates the latest exact-row promotions; selector runtime source and in-game verification remain outstanding.
