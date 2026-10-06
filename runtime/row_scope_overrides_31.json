@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136066724,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "",
+    "reason": "Shared player-facing Clean interaction; approved Vietnamese menu mapping already exists as 'Làm sạch'."
+  }
+]
