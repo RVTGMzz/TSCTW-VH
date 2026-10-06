@@ -1,0 +1,77 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Put On Left Earring",
+    "description": "!!!!!!!!",
+    "reason": "Helper/debug/state row on catalog-backed object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Update Thumbnail",
+    "description": "!!!!!!!!",
+    "reason": "Helper/debug/state row on catalog-backed object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131466665,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Helper/debug/state row on catalog-backed object ['Aquarium Expensive', 'aquarium_expensive00', 'aquarium_expensive01']; not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133405859,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!!!",
+    "reason": "Helper/debug/state row on catalog-backed object ['Dishwasher - Stainless']; not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133405859,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!!!",
+    "reason": "Helper/debug/state row on catalog-backed object ['Dishwasher - Stainless']; not a player-facing interaction."
+  }
+]

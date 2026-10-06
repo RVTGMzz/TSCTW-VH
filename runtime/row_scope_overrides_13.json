@@ -1,0 +1,242 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Look at Self",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Appearance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Makeover $Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\ninteraction on Vanity Table which brings up a CAS-like UI.",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Madeover",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\ninteraction on Vanity Table action queue for SimB",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Look at Self",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290411,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Appearance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Vanity Table - Country', 'Vanity Table - Country - 0, 0', 'Vanity Table - Country - 0, 1 - Lead', 'Vanity Table - Country - 1, 0', 'Vanity Table - Country - 1, 1']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131466665,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nAquarium interaction and action queue text: Interaction is available when aquarium is dirty. This interaction cleans the aquarium.",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Aquarium Expensive', 'aquarium_expensive00', 'aquarium_expensive01']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131466665,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Feed Fish",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nAquarium Interaction and action queue text. ",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Aquarium Expensive', 'aquarium_expensive00', 'aquarium_expensive01']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131466665,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Restock",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nAquarium interaction and action queue text. Adds fish to empty aquariums.",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Aquarium Expensive', 'aquarium_expensive00', 'aquarium_expensive01']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131466665,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims2 - Needs Translation - Batch10\r\n\r\nAquarium Interaction and action queue text. Watch fish swim in aquarium. ",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Aquarium Expensive', 'aquarium_expensive00', 'aquarium_expensive01']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139686314,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Trash Can - Inside Value']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139686314,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Out Trash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Trash Can - Inside Value']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139686314,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Trash Can - Inside Value']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139686314,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Salvage",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Trash Can - Inside Value']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133405859,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Dishwasher - Stainless']; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133405859,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway object ['Dishwasher - Stainless']; exact inherited row."
+  }
+]
