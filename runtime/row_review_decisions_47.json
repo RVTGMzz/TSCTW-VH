@@ -1,0 +1,197 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144394938,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unused - Lock",
+    "description": "",
+    "reason": "Source label explicitly marks this interaction as unused."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146303510,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "You've spawned a new plantbaby and now they need a name!",
+    "description": "",
+    "reason": "PlantSim/plantbaby gameplay is inherited Seasons content, not a Castaway Stories player-facing system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146303510,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "You have too many people in your family already. You can't spawn a new plantbaby until someone moves out.",
+    "description": "",
+    "reason": "PlantSim/plantbaby gameplay is inherited Seasons content, not a Castaway Stories player-facing system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Internal _HSN interaction label; technical story/test routing, not player-facing copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Internal _HSN interaction label; technical story/test routing, not player-facing copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6 inherited interaction residue; not Castaway-specific player-facing content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Internal _HSN interaction label; technical story/test routing, not player-facing copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Internal _HSN interaction label; technical story/test routing, not player-facing copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Label explicitly identifies itself as debug text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6 inherited interaction residue; not Castaway-specific player-facing content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set To Birthday",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6 debug/age-state action inherited from Pets."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat Snow",
+    "description": "!",
+    "reason": "Snow interaction is expansion-specific inherited content and is not reachable in Castaway Stories' tropical world."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 101,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat Snow",
+    "description": "!",
+    "reason": "Snow interaction is expansion-specific inherited content and is not reachable in Castaway Stories' tropical world."
+  }
+]
