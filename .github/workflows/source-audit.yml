@@ -73,3 +73,5 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Controller - Wild Dog - Aggressive Behavior" --groups 10 --samples 220
           python src/builder/triage_review_queue.py --object-contains "Chessboard - Outdoors" --groups 10 --samples 80
           python src/builder/triage_review_queue.py --object-contains "Career - Pinball" --groups 10 --samples 80
+          python src/builder/triage_review_queue.py --object-contains "Bookcase - Colonial" --groups 10 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "Toy - Language" --groups 10 --samples 120
