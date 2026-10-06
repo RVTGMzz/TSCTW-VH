@@ -1,0 +1,1817 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133082628,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Top/Blue",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter Island - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133082628,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Top/Green",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter Island - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133082628,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Base",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter Island - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133082628,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Top/Blue",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter Island - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133082628,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Top/Green",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter Island - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133082628,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Base",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter Island - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134518950,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Person A",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch Bamboo', 'CS - Wedding - Arch Bamboo - 0, 0 - Lead', 'CS - Wedding - Arch Bamboo - 1, 0', 'CS - Wedding - Arch Bamboo - 2, 0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134518950,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Breaking Push",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch Bamboo', 'CS - Wedding - Arch Bamboo - 0, 0 - Lead', 'CS - Wedding - Arch Bamboo - 1, 0', 'CS - Wedding - Arch Bamboo - 2, 0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134518950,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Force Wedding",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch Bamboo', 'CS - Wedding - Arch Bamboo - 0, 0 - Lead', 'CS - Wedding - Arch Bamboo - 1, 0', 'CS - Wedding - Arch Bamboo - 2, 0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134518950,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Person A",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch Bamboo', 'CS - Wedding - Arch Bamboo - 0, 0 - Lead', 'CS - Wedding - Arch Bamboo - 1, 0', 'CS - Wedding - Arch Bamboo - 2, 0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134518950,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Breaking Push",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch Bamboo', 'CS - Wedding - Arch Bamboo - 0, 0 - Lead', 'CS - Wedding - Arch Bamboo - 1, 0', 'CS - Wedding - Arch Bamboo - 2, 0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134518950,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Force Wedding",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch Bamboo', 'CS - Wedding - Arch Bamboo - 0, 0 - Lead', 'CS - Wedding - Arch Bamboo - 1, 0', 'CS - Wedding - Arch Bamboo - 2, 0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136644813,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Top/Blue",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136644813,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Top/Green",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136644813,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Base",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136644813,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Top/Blue",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136644813,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Top/Green",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136644813,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Base",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Tiki']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137802579,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Person A",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch', 'Wedding Arch - 0,0', 'Wedding Arch - 1,0', 'Wedding Arch - 2,0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137802579,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Breaking Push",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch', 'Wedding Arch - 0,0', 'Wedding Arch - 1,0', 'Wedding Arch - 2,0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137802579,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Force Wedding",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch', 'Wedding Arch - 0,0', 'Wedding Arch - 1,0', 'Wedding Arch - 2,0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137802579,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Person A",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch', 'Wedding Arch - 0,0', 'Wedding Arch - 1,0', 'Wedding Arch - 2,0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137802579,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Breaking Push",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch', 'Wedding Arch - 0,0', 'Wedding Arch - 1,0', 'Wedding Arch - 2,0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137802579,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Force Wedding",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Wedding - Arch', 'Wedding Arch - 0,0', 'Wedding Arch - 1,0', 'Wedding Arch - 2,0']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142824980,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Top/Blue",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142824980,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Top/Green",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142824980,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Change Base",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142824980,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Top/Blue",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142824980,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Top/Green",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142824980,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Change Base",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Counter - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "* notusedSwitch To",
+    "description": "!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*notused",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*notused",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Switch To",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "* notusedSwitch To",
+    "description": "!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set High Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set Medium Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131060573,
+      132,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set Low Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box - Broken']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "* notusedSwitch To",
+    "description": "!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*notused",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*notused",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Switch To",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "* notusedSwitch To",
+    "description": "!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set High Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set Medium Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138049393,
+      132,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set Low Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - BoomBox Stereo']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "* notusedSwitch To",
+    "description": "!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*notused",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*notused",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Switch To",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "* notusedSwitch To",
+    "description": "!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set High Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set Medium Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143145506,
+      132,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Set Low Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Crafting Station - Boom Box']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134250503,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add Trash Unit",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Trash - Trashpit', 'CS - Trash - Trashpit 0, 0', 'CS - Trash - Trashpit 0, 1 - Lead', 'CS - Trash - Trashpit 1, 0', 'CS - Trash - Trashpit 1, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134250503,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Kill Fire",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Trash - Trashpit', 'CS - Trash - Trashpit 0, 0', 'CS - Trash - Trashpit 0, 1 - Lead', 'CS - Trash - Trashpit 1, 0', 'CS - Trash - Trashpit 1, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134250503,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Add Trash Unit",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Trash - Trashpit', 'CS - Trash - Trashpit 0, 0', 'CS - Trash - Trashpit 0, 1 - Lead', 'CS - Trash - Trashpit 1, 0', 'CS - Trash - Trashpit 1, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134250503,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Kill Fire",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Trash - Trashpit', 'CS - Trash - Trashpit 0, 0', 'CS - Trash - Trashpit 0, 1 - Lead', 'CS - Trash - Trashpit 1, 0', 'CS - Trash - Trashpit 1, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141628557,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Force Place Idol",
+    "description": "!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Temple Altar']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141628557,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Reset Idol",
+    "description": "!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Temple Altar']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141628557,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Force Place Idol",
+    "description": "!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Temple Altar']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141628557,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Reset Idol",
+    "description": "!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Temple Altar']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142768063,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Selectable",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - NPC - Template - Ghost Captain']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142768063,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Cheat STR",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - NPC - Template - Ghost Captain']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142768063,
+      1,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Selectable",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - NPC - Template - Ghost Captain']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142768063,
+      1,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Cheat STR",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - NPC - Template - Ghost Captain']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133991074,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - MakeShift']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133991074,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - MakeShift']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133991074,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - MakeShift']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133991074,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - MakeShift']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133991074,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - MakeShift']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133991074,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - MakeShift']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137030431,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Survival']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137030431,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Survival']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137030431,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Survival']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137030431,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Survival']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137030431,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Survival']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137030431,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Survival']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144780308,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Communal']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144780308,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Communal']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144780308,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Communal']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144780308,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Communal']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144780308,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Communal']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144780308,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Shower - Communal']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131166648,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Show Cards",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Table - Card - Pirate', 'CS - Table - Card - Pirate - 0, 0', 'CS - Table - Card - Pirate - 0, 1', 'CS - Table - Card - Pirate - 0, 2', 'CS - Table - Card - Pirate - 1, 0', 'CS - Table - Card - Pirate - 1, 1 - Lead', 'CS - Table - Card - Pirate - 1, 2', 'CS - Table - Card - Pirate - 2, 0', 'CS - Table - Card - Pirate - 2, 1', 'CS - Table - Card - Pirate - 2, 2']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131166648,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Toggle Fold Prevention",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Table - Card - Pirate', 'CS - Table - Card - Pirate - 0, 0', 'CS - Table - Card - Pirate - 0, 1', 'CS - Table - Card - Pirate - 0, 2', 'CS - Table - Card - Pirate - 1, 0', 'CS - Table - Card - Pirate - 1, 1 - Lead', 'CS - Table - Card - Pirate - 1, 2', 'CS - Table - Card - Pirate - 2, 0', 'CS - Table - Card - Pirate - 2, 1', 'CS - Table - Card - Pirate - 2, 2']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131166648,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Show Cards",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Table - Card - Pirate', 'CS - Table - Card - Pirate - 0, 0', 'CS - Table - Card - Pirate - 0, 1', 'CS - Table - Card - Pirate - 0, 2', 'CS - Table - Card - Pirate - 1, 0', 'CS - Table - Card - Pirate - 1, 1 - Lead', 'CS - Table - Card - Pirate - 1, 2', 'CS - Table - Card - Pirate - 2, 0', 'CS - Table - Card - Pirate - 2, 1', 'CS - Table - Card - Pirate - 2, 2']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135866032,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Show Cards",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Table - Poker', 'Table - Poker - 0, 0', 'Table - Poker - 0, 1 - P1 - W', 'Table - Poker - 0, 2', 'Table - Poker - 1, 0 - P4 - N', 'Table - Poker - 1, 1 - Lead', 'Table - Poker - 1, 2 - P2 - S', 'Table - Poker - 2, 0', 'Table - Poker - 2, 1 - P3 - E', 'Table - Poker - 2, 2']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135866032,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Toggle Fold Prevention",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Table - Poker', 'Table - Poker - 0, 0', 'Table - Poker - 0, 1 - P1 - W', 'Table - Poker - 0, 2', 'Table - Poker - 1, 0 - P4 - N', 'Table - Poker - 1, 1 - Lead', 'Table - Poker - 1, 2 - P2 - S', 'Table - Poker - 2, 0', 'Table - Poker - 2, 1 - P3 - E', 'Table - Poker - 2, 2']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135866032,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Show Cards",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Table - Poker', 'Table - Poker - 0, 0', 'Table - Poker - 0, 1 - P1 - W', 'Table - Poker - 0, 2', 'Table - Poker - 1, 0 - P4 - N', 'Table - Poker - 1, 1 - Lead', 'Table - Poker - 1, 2 - P2 - S', 'Table - Poker - 2, 0', 'Table - Poker - 2, 1 - P3 - E', 'Table - Poker - 2, 2']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143559349,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Interaction - Set Model",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Vine Swing', 'CS - Outdoor - Vine Swing - 0, 2', 'CS - Outdoor - Vine Swing - 0, 3', 'CS - Outdoor - Vine Swing - 1, 2', 'CS - Outdoor - Vine Swing - 1, 3', 'CS - Outdoor - Vine Swing - 2, 0', 'CS - Outdoor - Vine Swing - 2, 1', 'CS - Outdoor - Vine Swing - 2, 2', 'CS - Outdoor - Vine Swing - 2, 3 - Lead', 'CS - Outdoor - Vine Swing - 2, 4', 'CS - Outdoor - Vine Swing - 2, 5', 'CS - Outdoor - Vine Swing - 3, 0', 'CS - Outdoor - Vine Swing - 3, 1', 'CS - Outdoor - Vine Swing - 3, 2', 'CS - Outdoor - Vine Swing - 3, 3', 'CS - Outdoor - Vine Swing - 3, 4', 'CS - Outdoor - Vine Swing - 3, 5']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143559349,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Chill",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Vine Swing', 'CS - Outdoor - Vine Swing - 0, 2', 'CS - Outdoor - Vine Swing - 0, 3', 'CS - Outdoor - Vine Swing - 1, 2', 'CS - Outdoor - Vine Swing - 1, 3', 'CS - Outdoor - Vine Swing - 2, 0', 'CS - Outdoor - Vine Swing - 2, 1', 'CS - Outdoor - Vine Swing - 2, 2', 'CS - Outdoor - Vine Swing - 2, 3 - Lead', 'CS - Outdoor - Vine Swing - 2, 4', 'CS - Outdoor - Vine Swing - 2, 5', 'CS - Outdoor - Vine Swing - 3, 0', 'CS - Outdoor - Vine Swing - 3, 1', 'CS - Outdoor - Vine Swing - 3, 2', 'CS - Outdoor - Vine Swing - 3, 3', 'CS - Outdoor - Vine Swing - 3, 4', 'CS - Outdoor - Vine Swing - 3, 5']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143559349,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Interaction - Set Model",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Outdoor - Vine Swing', 'CS - Outdoor - Vine Swing - 0, 2', 'CS - Outdoor - Vine Swing - 0, 3', 'CS - Outdoor - Vine Swing - 1, 2', 'CS - Outdoor - Vine Swing - 1, 3', 'CS - Outdoor - Vine Swing - 2, 0', 'CS - Outdoor - Vine Swing - 2, 1', 'CS - Outdoor - Vine Swing - 2, 2', 'CS - Outdoor - Vine Swing - 2, 3 - Lead', 'CS - Outdoor - Vine Swing - 2, 4', 'CS - Outdoor - Vine Swing - 2, 5', 'CS - Outdoor - Vine Swing - 3, 0', 'CS - Outdoor - Vine Swing - 3, 1', 'CS - Outdoor - Vine Swing - 3, 2', 'CS - Outdoor - Vine Swing - 3, 3', 'CS - Outdoor - Vine Swing - 3, 4', 'CS - Outdoor - Vine Swing - 3, 5']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146914972,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Interaction - Set Model",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Swing Set', 'Swing Set - 0,0', 'Swing Set - 0,1', 'Swing Set - 1,0', 'Swing Set - 1,1', 'Swing Set - Back 0', 'Swing Set - Back 1', 'Swing Set - Back 2', 'Swing Set - Back 3', 'Swing Set - Front 0', 'Swing Set - Front 1', 'Swing Set - Front 2', 'Swing Set - Front 3']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146914972,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Chill",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Swing Set', 'Swing Set - 0,0', 'Swing Set - 0,1', 'Swing Set - 1,0', 'Swing Set - 1,1', 'Swing Set - Back 0', 'Swing Set - Back 1', 'Swing Set - Back 2', 'Swing Set - Back 3', 'Swing Set - Front 0', 'Swing Set - Front 1', 'Swing Set - Front 2', 'Swing Set - Front 3']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146914972,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Interaction - Set Model",
+    "description": "!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Swing Set', 'Swing Set - 0,0', 'Swing Set - 0,1', 'Swing Set - 1,0', 'Swing Set - 1,1', 'Swing Set - Back 0', 'Swing Set - Back 1', 'Swing Set - Back 2', 'Swing Set - Back 3', 'Swing Set - Front 0', 'Swing Set - Front 1', 'Swing Set - Front 2', 'Swing Set - Front 3']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Buy",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Survival', 'CS - Rack - Clothing - Survival - 0, 0 - Lead', 'CS - Rack - Clothing - Survival - 0, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Try on",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Survival', 'CS - Rack - Clothing - Survival - 0, 0 - Lead', 'CS - Rack - Clothing - Survival - 0, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Test Outfit",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Survival', 'CS - Rack - Clothing - Survival - 0, 0 - Lead', 'CS - Rack - Clothing - Survival - 0, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug Buy",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Survival', 'CS - Rack - Clothing - Survival - 0, 0 - Lead', 'CS - Rack - Clothing - Survival - 0, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Test Outfit",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Survival', 'CS - Rack - Clothing - Survival - 0, 0 - Lead', 'CS - Rack - Clothing - Survival - 0, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132984577,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Debug Buy",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Survival', 'CS - Rack - Clothing - Survival - 0, 0 - Lead', 'CS - Rack - Clothing - Survival - 0, 1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Buy",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Value', 'Rack - Clothing - Value 0,0', 'Rack - Clothing - Value 0,1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Try on",
+    "description": " ",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Value', 'Rack - Clothing - Value 0,0', 'Rack - Clothing - Value 0,1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Test Outfit",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Value', 'Rack - Clothing - Value 0,0', 'Rack - Clothing - Value 0,1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug Buy",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Value', 'Rack - Clothing - Value 0,0', 'Rack - Clothing - Value 0,1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Test Outfit",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Value', 'Rack - Clothing - Value 0,0', 'Rack - Clothing - Value 0,1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138626953,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Debug Buy",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Rack - Clothing - Value', 'Rack - Clothing - Value 0,0', 'Rack - Clothing - Value 0,1']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142921105,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Feed Dynamic",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Baby Bottle']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142921105,
+      131,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Feed Dynamic",
+    "description": "!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Baby Bottle']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142921105,
+      131,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Drop Test",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Baby Bottle']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134714421,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Knife",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Accessory - Food - Utensil - Spice Shaker']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134714421,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Knife",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Accessory - Food - Utensil - Spice Shaker']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138318842,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Knife",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Accessory - Food - Utensil - Cooking Knife']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138318842,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Knife",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Accessory - Food - Utensil - Cooking Knife']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144667484,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Temp",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Window - Long Ornate - Diagonal', 'CS - Window - Long Ornate - Diagonal - 0, 0 - Lead']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144667484,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Temp",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Window - Long Ornate - Diagonal', 'CS - Window - Long Ornate - Diagonal - 0, 0 - Lead']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130966365,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Continue",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Accessory - Crafting Station - Material (remove when crafti']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130966365,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scrap",
+    "description": "",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Accessory - Crafting Station - Material (remove when crafti']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131356187,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Dishwasher - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131356187,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Maintenance Level",
+    "description": "!!!!!!!",
+    "reason": "Reviewed internal/helper/debug row on ['CS - Dishwasher - Value']; star-prefixed model/state/test/helper action is not player-facing Castaway localization."
+  }
+]
