@@ -1,0 +1,3902 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object will grow up in just one day at 6 p.m.  It's time to plan a party and buy $Object a Birthday Cake!",
+    "description": "The Sims 2 - Needs Translation - Batch24\n8/1 change  - time changed from 7 p.m. to 6 p.m. per bug 37450. Lighting transition is at 7 p.m., apparently.\nThis changed from 2 days to one day.\r\nNote - this is the notification when a Sim is one day away from their age transition.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object only has two days left before celebrating a birthday. Make sure you fulfill $Object's wants so that $Object will enter the next phase of life with as full of an Aspiration Meter as possible.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote 7/21 change from one day to two days\nThis is the Moderate TNS - note change from Aspiration Score to Aspiration Meter.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "You've made it! Now that you're an elder, use the phone to call work and retire if you want . . . you've got a big pension coming!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nDialog which appears after the Sim becomes an elder - reminds them to call work and retire.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 just couldn't get any better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Don Juan . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nadded space after first period in english and decapitalized Life.\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages, with articles. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Normal  aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Hopeless Romantic . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Cold Fish.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Total Turn-Off ...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "a baby",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "a toddler",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "a child",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "a teenager",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "an adult",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "an elder",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 couldn't get any better, or longer!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Femme Fatale  . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Normal aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Hopeless Romantic...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Cold Fish . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Total Turn Off. . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Only two days left before $Object's birthday. With an Aspiration Meter as full as $Object's, there's not much to worry about. Just make sure to avoid any fears so that $Object can carry that Aspiration Meter on to the next phase of life.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed again - two day warning instead of one day. \ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for high score Sims, 2 days before the Sim will age transition and alerts the player to keep the Sim's aspiration meter high.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be careful! $Object only has two days left before celebrating a birthday. $Object's Aspiration Meter is looking pretty low, but there's still time to focus on some of $Object's wants, and make sure that next phase of life isn't as hard as this one was.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed from one day warning to two day.\ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for low aspiration score Sims, 2 days before the Sim will age transition and alerts the player to try to keep the Sim from age transitioning with such a low score.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's birthday is only a day away. It seems like only yesterday that the little bundle of joy came into this world. Oh, how quickly they grow up.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of his golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. He's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of his life, but look on the bright side, he could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving his goals with the limited time he has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing he wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of her golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. She's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of her life, but look on the bright side, she could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving her goals with the limited time she has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing she wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Now that $Object is a teenager, it's time to start thinking about college.  Make sure $Object studies hard, because it will count towards college!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for when Sim becomes a teen.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has the opportunity to enter college.  Before moving into college, $Object can use a computer or a phone to apply for scholarships.  More scholarships mean more money to use in college, and more money means more fun!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for during teen time (appears at a tunable interval).",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object will become an adult in a few days.  For better opportunities in the future (and the chance to have some fun as a young adult), $Object can move into college before becoming an adult.  Use a phone or computer to send $Object to college, or use the Send Sims to College button on the Neighborhood screen to send multiple teenagers to college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for \"last chance\" to go to college.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of him to keep him strong!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your cat is starting to show his age, which means it just might be time for him to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 1,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for him to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of her to keep her strong!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your cat is starting to show her age, which means it just might be time for her to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 1,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for her to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object will grow up in just one day at 6 p.m.  It's time to plan a party and buy $Object a Birthday Cake!",
+    "description": "The Sims 2 - Needs Translation - Batch24\n8/1 change  - time changed from 7 p.m. to 6 p.m. per bug 37450. Lighting transition is at 7 p.m., apparently.\nThis changed from 2 days to one day.\r\nNote - this is the notification when a Sim is one day away from their age transition.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object only has two days left before celebrating a birthday. Make sure you fulfill $Object's wants so that $Object will enter the next phase of life with as full of an Aspiration Meter as possible.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote 7/21 change from one day to two days\nThis is the Moderate TNS - note change from Aspiration Score to Aspiration Meter.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "You've made it! Now that you're an elder, use the phone to call work and retire if you want . . . you've got a big pension coming!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nDialog which appears after the Sim becomes an elder - reminds them to call work and retire.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 just couldn't get any better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Don Juan . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nadded space after first period in english and decapitalized Life.\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages, with articles. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Normal  aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Hopeless Romantic . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Cold Fish.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Total Turn-Off ...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 couldn't get any better, or longer!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Femme Fatale  . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Normal aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Hopeless Romantic...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 87,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Cold Fish . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Total Turn Off. . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "Only two days left before $Object's birthday. With an Aspiration Meter as full as $Object's, there's not much to worry about. Just make sure to avoid any fears so that $Object can carry that Aspiration Meter on to the next phase of life.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed again - two day warning instead of one day. \ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for high score Sims, 2 days before the Sim will age transition and alerts the player to keep the Sim's aspiration meter high.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 91,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be careful! $Object only has two days left before celebrating a birthday. $Object's Aspiration Meter is looking pretty low, but there's still time to focus on some of $Object's wants, and make sure that next phase of life isn't as hard as this one was.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed from one day warning to two day.\ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for low aspiration score Sims, 2 days before the Sim will age transition and alerts the player to try to keep the Sim from age transitioning with such a low score.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 92,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's birthday is only a day away. It seems like only yesterday that the little bundle of joy came into this world. Oh, how quickly they grow up.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 94,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 95,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of his golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 96,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. He's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 97,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of his life, but look on the bright side, he could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 98,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving his goals with the limited time he has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 99,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing he wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 101,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 102,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of her golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 103,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. She's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 104,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of her life, but look on the bright side, she could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 105,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving her goals with the limited time she has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 106,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing she wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 2,
+    "en": "Now that $Object is a teenager, it's time to start thinking about college.  Make sure $Object studies hard, because it will count towards college!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for when Sim becomes a teen.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object has the opportunity to enter college.  Before moving into college, $Object can use a computer or a phone to apply for scholarships.  More scholarships mean more money to use in college, and more money means more fun!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for during teen time (appears at a tunable interval).",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object will become an adult in a few days.  For better opportunities in the future (and the chance to have some fun as a young adult), $Object can move into college before becoming an adult.  Use a phone or computer to send $Object to college, or use the Send Sims to College button on the Neighborhood screen to send multiple teenagers to college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for \"last chance\" to go to college.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 110,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 111,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 112,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 113,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of him to keep him strong!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 114,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 115,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 116,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your cat is starting to show his age, which means it just might be time for him to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 117,
+    "status": "excluded",
+    "language": 2,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for him to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 118,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 119,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 120,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 121,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of her to keep her strong!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 122,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 123,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 124,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your cat is starting to show her age, which means it just might be time for her to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139294508,
+      301,
+      0
+    ],
+    "row": 125,
+    "status": "excluded",
+    "language": 2,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for her to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Lava Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object will grow up in just one day at 6 p.m.  It's time to plan a party and buy $Object a Birthday Cake!",
+    "description": "The Sims 2 - Needs Translation - Batch24\n8/1 change  - time changed from 7 p.m. to 6 p.m. per bug 37450. Lighting transition is at 7 p.m., apparently.\nThis changed from 2 days to one day.\r\nNote - this is the notification when a Sim is one day away from their age transition.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object only has two days left before celebrating a birthday. Make sure you fulfill $Object's wants so that $Object will enter the next phase of life with as full of an Aspiration Meter as possible.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote 7/21 change from one day to two days\nThis is the Moderate TNS - note change from Aspiration Score to Aspiration Meter.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "You've made it! Now that you're an elder, use the phone to call work and retire if you want . . . you've got a big pension coming!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nDialog which appears after the Sim becomes an elder - reminds them to call work and retire.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 just couldn't get any better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Don Juan . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nadded space after first period in english and decapitalized Life.\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages, with articles. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Normal  aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Hopeless Romantic . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Cold Fish.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Total Turn-Off ...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "a baby",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "a toddler",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "a child",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "a teenager",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "an adult",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "an elder",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 couldn't get any better, or longer!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Femme Fatale  . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Normal aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Hopeless Romantic...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Cold Fish . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Total Turn Off. . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Only two days left before $Object's birthday. With an Aspiration Meter as full as $Object's, there's not much to worry about. Just make sure to avoid any fears so that $Object can carry that Aspiration Meter on to the next phase of life.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed again - two day warning instead of one day. \ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for high score Sims, 2 days before the Sim will age transition and alerts the player to keep the Sim's aspiration meter high.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be careful! $Object only has two days left before celebrating a birthday. $Object's Aspiration Meter is looking pretty low, but there's still time to focus on some of $Object's wants, and make sure that next phase of life isn't as hard as this one was.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed from one day warning to two day.\ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for low aspiration score Sims, 2 days before the Sim will age transition and alerts the player to try to keep the Sim from age transitioning with such a low score.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's birthday is only a day away. It seems like only yesterday that the little bundle of joy came into this world. Oh, how quickly they grow up.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of his golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. He's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of his life, but look on the bright side, he could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving his goals with the limited time he has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing he wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of her golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. She's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of her life, but look on the bright side, she could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving her goals with the limited time she has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing she wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Now that $Object is a teenager, it's time to start thinking about college.  Make sure $Object studies hard, because it will count towards college!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for when Sim becomes a teen.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has the opportunity to enter college.  Before moving into college, $Object can use a computer or a phone to apply for scholarships.  More scholarships mean more money to use in college, and more money means more fun!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for during teen time (appears at a tunable interval).",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object will become an adult in a few days.  For better opportunities in the future (and the chance to have some fun as a young adult), $Object can move into college before becoming an adult.  Use a phone or computer to send $Object to college, or use the Send Sims to College button on the Neighborhood screen to send multiple teenagers to college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for \"last chance\" to go to college.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of him to keep him strong!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your cat is starting to show his age, which means it just might be time for him to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 1,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for him to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of her to keep her strong!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 1,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your cat is starting to show her age, which means it just might be time for her to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 1,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for her to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object will grow up in just one day at 6 p.m.  It's time to plan a party and buy $Object a Birthday Cake!",
+    "description": "The Sims 2 - Needs Translation - Batch24\n8/1 change  - time changed from 7 p.m. to 6 p.m. per bug 37450. Lighting transition is at 7 p.m., apparently.\nThis changed from 2 days to one day.\r\nNote - this is the notification when a Sim is one day away from their age transition.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object only has two days left before celebrating a birthday. Make sure you fulfill $Object's wants so that $Object will enter the next phase of life with as full of an Aspiration Meter as possible.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote 7/21 change from one day to two days\nThis is the Moderate TNS - note change from Aspiration Score to Aspiration Meter.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "You've made it! Now that you're an elder, use the phone to call work and retire if you want . . . you've got a big pension coming!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nDialog which appears after the Sim becomes an elder - reminds them to call work and retire.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 just couldn't get any better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Don Juan . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nadded space after first period in english and decapitalized Life.\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages, with articles. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Normal  aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Hopeless Romantic . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Cold Fish.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Total Turn-Off ...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 couldn't get any better, or longer!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Femme Fatale  . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Normal aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Hopeless Romantic...",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 87,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Cold Fish . . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Total Turn Off. . .",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "Only two days left before $Object's birthday. With an Aspiration Meter as full as $Object's, there's not much to worry about. Just make sure to avoid any fears so that $Object can carry that Aspiration Meter on to the next phase of life.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed again - two day warning instead of one day. \ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for high score Sims, 2 days before the Sim will age transition and alerts the player to keep the Sim's aspiration meter high.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 91,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be careful! $Object only has two days left before celebrating a birthday. $Object's Aspiration Meter is looking pretty low, but there's still time to focus on some of $Object's wants, and make sure that next phase of life isn't as hard as this one was.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed from one day warning to two day.\ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for low aspiration score Sims, 2 days before the Sim will age transition and alerts the player to try to keep the Sim from age transitioning with such a low score.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 92,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's birthday is only a day away. It seems like only yesterday that the little bundle of joy came into this world. Oh, how quickly they grow up.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 94,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 95,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of his golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 96,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. He's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 97,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of his life, but look on the bright side, he could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 98,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving his goals with the limited time he has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 99,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing he wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 101,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 102,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of her golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 103,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. She's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 104,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of her life, but look on the bright side, she could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 105,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving her goals with the limited time she has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 106,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing she wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 2,
+    "en": "Now that $Object is a teenager, it's time to start thinking about college.  Make sure $Object studies hard, because it will count towards college!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for when Sim becomes a teen.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object has the opportunity to enter college.  Before moving into college, $Object can use a computer or a phone to apply for scholarships.  More scholarships mean more money to use in college, and more money means more fun!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for during teen time (appears at a tunable interval).",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object will become an adult in a few days.  For better opportunities in the future (and the chance to have some fun as a young adult), $Object can move into college before becoming an adult.  Use a phone or computer to send $Object to college, or use the Send Sims to College button on the Neighborhood screen to send multiple teenagers to college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for \"last chance\" to go to college.",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 110,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 111,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 112,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 113,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of him to keep him strong!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 114,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 115,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 116,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your cat is starting to show his age, which means it just might be time for him to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 117,
+    "status": "excluded",
+    "language": 2,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for him to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 118,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 119,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 120,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 121,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of her to keep her strong!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 122,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 123,
+    "status": "excluded",
+    "language": 2,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 124,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your cat is starting to show her age, which means it just might be time for her to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147234944,
+      301,
+      0
+    ],
+    "row": 125,
+    "status": "excluded",
+    "language": 2,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for her to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Stale generic aging/pet-aging string table cloned into Castaway Swamp Effects controller; unrelated to the controller's runtime effect behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "[$Local:0] = $Local:1",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify; these are variables.",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "[$Local:0] = $Local:1",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify; these are variables.",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Maid $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Handyman $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Exterminator $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Burglar $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ambulance Driver $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cop $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bus Driver $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Something went wrong, go yell at Ray",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Finished making NPCs",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Social Worker $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bartender $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Delivery Person $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Firefighter $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gardener $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mail Carrier $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Paper Delivery Person $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pizza Person $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repoman $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nanny $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register Clerk $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use random skin tones?",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Create All NPCs Now?",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Maid $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Handyman $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Exterminator $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Burglar $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ambulance Driver $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cop $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bus Driver $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Something went wrong, go yell at Ray",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "Finished making NPCs",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "Social Worker $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bartender $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Delivery Person $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Firefighter $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Gardener $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mail Carrier $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Paper Delivery Person $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pizza Person $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repoman $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Nanny $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register Clerk $Local:1 Complete",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use random skin tones?",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142589556,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Create All NPCs Now?",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142589556,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Paid",
+    "description": "",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142589556,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take",
+    "description": "",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142589556,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snapfu",
+    "description": "",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142589556,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make NPC",
+    "description": "!",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142589556,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Schedule NPC",
+    "description": "",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142589556,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire NPC",
+    "description": "",
+    "reason": "NPC Pool generator/controller diagnostic or NPC-scheduling helper; internal setup/debug text rather than player-facing localization."
+  }
+]
