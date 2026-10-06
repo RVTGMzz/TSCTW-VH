@@ -5,7 +5,7 @@ import hashlib
 import json
 from pathlib import Path
 from runtime_dbpf import Package, encode_table, parse_table
-from validate_runtime import ROOT, RUNTIME, load_maps, read_records
+from validate_runtime import ROOT, RUNTIME, effective_records, load_maps
 
 
 def apply(data, records, maps, decisions):
@@ -54,7 +54,8 @@ def main():
     maps=load_maps()
     decisions={(r['category'],r['en']) for r in json.loads((RUNTIME/'scope_decisions.json').read_text())}
     records=collections.defaultdict(list)
-    for r in read_records('catalog'):
+    effective,_ = effective_records()
+    for r in effective:
         records[r['package']].append(r)
     inventory=json.loads((RUNTIME/'inventory.json').read_text())
     if any(p['errors'] for p in inventory):

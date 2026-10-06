@@ -52,7 +52,7 @@ python src/builder/build_v07.py --audit-only
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current selected source includes 1,551 story/career/runtime-story values, 939 menu values, 903 catalog values, 35 dialog values and 126 tutorial values. Candidate coverage is 7,516 rows with zero missing/review decisions and zero parser errors. The separate 37,671-row inherited review queue remains unresolved; it is not safe to call the runtime sweep complete. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,551 story/career/runtime-story values, 939 menu values, 906 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,520 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,667 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -77,3 +77,10 @@ Current totals: 834 exact inherited row guards (558 menu, 270 dialog, six catalo
 ### Sweep batch: early-story runtime rows and raft/door interactions (2026-10-06)
 
 Promoted 14 exact inherited rows with strong Castaway ownership evidence: early chapter monologue/tutorial text in Ch01/Ch02 controllers, `Build Onto` on the Castaway raft, and both UK-English `Leave World` variants on the House of Tuzu door. Nine new translation-map entries were added; existing `Leave World` mappings were reused. Candidate coverage is now 7,516 rows with zero missing/review decisions; the inherited queue is 37,671 rows. Derived catalog/review/context snapshots were regenerated in-repo. Package-writer QA is intentionally marked stale until `check_runtime_packages.py` can be rerun against the user-owned package bytes; no new in-game result is claimed.
+
+
+### Sweep batch: CS - Urn - Ghost death/grave text (2026-10-06)
+
+Promoted four exact player-facing rows on the already-audited Castaway urn/ghost object: the death-dialog title `Rest In Peace`, `Here Lies %s`, the death/grave description, and the UK-English `Rest In Piece` variant. Debug death-type setters and ghost test actions in the same resource remain outside scope. One dialog mapping and three catalog mappings were added.
+
+Source-only QA now computes **effective records** by merging exact pending `row_scope_overrides.json` rows with the committed catalog/review snapshots in memory. This means a small evidence-backed batch no longer requires hand-editing large gzip snapshots; a future full package extraction will materialize the same overrides into fresh snapshots. `check_runtime_packages.py` uses the same effective record set. Effective coverage: 7,520 candidate rows, 0 missing/review candidate rows, 37,667 inherited review rows, 4,404 translation-map entries. Package-writer QA remains stale until the user-owned baseline package bytes are available to rerun it.

@@ -16,6 +16,56 @@ def read_records(name):
     return json.loads(gzip.decompress((RUNTIME/(name+'.json.gz')).read_bytes()))
 
 
+
+def row_identity(row):
+    return row['package'], tuple(row['key']), row['row']
+
+
+def effective_records():
+    """Merge exact row overrides into committed snapshots for source-only QA.
+
+    A full package extraction still regenerates catalog/review snapshots. Between
+    extractions, new exact overrides may legitimately still live in review_queue;
+    promote only rows whose package/key/ordinal/language/source/description all
+    match the committed baseline. Already-extracted overrides are accepted when
+    the same identity is already present in catalog with the target category.
+    """
+    records, review = effective_records()
+    override_rows = json.loads((RUNTIME/'row_scope_overrides.json').read_text())
+    overrides = {}
+    for override in override_rows:
+        identity = (override['package'], tuple(override['key']), override['row'])
+        if identity in overrides:
+            raise ValueError(('Duplicate row override', identity))
+        overrides[identity] = override
+
+    catalog_by_id = {row_identity(row): row for row in records}
+    review_by_id = {row_identity(row): row for row in review}
+    promoted = []
+    promoted_ids = set()
+    for identity, override in overrides.items():
+        if identity in catalog_by_id:
+            row = catalog_by_id[identity]
+            if row['category'] != override['category'] or (row['language'], row['en'], row['description']) != (override['language'], override['en'], override['description']):
+                raise ValueError(('Extracted override mismatch', identity))
+            continue
+        row = review_by_id.get(identity)
+        if row is None:
+            raise ValueError(('Row override missing from catalog and review snapshots', identity))
+        if row['category'] != 'review' or (row['language'], row['en'], row['description']) != (override['language'], override['en'], override['description']):
+            raise ValueError(('Pending row override baseline mismatch', identity))
+        promoted_row = dict(row)
+        promoted_row['category'] = override['category']
+        promoted_row['reason'] = override['reason']
+        promoted.append(promoted_row)
+        promoted_ids.add(identity)
+
+    if promoted:
+        records.extend(promoted)
+        review = [row for row in review if row_identity(row) not in promoted_ids]
+    return records, review
+
+
 def validate(en, vi):
     if not vi.strip() or '\0' in vi or CYRILLIC_RE.search(vi):
         raise ValueError(('Empty, NUL or Cyrillic translation', en))

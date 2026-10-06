@@ -25867,5 +25867,77 @@
     "object_names": [
       "CS - Door - House of Tuzu"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135488312,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2 - Needs Translation - batch15\r\n\r\nDeath: Neighbor: Dialog:  Title\r\n\r\nNotes: Appears when a Sim dies. Sims can die of starvation, fire, or electrocution.",
+    "category": "dialog",
+    "reason": "Player-visible death dialog title on CS - Urn - Ghost; exact row override.",
+    "object_names": [
+      "CS - Urn - Ghost"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135488312,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Player-visible grave text on CS - Urn - Ghost; exact row override.",
+    "object_names": [
+      "CS - Urn - Ghost"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135488312,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Player-visible death/grave description on CS - Urn - Ghost; exact row override.",
+    "object_names": [
+      "CS - Urn - Ghost"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135488312,
+      2000,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Rest In Piece",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Player-visible UK-English grave title variant on CS - Urn - Ghost; exact row override.",
+    "object_names": [
+      "CS - Urn - Ghost"
+    ]
   }
 ]
