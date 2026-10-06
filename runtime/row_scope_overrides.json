@@ -30366,5 +30366,269 @@
       "Leaf Pile 1,0",
       "Leaf Pile 1,1"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Relax",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Relax",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing interaction on the Castaway native pet shelter. Castaway-specific pet-house catalog copy confirms runtime ownership; React to Pet WooHoo and dirty-state setters remain under review.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143641397,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed MakeActionString label for the Castaway native pet shelter; exact row override.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143641397,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed MakeActionString label for the Castaway native pet shelter; exact row override.",
+    "object_names": [
+      "CS - Pet Bed - House - Native",
+      "CS - Pet Bed - House - Native - 0, 0",
+      "CS - Pet Bed - House - Native - 0, 1 - Lead",
+      "CS - Pet Bed - House - Native - 1, 0",
+      "CS - Pet Bed - House - Native - 1, 1"
+    ]
   }
 ]
