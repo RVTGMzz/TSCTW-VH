@@ -1,0 +1,370 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "vi": "Tắt",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "vi": "Bật",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Solo",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "vi": "Nhảy một mình",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask to Join",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "vi": "Mời tham gia",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ Techno",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n",
+    "vi": "Chuyển sang.../Techno",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ Salsa",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Chuyển sang.../Salsa",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../Classical",
+    "description": "The Sims2 EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "vi": "Chuyển sang.../Cổ điển",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ Pop",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "vi": "Chuyển sang.../Pop",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ Metal",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nwas Extreme Metal in batch12 changed to match audio options",
+    "vi": "Chuyển sang.../Metal",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ Hip Hop",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "vi": "Chuyển sang.../Hip Hop",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ R&B",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "vi": "Chuyển sang.../R&B",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ Jazz",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
+    "vi": "Chuyển sang.../Jazz",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../ College Rock",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
+    "vi": "Chuyển sang.../College Rock",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Switch To .../Oldies",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "vi": "Chuyển sang.../Nhạc xưa",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ Techno",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n",
+    "vi": "Chuyển sang.../Techno",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ Salsa",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Chuyển sang.../Salsa",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../Classical",
+    "description": "The Sims2 EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "vi": "Chuyển sang.../Cổ điển",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ Pop",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "vi": "Chuyển sang.../Pop",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ Metal",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nwas Extreme Metal in batch12 changed to match audio options",
+    "vi": "Chuyển sang.../Metal",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ Hip Hop",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "vi": "Chuyển sang.../Hip Hop",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ R&B",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "vi": "Chuyển sang.../R&B",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ Jazz",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
+    "vi": "Chuyển sang.../Jazz",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Switch To .../ College Rock",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
+    "vi": "Chuyển sang.../College Rock",
+    "reason": "Shared stereo MakeActionString resource used by Castaway audio objects; exact-row translation preserves station formatting without broad global remapping."
+  }
+]
