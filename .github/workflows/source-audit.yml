@@ -113,3 +113,12 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Controller - Disease" --groups 20 --samples 200
           python src/builder/triage_review_queue.py --object-contains "Controller - Pregnancy" --groups 20 --samples 200
           python src/builder/triage_review_queue.py --object-contains "CS - Misc - Story Text Tester" --groups 20 --samples 200
+          python src/builder/triage_review_queue.py --object-contains "Phil's Clothing Availibility Test" --groups 30 --samples 360
+          python src/builder/triage_review_queue.py --object-contains "Community Lot - Populator" --groups 30 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "CS - DEBUG - Mission Rocket" --groups 30 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "CS - Controller - Global Time Control" --groups 30 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "CS - Controller - Enable Build-Barter in Freeplay" --groups 30 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "CS - Debug Rhinehart Slope Checker" --groups 30 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "CS - Controller - Storymode Launcher" --groups 30 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "CS - Debug - Temperature Test Object" --groups 30 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "CS - Debug - Difficulty Test Object" --groups 30 --samples 240
