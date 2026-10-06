@@ -52,7 +52,11 @@ def main():
     ap.add_argument('--value-exact', default='')
     args = ap.parse_args()
 
-    catalog_ids = {row_identity(r) for r in read_records('catalog')}
+    catalog_rows = read_records('catalog')
+    catalog_ids = {row_identity(r) for r in catalog_rows}
+    catalog_grouped = collections.defaultdict(list)
+    for r in catalog_rows:
+        catalog_grouped[(r['package'], r['key'][1])].append(r)
     overrides = {
         (r['package'], tuple(r['key']), r['row'])
         for r in json.loads((RUNTIME/'row_scope_overrides.json').read_text())
@@ -92,6 +96,20 @@ def main():
         print('package:', package)
         print('key:', list(key))
         print('objects:', list(names))
+        if args.value_exact:
+            context = catalog_grouped.get((package, key[1]), [])
+            if context:
+                print('catalog_context:')
+                for item in context[:24]:
+                    print(json.dumps({
+                        'type': item.get('type'),
+                        'resource_name': item.get('name'),
+                        'row': item.get('row'),
+                        'language': item.get('language'),
+                        'en': item.get('en'),
+                        'description': item.get('description'),
+                        'category': item.get('category'),
+                    }, ensure_ascii=False))
         samples = sorted(group, key=lambda r: (-score(r), r['row']))[:args.samples]
         for row in samples:
             print(json.dumps({
