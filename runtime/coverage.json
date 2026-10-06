@@ -1,7 +1,7 @@
 {
   "status": "incomplete",
   "in_game_tested": false,
-  "scope": "Cast localization metadata + exact same-resource English variants + reviewed exact row overrides. Remaining inherited rows are unresolved, not silently excluded.",
+  "scope": "Cast localization metadata + exact same-resource English variants + reviewed exact row overrides/translations + evidence-backed automatic inherited-row exclusions. Remaining inherited rows are unresolved, not silently excluded.",
   "categories": {
     "catalog": {
       "translated": 955,
@@ -13,10 +13,10 @@
       "translated": 21
     },
     "dialog": {
-      "translated": 37
+      "translated": 186
     },
     "menu": {
-      "translated": 990,
+      "translated": 1206,
       "exclude": 6
     },
     "neighborhood": {
@@ -24,16 +24,16 @@
       "retain": 66
     },
     "object": {
-      "translated": 27
+      "translated": 35
     },
     "story": {
-      "translated": 1551
+      "translated": 1552
     },
     "text": {
       "translated": 1
     },
     "tutorial": {
-      "translated": 142
+      "translated": 150
     },
     "ui": {
       "translated": 235,
@@ -43,12 +43,13 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 4525,
-  "candidate_rows": 7900,
+  "translation_map_entries": 5325,
+  "exact_row_translation_entries": 591,
+  "candidate_rows": 9085,
   "untranslated_or_review_candidate_rows": 0,
-  "untagged_review_rows": 36798,
+  "untagged_review_rows": 30862,
+  "auto_review_exclusions": 1349,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
-  "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete.",
-  "exact_row_translation_entries": 6
+  "release_gate": "Do not publish v0.8 TEST as a completed sweep until inherited classification, selector source and package QA are complete."
 }

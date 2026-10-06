@@ -299,3 +299,29 @@ This sweep also promoted player-facing Tiki counter/bird-cage/Toy Box/catalog/di
 Implemented `row_translation_overrides*.json` for inherited collisions where one English value needs different Vietnamese output by owning resource. The validator, audit extractor, triage queue and package writer all use the same exact identity guard. Package application gives exact-row Vietnamese text precedence over ordinary category maps while retaining idempotence/source-baseline checks.
 
 Six catalog rows across Mahi-Mahi, Tropical Ribs and Pineapple Surprise are the first use case; all originally contain the stale `Cup O' Ramen` title/description but now receive object-specific Vietnamese text. Current Source Audit: 4,525 translation entries (six exact-row), 7,900 candidates, 0 missing/review candidate rows, 36,798 inherited review rows, 0 parse errors; catalog translated source values 955. Package QA is stale (7,502 verified vs 7,900 current), selector source remains unverified, no in-game completion claim.
+
+
+## 2026-10-07 session handoff
+
+Source-work checkpoint before this documentation sync is commit `942c0d362ac9abc5a68651e7820391de539cefaa` (Source Audit PASS). Trust current Source Audit over all older handwritten totals:
+
+- **5,325 translation entries**, including **591 context-specific exact-row translations**
+- **9,085 effective candidate rows**
+- **0 missing/review candidate rows**
+- **30,862 unresolved inherited review rows**
+- **1,349 automatic inherited-row exclusions**
+- **0 parse errors**
+- category highlights: menu **1,206**, dialog **186**, catalog **955**, tutorial **150**, story **1,552**, object **35**, UI **235**, wants **518**
+- selector runtime source still unverified
+- package QA still stale at **7,502 verified vs 9,085 current** (gap **1,583**)
+- no completed v0.8 TEST release and no new in-game completion claim
+
+The runtime architecture now has four complementary layers. `row_scope_overrides*.json` promotes exact inherited rows that can reuse ordinary category maps. `row_translation_overrides*.json` carries context-specific Vietnamese replacements for exact rows when one inherited English value is ambiguous/stale by object context. `row_review_decisions*.json` records exact manual exclude/retain decisions. Finally, `auto_review_decision()` in `validate_runtime.py` automatically excludes evidence-backed families only when no explicit exact decision overrides them: leading-`*` hidden/helper interactions, metadata marked deleted/not needed/not used/unused, `DEBUG`/`DBG`-prefixed values, and opaque IDs matching eight-hex/`bebe...`/`ecdb...` forms. Accepted exact promotions currently contain zero leading-star, deleted-metadata, opaque-ID or DEBUG/DBG rows; do not weaken these rules without a proven runtime exception.
+
+Large completed sweeps after the older handoff include Castaway phone services/adoption/nanny + House/Birthday/Wedding/Anniversary party flow, human aging/birthday notifications, illness/pregnancy runtime text, household move/inheritance flow, global social interactions, tutorial-controller retained text, story-controller template classification, Pets social/age/disease controller review, hidden-star/deleted/opaque/debug auto-classification, and explicit expansion-only global social residue. Do not redo these families from scratch.
+
+For the next inherited pass, start from the latest Source Audit queue rather than old notes. Highest unresolved families currently include: remaining `CS - Not Allowed on Floor - Invisible Marker` rows such as Teleport/Get In/Catch Flies/Chase Flies/Watch/Play In/Eat/Pee On; ownerless/global social blocks with generic pet/social interactions; stereo/music and lesson menus; retail clothing/browse blocks; plant/garden interactions; pet-purchase dialogs; and a number of low-score controller/test objects. Mixed families must be split by exact evidence. Do not mass-promote because a resource has `CS -` in its owner name, and do not mass-exclude base-game-looking rows when Castaway Free Play demonstrably retains that system.
+
+Physical compressed snapshots still predate most exact work: they represent **7,516 candidates**. Effective math is reconciled as 37,671 review-context rows minus 1,569 pending promotions minus 3,891 manual exact review decisions minus 1,349 automatic exclusions = **30,862 unresolved inherited rows**. Source-only validation is authoritative until the next full extraction/package QA.
+
+Audit-specific note: recent triage tooling also supports value prefixes and regular-expression filters so large inherited families can be measured before any automatic rule is introduced. Keep the invariant that automatic exclusions are evidence-based, measurable, and overridable by an explicit exact row. The latest CI diagnostics report `PROMOTED_STAR_ROWS 0`, `PROMOTED_OPAQUE_ID_ROWS 0`, `PROMOTED_DELETED_META_ROWS 0`, and `PROMOTED_DEBUG_PREFIX_ROWS 0`; 64 accepted promotions currently have bang-only metadata, proving that bang-only metadata alone is **not** a safe exclusion rule.

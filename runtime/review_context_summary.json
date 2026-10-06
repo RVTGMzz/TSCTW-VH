@@ -9,11 +9,12 @@
   },
   "unresolved_in_groups_with_cast_text": 5380,
   "unresolved_in_cs_named_objects": 2343,
-  "warning": "EP/base-game metadata or a CS object name alone never proves a row unused or reachable. The main coverage report still retains the entire inherited queue until per-resource decisions are integrated.",
-  "effective_pending_overrides": 384,
-  "effective_review_rows": 36798,
-  "effective_candidate_rows": 7900,
-  "snapshot_note": "The compressed review_context snapshot still has 37,671 rows until the next full package extraction. Source-only QA currently promotes 384 exact pending rows (including 6 context-specific exact-row translations) and applies 489 exact inherited-row review decisions in memory; validator output is the authoritative effective checkpoint.",
-  "effective_row_review_decisions": 489,
-  "effective_exact_row_translations": 6
+  "warning": "EP/base-game metadata or a CS object name alone never proves a row unused or reachable. Manual exact promotions/review decisions take precedence over auto rules; unresolved mixed/runtime families must still be reviewed by evidence.",
+  "effective_pending_overrides": 1569,
+  "effective_review_rows": 30862,
+  "effective_candidate_rows": 9085,
+  "snapshot_note": "The compressed source snapshots still represent 7,516 selected candidates and 37,671 inherited review-context rows. Source-only QA currently promotes 1,569 pending exact rows (including 591 context-specific exact-row translations), applies 3,891 exact manual inherited-row decisions, and automatically excludes 1,349 evidence-backed hidden/deleted/debug/opaque-ID rows. Validator output is the authoritative effective checkpoint: 9,085 candidates and 30,862 inherited rows.",
+  "effective_row_review_decisions": 3891,
+  "effective_exact_row_translations": 591,
+  "effective_auto_review_exclusions": 1349
 }

@@ -107,3 +107,31 @@ Use the three exact systems correctly:
 - `row_review_decisions*.json`: exact exclude/retain after evidence review.
 
 The food stands Mahi-Mahi, Tropical Ribs and Pineapple Surprise are already fixed with six context-specific row translations; do not reintroduce a global `Cup O' Ramen` mapping. Generic exact translation guards total 1,226 and exact inherited review decisions total 489. Package QA remains stale: 7,502 verified candidates versus 7,900 current. Selector runtime source remains unverified; no v0.8 TEST or new in-game verification exists yet.
+
+
+## 2026-10-07 session handoff
+
+Source-work checkpoint before this documentation sync is commit `942c0d362ac9abc5a68651e7820391de539cefaa` (Source Audit PASS). Trust current Source Audit over all older handwritten totals:
+
+- **5,325 translation entries**, including **591 context-specific exact-row translations**
+- **9,085 effective candidate rows**
+- **0 missing/review candidate rows**
+- **30,862 unresolved inherited review rows**
+- **1,349 automatic inherited-row exclusions**
+- **0 parse errors**
+- category highlights: menu **1,206**, dialog **186**, catalog **955**, tutorial **150**, story **1,552**, object **35**, UI **235**, wants **518**
+- selector runtime source still unverified
+- package QA still stale at **7,502 verified vs 9,085 current** (gap **1,583**)
+- no completed v0.8 TEST release and no new in-game completion claim
+
+The runtime architecture now has four complementary layers. `row_scope_overrides*.json` promotes exact inherited rows that can reuse ordinary category maps. `row_translation_overrides*.json` carries context-specific Vietnamese replacements for exact rows when one inherited English value is ambiguous/stale by object context. `row_review_decisions*.json` records exact manual exclude/retain decisions. Finally, `auto_review_decision()` in `validate_runtime.py` automatically excludes evidence-backed families only when no explicit exact decision overrides them: leading-`*` hidden/helper interactions, metadata marked deleted/not needed/not used/unused, `DEBUG`/`DBG`-prefixed values, and opaque IDs matching eight-hex/`bebe...`/`ecdb...` forms. Accepted exact promotions currently contain zero leading-star, deleted-metadata, opaque-ID or DEBUG/DBG rows; do not weaken these rules without a proven runtime exception.
+
+Large completed sweeps after the older handoff include Castaway phone services/adoption/nanny + House/Birthday/Wedding/Anniversary party flow, human aging/birthday notifications, illness/pregnancy runtime text, household move/inheritance flow, global social interactions, tutorial-controller retained text, story-controller template classification, Pets social/age/disease controller review, hidden-star/deleted/opaque/debug auto-classification, and explicit expansion-only global social residue. Do not redo these families from scratch.
+
+For the next inherited pass, start from the latest Source Audit queue rather than old notes. Highest unresolved families currently include: remaining `CS - Not Allowed on Floor - Invisible Marker` rows such as Teleport/Get In/Catch Flies/Chase Flies/Watch/Play In/Eat/Pee On; ownerless/global social blocks with generic pet/social interactions; stereo/music and lesson menus; retail clothing/browse blocks; plant/garden interactions; pet-purchase dialogs; and a number of low-score controller/test objects. Mixed families must be split by exact evidence. Do not mass-promote because a resource has `CS -` in its owner name, and do not mass-exclude base-game-looking rows when Castaway Free Play demonstrably retains that system.
+
+Physical compressed snapshots still predate most exact work: they represent **7,516 candidates**. Effective math is reconciled as 37,671 review-context rows minus 1,569 pending promotions minus 3,891 manual exact review decisions minus 1,349 automatic exclusions = **30,862 unresolved inherited rows**. Source-only validation is authoritative until the next full extraction/package QA.
+
+### Paste-ready continuation instruction
+
+Continue the Vietnamese localization of The Sims Castaway Stories in `RVTGMzz/TSCTW-VH`. Read `CONTINUE_WITH_MODEL.md`, `NEXT_SESSION_PROMPT.md`, `RUNTIME_AUDIT.md`, `runtime/README.md` and the current Source Audit workflow/logs. Start from source checkpoint `942c0d3` or newer. Current authoritative Source Audit is 5,325 translation entries (591 exact-row), 9,085 candidates, 0 missing/review candidates, 30,862 inherited review rows, 1,349 auto-exclusions and 0 parse errors. Continue the inherited sweep broadly, not screenshot-by-screenshot. Preserve placeholders and context/gender; dialogue may be lively natural Vietnamese, while UI/system text stays clear. Respect the four-layer exact system (scope overrides, exact-row translations, manual review decisions, evidence-backed auto exclusions). Do not redo completed phone/party, aging, illness/pregnancy, move/inheritance, global-social, tutorial/story-controller, Pets-controller or auto-classification sweeps. Prioritize remaining mixed player-facing families from the latest queue and split them by exact resource evidence. Package QA is stale at 7,502 vs 9,085 current; selector source and v0.8/in-game verification remain outstanding. Do not ask Ron to re-upload old packages just to continue source triage.

@@ -274,3 +274,36 @@ Authoritative Source Audit totals: **4,519 mappings / 7,894 candidates / 0 candi
 Continue from commit `48a371cd960f133e356955c3941ac7cb974dfddc` or newer. The runtime source now has three exact mechanisms: `row_scope_overrides*.json` for generic-map promotion, `row_translation_overrides*.json` for context-specific Vietnamese replacements, and `row_review_decisions*.json` for exact inherited exclusions/retains. Do not collapse these into English-value-only logic.
 
 The first six exact-row translations fix the Mahi-Mahi, Tropical Ribs and Pineapple Surprise catalog resources, which all inherited identical `Cup O' Ramen` placeholders. Authoritative Source Audit: **4,525 translation entries = 4,519 normal maps + 6 exact-row translations; 7,900 candidates; 0 missing/review candidate rows; 36,798 inherited review rows; 0 parse errors**. Catalog translated values: 955; menu 990; dialog 37; tutorial 142. Generic exact translation guards: 1,226 rows; exact row-review decisions: 489. Physical compressed snapshots predate 384 pending promoted rows. Package QA is stale at 7,502 verified candidates; selector source remains unverified; no v0.8 TEST/in-game completion is claimed.
+
+
+## 2026-10-07 session handoff
+
+Source-work checkpoint before this documentation sync is commit `942c0d362ac9abc5a68651e7820391de539cefaa` (Source Audit PASS). Trust current Source Audit over all older handwritten totals:
+
+- **5,325 translation entries**, including **591 context-specific exact-row translations**
+- **9,085 effective candidate rows**
+- **0 missing/review candidate rows**
+- **30,862 unresolved inherited review rows**
+- **1,349 automatic inherited-row exclusions**
+- **0 parse errors**
+- category highlights: menu **1,206**, dialog **186**, catalog **955**, tutorial **150**, story **1,552**, object **35**, UI **235**, wants **518**
+- selector runtime source still unverified
+- package QA still stale at **7,502 verified vs 9,085 current** (gap **1,583**)
+- no completed v0.8 TEST release and no new in-game completion claim
+
+The runtime architecture now has four complementary layers. `row_scope_overrides*.json` promotes exact inherited rows that can reuse ordinary category maps. `row_translation_overrides*.json` carries context-specific Vietnamese replacements for exact rows when one inherited English value is ambiguous/stale by object context. `row_review_decisions*.json` records exact manual exclude/retain decisions. Finally, `auto_review_decision()` in `validate_runtime.py` automatically excludes evidence-backed families only when no explicit exact decision overrides them: leading-`*` hidden/helper interactions, metadata marked deleted/not needed/not used/unused, `DEBUG`/`DBG`-prefixed values, and opaque IDs matching eight-hex/`bebe...`/`ecdb...` forms. Accepted exact promotions currently contain zero leading-star, deleted-metadata, opaque-ID or DEBUG/DBG rows; do not weaken these rules without a proven runtime exception.
+
+Large completed sweeps after the older handoff include Castaway phone services/adoption/nanny + House/Birthday/Wedding/Anniversary party flow, human aging/birthday notifications, illness/pregnancy runtime text, household move/inheritance flow, global social interactions, tutorial-controller retained text, story-controller template classification, Pets social/age/disease controller review, hidden-star/deleted/opaque/debug auto-classification, and explicit expansion-only global social residue. Do not redo these families from scratch.
+
+For the next inherited pass, start from the latest Source Audit queue rather than old notes. Highest unresolved families currently include: remaining `CS - Not Allowed on Floor - Invisible Marker` rows such as Teleport/Get In/Catch Flies/Chase Flies/Watch/Play In/Eat/Pee On; ownerless/global social blocks with generic pet/social interactions; stereo/music and lesson menus; retail clothing/browse blocks; plant/garden interactions; pet-purchase dialogs; and a number of low-score controller/test objects. Mixed families must be split by exact evidence. Do not mass-promote because a resource has `CS -` in its owner name, and do not mass-exclude base-game-looking rows when Castaway Free Play demonstrably retains that system.
+
+Physical compressed snapshots still predate most exact work: they represent **7,516 candidates**. Effective math is reconciled as 37,671 review-context rows minus 1,569 pending promotions minus 3,891 manual exact review decisions minus 1,349 automatic exclusions = **30,862 unresolved inherited rows**. Source-only validation is authoritative until the next full extraction/package QA.
+
+### Continuation rules for the next model
+
+1. Read this file, `NEXT_SESSION_PROMPT.md`, `RUNTIME_AUDIT.md`, current `runtime/coverage.json`, then inspect the latest successful Source Audit logs on `main`. Do not trust numerical checkpoints earlier in these files.
+2. Continue evidence-backed inherited classification from commit `942c0d3` or the newer handoff-only commit. Use CI triage logs to open full mixed resource families before promoting/excluding them.
+3. Preserve placeholders exactly: `%s`, `%d`, `$Object`, `$Me`, `$Local:n`, `$TimeLocal:n`, `$NameLocal:n`, etc. Existing validator checks are release guards, not optional warnings.
+4. Do not patch only screenshot-reported text. Continue broad user-facing sweeps across UI, menus, dialogs, notifications, gameplay, catalog and rewards while excluding developer/internal data by evidence.
+5. Do not ask Ron to resend previously supplied packages merely because a Library materialization path is unavailable. Package QA is a separate later gate; source work can continue from repo snapshots/logs.
+6. Do not claim v0.8 complete until inherited review, selector runtime source, package-writer QA and focused in-game verification are all resolved.
