@@ -3,555 +3,135 @@
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 4,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../ Techno",
-    "description": "The Sims 2 - Needs Translation - Batch12\r\n",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 5,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../ Salsa",
-    "description": "The Sims 2 - Needs Translation - Batch12",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 6,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../Classical",
-    "description": "The Sims2 EP2 - NEEDS TRANSLATION - BatchEP2-7",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 7,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../ Pop",
-    "description": "The Sims 2 - Needs Translation - Batch20",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 8,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../ Metal",
-    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nwas Extreme Metal in batch12 changed to match audio options",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 9,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../ Hip Hop",
-    "description": "The Sims 2 - Needs Translation - Batch20",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 10,
-    "status": "excluded",
-    "language": 1,
-    "en": "Switch To .../ R&B",
-    "description": "The Sims 2 - Needs Translation - Batch20",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 11,
     "status": "excluded",
     "language": 1,
-    "en": "Switch To .../ Jazz",
-    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "en": "Streak Here",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\ninteraction to click on ground and tell a Streaking Sim to \"Streak Here\". variation on Go Here, etc.",
+    "reason": "University/Nightlife expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 12,
     "status": "excluded",
     "language": 1,
-    "en": "Switch To .../ College Rock",
-    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "en": "Place $Neighbor's Grave Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 13,
     "status": "excluded",
     "language": 1,
-    "en": "Switch To .../Oldies",
+    "en": "Place Grave Here.../$Neighbor",
     "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "reason": "University/Nightlife expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
-    "row": 18,
+    "row": 52,
     "status": "excluded",
     "language": 2,
-    "en": "Switch To .../ Techno",
-    "description": "The Sims 2 - Needs Translation - Batch12\r\n",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "en": "Streak Here",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\ninteraction to click on ground and tell a Streaking Sim to \"Streak Here\". variation on Go Here, etc.",
+    "reason": "University/Nightlife expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
-    "row": 19,
+    "row": 53,
     "status": "excluded",
     "language": 2,
-    "en": "Switch To .../ Salsa",
-    "description": "The Sims 2 - Needs Translation - Batch12",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "en": "Place $Neighbor's Grave Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "Place Grave Here.../$Neighbor",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife expansion terrain action residue; not part of Castaway Stories standalone gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
       0
     ],
     "row": 20,
     "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../Classical",
-    "description": "The Sims2 EP2 - NEEDS TRANSLATION - BatchEP2-7",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "language": 1,
+    "en": "Fly Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2135885514,
-      302,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
     "row": 21,
     "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../ Pop",
-    "description": "The Sims 2 - Needs Translation - Batch20",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
+    "language": 1,
+    "en": "Stalk Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2135885514,
-      302,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
     "row": 22,
     "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../ Metal",
-    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nwas Extreme Metal in batch12 changed to match audio options",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 23,
-    "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../ Hip Hop",
-    "description": "The Sims 2 - Needs Translation - Batch20",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 24,
-    "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../ R&B",
-    "description": "The Sims 2 - Needs Translation - Batch20",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 25,
-    "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../ Jazz",
-    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2135885514,
-      302,
-      0
-    ],
-    "row": 26,
-    "status": "excluded",
-    "language": 2,
-    "en": "Switch To .../ College Rock",
-    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
-    "reason": "The Sims 2 radio-station residue; Castaway Stories uses its own Beach/Disco/Island/Zydeco station set."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2145233707,
-      301,
-      0
-    ],
-    "row": 0,
-    "status": "excluded",
     "language": 1,
-    "en": "Which pet would you like?",
-    "description": "The Sims 2 EP6 - Needs Translation",
-    "reason": "Pets pet-shop purchase dialog residue; Castaway hyenas/orangutans are befriended/adopted rather than bought with Simoleons."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2145233707,
-      301,
-      0
-    ],
-    "row": 1,
-    "status": "excluded",
-    "language": 1,
-    "en": "Sorry, $Me doesn't have enough Simoleons to buy a pet!",
-    "description": "The Sims 2 EP6 - Needs Translation",
-    "reason": "Pets pet-shop purchase dialog residue; Castaway hyenas/orangutans are befriended/adopted rather than bought with Simoleons."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2145233707,
-      301,
-      0
-    ],
-    "row": 2,
-    "status": "excluded",
-    "language": 1,
-    "en": "Sorry, $Me doesn't have enough Simoleons to buy food for $NameLocal:1!",
-    "description": "The Sims 2 EP6 - Needs Translation",
-    "reason": "Pets pet-shop purchase dialog residue; Castaway hyenas/orangutans are befriended/adopted rather than bought with Simoleons."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2145233707,
-      301,
-      0
-    ],
-    "row": 3,
-    "status": "excluded",
-    "language": 2,
-    "en": "Which pet would you like?",
-    "description": "The Sims 2 EP6 - Needs Translation",
-    "reason": "Pets pet-shop purchase dialog residue; Castaway hyenas/orangutans are befriended/adopted rather than bought with Simoleons."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2145233707,
-      301,
-      0
-    ],
-    "row": 4,
-    "status": "excluded",
-    "language": 2,
-    "en": "Sorry, $Me doesn't have enough Simoleons to buy a pet!",
-    "description": "The Sims 2 EP6 - Needs Translation",
-    "reason": "Pets pet-shop purchase dialog residue; Castaway hyenas/orangutans are befriended/adopted rather than bought with Simoleons."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2145233707,
-      301,
-      0
-    ],
-    "row": 5,
-    "status": "excluded",
-    "language": 2,
-    "en": "Sorry, $Me doesn't have enough Simoleons to buy food for $NameLocal:1!",
-    "description": "The Sims 2 EP6 - Needs Translation",
-    "reason": "Pets pet-shop purchase dialog residue; Castaway hyenas/orangutans are befriended/adopted rather than bought with Simoleons."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145233707,
-      1,
-      0
-    ],
-    "row": 1,
-    "status": "excluded",
-    "language": 1,
-    "en": "*Set Days Overgrown +1",
-    "description": "!!!!!!!!!",
-    "reason": "Hidden bush state/debug helper."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145233707,
-      1,
-      0
-    ],
-    "row": 2,
-    "status": "excluded",
-    "language": 1,
-    "en": "*Make Overgrown",
-    "description": "!!!!!!!!!",
-    "reason": "Hidden bush state/debug helper."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 0,
-    "status": "excluded",
-    "language": 1,
-    "en": "*Break",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 4,
-    "status": "excluded",
-    "language": 1,
-    "en": "Unused (Ultra Clean)",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 12,
-    "status": "excluded",
-    "language": 1,
-    "en": "*Set Maintenance Level",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 17,
-    "status": "excluded",
-    "language": 2,
-    "en": "*Break",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 29,
-    "status": "excluded",
-    "language": 2,
-    "en": "*Set Maintenance Level",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 13,
-    "status": "excluded",
-    "language": 1,
-    "en": "*Set Dirty State.../Dirty",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 14,
-    "status": "excluded",
-    "language": 1,
-    "en": "*Set Dirty State.../Clean",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 30,
-    "status": "excluded",
-    "language": 2,
-    "en": "*Set Dirty State.../Dirty",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2138454195,
-      1,
-      0
-    ],
-    "row": 31,
-    "status": "excluded",
-    "language": 2,
-    "en": "*Set Dirty State.../Clean",
-    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "reason": "Maintenance/debug/unused state helper; not player-facing."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 60,
-    "status": "excluded",
-    "language": 1,
-    "en": "Female Chapter 1 - Almost Paradise",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Internal chapter/gender section label, not player-facing story copy."
+    "en": "Place Grave Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/expansion terrain action residue; not part of Castaway Stories standalone gameplay."
   }
 ]

@@ -3,420 +3,555 @@
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 0,
     "category": "menu",
     "language": 1,
-    "en": "Turn Off",
-    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
-    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+    "en": "Watch Clouds",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 1,
     "category": "menu",
     "language": 1,
-    "en": "Turn On",
-    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
-    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+    "en": "Stargaze",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 2,
     "category": "menu",
     "language": 1,
-    "en": "Dance Solo",
-    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
-    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+    "en": "Crawl Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2135885514,
+      2140262859,
       302,
       0
     ],
     "row": 3,
     "category": "menu",
     "language": 1,
-    "en": "Ask to Join",
-    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
-    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+    "en": "Swim Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Carry $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Put $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Carry Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This is used in the Phones. When a Sim is talking on the phone, player can click to have them walk somewhere with the phone while talking. marked for translation 5/11 smp, verifed with MattG",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch Clouds",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Stargaze",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Crawl Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 2,
+    "en": "Swim Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 46,
+    "category": "menu",
+    "language": 2,
+    "en": "Carry $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 2,
+    "en": "Put $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 48,
+    "category": "menu",
+    "language": 2,
+    "en": "Carry Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 50,
+    "category": "menu",
+    "language": 2,
+    "en": "Talk Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This is used in the Phones. When a Sim is talking on the phone, player can click to have them walk somewhere with the phone while talking. marked for translation 5/11 smp, verifed with MattG",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 59,
+    "category": "menu",
+    "language": 2,
+    "en": "Chase Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Chase Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway terrain/movement/swimming/bug-chase action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1414807923,
-      2140098230,
-      1,
+      2140262859,
+      128,
       0
     ],
-    "row": 0,
+    "row": 2,
     "category": "menu",
     "language": 1,
-    "en": "Go to Work",
-    "description": "The Sims 2 - Needs Translation - Batch15",
-    "reason": "Player-facing career action retained in Castaway Free Play."
+    "en": "Go Here",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nrouting without carrying anything",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1414807923,
-      2140098230,
-      1,
+      2140262859,
+      128,
       0
     ],
-    "row": 1,
+    "row": 3,
     "category": "menu",
     "language": 1,
-    "en": "Walk Home",
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Run",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Face Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Here!",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Here",
     "description": "The Sims 2 - Needs Translation - Batch15",
-    "reason": "Player-facing career action retained in Castaway Free Play."
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 61,
-    "category": "story",
+    "row": 13,
+    "category": "menu",
     "language": 1,
-    "en": "Uh... what happened?",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "en": "Skip Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 62,
-    "category": "story",
+    "row": 14,
+    "category": "menu",
     "language": 1,
-    "en": "Where am I? This place doesn't look like any of the pictures in my brochure for Club Meet Your Mate.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "en": "Watch Clouds",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 63,
-    "category": "story",
+    "row": 15,
+    "category": "menu",
     "language": 1,
-    "en": "What's that over there?",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "en": "Run Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 64,
-    "category": "story",
+    "row": 16,
+    "category": "menu",
     "language": 1,
-    "en": "A hatchet? I hope this will come in handy. I wonder what else has washed up.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "en": "Sneak Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n\r\nThis is for sims that are able to use the special \"Sneak\" walk in addition to a normal walk.  Choosing this makes you sneak to your destination.",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 65,
-    "category": "story",
-    "language": 1,
-    "en": "I'll comb the beach for anything else that might be useful.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Go Here",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nrouting without carrying anything",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 66,
-    "category": "story",
-    "language": 1,
-    "en": "It's a steamer trunk from the ship.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "row": 40,
+    "category": "menu",
+    "language": 2,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 67,
-    "category": "story",
-    "language": 1,
-    "en": "I need a nice flat spot to put this trunk on so I can open it. Maybe it's full of cell phones... or signal flares!",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Run",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2144627920,
-      301,
+      1414807923,
+      2140262859,
+      128,
       0
     ],
-    "row": 71,
-    "category": "story",
-    "language": 1,
-    "en": "Whew! That's hard work for a snack. At least I have some supplies in the steamer trunk now. Hmm, now what should I do?",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 72,
-    "category": "story",
-    "language": 1,
-    "en": "A fire will be essential to my survival here. I need to chop some wood.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 73,
-    "category": "story",
-    "language": 1,
-    "en": "Where there's wood, there's a way -- to make fire.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 75,
-    "category": "story",
-    "language": 1,
-    "en": "I did it! I have rediscovered fire!",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 76,
-    "category": "story",
-    "language": 1,
-    "en": "Oh, great... I need to make some type of shelter.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 77,
-    "category": "story",
-    "language": 1,
-    "en": "The Salvage Breezecatcher Sleeper and Seater, it's a quaint, yet outdoorsy shelter with a view. It'll work for now.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 78,
-    "category": "story",
-    "language": 1,
-    "en": "I should get some sleep. It's not like I'm going to miss out on a raging party.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 79,
-    "category": "story",
-    "language": 1,
-    "en": "That hit the spot! I should get some more for later.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 80,
-    "category": "story",
-    "language": 1,
-    "en": "I hope this is all just a big, elaborate practical joke. Maybe I'm being Skunk'd.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 81,
-    "category": "story",
-    "language": 1,
-    "en": "That looks like my cruise ship! I... I remember boarding. It was empty, I was tired. I fell asleep and woke up here.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 82,
-    "category": "story",
-    "language": 1,
-    "en": "Others obviously boarded the ship at some point. Did they make it? Could they be here? I can't think about that now.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 83,
-    "category": "story",
-    "language": 1,
-    "en": "I'm so lonely... I know... I'll write in my diary when it gets too bad. It beats talking to myself all day and night.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 84,
-    "category": "story",
-    "language": 1,
-    "en": "I'll call this place... Felicity Island. Surely nothing bad can happen in a place with a name like Felicity.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 88,
-    "category": "story",
-    "language": 1,
-    "en": "This trunk will be a great place to keep my supplies. I need supplies.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2144627920,
-      301,
-      0
-    ],
-    "row": 89,
-    "category": "story",
-    "language": 1,
-    "en": "Speaking of supplies, I'm parched. I need something to drink. A good stiff juice would be great right about now.",
-    "description": "Sims 2 EP7: Needs Text",
-    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway terrain/movement action; exact inherited row."
   }
 ]
