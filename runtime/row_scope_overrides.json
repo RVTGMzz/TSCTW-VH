@@ -28862,5 +28862,181 @@
       "Crafting - Toy Bench - 1, 0",
       "Crafting - Toy Bench - 1, 1"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Turn On.../This Light",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Turn Off.../This Light",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Auto-Lights.../This Light",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Turn On.../This Room",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Turn Off.../This Room",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Auto-Lights.../This Room",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Turn On.../All Lights",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Turn Off.../All Lights",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Auto-Lights.../All Lights",
+    "description": "",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Dispose",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Examine",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
+    "object_names": []
   }
 ]
