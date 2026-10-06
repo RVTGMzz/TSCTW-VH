@@ -31324,5 +31324,181 @@
     "object_names": [
       "CS - Food Container - Baking Pan Rusty"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133561268,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Tempest Cooktop from Cuas",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway restaurant stove; exact row override.",
+    "object_names": [
+      "CS - Stove - Restaurant",
+      "Stove - Restaurant - 0, 0",
+      "Stove - Restaurant - 0, 1 - Lead",
+      "Stove - Restaurant - 1, 0",
+      "Stove - Restaurant - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133561268,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "For the fastest and most efficient cooking experience, generations of professional Chefs have relied on the Tempest Cooktop.  What may look like a flurry of chaotic cooking action is really organized, systematic culinary perfection in the making.  No, really!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway restaurant stove; exact row override.",
+    "object_names": [
+      "CS - Stove - Restaurant",
+      "Stove - Restaurant - 0, 0",
+      "Stove - Restaurant - 0, 1 - Lead",
+      "Stove - Restaurant - 1, 0",
+      "Stove - Restaurant - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133561268,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Tempest Cooktop from Cuas",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway restaurant stove; exact row override.",
+    "object_names": [
+      "CS - Stove - Restaurant",
+      "Stove - Restaurant - 0, 0",
+      "Stove - Restaurant - 0, 1 - Lead",
+      "Stove - Restaurant - 1, 0",
+      "Stove - Restaurant - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133561268,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "For the fastest and most efficient cooking experience, generations of professional Chefs have relied on the Tempest Cooktop.  What may look like a flurry of chaotic cooking action is really organized, systematic culinary perfection in the making.  No, really!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway restaurant stove; exact row override.",
+    "object_names": [
+      "CS - Stove - Restaurant",
+      "Stove - Restaurant - 0, 0",
+      "Stove - Restaurant - 0, 1 - Lead",
+      "Stove - Restaurant - 1, 0",
+      "Stove - Restaurant - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143645177,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Tribal Flame a la Coconut Pinball",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed island-themed player-facing catalog title/description on the Castaway career pinball object; exact row override.",
+    "object_names": [
+      "Career - Pinball",
+      "Career - Pinball - 0, 0",
+      "Career - Pinball - 0, 1 - Lead",
+      "Career - Pinball - 1, 0",
+      "Career - Pinball - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143645177,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Boom! The flames lick skyward as the metallic ball races for points and ultimately, the high score! Ding! Ping! Clang! Be careful, as you may anger the Tiki spirits! They demand the ultimate high score. That volcano will ooze the lava of your demise. Hiss. Sizzle. Crackle. Enjoy, have fun, and earn some Simoleons!",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed island-themed player-facing catalog title/description on the Castaway career pinball object; exact row override.",
+    "object_names": [
+      "Career - Pinball",
+      "Career - Pinball - 0, 0",
+      "Career - Pinball - 0, 1 - Lead",
+      "Career - Pinball - 1, 0",
+      "Career - Pinball - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143645177,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Tribal Flame a la Coconut Pinball",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed island-themed player-facing catalog title/description on the Castaway career pinball object; exact row override.",
+    "object_names": [
+      "Career - Pinball",
+      "Career - Pinball - 0, 0",
+      "Career - Pinball - 0, 1 - Lead",
+      "Career - Pinball - 1, 0",
+      "Career - Pinball - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143645177,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Boom! The flames lick skyward as the metallic ball races for points and ultimately, the high score! Ding! Ping! Clang! Be careful, as you may anger the Tiki spirits! They demand the ultimate high score. That volcano will ooze the lava of your demise. Hiss. Sizzle. Crackle. Enjoy, have fun, and earn some Simoleons!",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed island-themed player-facing catalog title/description on the Castaway career pinball object; exact row override.",
+    "object_names": [
+      "Career - Pinball",
+      "Career - Pinball - 0, 0",
+      "Career - Pinball - 0, 1 - Lead",
+      "Career - Pinball - 1, 0",
+      "Career - Pinball - 1, 1"
+    ]
   }
 ]
