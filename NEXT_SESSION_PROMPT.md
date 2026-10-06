@@ -79,3 +79,10 @@ Added three evidence-backed batches beyond the earlier menu/catalog checkpoint: 
 
 
 Package QA for the latest 7,502-row candidate snapshot passed structural round-trip, idempotence and unrelated-resource preservation checks. `runtime/coverage.json` intentionally remains `incomplete`: 37,685 inherited rows are unresolved, and selector runtime source/in-game verification remain outstanding.
+
+
+## Current handoff checkpoint — 2026-10-06
+
+Trust Source Audit over older totals in this file: 4,491 mappings, 7,850 candidate rows, 0 missing/review candidate rows, 37,337 inherited review rows, 0 parse errors. Exact row guards total 1,182 (802 menu, 293 dialog, 77 catalog, 9 story, 1 tutorial) and may now be split across `runtime/row_scope_overrides*.json`. Latest reviewed batches already cover Castaway toy/chair/diary/clothing/easel interactions plus House of Tuzu leaving-neighbor dialogs and Grand Piano Join/Dance. Do not blindly promote developer/debug rows just because the object name starts with `CS -`.
+
+Package-writer QA is stale at 7,502 verified candidates versus 7,850 current and must be rerun against the user-owned baseline packages before any release claim. Story-selector runtime source is still unverified. No v0.8 TEST and no new in-game validation have been completed.

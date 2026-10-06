@@ -10,8 +10,8 @@
   "unresolved_in_groups_with_cast_text": 5380,
   "unresolved_in_cs_named_objects": 2343,
   "warning": "EP/base-game metadata or a CS object name alone never proves a row unused or reachable. The main coverage report still retains the entire inherited queue until per-resource decisions are integrated.",
-  "effective_pending_overrides": 282,
-  "effective_review_rows": 37389,
-  "effective_candidate_rows": 7798,
-  "snapshot_note": "The compressed review_context snapshot still has 37,671 rows until the next full package extraction. Source-only QA currently promotes 282 exact pending overrides in memory; validator output is the authoritative effective checkpoint."
+  "effective_pending_overrides": 334,
+  "effective_review_rows": 37337,
+  "effective_candidate_rows": 7850,
+  "snapshot_note": "The compressed review_context snapshot still has 37,671 rows until the next full package extraction. Source-only QA currently promotes 334 exact pending overrides in memory; validator output is the authoritative effective checkpoint."
 }

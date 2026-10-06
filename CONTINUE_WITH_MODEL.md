@@ -251,3 +251,10 @@ Recent parallel batches already cover Ignis Ex Machina/weather reward actions, c
 ## Latest checkpoint — 2026-10-06 stove + pinball catalog
 
 Added 8 exact CTSS rows / 4 catalog mappings for the Castaway restaurant stove and island-themed pinball object. Effective totals are now 4,490 maps, 7,798 candidates, 0 missing/review candidate rows, 37,389 inherited review rows, 0 parse errors; catalog 945 translated, menu 986 translated. Exact row guards: 1,130 total = 772 menu, 271 dialog, 77 catalog, 9 story, 1 tutorial. Package QA remains stale (7,502 verified vs 7,798 current); selector source remains unverified; no v0.8 TEST has been released.
+
+
+## Latest checkpoint — 2026-10-06 inherited object/dialog sweep
+
+Continue from commit `605ad4ba2368b1c96d71672a9df1aaa99e0f38cb` or newer. Two new exact-override shards are active through `row_scope_overrides*.json` loading. `row_scope_overrides_02.json` adds 26 clear Castaway object interaction rows; `row_scope_overrides_03.json` adds 22 House of Tuzu leaving-neighbor dialog rows and four Grand Piano `Join`/`Dance` rows. Do not redo these groups. The source metadata for House of Tuzu contains a legacy Windows-1252 apostrophe byte represented as the surrogate `\udc92`; exact guards intentionally preserve it.
+
+Authoritative Source Audit checkpoint: 4,491 translation-map entries, 7,850 effective candidate rows, zero missing/review candidate decisions, 37,337 inherited review rows and zero parser errors. Menu has 987 translated values, catalog 945 and dialog 36. Exact guard inventory is 1,182 rows = 802 menu + 293 dialog + 77 catalog + nine story + one tutorial. Package-writer QA remains stale at 7,502 verified candidates (348 rows behind current source); selector runtime source remains unverified; no v0.8 TEST or in-game validation is claimed.

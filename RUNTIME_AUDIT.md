@@ -278,3 +278,10 @@ Recent evidence-backed batches include weather/reward interactions, clear Castaw
 ## Sweep continuation — restaurant stove + island pinball catalog (2026-10-06)
 
 Added eight exact CTSS rows and four catalog mappings for the Castaway restaurant stove and Tribal Flame coconut pinball object. Source Audit passes: 4,490 mappings, 7,798 candidates, 0 missing/review candidate rows, 37,389 inherited review rows, 0 parse errors; catalog translated values: 945. Package-writer QA and selector runtime verification remain outstanding.
+
+
+## Sweep continuation — inherited object interactions + House of Tuzu (2026-10-06)
+
+Added 52 exact inherited row guards in two evidence-backed batches. Batch one promotes player-facing `Play`, `Read`, `Put Away`, `Veg Out`, `Ask To Join` and `Prepare for Hanging` interactions across clear Castaway-owned objects while intentionally retaining debug/test/not-visible rows. Batch two promotes 22 House of Tuzu leaving-neighbor dialog rows and four Grand Piano `Join`/`Dance` rows; the ASPYR nanny developer message and debug-like piano rows remain outside runtime translation scope.
+
+The runtime guard loader now supports `row_scope_overrides*.json` shards so new exact reviews can be committed without rewriting the >1 MB base guard file. Duplicate/stale/mismatch checks remain global across all shards. Source Audit passes at 4,491 mappings, 7,850 candidates, zero missing/review candidate rows, 37,337 inherited review rows and zero parse errors. Exact guard inventory is 1,182 rows: 802 menu, 293 dialog, 77 catalog, nine story and one tutorial. Package QA is stale (7,502 verified versus 7,850 current); selector runtime source remains unverified and no in-game test is claimed.

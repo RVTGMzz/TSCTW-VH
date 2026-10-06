@@ -48,11 +48,11 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` currently contains 1,130 exact row guards: 772 menu, 271 dialog, 77 catalog, nine story and one tutorial row. Menu guards cover 258 unique English labels. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document evidence where available. The audit rejects duplicate, stale or unused overrides. This is a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
+`row_scope_overrides*.json` currently contain 1,182 exact row guards: 802 menu, 293 dialog, 77 catalog, nine story and one tutorial row. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. The loader validates every shard together and rejects cross-shard duplicates, stale rows or mismatched source metadata. Object names from same-group OBJD resources document evidence where available. This remains a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current selected source includes 1,551 story/career/runtime-story values, 986 menu values, 945 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,798 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,389 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,551 story/career/runtime-story values, 987 menu values, 945 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,850 rows with zero missing/review candidate decisions and zero parser errors. The effective inherited review queue is 37,337 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -135,3 +135,12 @@ Authoritative effective totals from Source Audit: 4,486 translation-map entries,
 ### Sweep batch: restaurant stove + island pinball catalog (2026-10-06)
 
 Promoted eight exact CTSS rows for two clear player-facing objects: the Castaway restaurant stove and the island-themed career pinball machine. Four new catalog mappings were added, preserving product names while localizing the Sims-style descriptions. Source Audit passes at 4,490 mappings, 7,798 effective candidate rows, zero missing/review candidate decisions, 37,389 inherited review rows and zero parser errors. Catalog now contains 945 translated values.
+
+
+### Sweep batch: object interactions + House of Tuzu dialogs (2026-10-06)
+
+Promoted 52 exact inherited rows after source-evidence review. The first 26-row batch covers clear player-facing interactions on Castaway peg boxes, xylophones, the diary, five living chairs, two clothing racks and easel paintings; it adds the new mapping `Prepare for Hanging → Chuẩn bị để treo`. Rows explicitly marked debug, test-only or not actually shown in game were left in review.
+
+A second 26-row batch promotes 22 House of Tuzu leaving-neighbor dialog rows (11 mapped messages across both English-language variants) plus four Grand Piano `Join`/`Dance` action rows. The ASPYR nanny developer note and piano `Break`/`Untune` debug-like rows remain unpromoted. Legacy Windows-1252 metadata is preserved byte-for-byte in exact guards rather than normalized.
+
+Exact row guards can now be split across `runtime/row_scope_overrides*.json` shards; audit, validator and triage merge the shards and still reject duplicates or stale source metadata. Source Audit passes at 4,491 mappings, 7,850 effective candidate rows, zero missing/review candidate decisions, 37,337 inherited review rows and zero parser errors. Package-writer QA is still stale at 7,502 verified candidates and must be rerun before release; no in-game test is claimed.
