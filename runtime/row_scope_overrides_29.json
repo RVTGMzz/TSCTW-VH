@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Water",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Shared base plant/garden interaction retained in Castaway; approved Vietnamese menu mapping already exists for this exact label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Shared base plant/garden interaction retained in Castaway; approved Vietnamese menu mapping already exists for this exact label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Here",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Shared base plant/garden interaction retained in Castaway; approved Vietnamese menu mapping already exists for this exact label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Water",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Shared base plant/garden interaction retained in Castaway; approved Vietnamese menu mapping already exists for this exact label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Shared base plant/garden interaction retained in Castaway; approved Vietnamese menu mapping already exists for this exact label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Go Here",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Shared base plant/garden interaction retained in Castaway; approved Vietnamese menu mapping already exists for this exact label."
+  }
+]
