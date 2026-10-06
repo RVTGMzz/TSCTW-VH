@@ -1,0 +1,3737 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Clean ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Repair ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Garden ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 118,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Serve Meal ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 119,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Flirt with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 120,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Talk To ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 121,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Entertain ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 122,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Hug ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 123,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Kiss ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 124,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Appreciate ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 125,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Fight with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 126,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Play with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 127,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Play Prank on ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 130,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Cook with Oven ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 131,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Do My Assignment ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 134,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Write My Term Paper ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10 -- LTEDIT\nAnother Influence interaction. Changed \"Do My Term Paper\" to \"Write My Term Paper\" to be consistent with the Write Term Paper interaction on the computer.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 143,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greet with Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the interaction for the \"Secret Handshake\" that only Secret Society members can exhange.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 147,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Put Soap in Fountain ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to put soap in a fountain.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 148,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Pull Prank With Sprinklers ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to start ceiling sprinkler by lighting a starter under the sprinkler.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 149,
+    "status": "excluded",
+    "language": 1,
+    "en": "Streak",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSelf-interaction to be naked and pixelated",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 151,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Go to Final Exam",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis interaction takes the place of \"Go to Class\" when it's time for the final exam.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 156,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Serve Grilled Cheese ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 163,
+    "status": "excluded",
+    "language": 1,
+    "en": "End the Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 166,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Leave Us Alone ($Local:2)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 173,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Drink Vamprocillin-D ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 174,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Sing Karaoke ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 175,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Sing with ($Local:2).../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 225,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Bite Neck ($Local:2).../$Object",
+    "description": "The SIm2EP2 - NEEDS TRANSLATION - added per bug EP2-5058",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 311,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sales.../Pet.../$Namelocal:2",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 312,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sales.../Pet $Namelocal:1",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 427,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Clean ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 428,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Repair ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 429,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Garden ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 438,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Serve Meal ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 439,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Flirt with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 440,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Talk To ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 441,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Entertain ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 442,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Hug ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 443,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Kiss ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 444,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Appreciate ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 445,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Fight with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 446,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Play with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 447,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Play Prank on ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 450,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Cook with Oven ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 451,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Do My Assignment ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 454,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Write My Term Paper ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10 -- LTEDIT\nAnother Influence interaction. Changed \"Do My Term Paper\" to \"Write My Term Paper\" to be consistent with the Write Term Paper interaction on the computer.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 463,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greet with Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the interaction for the \"Secret Handshake\" that only Secret Society members can exhange.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 467,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Put Soap in Fountain ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to put soap in a fountain.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 468,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Pull Prank With Sprinklers ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to start ceiling sprinkler by lighting a starter under the sprinkler.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 469,
+    "status": "excluded",
+    "language": 2,
+    "en": "Streak",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSelf-interaction to be naked and pixelated",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 471,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Go to Final Exam",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis interaction takes the place of \"Go to Class\" when it's time for the final exam.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 476,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Serve Grilled Cheese ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 483,
+    "status": "excluded",
+    "language": 2,
+    "en": "End the Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 486,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Leave Us Alone ($Local:2)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 493,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Drink Vamprocillin-D ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 494,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Sing Karaoke ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 495,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Sing with ($Local:2).../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 545,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Bite Neck ($Local:2).../$Object",
+    "description": "The SIm2EP2 - NEEDS TRANSLATION - added per bug EP2-5058",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 631,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Pet.../$Namelocal:2",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 632,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Pet $Namelocal:1",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 236,
+    "status": "excluded",
+    "language": 1,
+    "en": "Complain About.../Employees.../$Object",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 245,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 246,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 253,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 254,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 269,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sales.../Offer At $SemiGlobalString:0:1",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 282,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 283,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 290,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 291,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 314,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../1 ($$local:4)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 315,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../3 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 316,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../5 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 317,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../10 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 556,
+    "status": "excluded",
+    "language": 2,
+    "en": "Complain About.../Employees.../$Object",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 565,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 566,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 573,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 574,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 589,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Offer At $SemiGlobalString:0:1",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 602,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 603,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 610,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 611,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 634,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../1 ($$local:4)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 635,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../3 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 636,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../5 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 637,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../10 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 273,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Go to Class",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 274,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 279,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction for Sims doing the Secret Society secret handshake between two members.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 314,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join Greek House",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nThis is the interaction for a Sim asking to Join a Greek House.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 315,
+    "status": "excluded",
+    "language": 1,
+    "en": "Streak",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nPlayer can now click on any Sim on a college lot and they will pixelate (naked), like the NPC Streaker. There are exceptions for territories as needed (ex. Thai).",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 332,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask For Blind Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 339,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../On Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 356,
+    "status": "excluded",
+    "language": 1,
+    "en": "End the Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 372,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../To Form Casual Group.../For an Outing",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 457,
+    "status": "excluded",
+    "language": 1,
+    "en": "Purchase Training For $Object",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 770,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Go to Class",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 771,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 776,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction for Sims doing the Secret Society secret handshake between two members.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 811,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join Greek House",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nThis is the interaction for a Sim asking to Join a Greek House.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 377,
+    "status": "excluded",
+    "language": 1,
+    "en": "Date&Outing TNS Toggle",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 839,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask.../Do You Like What You See?",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 910,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Manipulate",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 962,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request Garden Club Membership",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 963,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request Garden Club Inspection",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 968,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Snowball Fight",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 969,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plants Love Me?",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 974,
+    "status": "excluded",
+    "language": 2,
+    "en": "Grow Plantbaby",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 976,
+    "status": "excluded",
+    "language": 2,
+    "en": "Build Snowman",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 977,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play In Snow",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 978,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat Snow",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 979,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snuggle Plantbaby",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 981,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Snow Angel",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 985,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Plantophic-C",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 175,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display.../Debug - Calculate Attraction",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 266,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn.../Memory Manager",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 425,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn.../Semester Tester",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 429,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn.../Badge Juicer",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Clean ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Repair ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Garden ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 118,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Serve Meal ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 119,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Flirt with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 120,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Talk To ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 121,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Entertain ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 122,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Hug ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 123,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Kiss ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 124,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Appreciate ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 125,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Fight with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 126,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Play with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 127,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Play Prank on ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 130,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Cook with Oven ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 131,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Do My Assignment ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 134,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Write My Term Paper ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10 -- LTEDIT\nAnother Influence interaction. Changed \"Do My Term Paper\" to \"Write My Term Paper\" to be consistent with the Write Term Paper interaction on the computer.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 143,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greet with Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the interaction for the \"Secret Handshake\" that only Secret Society members can exhange.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 147,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Put Soap in Fountain ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to put soap in a fountain.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 148,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Pull Prank With Sprinklers ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to start ceiling sprinkler by lighting a starter under the sprinkler.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 149,
+    "status": "excluded",
+    "language": 1,
+    "en": "Streak",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSelf-interaction to be naked and pixelated",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 151,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Go to Final Exam",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis interaction takes the place of \"Go to Class\" when it's time for the final exam.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 156,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Serve Grilled Cheese ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 163,
+    "status": "excluded",
+    "language": 1,
+    "en": "End the Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 166,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Leave Us Alone ($Local:2)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 173,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Drink Vamprocillin-D ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 174,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Sing Karaoke ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 175,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Sing with ($Local:2).../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 225,
+    "status": "excluded",
+    "language": 1,
+    "en": "Influence To.../Bite Neck ($Local:2).../$Object",
+    "description": "The SIm2EP2 - NEEDS TRANSLATION - added per bug EP2-5058",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 311,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sales.../Pet.../$Namelocal:2",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 312,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sales.../Pet $Namelocal:1",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 427,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Clean ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 428,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Repair ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 429,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Garden ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 438,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Serve Meal ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do something. The variable is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 439,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Flirt with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 440,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Talk To ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 441,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Entertain ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 442,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Hug ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 443,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Kiss ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 444,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Appreciate ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 445,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Fight with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 446,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Play with ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 447,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Play Prank on ($Local:2).../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction with Sim C ($Object). The variable ($Local:2) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 450,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Cook with Oven ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 451,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Do My Assignment ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction of Sim A influencing Sim B to do an interaction.The variable ($Local:0) is the number of influence points the interaction costs.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 454,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Write My Term Paper ($local:0)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10 -- LTEDIT\nAnother Influence interaction. Changed \"Do My Term Paper\" to \"Write My Term Paper\" to be consistent with the Write Term Paper interaction on the computer.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 463,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greet with Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the interaction for the \"Secret Handshake\" that only Secret Society members can exhange.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 467,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Put Soap in Fountain ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to put soap in a fountain.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 468,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Pull Prank With Sprinklers ($local:0)",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSim influences another Sim to start ceiling sprinkler by lighting a starter under the sprinkler.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 469,
+    "status": "excluded",
+    "language": 2,
+    "en": "Streak",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nSelf-interaction to be naked and pixelated",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 471,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Go to Final Exam",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis interaction takes the place of \"Go to Class\" when it's time for the final exam.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 476,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Serve Grilled Cheese ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 483,
+    "status": "excluded",
+    "language": 2,
+    "en": "End the Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 486,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Leave Us Alone ($Local:2)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 493,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Drink Vamprocillin-D ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 494,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Sing Karaoke ($local:0)",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 495,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Sing with ($Local:2).../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 545,
+    "status": "excluded",
+    "language": 2,
+    "en": "Influence To.../Bite Neck ($Local:2).../$Object",
+    "description": "The SIm2EP2 - NEEDS TRANSLATION - added per bug EP2-5058",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 631,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Pet.../$Namelocal:2",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 632,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Pet $Namelocal:1",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 236,
+    "status": "excluded",
+    "language": 1,
+    "en": "Complain About.../Employees.../$Object",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 245,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 246,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 253,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 254,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 269,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sales.../Offer At $SemiGlobalString:0:1",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 282,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 283,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 290,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 291,
+    "status": "excluded",
+    "language": 1,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 314,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../1 ($$local:4)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 315,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../3 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 316,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../5 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 317,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Potion.../Plantophic-C.../10 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 556,
+    "status": "excluded",
+    "language": 2,
+    "en": "Complain About.../Employees.../$Object",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 565,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 566,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Be DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 573,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 574,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Assign.../Restock Items",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 589,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Offer At $SemiGlobalString:0:1",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 602,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 603,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work as DJ",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 610,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nMale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 611,
+    "status": "excluded",
+    "language": 2,
+    "en": "Management.../Get Back To Work Restocking",
+    "description": "The Sims2EP3 - Batch 5\n\nFemale Version",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 634,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../1 ($$local:4)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 635,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../3 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 636,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../5 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 637,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Potion.../Plantophic-C.../10 ($$local:2)",
+    "description": "Sims 2 EP7: Needs re-Translation, added '...' 12.18.06",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 273,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Go to Class",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 274,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 279,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction for Sims doing the Secret Society secret handshake between two members.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 314,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join Greek House",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nThis is the interaction for a Sim asking to Join a Greek House.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 315,
+    "status": "excluded",
+    "language": 1,
+    "en": "Streak",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nPlayer can now click on any Sim on a college lot and they will pixelate (naked), like the NPC Streaker. There are exceptions for territories as needed (ex. Thai).",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 332,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask For Blind Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 339,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../On Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 356,
+    "status": "excluded",
+    "language": 1,
+    "en": "End the Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 372,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../To Form Casual Group.../For an Outing",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 457,
+    "status": "excluded",
+    "language": 1,
+    "en": "Purchase Training For $Object",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 471,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Snowball Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 472,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plants Love Me?",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 477,
+    "status": "excluded",
+    "language": 1,
+    "en": "Grow Plantbaby",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 479,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 480,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play In Snow",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 481,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat Snow",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 484,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Snow Angel",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 488,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Plantophic-C",
+    "description": "Sims 2 EP7: Needs Translation 1/2/07",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 803,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Go to Class",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 804,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 809,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Secret Handshake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction for Sims doing the Secret Society secret handshake between two members.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 844,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join Greek House",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nThis is the interaction for a Sim asking to Join a Greek House.",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1001,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Snowball Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1002,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plants Love Me?",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1007,
+    "status": "excluded",
+    "language": 2,
+    "en": "Grow Plantbaby",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1009,
+    "status": "excluded",
+    "language": 2,
+    "en": "Build Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1010,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play In Snow",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1011,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat Snow",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1014,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Snow Angel",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1018,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Plantophic-C",
+    "description": "Sims 2 EP7: Needs Translation 1/2/07",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 342,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../Do You Like What You See?",
+    "description": "The Sims2EP2 - NEEDS RE-TRANSLATION - BatchEP2-a\nNeed to re-translate, it was moved into the Ask... category, otherwise should be identical to existing translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 377,
+    "status": "excluded",
+    "language": 1,
+    "en": "Date&Outing TNS Toggle",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 872,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask.../Do You Like What You See?",
+    "description": "The Sims2EP2 - NEEDS RE-TRANSLATION - BatchEP2-a\nNeed to re-translate, it was moved into the Ask... category, otherwise should be identical to existing translation",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 943,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sales.../Manipulate",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 995,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request Garden Club Membership",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 996,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request Garden Club Inspection",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 1012,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snuggle Plantbaby",
+    "description": "",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 175,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display.../Debug - Calculate Attraction",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 266,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn.../Memory Manager",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 425,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn.../Semester Tester",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 429,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn.../Badge Juicer",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit University/Nightlife/OFB/seasonal-snow/PlantSim feature residue in global social semiglobal; feature is outside Castaway Stories gameplay."
+  }
+]
