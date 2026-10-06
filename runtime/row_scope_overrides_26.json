@@ -1,0 +1,1022 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 1,
+    "en": "person",
+    "description": "The Sims 2 -- Needs Translation - Batch19\r\nNote for translators. This phrase appears in place of the variable $PrivateString:30:29 in this sentence, which appears when a Sim dies of old age. This sentence lists the Sim who benefits from the policy.\r\nBob Newbie's insurance policy benefited 1(variable) $PrivateString:30:29:",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "people",
+    "description": "The Sims 2 -- Needs Translation - Batch19\r\nNote for translators. This phrase appears in place of the variable $PrivateString:30:29 in this sentence, which appears when a Sim dies of old age. This sentence lists the Sim who benefits from the policy.\r\nBob Newbie's insurance policy benefited 4 $PrivateString:30:29:",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 13,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object received a pension check for $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "friend",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's friend, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "parent",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's parent, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "child",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's child, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "sibling",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's sibling, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "grandparent",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's grandparent, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "grandchild",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's grandchild, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "uncle",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's uncle, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "aunt",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's aunt, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "nephew",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's nephew, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "niece",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's niece, Bobbette, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "cousin",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's cousin, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "dialog",
+    "language": 1,
+    "en": "spouse",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's spouse, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "dialog",
+    "language": 1,
+    "en": "What are you trying to do here?! You can't leave children alone without a guardian!",
+    "description": "The Sims 2 - Needs Translation - Batch22\nWhen users select to move all teens, adults, and elders out of the house using the Move Out dialog, this message should appear.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sims Moving Out with $NeighborLocal:7",
+    "description": "The Sims 2 - Needs Translation - Batch24\nAdded variable which gives the name of the Sim who initiated the Move Out/Find Own Place.\nHeader for the right side of the Moving Out dialog - list of Sims chosen to Move Out.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Possible Movers",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the left side of the Moving Out dialog - movers to choose from",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "You are trying to move out the whole family. Please use the Move Family tool in the neighborhood to move them out.",
+    "description": "The Sims 2 - Needs Translation - Batch22\nWhen users select to move all Sims out of the house using the Move Out dialog, this message should appear.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sims Moving In with $NeighborLocal:7",
+    "description": "The Sims 2 - Needs Translation - Batch24\nVariable here is the name of the Sim who was invited to Move In.  \nHeader for the right side of the Moving In dialog - list of Sims chosen to Move In",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 33,
+    "category": "dialog",
+    "language": 1,
+    "en": "%d Sims Can Move In",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the right side of the Moving In dialog - number of Sims allowed to move into the current house.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 1,
+    "en": "Possible Movers",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the left side of the Moving Out/In dialog - movers to choose from",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 1,
+    "en": "A pregnant Sim is moving in! With the new baby on the way, this will exceed the maximum amount of Sims allowed on the lot.",
+    "description": "The Sims 2 - Needs Translation - Batch22\nIf user chooses to move a pregnant Sim into a lot with 7 people (currently) this dialog should appear).",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 1,
+    "en": "Move Out Sims",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the Move Out dialog",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 1,
+    "en": "Move In Sims",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the Move In dialog",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 1,
+    "en": "Studies have shown that households with more than $Local:27 members are one of the major causes of global warming. With this in mind, the Mayor of SimCity regrets to inform you that someone will need to move out before anyone else can move in.",
+    "description": "The Sims 2 - Needs Translation - Batch23",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 1,
+    "en": "This is the last controllable Sim to move out of this lot. Click Yes to Continue and move this Sim from this lot and reset it. Click No to return to the Neighborhood without saving this lot. ",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nFor the home neighborhoods when a Sim is the last to move out from a lot.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 1,
+    "en": "What do you think you are doing? You can't just leave your pet behind!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you cannot have more than $Local:29 pets.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "dialog",
+    "language": 1,
+    "en": "Your pet is pregnant, so you won't be able to move until the little ones arrive!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, this family already has enough pets and they won't be able to accept any more.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 66,
+    "category": "dialog",
+    "language": 2,
+    "en": "person",
+    "description": "The Sims 2 -- Needs Translation - Batch19\r\nNote for translators. This phrase appears in place of the variable $PrivateString:30:29 in this sentence, which appears when a Sim dies of old age. This sentence lists the Sim who benefits from the policy.\r\nBob Newbie's insurance policy benefited 1(variable) $PrivateString:30:29:",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 67,
+    "category": "dialog",
+    "language": 2,
+    "en": "people",
+    "description": "The Sims 2 -- Needs Translation - Batch19\r\nNote for translators. This phrase appears in place of the variable $PrivateString:30:29 in this sentence, which appears when a Sim dies of old age. This sentence lists the Sim who benefits from the policy.\r\nBob Newbie's insurance policy benefited 4 $PrivateString:30:29:",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 76,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object received a pension check for $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 78,
+    "category": "dialog",
+    "language": 2,
+    "en": "friend",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's friend, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 79,
+    "category": "dialog",
+    "language": 2,
+    "en": "parent",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's parent, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 80,
+    "category": "dialog",
+    "language": 2,
+    "en": "child",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's child, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 81,
+    "category": "dialog",
+    "language": 2,
+    "en": "sibling",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's sibling, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 82,
+    "category": "dialog",
+    "language": 2,
+    "en": "grandparent",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's grandparent, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 83,
+    "category": "dialog",
+    "language": 2,
+    "en": "grandchild",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's grandchild, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 84,
+    "category": "dialog",
+    "language": 2,
+    "en": "uncle",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's uncle, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 85,
+    "category": "dialog",
+    "language": 2,
+    "en": "aunt",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's aunt, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 86,
+    "category": "dialog",
+    "language": 2,
+    "en": "nephew",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's nephew, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 87,
+    "category": "dialog",
+    "language": 2,
+    "en": "niece",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's niece, Bobbette, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 88,
+    "category": "dialog",
+    "language": 2,
+    "en": "cousin",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's cousin, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 89,
+    "category": "dialog",
+    "language": 2,
+    "en": "spouse",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: Context is that this string is used in this sentence, on the dialog for inheritance after a Sim dies of old age.\r\nDeadSimName's spouse, Bob, received $4000.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 90,
+    "category": "dialog",
+    "language": 2,
+    "en": "What are you trying to do here?! You can't leave children alone without a guardian!",
+    "description": "The Sims 2 - Needs Translation - Batch22\nWhen users select to move all teens, adults, and elders out of the house using the Move Out dialog, this message should appear.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 91,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sims Moving Out with $NeighborLocal:7",
+    "description": "The Sims 2 - Needs Translation - Batch24\nAdded variable which gives the name of the Sim who initiated the Move Out/Find Own Place.\nHeader for the right side of the Moving Out dialog - list of Sims chosen to Move Out.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 93,
+    "category": "dialog",
+    "language": 2,
+    "en": "Possible Movers",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the left side of the Moving Out dialog - movers to choose from",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 94,
+    "category": "dialog",
+    "language": 2,
+    "en": "You are trying to move out the whole family. Please use the Move Family tool in the neighborhood to move them out.",
+    "description": "The Sims 2 - Needs Translation - Batch22\nWhen users select to move all Sims out of the house using the Move Out dialog, this message should appear.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 95,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sims Moving In with $NeighborLocal:7",
+    "description": "The Sims 2 - Needs Translation - Batch24\nVariable here is the name of the Sim who was invited to Move In.  \nHeader for the right side of the Moving In dialog - list of Sims chosen to Move In",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 96,
+    "category": "dialog",
+    "language": 2,
+    "en": "%d Sims Can Move In",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the right side of the Moving In dialog - number of Sims allowed to move into the current house.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 97,
+    "category": "dialog",
+    "language": 2,
+    "en": "Possible Movers",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the left side of the Moving Out/In dialog - movers to choose from",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 98,
+    "category": "dialog",
+    "language": 2,
+    "en": "A pregnant Sim is moving in! With the new baby on the way, this will exceed the maximum amount of Sims allowed on the lot.",
+    "description": "The Sims 2 - Needs Translation - Batch22\nIf user chooses to move a pregnant Sim into a lot with 7 people (currently) this dialog should appear).",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 101,
+    "category": "dialog",
+    "language": 2,
+    "en": "Move Out Sims",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the Move Out dialog",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 102,
+    "category": "dialog",
+    "language": 2,
+    "en": "Move In Sims",
+    "description": "The Sims 2 - Needs Translation - Batch22\nHeader for the Move In dialog",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 103,
+    "category": "dialog",
+    "language": 2,
+    "en": "Studies have shown that households with more than 8 members are one of the major causes of global warming. With this in mind, the Mayor of SimCity regrets to inform you that someone will need to move out before anyone else can move in.",
+    "description": "The Sims 2 - Needs Translation - Batch23",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 111,
+    "category": "dialog",
+    "language": 2,
+    "en": "This is the last controllable Sim to move out of this lot. Click Yes to Continue and move this Sim from this lot and reset it. Click No to return to the Neighborhood without saving this lot. ",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nFor the home neighborhoods when a Sim is the last to move out from a lot.",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 121,
+    "category": "dialog",
+    "language": 2,
+    "en": "What do you think you are doing? You can't just leave your pet behind!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 122,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you cannot have more than $Local:29 pets.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 123,
+    "category": "dialog",
+    "language": 2,
+    "en": "Your pet is pregnant, so you won't be able to move until the little ones arrive!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 124,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, this family already has enough pets and they won't be able to accept any more.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you cannot have more than $Local:28 people living here.",
+    "description": "Sims 2 EP6: Needs Re-Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 125,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you cannot have more than $Local:28 people living here.",
+    "description": "Sims 2 EP6: Needs Re-Translation",
+    "reason": "Player-facing household move/inheritance/pension/pet-capacity text retained by Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139461185,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Out",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing household Move Out action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139461185,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Out",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing household Move Out action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139461185,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Out",
+    "description": "The Sims2EP1 - Translated - Copy translations",
+    "reason": "Player-facing household Move Out action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139461185,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Out",
+    "description": "",
+    "reason": "Player-facing household Move Out action."
+  }
+]

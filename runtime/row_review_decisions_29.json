@@ -1,0 +1,527 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "This is the last controllable Sim to move out of this lot. Click Yes to Continue and move this Sim from this lot and reset it. Click No to return to the college Neighborhood without saving this lot. ",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5\nI believe this is for the last controllable Sim on the lot moving out from a college lot (everyone else has graduated, etc)",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "It's high time that $Object got back to the real world.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5\nNeed to add context comment here.",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has moved back to the home neighborhood, and can be found in the Family Bin. Move $Object into a new lot alone, or have $Object move into an existing household.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "A taxi has arrived to take $Object back to the home neighborhood.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-10\nThis is the dialog that comes up when Sim leaves college after graduation (or when dropping out or being expelled).",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "It's nice of you to ask, but I'm not even a full member of your Greek House!  Maybe someday though . ..",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "This is the only student on the lot, please use the Move Students tool in the neighborhood to move them out.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "You are trying to move out all of the students in this household. Please use the Move Students tool in the neighborhood to move them out.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has moved to College and can be found in the College Neighborhood in the Students Bin. You can start off $Object's college life in a new lot, or have $Object join an existing household.\n",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "To send this Sim to College, you'll need to first pick a college neighborhood. To do this, exit this lot, then click on the College Chooser icon in the Neighborhood.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "A taxi is here to take $Object off to College and a new life as a Young Adult!",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has joined a Greek House and has moved away to live on that lot.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "This is the last controllable Sim to move out of this lot. Click Yes to Continue and move this Sim from this lot and reset it. Click No to return to the college Neighborhood without saving this lot. ",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5\nI believe this is for the last controllable Sim on the lot moving out from a college lot (everyone else has graduated, etc)",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 105,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's nice of you to ask, but I'm not even a full member of your Greek House!  Maybe someday though . ..",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 2,
+    "en": "This is the only student on the lot, please use the Move Students tool in the neighborhood to move them out.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are trying to move out all of the students in this household. Please use the Move Students tool in the neighborhood to move them out.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object has moved to College and can be found in the College Neighborhood in the Students Bin. You can start off $Object's college life in a new lot, or have $Object join an existing household.\n",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 110,
+    "status": "excluded",
+    "language": 2,
+    "en": "To send this Sim to College, you'll need to first pick a college neighborhood. To do this, exit this lot, then click on the College Chooser icon in the Neighborhood.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 112,
+    "status": "excluded",
+    "language": 2,
+    "en": "A taxi is here to take $Object off to College and a new life as a Young Adult!",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 113,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object has joined a Greek House and has moved away to live on that lot.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college/Greek House move-out residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 1,
+    "en": "In the event of $FullNameLocal:2's passing, the following businesses have been bequeathed to $FullNameLocal:0, effective immediately:",
+    "description": "Sims2EP3 - Batch 8",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 1,
+    "en": "In the event of $FullNameLocal:2's passing, the following businesses have become public property, effective immediately:",
+    "description": "Sims2EP3 - Batch 8",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 1,
+    "en": "\r- $LotNameLocalByLotId:5",
+    "description": "",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Neighbor is currently the owner of a home business.  If $Neighbor moves in to this household, then $Neighbor's home business will be given to another member in $Neighbor's current household.  If there are no eligible members in $Neighbor's household, then the business will be dissolved.  Are you sure you want $Neighbor to move in?",
+    "description": "Sims2EP3 - Batch 10",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's household is not currently saved on $Object's home lot.  If you would like to ask $Object to move in, then you must play $Object's household and save once the household has returned home.",
+    "description": "Sims2EP3 - Batch 10",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 116,
+    "status": "excluded",
+    "language": 2,
+    "en": "In the event of $FullNameLocal:2's passing, the following businesses have been bequeathed to $FullNameLocal:0, effective immediately:",
+    "description": "Sims2EP3 - Batch 8",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 117,
+    "status": "excluded",
+    "language": 2,
+    "en": "In the event of $FullNameLocal:2's passing, the following businesses have become public property, effective immediately:",
+    "description": "Sims2EP3 - Batch 8",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 118,
+    "status": "excluded",
+    "language": 2,
+    "en": "\r- $LotNameLocalByLotId:5",
+    "description": "",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 119,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Neighbor is currently the owner of a home business.  If $Neighbor moves in to this household, then $Neighbor's home business will be given to another member in $Neighbor's current household.  If there are no eligible members in $Neighbor's household, then the business will be dissolved.  Are you sure you want $Neighbor to move in?",
+    "description": "Sims2EP3 - Batch 10",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139461185,
+      301,
+      0
+    ],
+    "row": 120,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's household is not currently saved on $Object's home lot.  If you would like to ask $Object to move in, then you must play $Object's household and save once the household has returned home.",
+    "description": "Sims2EP3 - Batch 10",
+    "reason": "Open for Business inheritance/home-business residue outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139461185,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Move To College",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/Greek House move action outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139461185,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Move To Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/Greek House move action outside Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139461185,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Doll House",
+    "description": "! Out of World",
+    "reason": "Out-of-world/internal catalog placeholder on move/inheritance controller."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139461185,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "[F]",
+    "description": "!",
+    "reason": "Out-of-world/internal catalog placeholder on move/inheritance controller."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139461185,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Doll House",
+    "description": "! Out of World",
+    "reason": "Out-of-world/internal catalog placeholder on move/inheritance controller."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139461185,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "[F]",
+    "description": "!",
+    "reason": "Out-of-world/internal catalog placeholder on move/inheritance controller."
+  }
+]
