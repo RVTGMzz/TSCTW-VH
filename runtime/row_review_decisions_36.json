@@ -1,0 +1,152 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your cat is starting to show his age, which means it just might be time for him to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your cat is starting to show her age, which means it just might be time for her to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 113,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 117,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your cat is starting to show his age, which means it just might be time for him to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 121,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your adorable little kitten grew into a full grown cat!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 125,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your cat is starting to show her age, which means it just might be time for her to sit back and enjoy the catnip.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "reason": "Cat/kitten aging text from Pets is outside Castaway Stories, which does not expose cat gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stinky!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Disease controller symptom/helper interaction label, not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jittery!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Disease controller symptom/helper interaction label, not player-facing Castaway UI."
+  }
+]

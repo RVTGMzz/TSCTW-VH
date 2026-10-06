@@ -1,0 +1,386 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 47,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of him to keep him strong!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Ui! Sói con giờ đã lớn rồi. Hãy tiếp tục chăm sóc để cậu chàng luôn khỏe mạnh nhé!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 1,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Chú chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 1,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Chú chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 1,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for him to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Sói già răng đã cùn thì cũng bớt đáng sợ. Có lẽ đã đến lúc cậu chàng sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 55,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of her to keep her strong!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Ui! Sói con giờ đã lớn rồi. Hãy tiếp tục chăm sóc để cô nàng luôn khỏe mạnh nhé!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 1,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Cô chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "dialog",
+    "language": 1,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Cô chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "dialog",
+    "language": 1,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for her to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Sói già răng đã cùn thì cũng bớt đáng sợ. Có lẽ đã đến lúc cô nàng sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 111,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 112,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Male - needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 114,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of him to keep him strong!",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Ui! Sói con giờ đã lớn rồi. Hãy tiếp tục chăm sóc để cậu chàng luôn khỏe mạnh nhé!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 115,
+    "category": "dialog",
+    "language": 2,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Chú chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 116,
+    "category": "dialog",
+    "language": 2,
+    "en": "This dog is starting to show his age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Chú chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 118,
+    "category": "dialog",
+    "language": 2,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for him to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Male - Needs Translation",
+    "vi": "Sói già răng đã cùn thì cũng bớt đáng sợ. Có lẽ đã đến lúc cậu chàng sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 119,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 120,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations! Your little puppy grew into a healthy, adult dog!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Chúc mừng! Cún con của bạn đã lớn thành một chú chó trưởng thành khỏe mạnh!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 122,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wow! That young wolf pup isn't a pup anymore. Keep taking care of her to keep her strong!",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Ui! Sói con giờ đã lớn rồi. Hãy tiếp tục chăm sóc để cô nàng luôn khỏe mạnh nhé!",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 123,
+    "category": "dialog",
+    "language": 2,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Cô chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 124,
+    "category": "dialog",
+    "language": 2,
+    "en": "This dog is starting to show her age. Perhaps it's time to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Cô chó này bắt đầu có tuổi rồi. Có lẽ đã đến lúc sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 126,
+    "category": "dialog",
+    "language": 2,
+    "en": "Old wolves with dull teeth aren't quite as scary. Perhaps it's time for her to settle down and enjoy some lazy days in the sun.",
+    "description": "The Sims 2 EP6 - Female - Needs Translation",
+    "vi": "Sói già răng đã cùn thì cũng bớt đáng sợ. Có lẽ đã đến lúc cô nàng sống chậm lại và tận hưởng những ngày lười biếng dưới nắng.",
+    "reason": "Retained dog/wolf aging notification may be used by Castaway hyena/Pets-derived systems; exact-row translation keeps it isolated."
+  }
+]
