@@ -99,6 +99,7 @@ def main():
                 'row': row['row'],
                 'language': row['language'],
                 'type': row['type'],
+                'resource_name': row.get('name'),
                 'en': row['en'],
                 'description': row['description'],
                 'shares_group_with_cast_text': row['shares_group_with_cast_text'],
