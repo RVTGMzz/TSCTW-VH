@@ -1,0 +1,18 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140408621,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Chapter 1 - Almost Paradise",
+    "description": "!",
+    "vi": "Chương 1 - Suýt Nữa Là Thiên Đường",
+    "reason": "Exact story-title composition reuses approved core translations from translations/extra35.json: Chapter 1 → Chương 1 and Almost Paradise → Suýt Nữa Là Thiên Đường. Kept exact-row so selector/read-path investigation remains traceable."
+  }
+]
