@@ -1,0 +1,1022 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object will grow up in just one day at 6 p.m.  It's time to plan a party and buy $Object a Birthday Cake!",
+    "description": "The Sims 2 - Needs Translation - Batch24\n8/1 change  - time changed from 7 p.m. to 6 p.m. per bug 37450. Lighting transition is at 7 p.m., apparently.\nThis changed from 2 days to one day.\r\nNote - this is the notification when a Sim is one day away from their age transition.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object only has two days left before celebrating a birthday. Make sure you fulfill $Object's wants so that $Object will enter the next phase of life with as full of an Aspiration Meter as possible.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote 7/21 change from one day to two days\nThis is the Moderate TNS - note change from Aspiration Score to Aspiration Meter.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 1,
+    "en": "You've made it! Now that you're an elder, use the phone to call work and retire if you want . . . you've got a big pension coming!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nDialog which appears after the Sim becomes an elder - reminds them to call work and retire.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 just couldn't get any better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Don Juan . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nadded space after first period in english and decapitalized Life.\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages, with articles. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Normal  aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Hopeless Romantic . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 10,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Cold Fish.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Total Turn-Off ...",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 13,
+    "category": "dialog",
+    "language": 1,
+    "en": "a baby",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "a toddler",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "a child",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "a teenager",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "an adult",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "an elder",
+    "description": "The Sims2 - Needs Translation - Batch19\nSim ages to be used in age transition dialogs. \"has grown into X\" and \"As X, Sim achieved ...\"",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 couldn't get any better, or longer!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Femme Fatale  . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Normal aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Hopeless Romantic...",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Cold Fish . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Total Turn Off. . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "dialog",
+    "language": 1,
+    "en": "Only two days left before $Object's birthday. With an Aspiration Meter as full as $Object's, there's not much to worry about. Just make sure to avoid any fears so that $Object can carry that Aspiration Meter on to the next phase of life.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed again - two day warning instead of one day. \ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for high score Sims, 2 days before the Sim will age transition and alerts the player to keep the Sim's aspiration meter high.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "dialog",
+    "language": 1,
+    "en": "Be careful! $Object only has two days left before celebrating a birthday. $Object's Aspiration Meter is looking pretty low, but there's still time to focus on some of $Object's wants, and make sure that next phase of life isn't as hard as this one was.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed from one day warning to two day.\ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for low aspiration score Sims, 2 days before the Sim will age transition and alerts the player to try to keep the Sim from age transitioning with such a low score.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object's birthday is only a day away. It seems like only yesterday that the little bundle of joy came into this world. Oh, how quickly they grow up.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of his golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 33,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. He's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of his life, but look on the bright side, he could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving his goals with the limited time he has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing he wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of her golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. She's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of her life, but look on the bright side, she could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving her goals with the limited time she has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing she wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object will grow up in just one day at 6 p.m.  It's time to plan a party and buy $Object a Birthday Cake!",
+    "description": "The Sims 2 - Needs Translation - Batch24\n8/1 change  - time changed from 7 p.m. to 6 p.m. per bug 37450. Lighting transition is at 7 p.m., apparently.\nThis changed from 2 days to one day.\r\nNote - this is the notification when a Sim is one day away from their age transition.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 66,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object only has two days left before celebrating a birthday. Make sure you fulfill $Object's wants so that $Object will enter the next phase of life with as full of an Aspiration Meter as possible.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote 7/21 change from one day to two days\nThis is the Moderate TNS - note change from Aspiration Score to Aspiration Meter.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 67,
+    "category": "dialog",
+    "language": 2,
+    "en": "You've made it! Now that you're an elder, use the phone to call work and retire if you want . . . you've got a big pension coming!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nDialog which appears after the Sim becomes an elder - reminds them to call work and retire.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 70,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 just couldn't get any better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Don Juan . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 71,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 72,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nadded space after first period in english and decapitalized Life.\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages, with articles. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 73,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Normal  aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Hopeless Romantic . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 74,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Cold Fish.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 75,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Male\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Bob has grown into an elder. As an adult, Bob achieved the Aspiration Level of Total Turn-Off ...",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 84,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 couldn't get any better, or longer!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Gold (highest) aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Femme Fatale  . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 85,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is well on the way to perfection!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Silver aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Love Machine . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 86,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good! With a little hard work, life could get even better!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Bronze aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Lusty Lover . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 87,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 is doing ok, but there is certainly room for improvement.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Normal aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Hopeless Romantic...",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 88,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2 is going to have to work extra hard next time!",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Distress aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Cold Fish . . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 89,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2 has hit rock bottom.",
+    "description": "The Sims2 - Needs Translation - Batch19 - Female\nDialog appears when Sim age transitions. Failure aspiration level. $PrivateString:4:5 variable uses list of ages. Example: Nina has grown into an elder. As an adult, Nina achieved the Aspiration Level of Total Turn Off. . .",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 91,
+    "category": "dialog",
+    "language": 2,
+    "en": "Only two days left before $Object's birthday. With an Aspiration Meter as full as $Object's, there's not much to worry about. Just make sure to avoid any fears so that $Object can carry that Aspiration Meter on to the next phase of life.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed again - two day warning instead of one day. \ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for high score Sims, 2 days before the Sim will age transition and alerts the player to keep the Sim's aspiration meter high.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 92,
+    "category": "dialog",
+    "language": 2,
+    "en": "Be careful! $Object only has two days left before celebrating a birthday. $Object's Aspiration Meter is looking pretty low, but there's still time to focus on some of $Object's wants, and make sure that next phase of life isn't as hard as this one was.",
+    "description": "The Sims 2 - Needs Translation - Batch24\n7/21 changed from one day warning to two day.\ndon't scrub - dialog is rewritten to refer to Aspiration Meter instead of Aspiration Score.\nThis TNS appears for low aspiration score Sims, 2 days before the Sim will age transition and alerts the player to try to keep the Sim from age transitioning with such a low score.",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 93,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object's birthday is only a day away. It seems like only yesterday that the little bundle of joy came into this world. Oh, how quickly they grow up.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 95,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 96,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of his golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 97,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. He's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 98,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of his life, but look on the bright side, he could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 99,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving his goals with the limited time he has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 100,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing he wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 Male adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 102,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's fantastic! Life for $NeighborLocal:2 can't get any happier, or longer!",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 103,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's great! $NeighborLocal:2 is ready to make the most out of her golden years.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 104,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty good. She's set to have a pretty fulfilling life as an elder.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 105,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's so-so. $NeighborLocal:2 certainly didn't make the most out of her life, but look on the bright side, she could have done worse . . .",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 106,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's pretty lame. $NeighborLocal:2's going to have a difficult time achieving her goals with the limited time she has left.",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 107,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 has grown into $PrivateString:4:5. As $PrivateString:4:6, $NeighborLocal:2 achieved the Aspiration Level of $AspirationString:9:10. That's terrible! $NeighborLocal:2's managed to get almost nothing she wanted out of life. Let's hope there's not much to the saying \"a happy life's a longer life.\"",
+    "description": "The Sims 2 - Needs Translation - Batch 23 - Female adult to elder transition",
+    "reason": "Player-facing base-game human age/birthday notification retained by Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131229628,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Age Transition",
+    "description": "The Sims2 - Needs Translation - Batch19",
+    "reason": "Player-facing age-transition interaction on Castaway age controller."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131229628,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims2 - Needs Translation - Batch19",
+    "reason": "Player-facing age-transition interaction on Castaway age controller."
+  }
+]

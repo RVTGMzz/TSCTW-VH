@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Now that $Object is a teenager, it's time to start thinking about college.  Make sure $Object studies hard, because it will count towards college!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for when Sim becomes a teen.",
+    "reason": "University/college age reminder (EP1) is expansion residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has the opportunity to enter college.  Before moving into college, $Object can use a computer or a phone to apply for scholarships.  More scholarships mean more money to use in college, and more money means more fun!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for during teen time (appears at a tunable interval).",
+    "reason": "University/college age reminder (EP1) is expansion residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object will become an adult in a few days.  For better opportunities in the future (and the chance to have some fun as a young adult), $Object can move into college before becoming an adult.  Use a phone or computer to send $Object to college, or use the Send Sims to College button on the Neighborhood screen to send multiple teenagers to college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for \"last chance\" to go to college.",
+    "reason": "University/college age reminder (EP1) is expansion residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 2,
+    "en": "Now that $Object is a teenager, it's time to start thinking about college.  Make sure $Object studies hard, because it will count towards college!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for when Sim becomes a teen.",
+    "reason": "University/college age reminder (EP1) is expansion residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object has the opportunity to enter college.  Before moving into college, $Object can use a computer or a phone to apply for scholarships.  More scholarships mean more money to use in college, and more money means more fun!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for during teen time (appears at a tunable interval).",
+    "reason": "University/college age reminder (EP1) is expansion residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131229628,
+      301,
+      0
+    ],
+    "row": 110,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object will become an adult in a few days.  For better opportunities in the future (and the chance to have some fun as a young adult), $Object can move into college before becoming an adult.  Use a phone or computer to send $Object to college, or use the Send Sims to College button on the Neighborhood screen to send multiple teenagers to college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nTNS for EP1 for \"last chance\" to go to college.",
+    "reason": "University/college age reminder (EP1) is expansion residue outside Castaway Stories."
+  }
+]
