@@ -53,7 +53,7 @@ def main():
     for override in load_row_overrides():
         identity=(override['package'],tuple(override['key']),override['row'])
         if identity in overrides:raise ValueError(('Duplicate row override',identity))
-        if override['category'] not in ('menu','catalog','ui','story','tutorial','want','dialog'):
+        if override['category'] not in ('menu','catalog','ui','story','tutorial','want','dialog','object','text','character','neighborhood'):
             raise ValueError(('Unsupported override category',identity))
         overrides[identity]=override
     row_translations={}; used_row_translations=set()
@@ -61,7 +61,7 @@ def main():
         identity=(translation['package'],tuple(translation['key']),translation['row'])
         if identity in row_translations:raise ValueError(('Duplicate exact row translation',identity))
         if identity in overrides:raise ValueError(('Row cannot be both generic-promoted and exact-translated',identity))
-        if translation.get('category') not in ('menu','catalog','ui','story','tutorial','want','dialog'):
+        if translation.get('category') not in ('menu','catalog','ui','story','tutorial','want','dialog','object','text','character','neighborhood'):
             raise ValueError(('Unsupported exact row translation category',identity,translation.get('category')))
         row_translations[identity]=translation
     review_decisions={}; used_review_decisions=set()

@@ -57,7 +57,7 @@ def load_row_translations():
             identity = (row['package'], tuple(row['key']), row['row'])
             if identity in seen:
                 raise ValueError(('Duplicate exact row translation', identity))
-            if row.get('category') not in ('menu','catalog','ui','story','tutorial','want','dialog'):
+            if row.get('category') not in ('menu','catalog','ui','story','tutorial','want','dialog','object','text','character','neighborhood'):
                 raise ValueError(('Unsupported exact row translation category', identity, row.get('category')))
             validate(row['en'], row['vi'])
             seen.add(identity)
