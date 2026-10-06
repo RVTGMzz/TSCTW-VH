@@ -38,6 +38,14 @@ def load_row_review_decisions():
         rows.extend(data)
     return rows
 
+def load_row_translations():
+    rows=[]
+    for path in sorted((ROOT/'runtime').glob('row_translation_overrides*.json')):
+        data=json.loads(path.read_text())
+        if not isinstance(data,list):raise ValueError(('Row translation shard must be a JSON list',path.name))
+        rows.extend(data)
+    return rows
+
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--input',type=Path,default=ROOT/'work/input');ap.add_argument('--output',type=Path,default=ROOT/'runtime');args=ap.parse_args()
     records=[]; inventory=[]; review=[]
@@ -48,11 +56,19 @@ def main():
         if override['category'] not in ('menu','catalog','ui','story','tutorial','want','dialog'):
             raise ValueError(('Unsupported override category',identity))
         overrides[identity]=override
+    row_translations={}; used_row_translations=set()
+    for translation in load_row_translations():
+        identity=(translation['package'],tuple(translation['key']),translation['row'])
+        if identity in row_translations:raise ValueError(('Duplicate exact row translation',identity))
+        if identity in overrides:raise ValueError(('Row cannot be both generic-promoted and exact-translated',identity))
+        if translation.get('category') not in ('menu','catalog','ui','story','tutorial','want','dialog'):
+            raise ValueError(('Unsupported exact row translation category',identity,translation.get('category')))
+        row_translations[identity]=translation
     review_decisions={}; used_review_decisions=set()
     for decision in load_row_review_decisions():
         identity=(decision['package'],tuple(decision['key']),decision['row'])
         if identity in review_decisions:raise ValueError(('Duplicate row review decision',identity))
-        if identity in overrides:raise ValueError(('Row cannot be both promoted and excluded/retained',identity))
+        if identity in overrides or identity in row_translations:raise ValueError(('Row cannot be both promoted/exact-translated and excluded/retained',identity))
         if decision.get('status') not in ('excluded','retain'):
             raise ValueError(('Unsupported row review decision status',identity,decision.get('status')))
         review_decisions[identity]=decision
@@ -81,7 +97,13 @@ def main():
                 if category in ('excluded', 'review') and value in confirmed and not INTERNAL.search(desc):
                     category, reason = confirmed[value], 'Exact English variant of a Cast-tagged row in the same resource'
                 identity=(rel,entry.key,ordinal)
-                if identity in review_decisions:
+                if identity in row_translations:
+                    translation=row_translations[identity]
+                    if category!='review' or (lang,value,desc)!=(translation['language'],translation['en'],translation['description']):
+                        raise ValueError(('Exact row translation baseline mismatch',identity))
+                    category,reason=translation['category'],translation['reason']
+                    used_row_translations.add(identity)
+                elif identity in review_decisions:
                     decision=review_decisions[identity]
                     if category!='review' or (lang,value,desc)!=(decision['language'],decision['en'],decision['description']):
                         raise ValueError(('Row review decision baseline mismatch',identity))
@@ -101,6 +123,7 @@ def main():
         inventory.append(dict(package=rel,sha256=hashlib.sha256(pack.data).hexdigest(),bytes=len(pack.data),index_width=pack.width,resources=len(pack.entries),text_row_categories=dict(counts),text_resource_categories=dict(resources),tables_with_preserved_tail=padding,legacy_technical_resources=legacy,errors=errors))
         print(rel,dict(counts), 'parse errors',len(errors),flush=True)
     if used!=set(overrides):raise ValueError(('Unused row overrides',set(overrides)-used))
+    if used_row_translations!=set(row_translations):raise ValueError(('Unused exact row translations',set(row_translations)-used_row_translations))
     if used_review_decisions!=set(review_decisions):raise ValueError(('Unused row review decisions',set(review_decisions)-used_review_decisions))
     args.output.mkdir(parents=True,exist_ok=True)
     for filename,data in [('catalog.json',records),('review_queue.json',review),('inventory.json',inventory)]:

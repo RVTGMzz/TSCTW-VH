@@ -5,16 +5,17 @@ import hashlib
 import json
 from pathlib import Path
 from runtime_dbpf import Package, encode_table, parse_table
-from validate_runtime import ROOT, RUNTIME, effective_records, load_maps
+from validate_runtime import ROOT, RUNTIME, effective_records, load_maps, load_row_translations, row_identity
 
 
-def apply(data, records, maps, decisions):
+def apply(data, records, maps, decisions, exact_translations):
     package = Package(data)
     index = {e.key:e for e in package.entries}
     grouped = collections.defaultdict(list)
     for row in records:
         key = row['category'],row['en']
-        if key in decisions or row['en'] not in maps.get(row['category'],{}):
+        identity = row_identity(row)
+        if identity not in exact_translations and (key in decisions or row['en'] not in maps.get(row['category'],{})):
             continue
         grouped[tuple(row['key'])].append(row)
     replacements = {}
@@ -26,7 +27,8 @@ def apply(data, records, maps, decisions):
             lang,value,desc = rows[row['row']]
             if lang != row['language'] or desc != row['description']:
                 raise ValueError(('Resource metadata differs from audit',key,row['row']))
-            vi = maps[row['category']][row['en']]
+            identity = row_identity(row)
+            vi = exact_translations[identity]['vi'] if identity in exact_translations else maps[row['category']][row['en']]
             if value == vi:
                 continue
             if value != row['en']:
@@ -52,6 +54,7 @@ def main():
     if args.output.resolve() == args.input.resolve() or args.input.resolve() in args.output.resolve().parents:
         raise ValueError('QA output must be separate from baseline input')
     maps=load_maps()
+    exact_translations={(r['package'],tuple(r['key']),r['row']):r for r in load_row_translations()}
     decisions={(r['category'],r['en']) for r in json.loads((RUNTIME/'scope_decisions.json').read_text())}
     records=collections.defaultdict(list)
     effective,_ = effective_records()
@@ -66,8 +69,8 @@ def main():
         before=path.read_bytes()
         if hashlib.sha256(before).hexdigest()!=p['sha256']:
             raise ValueError(('Input hash differs from committed audit',str(path)))
-        after,n,resources=apply(before,records[p['package']],maps,decisions)
-        repeated,n2,r2=apply(after,records[p['package']],maps,decisions)
+        after,n,resources=apply(before,records[p['package']],maps,decisions,exact_translations)
+        repeated,n2,r2=apply(after,records[p['package']],maps,decisions,exact_translations)
         if repeated!=after or n2 or r2:
             raise AssertionError('Idempotence failed')
         if n:

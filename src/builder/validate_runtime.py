@@ -45,6 +45,26 @@ def load_row_review_decisions():
     return rows
 
 
+def load_row_translations():
+    """Load context-specific translations for exact rows with duplicated source text."""
+    rows = []
+    seen = set()
+    for path in sorted(RUNTIME.glob('row_translation_overrides*.json')):
+        data = json.loads(path.read_text())
+        if not isinstance(data, list):
+            raise ValueError(('Row translation shard must be a JSON list', path.name))
+        for row in data:
+            identity = (row['package'], tuple(row['key']), row['row'])
+            if identity in seen:
+                raise ValueError(('Duplicate exact row translation', identity))
+            if row.get('category') not in ('menu','catalog','ui','story','tutorial','want','dialog'):
+                raise ValueError(('Unsupported exact row translation category', identity, row.get('category')))
+            validate(row['en'], row['vi'])
+            seen.add(identity)
+            rows.append(row)
+    return rows
+
+
 def effective_records():
     """Merge exact row overrides into committed snapshots for source-only QA.
 
@@ -64,13 +84,20 @@ def effective_records():
             raise ValueError(('Duplicate row override', identity))
         overrides[identity] = override
 
+    row_translations = {}
+    for translation in load_row_translations():
+        identity = (translation['package'], tuple(translation['key']), translation['row'])
+        if identity in overrides:
+            raise ValueError(('Row cannot be both generic-promoted and exact-translated', identity))
+        row_translations[identity] = translation
+
     review_decisions = {}
     for decision in load_row_review_decisions():
         identity = (decision['package'], tuple(decision['key']), decision['row'])
         if identity in review_decisions:
             raise ValueError(('Duplicate row review decision', identity))
-        if identity in overrides:
-            raise ValueError(('Row cannot be both promoted and excluded/retained', identity))
+        if identity in overrides or identity in row_translations:
+            raise ValueError(('Row cannot be both promoted/exact-translated and excluded/retained', identity))
         if decision.get('status') not in ('excluded', 'retain'):
             raise ValueError(('Unsupported row review decision status', identity, decision.get('status')))
         review_decisions[identity] = decision
@@ -104,6 +131,27 @@ def effective_records():
         promoted_row = dict(row)
         promoted_row['category'] = override['category']
         promoted_row['reason'] = override['reason']
+        promoted.append(promoted_row)
+        promoted_ids.add(identity)
+
+    for identity, translation in row_translations.items():
+        if identity in catalog_by_id:
+            row = catalog_by_id[identity]
+            if row['category'] != translation['category'] or (row['language'], row['en'], row['description']) != (translation['language'], translation['en'], translation['description']):
+                raise ValueError(('Extracted exact row translation mismatch', identity))
+            continue
+        row = review_by_id.get(identity)
+        if row is None:
+            raise ValueError(('Exact row translation missing from catalog and review snapshots', identity))
+        if row['category'] != 'review' or (row['language'], row['en'], row['description']) != (translation['language'], translation['en'], translation['description']):
+            raise ValueError((
+                'Pending exact row translation baseline mismatch', identity,
+                'source', (row['category'], row['language'], repr(row['en']), repr(row['description'])),
+                'translation', (translation['category'], translation['language'], repr(translation['en']), repr(translation['description'])),
+            ))
+        promoted_row = dict(row)
+        promoted_row['category'] = translation['category']
+        promoted_row['reason'] = translation['reason']
         promoted.append(promoted_row)
         promoted_ids.add(identity)
 
@@ -163,6 +211,10 @@ def load_maps():
 
 def assess():
     maps = load_maps()
+    exact_translations = {
+        (r['package'], tuple(r['key']), r['row']): r
+        for r in load_row_translations()
+    }
     records, review = effective_records()
     decisions = {}
     for row in json.loads((RUNTIME/'scope_decisions.json').read_text()):
@@ -170,28 +222,45 @@ def assess():
         if key in decisions:
             raise ValueError(('Duplicate scope decision', key))
         decisions[key] = row
-    groups = collections.defaultdict(dict)
+    group_statuses = collections.defaultdict(lambda: collections.defaultdict(list))
     remaining = []
     for row in records:
         category, en = row['category'], row['en']
+        identity = row_identity(row)
         decision = decisions.get((category,en))
-        if decision:
+        if identity in exact_translations:
+            status = 'translated'
+        elif decision:
             status = decision['status']
         elif en in maps.get(category,{}):
             status = 'translated'
         else:
             status = 'missing'
-        groups[category][en] = status
+        group_statuses[category][en].append(status)
         if status in ('missing','review'):
             remaining.append(dict(row,status=status))
+
+    categories = {}
+    for category, values in sorted(group_statuses.items()):
+        collapsed = {}
+        for en, statuses in values.items():
+            if any(s in ('missing','review') for s in statuses):
+                collapsed[en] = 'missing'
+            elif 'translated' in statuses:
+                collapsed[en] = 'translated'
+            else:
+                collapsed[en] = statuses[0]
+        categories[category] = dict(collections.Counter(collapsed.values()))
+
     inventory = json.loads((RUNTIME/'inventory.json').read_text())
     parse_errors = sum(len(x['errors']) for x in inventory)
     report = {
         'status': 'incomplete' if remaining or review or parse_errors else 'source-complete',
         'in_game_tested': False,
-        'scope': 'Cast localization metadata + exact same-resource English variants + reviewed exact row overrides. Remaining inherited rows are unresolved, not silently excluded.',
-        'categories': {c:dict(collections.Counter(rows.values())) for c,rows in sorted(groups.items())},
-        'translation_map_entries': sum(map(len,maps.values())),
+        'scope': 'Cast localization metadata + exact same-resource English variants + reviewed exact row overrides/translations. Remaining inherited rows are unresolved, not silently excluded.',
+        'categories': categories,
+        'translation_map_entries': sum(map(len,maps.values())) + len(exact_translations),
+        'exact_row_translation_entries': len(exact_translations),
         'candidate_rows': len(records),
         'untranslated_or_review_candidate_rows': len(remaining),
         'untagged_review_rows': len(review),

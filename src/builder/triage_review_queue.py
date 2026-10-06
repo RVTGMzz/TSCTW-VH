@@ -6,7 +6,7 @@ import gzip
 import json
 import re
 
-from validate_runtime import RUNTIME, row_identity, read_records, load_row_overrides, load_row_review_decisions
+from validate_runtime import RUNTIME, row_identity, read_records, load_row_overrides, load_row_review_decisions, load_row_translations
 
 VISIBLE_TYPES = {'STR#', 'CTSS', 'TTAs'}
 DESC_SIGNAL = re.compile(r'needs? translation|dialog|interaction|catalog|message|tooltip|menu|title', re.I)
@@ -66,11 +66,16 @@ def main():
         (r['package'], tuple(r['key']), r['row'])
         for r in load_row_review_decisions()
     }
+    row_translations = {
+        (r['package'], tuple(r['key']), r['row'])
+        for r in load_row_translations()
+    }
     rows = [
         r for r in read_context()
         if r.get('decision') == 'review'
         and row_identity(r) not in overrides
         and row_identity(r) not in review_decisions
+        and row_identity(r) not in row_translations
         and row_identity(r) not in catalog_ids
         and (r.get('en') or '').strip().lower() not in {'n/a', 'na'}
         and (not args.object_contains or any(args.object_contains.lower() in n.lower() for n in (r.get('object_names') or [])))
