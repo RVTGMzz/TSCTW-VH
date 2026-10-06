@@ -36,3 +36,6 @@ jobs:
 
       - name: Runtime source QA (coverage may remain incomplete)
         run: python src/builder/validate_runtime.py
+
+      - name: Print inherited review triage
+        run: python src/builder/triage_review_queue.py --groups 24 --samples 10

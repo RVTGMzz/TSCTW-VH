@@ -30,7 +30,8 @@ def effective_records():
     match the committed baseline. Already-extracted overrides are accepted when
     the same identity is already present in catalog with the target category.
     """
-    records, review = effective_records()
+    records = read_records('catalog')
+    review = read_records('review_queue')
     override_rows = json.loads((RUNTIME/'row_scope_overrides.json').read_text())
     overrides = {}
     for override in override_rows:
@@ -98,8 +99,7 @@ def load_maps():
 
 def assess():
     maps = load_maps()
-    records = read_records('catalog')
-    review = read_records('review_queue')
+    records, review = effective_records()
     decisions = {}
     for row in json.loads((RUNTIME/'scope_decisions.json').read_text()):
         key = row['category'], row['en']
