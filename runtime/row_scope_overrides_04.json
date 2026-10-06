@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136644813,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Counter - Tiki - New Mimic",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Castaway-owned Tiki counter CTSS; language 1 contains explicit object placeholder text requiring localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136644813,
+      2001,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Counter - Tiki - Description - New Mimic",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Castaway-owned Tiki counter CTSS; language 1 contains explicit object description placeholder requiring localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136644813,
+      2001,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Neo-Quartzo by Astro-Tops",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Same Castaway Tiki counter CTSS; language 2 retained unrelated base-game catalog text, so this exact locale row is localized to the Tiki counter identity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136644813,
+      2001,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Back in the days when quality wasn’t a dead-on-arrival hollow promise, the Neo-Quartzo pulled no punches as an affordable kitchen option for families in need of a fresh start. Pre-dating current trends in quartz technology by several decades, the Neo-Quartzo’s innovative use of vibro-compaction has created a scratch-free, stain resistant preparation surface.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Same Castaway Tiki counter CTSS; language 2 retained unrelated base-game description, so this exact locale row is localized to the Tiki counter identity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146245518,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Stock",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing Stock interaction on the Castaway contained bird cage; debug removal rows remain unpromoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146245518,
+      1,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Stock",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing Stock interaction on the Castaway contained bird cage; debug removal rows remain unpromoted."
+  }
+]
