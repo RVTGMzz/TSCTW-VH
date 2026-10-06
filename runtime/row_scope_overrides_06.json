@@ -1,0 +1,257 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137402225,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Toybox",
+    "description": "",
+    "reason": "Reviewed player-facing catalog row on ['CS - Toy Box']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137402225,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "There be toys there!",
+    "description": "",
+    "reason": "Reviewed player-facing catalog row on ['CS - Toy Box']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141489114,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "There is already a Penguin Party in progress.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed player-facing dialog row on ['CS - Potion - Penguin Party - Shaman Dummy']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141489114,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 2,
+    "en": "There is already a Penguin Party in progress.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed player-facing dialog row on ['CS - Potion - Penguin Party - Shaman Dummy']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143175573,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Piano Upright",
+    "description": "",
+    "reason": "Reviewed player-facing catalog row on ['Band - Piano - Grand - 0, 0', 'Band - Piano - Grand - 0, 1', 'Band - Piano - Grand - 0, 2 - Lead', 'Band - Piano - Grand - 1, 0', 'Band - Piano - Grand - 1, 1', 'Band - Piano - Grand - 1, 2', 'CS - Band - Piano - Grand']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143175573,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Bang, bang, rattle bing bang!  Gonna make my noise all day!",
+    "description": "",
+    "reason": "Reviewed player-facing catalog row on ['Band - Piano - Grand - 0, 0', 'Band - Piano - Grand - 0, 1', 'Band - Piano - Grand - 0, 2 - Lead', 'Band - Piano - Grand - 1, 0', 'Band - Piano - Grand - 1, 1', 'Band - Piano - Grand - 1, 2', 'CS - Band - Piano - Grand']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146065581,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "There is already a Penguin Party in progress.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed player-facing dialog row on ['CS - Potion - Penguin Party - Shaman Station']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146065581,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 2,
+    "en": "There is already a Penguin Party in progress.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed player-facing dialog row on ['CS - Potion - Penguin Party - Shaman Station']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142395691,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Translated",
+    "reason": "Reviewed player-facing menu row on ['CS - Sofa - Loveseat - Military', 'CS - Sofa - Loveseat - Military - 0, 0 - Lead', 'CS - Sofa - Loveseat - Military - 1, 0']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142819897,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Close Door",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed player-facing menu row on ['CS - Outdoor - Pyramid Door (use SofTuzu)', 'CS - Outdoor - Pyramid Temple Door - (0,0)', 'CS - Outdoor - Pyramid Temple Door - (0,1)', 'CS - Outdoor - Pyramid Temple Door - (0,2)', 'CS - Outdoor - Pyramid Temple Door - (0,3)', 'CS - Outdoor - Pyramid Temple Door - (1,0)', 'CS - Outdoor - Pyramid Temple Door - (1,1)', 'CS - Outdoor - Pyramid Temple Door - (1,2)', 'CS - Outdoor - Pyramid Temple Door - (1,3)', 'CS - Outdoor - Pyramid Temple Door - (2,0)', 'CS - Outdoor - Pyramid Temple Door - (2,1)', 'CS - Outdoor - Pyramid Temple Door - (2,2)', 'CS - Outdoor - Pyramid Temple Door - (2,3)', 'CS - Outdoor - Pyramid Temple Door - (3,0) Lead', 'CS - Outdoor - Pyramid Temple Door - (3,1)', 'CS - Outdoor - Pyramid Temple Door - (3,2)', 'CS - Outdoor - Pyramid Temple Door - (3,3)']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142819897,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Close Door",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed player-facing menu row on ['CS - Outdoor - Pyramid Door (use SofTuzu)', 'CS - Outdoor - Pyramid Temple Door - (0,0)', 'CS - Outdoor - Pyramid Temple Door - (0,1)', 'CS - Outdoor - Pyramid Temple Door - (0,2)', 'CS - Outdoor - Pyramid Temple Door - (0,3)', 'CS - Outdoor - Pyramid Temple Door - (1,0)', 'CS - Outdoor - Pyramid Temple Door - (1,1)', 'CS - Outdoor - Pyramid Temple Door - (1,2)', 'CS - Outdoor - Pyramid Temple Door - (1,3)', 'CS - Outdoor - Pyramid Temple Door - (2,0)', 'CS - Outdoor - Pyramid Temple Door - (2,1)', 'CS - Outdoor - Pyramid Temple Door - (2,2)', 'CS - Outdoor - Pyramid Temple Door - (2,3)', 'CS - Outdoor - Pyramid Temple Door - (3,0) Lead', 'CS - Outdoor - Pyramid Temple Door - (3,1)', 'CS - Outdoor - Pyramid Temple Door - (3,2)', 'CS - Outdoor - Pyramid Temple Door - (3,3)']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135877285,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Fruit Punch From Tap",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed player-facing menu row on ['CS - Food - Cauldron for Volcano Juice (Keg)', 'CS - Food - Volcano Juice Cauldron (Keg) - 0, 0', 'CS - Food - Volcano Juice Cauldron (Keg) - 0, 1 - Lead', 'CS - Food - Volcano Juice Cauldron (Keg) - 1, 0', 'CS - Food - Volcano Juice Cauldron (Keg) - 1, 1']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137407494,
+      1,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Feed Toddler",
+    "description": "!",
+    "reason": "Reviewed player-facing menu row on ['CS - High Chair - Native']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131774216,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Elixer of Life",
+    "description": "",
+    "reason": "Reviewed player-facing menu row on ['CS - Potion - Elixir of Life - Shaman Dummy']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134819493,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Reviewed player-facing menu row on ['CS - Sofa - Fancy', 'CS - Sofa - Fancy - 0, 0 - Lead', 'CS - Sofa - Fancy - 1, 0', 'CS - Sofa - Fancy - 2, 0']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139613201,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Reviewed player-facing menu row on ['CS - Sofa - MakeShift', 'CS - Sofa - MakeShift - 0, 0 - Lead', 'CS - Sofa - MakeShift - 1, 0', 'CS - Sofa - MakeShift - 2, 0']; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145871569,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Reviewed player-facing menu row on ['CS - Sofa - Survival', 'CS - Sofa - Survival - 0, 0 - Lead', 'CS - Sofa - Survival - 1, 0', 'CS - Sofa - Survival - 2, 0']; exact inherited row only."
+  }
+]
