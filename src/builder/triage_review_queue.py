@@ -111,7 +111,7 @@ def main():
                         'en': item.get('en'),
                         'description': item.get('description'),
                         'category': item.get('category'),
-                    }, ensure_ascii=False))
+                    }, ensure_ascii=True))
             review_context = [
                 item for item in read_context()
                 if item.get('package') == package and item.get('key', [None, None])[1] == key[1]
@@ -131,7 +131,7 @@ def main():
                         'category': item.get('category'),
                         'object_names': item.get('object_names'),
                         'shares_group_with_cast_text': item.get('shares_group_with_cast_text'),
-                    }, ensure_ascii=False))
+                    }, ensure_ascii=True))
         samples = sorted(group, key=lambda r: (-score(r), r['row']))[:args.samples]
         for row in samples:
             print(json.dumps({
@@ -143,7 +143,7 @@ def main():
                 'en': row['en'],
                 'description': row['description'],
                 'shares_group_with_cast_text': row['shares_group_with_cast_text'],
-            }, ensure_ascii=False))
+            }, ensure_ascii=True))
 
 
 if __name__ == '__main__':
