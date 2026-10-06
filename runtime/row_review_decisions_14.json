@@ -1,0 +1,122 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Swap Roles",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Choose to Run",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Swap Roles",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Choose to Run",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Swap Roles",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Choose to Run",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Swap Roles",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Choose to Run",
+    "description": "",
+    "reason": "Social-chase role-selection helper used by behavior routing, not player-facing text."
+  }
+]

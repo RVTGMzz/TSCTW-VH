@@ -1,0 +1,152 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Train to Pee",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Player-facing hyena/dog toilet-training action; Castaway hyenas retain dog/Pets training behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Trained to Pee",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Player-facing hyena/dog toilet-training action; Castaway hyenas retain dog/Pets training behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 does not have an owner.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 does not have an owner.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134578295,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 does not have an owner.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NeighborLocal:2 owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 does not have an owner.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145304265,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NeighborLocal:2 owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.",
+    "description": "",
+    "reason": "Player-facing ownership feedback for adoptable Castaway hyena/orangutan social chase behavior."
+  }
+]

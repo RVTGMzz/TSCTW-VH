@@ -70,5 +70,7 @@
   "You already have a pretty full lot! Would you still like to continue?": "Khu đất đang khá đông rồi! Bạn vẫn muốn tiếp tục chứ?",
   "%d Guests Maximum": "Tối đa %d khách",
   "%d Guest Allowed": "Cho phép %d khách",
-  "Missing some of your party guests? Whenever you send out an invite list, there's always the chance that some guests might not show up, but there's an even better chance of them not showing up if they don't like the host.": "Thiếu vài vị khách à? Mỗi lần gửi danh sách mời đều có khả năng ai đó không tới, và khả năng ấy còn cao hơn nếu họ không ưa chủ tiệc."
+  "Missing some of your party guests? Whenever you send out an invite list, there's always the chance that some guests might not show up, but there's an even better chance of them not showing up if they don't like the host.": "Thiếu vài vị khách à? Mỗi lần gửi danh sách mời đều có khả năng ai đó không tới, và khả năng ấy còn cao hơn nếu họ không ưa chủ tiệc.",
+  "$NeighborLocal:2 does not have an owner.": "$NeighborLocal:2 không có chủ.",
+  "$NeighborLocal:2 owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.": "Chủ của $NeighborLocal:2 là $FullNameLocal:3. Bạn có thể gọi cho $NeighborLocal:3 để báo rằng bạn đã tìm thấy $NeighborLocal:2."
 }
