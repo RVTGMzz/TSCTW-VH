@@ -1,0 +1,167 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Run",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk.../Normal",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk.../Happy",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk.../Mad",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk.../Sad",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134665070,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk.../Run",
+    "description": "!",
+    "reason": "Pirate Ship modular-stair portal/routing walk-style label; internal routing/animation action rather than a player-facing stair interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144931547,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gotta run, have a lot of stops to make.",
+    "description": "!Pizza: ",
+    "reason": "Base-game pizza-delivery service dialog residue; standard pizza delivery is not a Castaway Stories runtime service."
+  }
+]
