@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131856463,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Dismiss",
+    "description": "Maid: Both: \r\nNotes: Used to make service person leave the house. Appears when selected by adults only.",
+    "vi": "Cho về",
+    "reason": "NPC service interaction explicitly documented as making the service person leave; exact-row translation avoids changing other meanings of Dismiss."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131856463,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Fire",
+    "description": "Maid: Both: \r\nNotes: Used to end employment of service person. Appears when selected by adults only.",
+    "vi": "Sa thải",
+    "reason": "NPC service interaction explicitly documented as ending employment; exact-row translation avoids changing other meanings of Fire."
+  }
+]
