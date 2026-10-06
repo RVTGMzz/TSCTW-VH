@@ -107,3 +107,6 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Ch13_" --groups 80 --samples 120
           python src/builder/triage_review_queue.py --object-contains "CS - Stereo - Jukebox" --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2135177202 --groups 20 --samples 80
+          python src/builder/triage_review_queue.py --object-contains "Controller - Age" --groups 20 --samples 320
+          python src/builder/triage_review_queue.py --object-contains "Dartboard" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "NPC - Unique - Grim Reaper" --groups 20 --samples 160
