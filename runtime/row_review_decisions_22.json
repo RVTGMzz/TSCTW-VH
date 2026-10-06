@@ -1,0 +1,1397 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hibernate for.../$Local:0 Days",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hibernate for.../A Week",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hibernate for.../A Month",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pregnancy (Demo)",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hibernate for.../$Local:0 Days",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hibernate for.../A Week",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hibernate for.../A Month",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135177202,
+      302,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pregnancy (Demo)",
+    "description": "!",
+    "reason": "Hibernate/Pregnancy demo commands are development/debug interactions, not normal Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140402961,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hail!",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140402961,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Struck By Lightning",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140402961,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Struck By Lightning",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140402961,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hail!",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140402961,
+      131,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Struck By Lightning",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140402961,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Struck By Lightning",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "MAKE UNSELECTABLE",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "MAKE SELECTABLE",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "MAKE UNSELECTABLE",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "MAKE SELECTABLE",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*MAKE SELECTABLE",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Make Unselectable",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "*MAKE SELECTABLE",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137513243,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Make Unselectable",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135425375,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135425375,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135425375,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135425375,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135577376,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135577376,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135577376,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135577376,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137975152,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137975152,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137975152,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137975152,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138809540,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138809540,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138809540,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138809540,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139706469,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Chewinator by ChompCo",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139706469,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Is your dog eating the seating? Biting the lighting? Masticating the fence-and-gating? While the rhyming schemes here at ChompCo are a bit of a stretch, you can rest assured there’ll be no stretching of our products. At ChompCo, our chew toys are made of patented EverBite polymer, the perfect marriage of advanced plastics and ham. EverBite polymer is guaranteed to resist dents, scuffs and loss of shape. Also, it has ham in it. Dogs love ham.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139706469,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Chewinator by ChompCo",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139706469,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Is your dog eating the seating? Biting the lighting? Masticating the fence-and-gating? While the rhyming schemes here at ChompCo are a bit of a stretch, you can rest assured there’ll be no stretching of our products. At ChompCo, our chew toys are made of patented EverBite polymer, the perfect marriage of advanced plastics and ham. EverBite polymer is guaranteed to resist dents, scuffs and loss of shape. Also, it has ham in it. Dogs love ham.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139975894,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139975894,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139975894,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139975894,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144159314,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Chewinator by ChompCo",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144159314,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Is your dog eating the seating? Biting the lighting? Masticating the fence-and-gating? While the rhyming schemes here at ChompCo are a bit of a stretch, you can rest assured there’ll be no stretching of our products. At ChompCo, our chew toys are made of patented EverBite polymer, the perfect marriage of advanced plastics and ham. EverBite polymer is guaranteed to resist dents, scuffs and loss of shape. Also, it has ham in it. Dogs love ham.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144159314,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Chewinator by ChompCo",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144159314,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Is your dog eating the seating? Biting the lighting? Masticating the fence-and-gating? While the rhyming schemes here at ChompCo are a bit of a stretch, you can rest assured there’ll be no stretching of our products. At ChompCo, our chew toys are made of patented EverBite polymer, the perfect marriage of advanced plastics and ham. EverBite polymer is guaranteed to resist dents, scuffs and loss of shape. Also, it has ham in it. Dogs love ham.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Invisible/place-marker object carries stale cloned catalog text; marker is not player-facing catalog content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144590341,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144590341,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144590341,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144590341,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131452403,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scoot Out Half.../Mirrored",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131452403,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scoot Out Half.../Unmirrored",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131452403,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "asdf",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131452403,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scoot Out Half.../Unmirrored",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146089658,
+      1,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Lightning bolt - Change clothes",
+    "description": "!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146089658,
+      1,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "force lightning bolt - no change clothes",
+    "description": "!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146089658,
+      1,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Lightning bolt - Change clothes",
+    "description": "!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146089658,
+      1,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "force lightning bolt - no change clothes",
+    "description": "!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133111579,
+      130,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Portable-potty Break/dirty-state control row is a hidden maintenance helper, not a player-facing action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140408621,
+      303,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "CT - Set STR/LTR",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140408621,
+      303,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "CT - Set Villager Status to Finished",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140408621,
+      303,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": ":Function - Reload Active nID/ID",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140408621,
+      303,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "CT - Aspyr - Route to Portal",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140408621,
+      303,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Function - Refresh Stack's Look",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139480016,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tuneriffic",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139480016,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tuneriffic",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139480016,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pts - Original:  $Local:0\rPts - Current:  $Local:1\rPts - Max:  $Local:2\rGrp Meal Count:  $Local:3\r\rPrep/Cook Obj:  \r$NameLocal:9\rObj Quality: $Local:4\rObj Time Mod:  $Local:5\rChef Skill:  $Local:6\rPrep Type:  $Local:7\rCook Types:  $Local:8\r\rState:  $Local:10\rState Flags:  $Local:11",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139480016,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pts - Original:  $Local:0\rPts - Current:  $Local:1\rPts - Max:  $Local:2\rGrp Meal Count:  $Local:3\r\rPrep/Cook Obj:  \r$NameLocal:9\rObj Quality: $Local:4\rObj Time Mod:  $Local:5\rChef Skill:  $Local:6\rPrep Type:  $Local:7\rCook Types:  $Local:8\r\rState:  $Local:10\rState Flags:  $Local:11",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140402961,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Boom...Lightning!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140402961,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Boom...Lightning!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Castaway debug/test controller/object row; not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133293018,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Count Tokens",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133293018,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Count Tokens",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136847786,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Dynamic Menu helper row on stove resource; runtime-generated helper label is not shown as player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136847786,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Dynamic Menu helper row on stove resource; runtime-generated helper label is not shown as player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145288668,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Count Tokens",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145288668,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Count Tokens",
+    "description": "!!!!!!!!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Loops",
+    "description": "",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137047959,
+      2,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144394938,
+      4,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144394938,
+      4,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unused - Lock",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139480016,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Temp",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Reviewed exact inherited row is developer/debug/helper/state text rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144812865,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Dynamic Menu helper row on stove resource; runtime-generated helper label is not shown as player-facing text."
+  }
+]
