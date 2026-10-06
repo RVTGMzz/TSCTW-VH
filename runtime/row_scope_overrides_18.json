@@ -1,0 +1,212 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Alas, it looks as though the great equalizer has taken its toll, as everyone in this household appears to have died. But there's no reason to allow this now empty house to remain empty! You can move in a new family. That's the way your Sims would have wanted it, don't you think?",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "The Finale",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n Header for dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Death. What can really be said about Death? Well, for one, he's a Taurus. He also enjoys long and windy walks on the beach. He describes himself as a horse lover, and prefers a lady on a pale horse to one in an overpriced SUV. But he notes that any interested parties should be gravely serious about starting new relationships, and that bringing along three friends for the other members of the apocalypse would be a preferable first date environment.",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 2,
+    "en": "Alas, it looks as though the great equalizer has taken its toll, as everyone in this household appears to have died. But there's no reason to allow this now empty house to remain empty! You can move in a new family. That's the way your Sims would have wanted it, don't you think?",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 2,
+    "en": "The Finale",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n Header for dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 2,
+    "en": "Death. What can really be said about Death? Well, for one, he's a Taurus. He also enjoys long and windy walks on the beach. He describes himself as a horse lover, and prefers a lady on a pale horse to one in an overpriced SUV. But he notes that any interested parties should be gravely serious about starting new relationships, and that bringing along three friends for the other members of the apocalypse would be a preferable first date environment.",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "Well, it looks like all of your Sims have died on the lot.  Now what?  Well, you can always exit this lot without saving.  That way, the next time you load this lot, you will return to your last save point.  Or, you can wait until the ghost of your beloved Sim returns home.  The choice is yours.",
+    "description": "The Sims2 EP3 - Batch 10\nneeds re-translation",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 2,
+    "en": "Well, it looks like all of your Sims have died on the lot.  Now what?  Well, you can always exit this lot without saving.  That way, the next time you load this lot, you will return to your last save point.  Or, you can wait until the ghost of your beloved Sim returns home.  The choice is yours.",
+    "description": "The Sims2 EP3 - Batch 10\nneeds re-translation",
+    "reason": "Player-facing death/final-household dialog from Grim Reaper runtime resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917763,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Expire",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nSim dying when Grim Reaper comes.",
+    "reason": "Player-facing Grim Reaper death/plead interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917763,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Plead for Loved One",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n",
+    "reason": "Player-facing Grim Reaper death/plead interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "You've reached the maximum number of skill points!",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing skill feedback dialog retained by Castaway runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of Body skill from swimming in the pool!",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing skill feedback dialog retained by Castaway runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 2,
+    "en": "You've reached the maximum number of skill points!",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing skill feedback dialog retained by Castaway runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of Body skill from swimming in the pool!",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing skill feedback dialog retained by Castaway runtime."
+  }
+]

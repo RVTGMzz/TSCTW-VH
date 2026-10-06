@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! You've gained a skill point!",
+    "description": "!!!This was the generic skill dialog. Should not see in game.",
+    "reason": "Badge Tracker source explicitly marks this generic skill dialog as not shown in game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! You've gained a Cleaning skill point!",
+    "description": "!!!This was the generic skill dialog. Should not see in game.",
+    "reason": "Badge Tracker source explicitly marks this generic skill dialog as not shown in game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134917763,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Grim Reaper",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n",
+    "reason": "Hidden NPC CTSS/catalog metadata for Grim Reaper, not a player-facing catalog object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134917763,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Education: BA Human Development, University of Hawaii\nFavorite Band: Styx\nShort Piers: I like it when you take long walks.\n",
+    "description": "",
+    "reason": "Hidden NPC CTSS/catalog metadata for Grim Reaper, not a player-facing catalog object."
+  }
+]
