@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145233707,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Which pet would you like?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit The Sims 2 EP6/Pets pet-purchase dialog residue; Castaway Stories has no standard Pets pet-store purchase flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145233707,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, $Me doesn't have enough Simoleons to buy a pet!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit The Sims 2 EP6/Pets pet-purchase dialog residue; Castaway Stories has no standard Pets pet-store purchase flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145233707,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, $Me doesn't have enough Simoleons to buy food for $NameLocal:1!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit The Sims 2 EP6/Pets pet-purchase dialog residue; Castaway Stories has no standard Pets pet-store purchase flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145233707,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Which pet would you like?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit The Sims 2 EP6/Pets pet-purchase dialog residue; Castaway Stories has no standard Pets pet-store purchase flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145233707,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, $Me doesn't have enough Simoleons to buy a pet!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit The Sims 2 EP6/Pets pet-purchase dialog residue; Castaway Stories has no standard Pets pet-store purchase flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145233707,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, $Me doesn't have enough Simoleons to buy food for $NameLocal:1!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit The Sims 2 EP6/Pets pet-purchase dialog residue; Castaway Stories has no standard Pets pet-store purchase flow."
+  }
+]
