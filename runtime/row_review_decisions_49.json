@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136745598,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snapfu",
+    "description": "",
+    "reason": "Direct CS - Controller - Food Resource internal NPC/controller command; not a player-facing interaction label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136745598,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make NPC",
+    "description": "!",
+    "reason": "Direct CS - Controller - Food Resource internal NPC/controller command; not a player-facing interaction label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136745598,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Schedule NPC",
+    "description": "",
+    "reason": "Direct CS - Controller - Food Resource internal NPC/controller command; not a player-facing interaction label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136745598,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire NPC",
+    "description": "",
+    "reason": "Direct CS - Controller - Food Resource internal NPC/controller command; not a player-facing interaction label."
+  }
+]
