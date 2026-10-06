@@ -232,3 +232,10 @@ Promoted 18 exact rows: four Birthday Cake interactions, four Birthday Cake cata
 Promoted 55 exact inherited rows after the Birthday/Potty/High-Chair sweep. Batch A: 30 catalog rows / 17 new catalog mappings for Market Basket, Xylophone, Changing Table, Diary, Teddy Bear, Book, bowls/plate, Baby Bottle, Birthday Cake Slice and Peg Box. Batch B: 25 rows for Toy Box, Diaper, Recycle, Veg Out and documented View actions on pickup/accessory objects; two new menu and three new catalog mappings. Keep obviously mismatched inherited text (for example Cup O' Ramen under Tropical Ribs/Pineapple Surprise) and maintenance/debug/expansion residue under review.
 
 Effective totals: 4,454 maps, 7,650 candidates, 0 missing/review candidate rows, 37,537 inherited review rows, 0 parse errors. Override guards: 982 total = 645 menu, 271 dialog, 56 catalog, 9 story, 1 tutorial. Package QA remains stale; selector runtime source remains unverified; no v0.8 TEST has been released.
+
+
+## Latest checkpoint — 2026-10-06 Shaman/crafting + Examine trace
+
+Added 22 exact rows for Shaman potion Browse interactions and two Castaway crafting stations, reusing existing menu translations. Exact-value tracing then resolved the reported Examine residue: 11 duplicate light/torch menu rows were promoted because their same-group Cast Menu COM counterparts are already selected. The remaining Use row is a base-game bush urination interaction in a collided instance with pet-cage Cast text and is intentionally left under review until ownership/reachability can be proven.
+
+Effective totals: 4,454 mappings, 7,683 candidates, 0 missing/review candidate rows, 37,504 inherited review rows, 0 parse errors. Exact override guards: 1,015 total. Package QA remains stale; selector runtime source remains unverified; no v0.8 TEST has been released.

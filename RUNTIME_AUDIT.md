@@ -259,3 +259,10 @@ Effective totals are 4,432 translation-map entries, 7,595 candidate rows, zero m
 Added 55 exact source rows in two passes. Catalog coverage expanded across clearly owned Castaway objects (market basket, toys, changing table, diary/book, dishes, baby bottle, birthday-cake slice, toy box and diaper), while the interaction pass added Recycle, Veg Out and explicitly documented View rows on Castaway pickup/accessory objects. Mismatched inherited rows such as Cup O' Ramen under unrelated food-stand objects were deliberately left under review.
 
 Current effective source totals are 4,454 translation-map entries, 7,650 candidate rows, 962 translated menu values, 933 translated catalog values, zero missing/review candidate decisions and 37,537 inherited review rows. Parser errors are zero. Package-writer QA still predates the latest exact-row promotions; selector runtime source and in-game verification remain outstanding.
+
+
+## Sweep continuation — Shaman/crafting + exact Examine/Use trace (2026-10-06)
+
+Promoted 22 exact Shaman/crafting interaction rows using existing Vietnamese mappings, then traced the two reported English leftovers by exact value. Examine resolves to a duplicate light/torch resource variant backed by same-group Cast Menu COM rows; 11 matching functional rows were promoted. Use resolves to an inherited bush urination interaction with no owner and a collided group containing unrelated pet-cage Cast text, so it remains unresolved pending stronger runtime ownership evidence.
+
+Effective totals: 4,454 maps, 7,683 candidate rows, 0 missing/review candidate rows, 37,504 inherited review rows, 0 parse errors. Package-writer QA is still stale and selector runtime source remains unverified.

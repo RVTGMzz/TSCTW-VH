@@ -45,5 +45,3 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Birthday Cake" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Potty Chair" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - High Chair - Plastic" --groups 4 --samples 100
-          python src/builder/triage_review_queue.py --value-exact "Examine" --groups 100 --samples 20
-          python src/builder/triage_review_queue.py --value-exact "Use" --groups 100 --samples 20
