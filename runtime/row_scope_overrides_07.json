@@ -1,0 +1,47 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141121409,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Restock",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Player-facing Restock interaction on Castaway fridge; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141121409,
+      128,
+      0
+    ],
+    "row": 53,
+    "category": "menu",
+    "language": 2,
+    "en": "Restock",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Player-facing Restock interaction on Castaway fridge; exact inherited row only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142986264,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!The Sims 2 - Translated",
+    "reason": "Player-facing Veg Out interaction on Castaway Rock Couch; exact inherited row only."
+  }
+]

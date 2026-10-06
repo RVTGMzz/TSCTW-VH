@@ -1,0 +1,2417 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Flies",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Drown",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Electrocution",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Starvation",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Fire",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Create Ghost",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Old Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Disease",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Flies",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Fright",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Satelite",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Flies",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Drown",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Electrocution",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Starvation",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Fire",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Create Ghost",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Old Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Disease",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Flies",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Fright",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Satelite",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Break-Repair",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Reach Test - Close",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Reach Test - Far",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug.../Walk Like a Ghost",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug.../Remove Grave Marker",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug.../Set Family",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mourn DEBUG",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Break-Repair",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Reach Test - Close",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Reach Test - Far",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug.../Walk Like a Ghost",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug.../Remove Grave Marker",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug.../Set Family",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135488312,
+      129,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mourn DEBUG",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Urn - Ghost']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Saplings",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bloom",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wilted",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Null",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sprigs",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Seeds",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Saplings",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bloom",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wilted",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Null",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sprigs",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Seeds",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Drop Test",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144265092,
+      1,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Drop Test",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Hydroponic Garden']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set - Fail",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set - Off",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set - On",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set - Success",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set - Fail",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set - Off",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set - On",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set - Success",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Click",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131822239,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Click",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Singing Stone', 'CS - Outdoor - Singing Stone (0,0)', 'CS - Outdoor - Singing Stone (0,1)', 'CS - Outdoor - Singing Stone (1,0) Lead', 'CS - Outdoor - Singing Stone (1,1)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Heatstroke",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Freeze",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Motive Distress",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Allergies!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Allergies!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Heatstroke",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Freeze",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go Home",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Motive Distress",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Allergies!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Allergies!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143166966,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Update Overlay",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143166966,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I don't think I can change my appearance right now. There's just too much hair. Oh, the hair!",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143166966,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 warmth inc: $Local:1 total: $Local:3",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143166966,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "I don't think I can change my appearance right now. There's just too much hair. Oh, the hair!",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143166966,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 warmth inc: $Local:1 total: $Local:3",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Controller - Temperature Receptivity']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Throw Up Test",
+    "description": "!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Clogged State.../Clogged",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Clogged State.../Unclogged",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Clogged State.../Clogged",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Clogged State.../Unclogged",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outdoor Hut', 'CS - Toilet - Outdoor Hut - 0, 0', 'CS - Toilet - Outdoor Hut - 0, 1', 'CS - Toilet - Outdoor Hut - 1, 0', 'CS - Toilet - Outdoor Hut - 1, 1 - Lead', 'CS - Toilet - Outdoor Hut - 2, 0', 'CS - Toilet - Outdoor Hut - 2, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134723014,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Accept",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134723014,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Reject",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134723014,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Intense",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134723014,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Warm",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144813064,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Accept",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144813064,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Reject",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144813064,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Intense",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144813064,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Warm",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137853971,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pinged the Emitter",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit Survival']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137853971,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pinged the Emitter",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit Survival']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145603030,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pinged the Emitter",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145603030,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pinged the Emitter",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139502280,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Stove - Native', 'CS - Stove - Native - 0, 0', 'CS - Stove - Native - 0, 1 - Lead']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139502280,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Stove - Native', 'CS - Stove - Native - 0, 0', 'CS - Stove - Native - 0, 1 - Lead']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140030627,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Chair - Compy Rock', 'CS - Chair - Compy Rock 0,0', 'CS - Chair - Compy Rock 0,1', 'CS - Chair - Compy Rock 1,0', 'CS - Chair - Compy Rock 1,1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140030627,
+      129,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Find a Snack",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Chair - Compy Rock', 'CS - Chair - Compy Rock 0,0', 'CS - Chair - Compy Rock 0,1', 'CS - Chair - Compy Rock 1,0', 'CS - Chair - Compy Rock 1,1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out of the Way",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Autumn Leaf Pile', 'Leaf Pile 0,0', 'Leaf Pile 0,1 - Lead', 'Leaf Pile 1,0', 'Leaf Pile 1,1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394045,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out of the Way",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Autumn Leaf Pile', 'Leaf Pile 0,0', 'Leaf Pile 0,1 - Lead', 'Leaf Pile 1,0', 'Leaf Pile 1,1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145018910,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Stove - Salvage', 'CS - Stove - Salvage - 0, 0', 'CS - Stove - Salvage - 0, 1 - Lead']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145018910,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Stove - Salvage', 'CS - Stove - Salvage - 0, 0', 'CS - Stove - Salvage - 0, 1 - Lead']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146189953,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Bookcase']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146189953,
+      1,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Reviewed exact inherited row on ['CS - Career - Bookcase']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146245518,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "DBG - Remove Pet",
+    "description": "!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Pet - Contained Bird Cage - 0, 0 - Lead', 'CS - Pet - Contained Bird Cage - 1, 0', 'CS - Pet - Contained Pet - Bird Cage']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146245518,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "DBG - Remove Pet",
+    "description": "!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Pet - Contained Bird Cage - 0, 0 - Lead', 'CS - Pet - Contained Bird Cage - 1, 0', 'CS - Pet - Contained Pet - Bird Cage']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138581519,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['Bar - Island - Tiki - 0, 0 - Lead', 'Bar - Island - Tiki - 1, 0', 'CS - Bar - Island - Tiki']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138581519,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*DEBUG - Clean Up",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['Bar - Island - Tiki - 0, 0 - Lead', 'Bar - Island - Tiki - 1, 0', 'CS - Bar - Island - Tiki']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138581519,
+      129,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "*DEBUG - Clean Up",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['Bar - Island - Tiki - 0, 0 - Lead', 'Bar - Island - Tiki - 1, 0', 'CS - Bar - Island - Tiki']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145540120,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bar - Refreshment Stand', 'CS - Bar - Refreshment Stand - 0, 0 - Lead', 'CS - Bar - Refreshment Stand - 1, 0']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145540120,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*DEBUG - Clean Up",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bar - Refreshment Stand', 'CS - Bar - Refreshment Stand - 0, 0 - Lead', 'CS - Bar - Refreshment Stand - 1, 0']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145540120,
+      129,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "*DEBUG - Clean Up",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bar - Refreshment Stand', 'CS - Bar - Refreshment Stand - 0, 0 - Lead', 'CS - Bar - Refreshment Stand - 1, 0']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131822157,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite Description (I don't think it needs a description as it isn't a catalog object).",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Raft Parts - Accessory - Rudder']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133031360,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite Description (I don't think it needs a description as it isn't a catalog object).",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Raft Parts - Accessory - Warning Totem Mast (prop)']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133700971,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite Description (I don't think it needs a description as it isn't a catalog object).",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Raft Parts - Accessory - Vintage Sail']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139365348,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite Description (I don't think it needs a description as it isn't a catalog object).",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Raft Parts - Accessory - Grass Sail']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141482883,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite Description (I don't think it needs a description as it isn't a catalog object).",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Raft Parts - Accessory - Bamboo Piece']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132172869,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - TempleRuins Open', 'CS - Portal - TempleRuins Open - 0, 0', 'CS - Portal - TempleRuins Open - 0, 1', 'CS - Portal - TempleRuins Open - 0, 2', 'CS - Portal - TempleRuins Open - 0, 3', 'CS - Portal - TempleRuins Open - 0, 4', 'CS - Portal - TempleRuins Open - 0, 5 - Lead', 'CS - Portal - TempleRuins Open - 1, 0', 'CS - Portal - TempleRuins Open - 1, 1', 'CS - Portal - TempleRuins Open - 1, 2', 'CS - Portal - TempleRuins Open - 1, 3', 'CS - Portal - TempleRuins Open - 1, 4', 'CS - Portal - TempleRuins Open - 1, 5', 'CS - Portal - TempleRuins Open - 10, 0', 'CS - Portal - TempleRuins Open - 10, 1', 'CS - Portal - TempleRuins Open - 10, 2', 'CS - Portal - TempleRuins Open - 10, 3', 'CS - Portal - TempleRuins Open - 10, 4', 'CS - Portal - TempleRuins Open - 10, 5', 'CS - Portal - TempleRuins Open - 2, 0', 'CS - Portal - TempleRuins Open - 2, 1', 'CS - Portal - TempleRuins Open - 2, 2', 'CS - Portal - TempleRuins Open - 2, 3', 'CS - Portal - TempleRuins Open - 2, 4', 'CS - Portal - TempleRuins Open - 2, 5', 'CS - Portal - TempleRuins Open - 3, 0', 'CS - Portal - TempleRuins Open - 3, 1', 'CS - Portal - TempleRuins Open - 3, 2', 'CS - Portal - TempleRuins Open - 3, 3', 'CS - Portal - TempleRuins Open - 3, 4', 'CS - Portal - TempleRuins Open - 3, 5', 'CS - Portal - TempleRuins Open - 4, 0', 'CS - Portal - TempleRuins Open - 4, 1', 'CS - Portal - TempleRuins Open - 4, 2', 'CS - Portal - TempleRuins Open - 4, 3', 'CS - Portal - TempleRuins Open - 4, 4', 'CS - Portal - TempleRuins Open - 4, 5', 'CS - Portal - TempleRuins Open - 5, 0', 'CS - Portal - TempleRuins Open - 5, 1', 'CS - Portal - TempleRuins Open - 5, 2', 'CS - Portal - TempleRuins Open - 5, 3', 'CS - Portal - TempleRuins Open - 5, 4', 'CS - Portal - TempleRuins Open - 5, 5', 'CS - Portal - TempleRuins Open - 6, 0', 'CS - Portal - TempleRuins Open - 6, 1', 'CS - Portal - TempleRuins Open - 6, 2', 'CS - Portal - TempleRuins Open - 6, 3', 'CS - Portal - TempleRuins Open - 6, 4', 'CS - Portal - TempleRuins Open - 6, 5', 'CS - Portal - TempleRuins Open - 7, 0', 'CS - Portal - TempleRuins Open - 7, 1', 'CS - Portal - TempleRuins Open - 7, 2', 'CS - Portal - TempleRuins Open - 7, 3', 'CS - Portal - TempleRuins Open - 7, 4', 'CS - Portal - TempleRuins Open - 7, 5', 'CS - Portal - TempleRuins Open - 8, 0', 'CS - Portal - TempleRuins Open - 8, 1', 'CS - Portal - TempleRuins Open - 8, 2', 'CS - Portal - TempleRuins Open - 8, 3', 'CS - Portal - TempleRuins Open - 8, 4', 'CS - Portal - TempleRuins Open - 8, 5', 'CS - Portal - TempleRuins Open - 9, 0', 'CS - Portal - TempleRuins Open - 9, 1', 'CS - Portal - TempleRuins Open - 9, 2', 'CS - Portal - TempleRuins Open - 9, 3', 'CS - Portal - TempleRuins Open - 9, 4', 'CS - Portal - TempleRuins Open - 9, 5']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132619152,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Tikis', 'CS - Portal - Tikis - 0, 0', 'CS - Portal - Tikis - 0, 1 - Lead', 'CS - Portal - Tikis - 1, 0', 'CS - Portal - Tikis - 1, 1', 'CS - Portal - Tikis - 2, 0', 'CS - Portal - Tikis - 2, 1', 'CS - Portal - Tikis - 3, 0', 'CS - Portal - Tikis - 3, 1', 'CS - Portal - Tikis - 4, 0', 'CS - Portal - Tikis - 4, 1', 'CS - Portal - Tikis - 5, 0', 'CS - Portal - Tikis - 5, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133215533,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Door - House of Tuzu', 'CS - Door - House of Tuzu - 0, 0', 'CS - Door - House of Tuzu - 0, 1', 'CS - Door - House of Tuzu - 0, 2', 'CS - Door - House of Tuzu - 0, 3', 'CS - Door - House of Tuzu - 0, 4', 'CS - Door - House of Tuzu - 0, 5 - Lead', 'CS - Door - House of Tuzu - 1, 0', 'CS - Door - House of Tuzu - 1, 1', 'CS - Door - House of Tuzu - 1, 2', 'CS - Door - House of Tuzu - 1, 3', 'CS - Door - House of Tuzu - 1, 4', 'CS - Door - House of Tuzu - 1, 5', 'CS - Door - House of Tuzu - 10, 0', 'CS - Door - House of Tuzu - 10, 1', 'CS - Door - House of Tuzu - 10, 2', 'CS - Door - House of Tuzu - 10, 3', 'CS - Door - House of Tuzu - 10, 4', 'CS - Door - House of Tuzu - 10, 5', 'CS - Door - House of Tuzu - 2, 0', 'CS - Door - House of Tuzu - 2, 1', 'CS - Door - House of Tuzu - 2, 2', 'CS - Door - House of Tuzu - 2, 3', 'CS - Door - House of Tuzu - 2, 4', 'CS - Door - House of Tuzu - 2, 5', 'CS - Door - House of Tuzu - 3, 0', 'CS - Door - House of Tuzu - 3, 1', 'CS - Door - House of Tuzu - 3, 2', 'CS - Door - House of Tuzu - 3, 3', 'CS - Door - House of Tuzu - 3, 4', 'CS - Door - House of Tuzu - 3, 5', 'CS - Door - House of Tuzu - 4, 0', 'CS - Door - House of Tuzu - 4, 1', 'CS - Door - House of Tuzu - 4, 2', 'CS - Door - House of Tuzu - 4, 3', 'CS - Door - House of Tuzu - 4, 4', 'CS - Door - House of Tuzu - 4, 5', 'CS - Door - House of Tuzu - 5, 0', 'CS - Door - House of Tuzu - 5, 1', 'CS - Door - House of Tuzu - 5, 2', 'CS - Door - House of Tuzu - 5, 3', 'CS - Door - House of Tuzu - 5, 4', 'CS - Door - House of Tuzu - 5, 5', 'CS - Door - House of Tuzu - 6, 0', 'CS - Door - House of Tuzu - 6, 1', 'CS - Door - House of Tuzu - 6, 2', 'CS - Door - House of Tuzu - 6, 3', 'CS - Door - House of Tuzu - 6, 4', 'CS - Door - House of Tuzu - 6, 5', 'CS - Door - House of Tuzu - 7, 0', 'CS - Door - House of Tuzu - 7, 1', 'CS - Door - House of Tuzu - 7, 2', 'CS - Door - House of Tuzu - 7, 3', 'CS - Door - House of Tuzu - 7, 4', 'CS - Door - House of Tuzu - 7, 5', 'CS - Door - House of Tuzu - 8, 0', 'CS - Door - House of Tuzu - 8, 1', 'CS - Door - House of Tuzu - 8, 2', 'CS - Door - House of Tuzu - 8, 3', 'CS - Door - House of Tuzu - 8, 4', 'CS - Door - House of Tuzu - 8, 5', 'CS - Door - House of Tuzu - 9, 0', 'CS - Door - House of Tuzu - 9, 1', 'CS - Door - House of Tuzu - 9, 2', 'CS - Door - House of Tuzu - 9, 3', 'CS - Door - House of Tuzu - 9, 4', 'CS - Door - House of Tuzu - 9, 5']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137983561,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Bone', 'CS - Portal - Bone - 0, 0', 'CS - Portal - Bone - 0, 1', 'CS - Portal - Bone - 0, 2', 'CS - Portal - Bone - 0, 3', 'CS - Portal - Bone - 0, 4', 'CS - Portal - Bone - 1, 0', 'CS - Portal - Bone - 1, 1', 'CS - Portal - Bone - 1, 2', 'CS - Portal - Bone - 1, 3', 'CS - Portal - Bone - 1, 4', 'CS - Portal - Bone - 2, 0', 'CS - Portal - Bone - 2, 1', 'CS - Portal - Bone - 2, 2', 'CS - Portal - Bone - 2, 3', 'CS - Portal - Bone - 2, 4', 'CS - Portal - Bone - 3, 0', 'CS - Portal - Bone - 3, 1', 'CS - Portal - Bone - 3, 2', 'CS - Portal - Bone - 3, 3', 'CS - Portal - Bone - 3, 4', 'CS - Portal - Bone - 4, 0', 'CS - Portal - Bone - 4, 1', 'CS - Portal - Bone - 4, 2', 'CS - Portal - Bone - 4, 3', 'CS - Portal - Bone - 4, 4', 'CS - Portal - Bone - 5, 0', 'CS - Portal - Bone - 5, 1', 'CS - Portal - Bone - 5, 2', 'CS - Portal - Bone - 5, 3', 'CS - Portal - Bone - 5, 4', 'CS - Portal - Bone - 6, 0', 'CS - Portal - Bone - 6, 1', 'CS - Portal - Bone - 6, 2', 'CS - Portal - Bone - 6, 3', 'CS - Portal - Bone - 6, 4', 'CS - Portal - Bone - 7, 0', 'CS - Portal - Bone - 7, 1', 'CS - Portal - Bone - 7, 2', 'CS - Portal - Bone - 7, 3', 'CS - Portal - Bone - 7, 4']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139109903,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Volcanic Rock', 'CS - Portal - Volcanic Rock - 0, 0', 'CS - Portal - Volcanic Rock - 0, 1', 'CS - Portal - Volcanic Rock - 0, 2', 'CS - Portal - Volcanic Rock - 0, 3', 'CS - Portal - Volcanic Rock - 0, 4', 'CS - Portal - Volcanic Rock - 0, 5', 'CS - Portal - Volcanic Rock - 0, 6', 'CS - Portal - Volcanic Rock - 0, 7 - Lead', 'CS - Portal - Volcanic Rock - 1, 0', 'CS - Portal - Volcanic Rock - 1, 1', 'CS - Portal - Volcanic Rock - 1, 2', 'CS - Portal - Volcanic Rock - 1, 3', 'CS - Portal - Volcanic Rock - 1, 4', 'CS - Portal - Volcanic Rock - 1, 5', 'CS - Portal - Volcanic Rock - 1, 6', 'CS - Portal - Volcanic Rock - 1, 7', 'CS - Portal - Volcanic Rock - 10, 0', 'CS - Portal - Volcanic Rock - 10, 1', 'CS - Portal - Volcanic Rock - 10, 2', 'CS - Portal - Volcanic Rock - 10, 3', 'CS - Portal - Volcanic Rock - 10, 4', 'CS - Portal - Volcanic Rock - 10, 5', 'CS - Portal - Volcanic Rock - 10, 6', 'CS - Portal - Volcanic Rock - 10, 7', 'CS - Portal - Volcanic Rock - 11, 0', 'CS - Portal - Volcanic Rock - 11, 1', 'CS - Portal - Volcanic Rock - 11, 2', 'CS - Portal - Volcanic Rock - 11, 3', 'CS - Portal - Volcanic Rock - 11, 4', 'CS - Portal - Volcanic Rock - 11, 5', 'CS - Portal - Volcanic Rock - 11, 6', 'CS - Portal - Volcanic Rock - 11, 7', 'CS - Portal - Volcanic Rock - 12, 0', 'CS - Portal - Volcanic Rock - 12, 1', 'CS - Portal - Volcanic Rock - 12, 2', 'CS - Portal - Volcanic Rock - 12, 3', 'CS - Portal - Volcanic Rock - 12, 4', 'CS - Portal - Volcanic Rock - 12, 5', 'CS - Portal - Volcanic Rock - 12, 6', 'CS - Portal - Volcanic Rock - 12, 7', 'CS - Portal - Volcanic Rock - 13, 0', 'CS - Portal - Volcanic Rock - 13, 1', 'CS - Portal - Volcanic Rock - 13, 2', 'CS - Portal - Volcanic Rock - 13, 3', 'CS - Portal - Volcanic Rock - 13, 4', 'CS - Portal - Volcanic Rock - 13, 5', 'CS - Portal - Volcanic Rock - 13, 6', 'CS - Portal - Volcanic Rock - 13, 7', 'CS - Portal - Volcanic Rock - 14, 0', 'CS - Portal - Volcanic Rock - 14, 1', 'CS - Portal - Volcanic Rock - 14, 2', 'CS - Portal - Volcanic Rock - 14, 3', 'CS - Portal - Volcanic Rock - 14, 4', 'CS - Portal - Volcanic Rock - 14, 5', 'CS - Portal - Volcanic Rock - 14, 6', 'CS - Portal - Volcanic Rock - 14, 7', 'CS - Portal - Volcanic Rock - 15, 0', 'CS - Portal - Volcanic Rock - 15, 1', 'CS - Portal - Volcanic Rock - 15, 2', 'CS - Portal - Volcanic Rock - 15, 3', 'CS - Portal - Volcanic Rock - 15, 4', 'CS - Portal - Volcanic Rock - 15, 5', 'CS - Portal - Volcanic Rock - 15, 6', 'CS - Portal - Volcanic Rock - 15, 7', 'CS - Portal - Volcanic Rock - 16, 0', 'CS - Portal - Volcanic Rock - 16, 1', 'CS - Portal - Volcanic Rock - 16, 2', 'CS - Portal - Volcanic Rock - 16, 3', 'CS - Portal - Volcanic Rock - 16, 4', 'CS - Portal - Volcanic Rock - 16, 5', 'CS - Portal - Volcanic Rock - 16, 6', 'CS - Portal - Volcanic Rock - 16, 7', 'CS - Portal - Volcanic Rock - 2, 0', 'CS - Portal - Volcanic Rock - 2, 1', 'CS - Portal - Volcanic Rock - 2, 2', 'CS - Portal - Volcanic Rock - 2, 3', 'CS - Portal - Volcanic Rock - 2, 4', 'CS - Portal - Volcanic Rock - 2, 5', 'CS - Portal - Volcanic Rock - 2, 6', 'CS - Portal - Volcanic Rock - 2, 7', 'CS - Portal - Volcanic Rock - 3, 0', 'CS - Portal - Volcanic Rock - 3, 1', 'CS - Portal - Volcanic Rock - 3, 2', 'CS - Portal - Volcanic Rock - 3, 3', 'CS - Portal - Volcanic Rock - 3, 4', 'CS - Portal - Volcanic Rock - 3, 5', 'CS - Portal - Volcanic Rock - 3, 6', 'CS - Portal - Volcanic Rock - 3, 7', 'CS - Portal - Volcanic Rock - 4, 0', 'CS - Portal - Volcanic Rock - 4, 1', 'CS - Portal - Volcanic Rock - 4, 2', 'CS - Portal - Volcanic Rock - 4, 3', 'CS - Portal - Volcanic Rock - 4, 4', 'CS - Portal - Volcanic Rock - 4, 5', 'CS - Portal - Volcanic Rock - 4, 6', 'CS - Portal - Volcanic Rock - 4, 7', 'CS - Portal - Volcanic Rock - 5, 0', 'CS - Portal - Volcanic Rock - 5, 1', 'CS - Portal - Volcanic Rock - 5, 2', 'CS - Portal - Volcanic Rock - 5, 3', 'CS - Portal - Volcanic Rock - 5, 4', 'CS - Portal - Volcanic Rock - 5, 5', 'CS - Portal - Volcanic Rock - 5, 6', 'CS - Portal - Volcanic Rock - 5, 7', 'CS - Portal - Volcanic Rock - 6, 0', 'CS - Portal - Volcanic Rock - 6, 1', 'CS - Portal - Volcanic Rock - 6, 2', 'CS - Portal - Volcanic Rock - 6, 3', 'CS - Portal - Volcanic Rock - 6, 4', 'CS - Portal - Volcanic Rock - 6, 5', 'CS - Portal - Volcanic Rock - 6, 6', 'CS - Portal - Volcanic Rock - 6, 7', 'CS - Portal - Volcanic Rock - 7, 0', 'CS - Portal - Volcanic Rock - 7, 1', 'CS - Portal - Volcanic Rock - 7, 2', 'CS - Portal - Volcanic Rock - 7, 3', 'CS - Portal - Volcanic Rock - 7, 4', 'CS - Portal - Volcanic Rock - 7, 5', 'CS - Portal - Volcanic Rock - 7, 6', 'CS - Portal - Volcanic Rock - 7, 7', 'CS - Portal - Volcanic Rock - 8, 0', 'CS - Portal - Volcanic Rock - 8, 1', 'CS - Portal - Volcanic Rock - 8, 2', 'CS - Portal - Volcanic Rock - 8, 3', 'CS - Portal - Volcanic Rock - 8, 4', 'CS - Portal - Volcanic Rock - 8, 5', 'CS - Portal - Volcanic Rock - 8, 6', 'CS - Portal - Volcanic Rock - 8, 7', 'CS - Portal - Volcanic Rock - 9, 0', 'CS - Portal - Volcanic Rock - 9, 1', 'CS - Portal - Volcanic Rock - 9, 2', 'CS - Portal - Volcanic Rock - 9, 3', 'CS - Portal - Volcanic Rock - 9, 4', 'CS - Portal - Volcanic Rock - 9, 5', 'CS - Portal - Volcanic Rock - 9, 6', 'CS - Portal - Volcanic Rock - 9, 7']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139996809,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Jungle - Version B', 'CS - Portal - Jungle - Version B - 0, 0', 'CS - Portal - Jungle - Version B - 0, 1', 'CS - Portal - Jungle - Version B - 0, 2', 'CS - Portal - Jungle - Version B - 0, 3 - Lead', 'CS - Portal - Jungle - Version B - 1, 0', 'CS - Portal - Jungle - Version B - 1, 1', 'CS - Portal - Jungle - Version B - 1, 2', 'CS - Portal - Jungle - Version B - 1, 3', 'CS - Portal - Jungle - Version B - 2, 0', 'CS - Portal - Jungle - Version B - 2, 1', 'CS - Portal - Jungle - Version B - 2, 2', 'CS - Portal - Jungle - Version B - 2, 3', 'CS - Portal - Jungle - Version B - 3, 0', 'CS - Portal - Jungle - Version B - 3, 1', 'CS - Portal - Jungle - Version B - 3, 2', 'CS - Portal - Jungle - Version B - 3, 3', 'CS - Portal - Jungle - Version B - 4, 0', 'CS - Portal - Jungle - Version B - 4, 1', 'CS - Portal - Jungle - Version B - 4, 2', 'CS - Portal - Jungle - Version B - 4, 3', 'CS - Portal - Jungle - Version B - 5, 0', 'CS - Portal - Jungle - Version B - 5, 1', 'CS - Portal - Jungle - Version B - 5, 2', 'CS - Portal - Jungle - Version B - 5, 3', 'CS - Portal - Jungle - Version B - 6, 0', 'CS - Portal - Jungle - Version B - 6, 1', 'CS - Portal - Jungle - Version B - 6, 2', 'CS - Portal - Jungle - Version B - 6, 3']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140251985,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Totems - 0, 0', 'CS - Portal - Totems - 0, 1', 'CS - Portal - Totems - 0, 2', 'CS - Portal - Totems - 0, 3', 'CS - Portal - Totems - 1, 0', 'CS - Portal - Totems - 1, 1', 'CS - Portal - Totems - 1, 2', 'CS - Portal - Totems - 1, 3', 'CS - Portal - Totems - 2, 0', 'CS - Portal - Totems - 2, 1', 'CS - Portal - Totems - 2, 2', 'CS - Portal - Totems - 2, 3', 'CS - Portal - Totems - 3, 0', 'CS - Portal - Totems - 3, 1 - Lead', 'CS - Portal - Totems - 3, 2', 'CS - Portal - Totems - 3, 3', 'CS - Portal - Warning Totems']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141928224,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Steam Vents', 'CS - Portal - Steam Vents - 0, 0', 'CS - Portal - Steam Vents - 0, 1', 'CS - Portal - Steam Vents - 0, 2', 'CS - Portal - Steam Vents - 0, 3', 'CS - Portal - Steam Vents - 0, 4 - Lead', 'CS - Portal - Steam Vents - 1, 0', 'CS - Portal - Steam Vents - 1, 1', 'CS - Portal - Steam Vents - 1, 2', 'CS - Portal - Steam Vents - 1, 3', 'CS - Portal - Steam Vents - 1, 4', 'CS - Portal - Steam Vents - 10, 0', 'CS - Portal - Steam Vents - 10, 1', 'CS - Portal - Steam Vents - 10, 2', 'CS - Portal - Steam Vents - 10, 3', 'CS - Portal - Steam Vents - 10, 4', 'CS - Portal - Steam Vents - 2, 0', 'CS - Portal - Steam Vents - 2, 1', 'CS - Portal - Steam Vents - 2, 2', 'CS - Portal - Steam Vents - 2, 3', 'CS - Portal - Steam Vents - 2, 4', 'CS - Portal - Steam Vents - 3, 0', 'CS - Portal - Steam Vents - 3, 1', 'CS - Portal - Steam Vents - 3, 2', 'CS - Portal - Steam Vents - 3, 3', 'CS - Portal - Steam Vents - 3, 4', 'CS - Portal - Steam Vents - 4, 0', 'CS - Portal - Steam Vents - 4, 1', 'CS - Portal - Steam Vents - 4, 2', 'CS - Portal - Steam Vents - 4, 3', 'CS - Portal - Steam Vents - 4, 4', 'CS - Portal - Steam Vents - 5, 0', 'CS - Portal - Steam Vents - 5, 1', 'CS - Portal - Steam Vents - 5, 2', 'CS - Portal - Steam Vents - 5, 3', 'CS - Portal - Steam Vents - 5, 4', 'CS - Portal - Steam Vents - 6, 0', 'CS - Portal - Steam Vents - 6, 1', 'CS - Portal - Steam Vents - 6, 2', 'CS - Portal - Steam Vents - 6, 3', 'CS - Portal - Steam Vents - 6, 4', 'CS - Portal - Steam Vents - 7, 0', 'CS - Portal - Steam Vents - 7, 1', 'CS - Portal - Steam Vents - 7, 2', 'CS - Portal - Steam Vents - 7, 3', 'CS - Portal - Steam Vents - 7, 4', 'CS - Portal - Steam Vents - 8, 0', 'CS - Portal - Steam Vents - 8, 1', 'CS - Portal - Steam Vents - 8, 2', 'CS - Portal - Steam Vents - 8, 3', 'CS - Portal - Steam Vents - 8, 4', 'CS - Portal - Steam Vents - 9, 0', 'CS - Portal - Steam Vents - 9, 1', 'CS - Portal - Steam Vents - 9, 2', 'CS - Portal - Steam Vents - 9, 3', 'CS - Portal - Steam Vents - 9, 4']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142298631,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Jungle', 'CS - Portal - Jungle - 0,0', 'CS - Portal - Jungle - 0,1', 'CS - Portal - Jungle - 0,2 - Lead', 'CS - Portal - Jungle - 1,0', 'CS - Portal - Jungle - 1,1', 'CS - Portal - Jungle - 1,2', 'CS - Portal - Jungle - 2,0', 'CS - Portal - Jungle - 2,1', 'CS - Portal - Jungle - 2,2']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145715304,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - Split Tree', 'CS - Portal - Split Tree - 0, 0', 'CS - Portal - Split Tree - 0, 1', 'CS - Portal - Split Tree - 0, 2', 'CS - Portal - Split Tree - 0, 3', 'CS - Portal - Split Tree - 0, 4', 'CS - Portal - Split Tree - 0, 5 - Lead', 'CS - Portal - Split Tree - 1, 0', 'CS - Portal - Split Tree - 1, 1', 'CS - Portal - Split Tree - 1, 2', 'CS - Portal - Split Tree - 1, 3', 'CS - Portal - Split Tree - 1, 4', 'CS - Portal - Split Tree - 1, 5', 'CS - Portal - Split Tree - 2, 0', 'CS - Portal - Split Tree - 2, 1', 'CS - Portal - Split Tree - 2, 2', 'CS - Portal - Split Tree - 2, 3', 'CS - Portal - Split Tree - 2, 4', 'CS - Portal - Split Tree - 2, 5', 'CS - Portal - Split Tree - 3, 0', 'CS - Portal - Split Tree - 3, 1', 'CS - Portal - Split Tree - 3, 2', 'CS - Portal - Split Tree - 3, 3', 'CS - Portal - Split Tree - 3, 4', 'CS - Portal - Split Tree - 3, 5', 'CS - Portal - Split Tree - 4, 0', 'CS - Portal - Split Tree - 4, 1', 'CS - Portal - Split Tree - 4, 2', 'CS - Portal - Split Tree - 4, 3', 'CS - Portal - Split Tree - 4, 4', 'CS - Portal - Split Tree - 4, 5']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146303921,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "ASPYR - There is no Nanny available at this point when the new versions of the service NPC are brought forward this should be corrected! Currently this will halt the interaction and cause it to fail.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Portal - TempleRuins', 'CS - Portal - TempleRuins - 0, 0', 'CS - Portal - TempleRuins - 0, 1', 'CS - Portal - TempleRuins - 0, 2', 'CS - Portal - TempleRuins - 0, 3', 'CS - Portal - TempleRuins - 0, 4', 'CS - Portal - TempleRuins - 0, 5 - Lead', 'CS - Portal - TempleRuins - 1, 0', 'CS - Portal - TempleRuins - 1, 1', 'CS - Portal - TempleRuins - 1, 2', 'CS - Portal - TempleRuins - 1, 3', 'CS - Portal - TempleRuins - 1, 4', 'CS - Portal - TempleRuins - 1, 5', 'CS - Portal - TempleRuins - 10, 0', 'CS - Portal - TempleRuins - 10, 1', 'CS - Portal - TempleRuins - 10, 2', 'CS - Portal - TempleRuins - 10, 3', 'CS - Portal - TempleRuins - 10, 4', 'CS - Portal - TempleRuins - 10, 5', 'CS - Portal - TempleRuins - 2, 0', 'CS - Portal - TempleRuins - 2, 1', 'CS - Portal - TempleRuins - 2, 2', 'CS - Portal - TempleRuins - 2, 3', 'CS - Portal - TempleRuins - 2, 4', 'CS - Portal - TempleRuins - 2, 5', 'CS - Portal - TempleRuins - 3, 0', 'CS - Portal - TempleRuins - 3, 1', 'CS - Portal - TempleRuins - 3, 2', 'CS - Portal - TempleRuins - 3, 3', 'CS - Portal - TempleRuins - 3, 4', 'CS - Portal - TempleRuins - 3, 5', 'CS - Portal - TempleRuins - 4, 0', 'CS - Portal - TempleRuins - 4, 1', 'CS - Portal - TempleRuins - 4, 2', 'CS - Portal - TempleRuins - 4, 3', 'CS - Portal - TempleRuins - 4, 4', 'CS - Portal - TempleRuins - 4, 5', 'CS - Portal - TempleRuins - 5, 0', 'CS - Portal - TempleRuins - 5, 1', 'CS - Portal - TempleRuins - 5, 2', 'CS - Portal - TempleRuins - 5, 3', 'CS - Portal - TempleRuins - 5, 4', 'CS - Portal - TempleRuins - 5, 5', 'CS - Portal - TempleRuins - 6, 0', 'CS - Portal - TempleRuins - 6, 1', 'CS - Portal - TempleRuins - 6, 2', 'CS - Portal - TempleRuins - 6, 3', 'CS - Portal - TempleRuins - 6, 4', 'CS - Portal - TempleRuins - 6, 5', 'CS - Portal - TempleRuins - 7, 0', 'CS - Portal - TempleRuins - 7, 1', 'CS - Portal - TempleRuins - 7, 2', 'CS - Portal - TempleRuins - 7, 3', 'CS - Portal - TempleRuins - 7, 4', 'CS - Portal - TempleRuins - 7, 5', 'CS - Portal - TempleRuins - 8, 0', 'CS - Portal - TempleRuins - 8, 1', 'CS - Portal - TempleRuins - 8, 2', 'CS - Portal - TempleRuins - 8, 3', 'CS - Portal - TempleRuins - 8, 4', 'CS - Portal - TempleRuins - 8, 5', 'CS - Portal - TempleRuins - 9, 0', 'CS - Portal - TempleRuins - 9, 1', 'CS - Portal - TempleRuins - 9, 2', 'CS - Portal - TempleRuins - 9, 3', 'CS - Portal - TempleRuins - 9, 4', 'CS - Portal - TempleRuins - 9, 5']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131377000,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Material 1",
+    "description": "!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Crafting - Electronic Crafting Station', 'CS - Crafting - Electronic Crafting Station - 0, 0', 'CS - Crafting - Electronic Crafting Station - 0, 1 - Lead', 'CS - Crafting - Electronic Crafting Station - 1, 0', 'CS - Crafting - Electronic Crafting Station - 1, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135108983,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "rr",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Campfire Small ']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136944247,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Sofa - Loveseat - Bench - Survival', 'CS - Sofa - Loveseat - Bench - Survival - 0, 0 - Lead', 'CS - Sofa - Loveseat - Bench - Survival - 1, 0']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "rr",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit Survival']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140411884,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Sofa - Loveseat - Bench - MakeShift', 'CS - Sofa - Loveseat - Bench - MakeShift - 0, 0 - Lead', 'CS - Sofa - Loveseat - Bench - MakeShift - 1, 0']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142395691,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Sofa - Loveseat - Military', 'CS - Sofa - Loveseat - Military - 0, 0 - Lead', 'CS - Sofa - Loveseat - Military - 1, 0']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143667609,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Food Dish - Serving Pot']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145603030,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "rr",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Crafting - Toy Bench', 'Crafting - Toy Bench - 0, 0', 'Crafting - Toy Bench - 0, 1', 'Crafting - Toy Bench - 1, 0', 'Crafting - Toy Bench - 1, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141584668,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Oaktowne Dining Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "reason": "Reviewed exact inherited row on ['CS - Tutorial Controller']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141584668,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simple lines, a clear idea, quality manufacturing: these are the hallmarks of the Oaktowne Dining Chair. Whether buying a single chair or a set for your residential or commercial property, you'll be buying into the Oaktowne dining experience.",
+    "description": "Sims2 - Needs Translation - batch1\r\nEnglish Edit - just capitalized Dining Chair and uncapitalized dining experience.",
+    "reason": "Reviewed exact inherited row on ['CS - Tutorial Controller']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141584668,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Oaktowne Dining Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "reason": "Reviewed exact inherited row on ['CS - Tutorial Controller']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141584668,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Simple lines, a clear idea, quality manufacturing: these are the hallmarks of the Oaktowne Dining Chair. Whether buying a single chair or a set for your residential or commercial property, you'll be buying into the Oaktowne dining experience.",
+    "description": "Sims2 - Needs Translation - batch1\r\nEnglish Edit - just capitalized Dining Chair and uncapitalized dining experience.",
+    "reason": "Reviewed exact inherited row on ['CS - Tutorial Controller']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142177409,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Satellite",
+    "description": "The Sims 2 - Needs Translation - Batch20\ncatalog name for Satellite object (falls from sky during \"Death by Satellite\" - can be picked up in buy mode  - this is the name that appears).",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Flying Embers']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142177409,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite",
+    "description": "The Sims 2 - Needs Translation - Batch20\ncatalog name for Satellite object (falls from sky during \"Death by Satellite\" - can be picked up in buy mode  - this is the name that appears).",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Flying Embers']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142177409,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Satellite Description (I don't think it needs a description as it isn't a catalog object).",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Flying Embers']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141121409,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Translated - Batch",
+    "reason": "Reviewed exact inherited row on ['CS - Fridge - Cheap']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141121409,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Fridge - Cheap']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141121409,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Fridge - Cheap']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141489114,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drink Elixer of Life",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Potion - Penguin Party - Shaman Dummy']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142986264,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Chair - Rock Couch', 'CS - Chair - Rock Couch - 0, 0', 'CS - Chair - Rock Couch - 0, 1', 'CS - Chair - Rock Couch - 1, 0', 'CS - Chair - Rock Couch - 1, 1', 'CS - Chair - Rock Couch - 2, 0', 'CS - Chair - Rock Couch - 2, 1', 'CS - Chair - Rock Couch - 3, 0', 'CS - Chair - Rock Couch - 3, 1']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug - Test Selectability",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - NPC - Jaguar Template']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug - Test Selectability",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - NPC - Jaguar Template']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139866839,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drink Elixer of Life",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Potion - Love Struck - Shaman Dummy']; internal/debug/stale clone/helper state rather than player-facing Castaway localization."
+  }
+]
