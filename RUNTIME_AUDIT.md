@@ -273,3 +273,8 @@ Effective totals: 4,454 maps, 7,683 candidate rows, 0 missing/review candidate r
 Source Audit now reports 4,486 translation-map entries and 7,790 effective candidate rows with zero missing/review candidate decisions and zero parser errors. The inherited review queue is 37,397 rows. Current translated maps include 986 menu values and 941 catalog values. Exact override inventory is 1,122 guards: 772 menu, 271 dialog, 69 catalog, nine story and one tutorial.
 
 Recent evidence-backed batches include weather/reward interactions, clear Castaway object actions, leaf-pile and native pet-shelter interactions, Sanitation Station changing-table rows, and visible household/catalog items (Average Paws Bedding, mixing/ingredient containers, crib, baking/frying pans). The exact Examine leftover is resolved through the duplicate Castaway light/torch resource; the lone Use leftover is an ownerless base-game bush urination interaction and remains review-only. Package-writer QA and selector runtime verification are still outstanding.
+
+
+## Sweep continuation — restaurant stove + island pinball catalog (2026-10-06)
+
+Added eight exact CTSS rows and four catalog mappings for the Castaway restaurant stove and Tribal Flame coconut pinball object. Source Audit passes: 4,490 mappings, 7,798 candidates, 0 missing/review candidate rows, 37,389 inherited review rows, 0 parse errors; catalog translated values: 945. Package-writer QA and selector runtime verification remain outstanding.

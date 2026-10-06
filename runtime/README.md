@@ -48,11 +48,11 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` currently contains 1,122 exact row guards: 772 menu, 271 dialog, 69 catalog, nine story and one tutorial row. Menu guards cover 258 unique English labels. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document evidence where available. The audit rejects duplicate, stale or unused overrides. This is a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
+`row_scope_overrides.json` currently contains 1,130 exact row guards: 772 menu, 271 dialog, 77 catalog, nine story and one tutorial row. Menu guards cover 258 unique English labels. Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document evidence where available. The audit rejects duplicate, stale or unused overrides. This is a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
-Current selected source includes 1,551 story/career/runtime-story values, 986 menu values, 941 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,790 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,397 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
+Current selected source includes 1,551 story/career/runtime-story values, 986 menu values, 945 catalog values, 36 dialog values and 126 tutorial values. Effective candidate coverage is 7,798 rows with zero missing/review decisions and zero parser errors. The effective inherited review queue is 37,389 rows; the compressed snapshots remain at the preceding extraction until package bytes are available again. Story-selector runtime source is unverified. No consolidated v0.8 TEST release has been produced.
 
 
 ### Sweep batch: Castaway fire-pit cooking menu (2026-10-05)
@@ -130,3 +130,8 @@ The effective validator checkpoint has been synchronized after several parallel 
 The exact `Examine` residue reported earlier is already covered by the duplicate Castaway light/torch menu override and maps to `Xem xét`. The remaining exact `Use` inherited row is specifically a base-game bush urination interaction and still has no reliable Castaway owner; it remains review-only rather than being translated blindly.
 
 Authoritative effective totals from Source Audit: 4,486 translation-map entries, 7,790 candidate rows, zero missing/review candidate decisions, 37,397 inherited review rows and zero parser errors. Menu has 986 translated values and catalog has 941. Package-writer QA remains stale, selector runtime source remains unverified, and no v0.8 TEST release is claimed.
+
+
+### Sweep batch: restaurant stove + island pinball catalog (2026-10-06)
+
+Promoted eight exact CTSS rows for two clear player-facing objects: the Castaway restaurant stove and the island-themed career pinball machine. Four new catalog mappings were added, preserving product names while localizing the Sims-style descriptions. Source Audit passes at 4,490 mappings, 7,798 effective candidate rows, zero missing/review candidate decisions, 37,389 inherited review rows and zero parser errors. Catalog now contains 945 translated values.

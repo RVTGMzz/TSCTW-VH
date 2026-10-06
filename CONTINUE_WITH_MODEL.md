@@ -246,3 +246,8 @@ Effective totals: 4,454 mappings, 7,683 candidates, 0 missing/review candidate r
 Trust Source Audit over older handwritten totals. Current effective source: 4,486 mappings, 7,790 candidate rows, 0 missing/review candidate rows, 37,397 inherited review rows, 0 parse errors; menu 986 translated, catalog 941 translated. Exact row guards: 1,122 total = 772 menu, 271 dialog, 69 catalog, 9 story, 1 tutorial. Physical compressed snapshots still predate 274 pending exact overrides.
 
 Recent parallel batches already cover Ignis Ex Machina/weather reward actions, clear Castaway object interactions, Autumn Leaf Pile, Native Pet Shelter, the second Sanitation Station changing-table menu, and visible household catalog items. Do not redo them. Examine is already resolved by the duplicate light/torch menu override. The remaining Use row is a base-game bush urination interaction with no reliable Castaway ownership and must stay review-only unless new runtime evidence appears. Package QA remains stale (7,502 verified candidates vs 7,790 current); selector runtime source remains unverified; no v0.8 TEST has been released.
+
+
+## Latest checkpoint — 2026-10-06 stove + pinball catalog
+
+Added 8 exact CTSS rows / 4 catalog mappings for the Castaway restaurant stove and island-themed pinball object. Effective totals are now 4,490 maps, 7,798 candidates, 0 missing/review candidate rows, 37,389 inherited review rows, 0 parse errors; catalog 945 translated, menu 986 translated. Exact row guards: 1,130 total = 772 menu, 271 dialog, 77 catalog, 9 story, 1 tutorial. Package QA remains stale (7,502 verified vs 7,798 current); selector source remains unverified; no v0.8 TEST has been released.
