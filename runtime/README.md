@@ -48,7 +48,7 @@ python src/builder/build_v07.py --audit-only
 
 ## Reviewed inherited interactions
 
-`row_scope_overrides.json` promotes 623 exact menu rows (213 unique labels), 270 dialog rows and 34 catalog rows from the inherited review queue into reviewed scope (927 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of functional interaction labels on Castaway objects, not a rule that every CS or EP string must be translated.
+`row_scope_overrides.json` promotes 623 exact menu rows (213 unique labels), 271 dialog rows, 23 catalog rows, nine story rows and one tutorial row from the inherited review queue into reviewed scope (927 exact row guards total). Each row is guarded by full DBPF key, row ordinal, language, original value and original description. Object names from same-group OBJD resources document the evidence. The audit rejects duplicate, stale or unused overrides. This is a curated list of evidence-backed player-facing rows, not a rule that every CS or EP string must be translated.
 
 Run `python src/builder/review_runtime_context.py` after completing extraction to attach same-group object names and Cast text ownership to the remaining queue. `review_context.json.gz` and its summary are evidence for further review; they do not claim runtime reachability and do not silently remove rows from coverage. Do not run dependent validation while extraction is still writing its snapshots.
 
