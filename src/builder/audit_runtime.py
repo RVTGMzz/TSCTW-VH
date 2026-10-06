@@ -29,6 +29,15 @@ def load_row_overrides():
         rows.extend(data)
     return rows
 
+def load_row_review_decisions():
+    rows=[]
+    for path in sorted((ROOT/'runtime').glob('row_review_decisions*.json')):
+        if path.name=='row_review_decisions_applied.json':continue
+        data=json.loads(path.read_text())
+        if not isinstance(data,list):raise ValueError(('Row review decision shard must be a JSON list',path.name))
+        rows.extend(data)
+    return rows
+
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--input',type=Path,default=ROOT/'work/input');ap.add_argument('--output',type=Path,default=ROOT/'runtime');args=ap.parse_args()
     records=[]; inventory=[]; review=[]
@@ -39,6 +48,14 @@ def main():
         if override['category'] not in ('menu','catalog','ui','story','tutorial','want','dialog'):
             raise ValueError(('Unsupported override category',identity))
         overrides[identity]=override
+    review_decisions={}; used_review_decisions=set()
+    for decision in load_row_review_decisions():
+        identity=(decision['package'],tuple(decision['key']),decision['row'])
+        if identity in review_decisions:raise ValueError(('Duplicate row review decision',identity))
+        if identity in overrides:raise ValueError(('Row cannot be both promoted and excluded/retained',identity))
+        if decision.get('status') not in ('excluded','retain'):
+            raise ValueError(('Unsupported row review decision status',identity,decision.get('status')))
+        review_decisions[identity]=decision
     for path in sorted(args.input.rglob('*.package')):
         rel=path.relative_to(args.input).as_posix()
         if '/Text/' in rel and path.name not in ('Wants.package','EPText.package'):continue
@@ -64,7 +81,13 @@ def main():
                 if category in ('excluded', 'review') and value in confirmed and not INTERNAL.search(desc):
                     category, reason = confirmed[value], 'Exact English variant of a Cast-tagged row in the same resource'
                 identity=(rel,entry.key,ordinal)
-                if identity in overrides:
+                if identity in review_decisions:
+                    decision=review_decisions[identity]
+                    if category!='review' or (lang,value,desc)!=(decision['language'],decision['en'],decision['description']):
+                        raise ValueError(('Row review decision baseline mismatch',identity))
+                    category,reason=decision['status'],decision['reason']
+                    used_review_decisions.add(identity)
+                elif identity in overrides:
                     override=overrides[identity]
                     if category!='review' or (lang,value,desc)!=(override['language'],override['en'],override['description']):
                         raise ValueError(('Row override baseline mismatch',identity))
@@ -78,12 +101,15 @@ def main():
         inventory.append(dict(package=rel,sha256=hashlib.sha256(pack.data).hexdigest(),bytes=len(pack.data),index_width=pack.width,resources=len(pack.entries),text_row_categories=dict(counts),text_resource_categories=dict(resources),tables_with_preserved_tail=padding,legacy_technical_resources=legacy,errors=errors))
         print(rel,dict(counts), 'parse errors',len(errors),flush=True)
     if used!=set(overrides):raise ValueError(('Unused row overrides',set(overrides)-used))
+    if used_review_decisions!=set(review_decisions):raise ValueError(('Unused row review decisions',set(review_decisions)-used_review_decisions))
     args.output.mkdir(parents=True,exist_ok=True)
     for filename,data in [('catalog.json',records),('review_queue.json',review),('inventory.json',inventory)]:
         (args.output/filename).write_text(json.dumps(data,ensure_ascii=True,indent=2)+'\n')
         if filename != 'inventory.json':
             encoded = (json.dumps(data,ensure_ascii=True,separators=(',',':'))+'\n').encode('utf8')
             (args.output/(filename+'.gz')).write_bytes(gzip.compress(encoded,mtime=0))
+    applied=[review_decisions[k] for k in sorted(review_decisions,key=lambda x:(x[0],x[1],x[2]))]
+    (args.output/'row_review_decisions_applied.json').write_text(json.dumps(applied,ensure_ascii=True,indent=2)+'\n')
     if any(x['errors'] for x in inventory):raise RuntimeError('Some string tables could not be parsed; inspect inventory.json')
 
 if __name__=='__main__':main()
