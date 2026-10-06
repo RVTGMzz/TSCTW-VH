@@ -1,0 +1,4142 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772856,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134741984,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136305074,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142241468,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142797794,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142241468,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad23",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142241468,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad26",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142241468,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "2d8fad25",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142241468,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fad23",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142241468,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "2d8fad26",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142241468,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "258fad25",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133468612,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142142529,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134348066,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132267994,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible chapter-goal controller helper/template row (routing, tutorial-control, debug, HSN or internal identifier); not player-facing Castaway story text."
+  }
+]
