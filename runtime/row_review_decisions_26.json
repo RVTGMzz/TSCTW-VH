@@ -1,0 +1,887 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Temperature",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find Shade",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hot Interaction",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Evaluates to True?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try Day Run",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Launch Uncancellable Social",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137975152,
+      131,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Global Time Control']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Enable Build-Barter in Freeplay']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug Rhinehart Slope Checker']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Storymode Launcher']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simulate.../Lot Loading",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Delete Object",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simulate.../Story Mode (at ch 1)",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simulate.../Story Mode (at ch 9)",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simulate.../Freeplay",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simulate.../Flying Embers",
+    "description": "!!Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130837133,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Simulate.../Stop Fires",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Raft Parts - (Debug) Simulation Controller']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "True",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "False",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "True",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "False",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Debug - Temperature Test Object']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133683132,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Paid",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Group Travel - Aspyr']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133683132,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Group Travel - Aspyr']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133683132,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snapfu",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Group Travel - Aspyr']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133683132,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make NPC",
+    "description": "!",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Group Travel - Aspyr']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133683132,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Schedule NPC",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Group Travel - Aspyr']; not player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133683132,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire NPC",
+    "description": "",
+    "reason": "Explicit debug/controller/test interaction on ['CS - Controller - Group Travel - Aspyr']; not player-facing Castaway localization."
+  }
+]
