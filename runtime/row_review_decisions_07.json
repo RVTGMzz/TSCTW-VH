@@ -1,0 +1,377 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Fail",
+    "description": "!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Common",
+    "description": "!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Uncommon",
+    "description": "!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Rare",
+    "description": "!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Ultra-Rare",
+    "description": "!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Snow Angel",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Snow Angel",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Die By Satellite",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fish Subqueue",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Teleport Here",
+    "description": "!!!!",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig",
+    "description": "!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "My lot isn't big enough to build a snowman. Maybe I should clear up some space outside.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Bronze Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Silver Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Gold Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "My lot isn't big enough to build a snowman. Maybe I should clear up some space outside.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Bronze Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Silver Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Gold Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140262859,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Destination",
+    "description": "! Out of World",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140262859,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Here.",
+    "description": "! Out of World",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140262859,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Destination",
+    "description": "! Out of World",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140262859,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go Here.",
+    "description": "! Out of World",
+    "reason": "Reviewed Invisible Marker row is internal/debug/out-of-world or unsupported Seasons snow/fishing-badge residue rather than Castaway player-facing text."
+  }
+]

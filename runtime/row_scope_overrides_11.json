@@ -1,0 +1,587 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Catch Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Catch Butterflies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask $Me to Fish",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Recast",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Catch Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 56,
+    "category": "menu",
+    "language": 2,
+    "en": "Catch Butterflies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 57,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask $Me to Fish",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 72,
+    "category": "menu",
+    "language": 2,
+    "en": "Recast",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../ Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 58,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../ Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 65,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 66,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 67,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 68,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 69,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 70,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 71,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using...",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using...",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 1,
+    "en": "Spear Fish",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Castaway ground/fishing interaction verified by Castaway gameplay context; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "I can't cast that far.  I should try catching fish closer to the edge.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback dialog; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "The terrain looks too steep for me.  Maybe I should cast from somewhere else.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback dialog; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 2,
+    "en": "I can't cast that far.  I should try catching fish closer to the edge.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback dialog; exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 2,
+    "en": "The terrain looks too steep for me.  Maybe I should cast from somewhere else.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback dialog; exact inherited row."
+  }
+]
