@@ -29958,5 +29958,149 @@
       "Aspiration Reward - Weather Control Device - 1, 1",
       "CS - Aspiration Reward - Weather Control Device"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132913230,
+      2,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Pick Up",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Reviewed player-facing Pick Up action on the Castaway Staff of Tuzu; exact row override. Existing Vietnamese mapping reused.",
+    "object_names": [
+      "CS - Accessory - Staff of Tuzu"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133729598,
+      1,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Feed Toddler",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed player-facing Feed Toddler interaction on the Castaway plastic high chair; exact row override. Internal *Dirty remains under review.",
+    "object_names": [
+      "CS - High Chair - Plastic"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Study for School",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing Study for School interaction on a Castaway book object; exact row override.",
+    "object_names": [
+      "CS - Book"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Study for School",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing Study for School interaction on a Castaway book object; exact row override.",
+    "object_names": [
+      "CS - Book"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Study for School",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Reviewed player-facing Study for School interaction on a Castaway book object; exact row override.",
+    "object_names": [
+      "CS - Book - Diary"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Study for School",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Reviewed player-facing Study for School interaction on a Castaway book object; exact row override.",
+    "object_names": [
+      "CS - Book - Diary"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "View",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing View action on the Castaway bug jar; catalog title/description is already selected Castaway text. Debug-prefixed actions remain under review.",
+    "object_names": [
+      "CS - Bug_Jar"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139778412,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "View",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing View action on the Castaway bug jar; catalog title/description is already selected Castaway text. Debug-prefixed actions remain under review.",
+    "object_names": [
+      "CS - Bug_Jar"
+    ]
   }
 ]
