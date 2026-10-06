@@ -1,0 +1,242 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "tutorial",
+    "language": 1,
+    "en": "To move the camera and look around, use the W, A, S, and D keys on your keyboard.\r\rTo zoom in and out, use Z and X.\n\nClick \"Next\" to continue.\r",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "tutorial",
+    "language": 1,
+    "en": "If you want to rotate using the keyboard, hold down the Shift key and then press either W, A, S, or D.\n\nClick \"Next\" to continue.",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Moving the Camera",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Interacting With Objects",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "tutorial",
+    "language": 1,
+    "en": "If your Sim decides to do something that you don't want them to do simply click on the icon in the upper left corner to cancel it. The icon will get a red X on it so you know that it's been cancelled.\n\nSome actions cannot be cancelled.\n\nClick \"Next\" to continue.",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Interacting With Other Sims",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Interacting With Your Sim",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Needs",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Shortcuts",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Wants",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Visibility ",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Visibility Part 2",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Help Menu",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Goals",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 204,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Moving the Camera (cont.)",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584668,
+      301,
+      0
+    ],
+    "row": 205,
+    "category": "tutorial",
+    "language": 1,
+    "en": "Moving Your Sim",
+    "description": "Cast Old FIN",
+    "reason": "Player-facing Castaway tutorial text marked Cast Old FIN; exact inherited tutorial row."
+  }
+]
