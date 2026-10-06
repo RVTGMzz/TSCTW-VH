@@ -238,3 +238,10 @@ To remove the brittle need to hand-regenerate large gzip snapshots for every sma
 Reviewed the dedicated `CS - Changing Table - Castaway` STR# interaction family. Promoted 22 exact source rows across English and UK English for diaper changes, everyday/PJ dressing, putting a baby/toddler down, and planning toddler everyday/PJ outfits. Ten new menu values were added; `Put $Object Down` reused the existing translation. The four Outerwear values in each language were deliberately not promoted: their EP7 provenance alone does not prove Castaway player reachability.
 
 Effective source totals are 4,414 map entries, 7,542 candidate rows, zero missing/review candidate decisions and 37,645 inherited review rows. These 22 rows are pending exact overrides applied in memory by source-only QA until a full package extraction regenerates the compressed snapshots. Package QA remains stale and no in-game result is claimed.
+
+
+## Sweep continuation — Lomi Lomi Salmon + Outdoor Hut toilet (2026-10-06)
+
+Reviewed two clearly player-facing Castaway-owned resource families. `CS - Food - Lomi Lomi Salmon` contributes 25 exact STR# rows across English and UK English for meal, serving, get-food and resume-cooking menu paths; nine new menu mappings were added and `Resume Cooking` reused the existing translation. `CS - Toilet - Outdoor Hut` contributes 10 exact core TTAs rows for flush/clean/unclog/play/flush-down, all reusing existing menu mappings.
+
+Expansion/debug residue in the same toilet resource remains unresolved rather than being mass-promoted: EP6 pet-training strings, `Throw Up Test`, and developer dirty/clogged state setters. Effective source totals: 4,423 map entries, 7,577 selected candidate rows, zero missing/review candidate decisions and 37,610 inherited review rows. Package QA still predates these exact-row batches and no in-game verification is claimed.

@@ -26379,5 +26379,695 @@
       "CS - Changing Table - Castaway - 0, 0 - Lead",
       "CS - Changing Table - Castaway - 1, 0"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Have Dinner.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Have Lunch.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Have Breakfast.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Serve Dinner.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Serve Lunch.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Serve Breakfast.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Get Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nUsed by Cook objects and cook accessories ot build a dynamic menu when the food is Cooked.",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Get Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Get.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nUsed when there are multiple food objects cooking in a single cook object.",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Get.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Resume Cooking",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nUsed when food isn't finished cooking yet.",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Resume Cooking.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Resume Cooking.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Have Dinner.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 24,
+    "language": 2,
+    "en": "Have Lunch.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 25,
+    "language": 2,
+    "en": "Have Breakfast.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 26,
+    "language": 2,
+    "en": "Serve Dinner.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 27,
+    "language": 2,
+    "en": "Serve Lunch.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 28,
+    "language": 2,
+    "en": "Serve Breakfast.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 29,
+    "language": 2,
+    "en": "Get Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nUsed by Cook objects and cook accessories ot build a dynamic menu when the food is Cooked.",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 30,
+    "language": 2,
+    "en": "Get Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 31,
+    "language": 2,
+    "en": "Get.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nUsed when there are multiple food objects cooking in a single cook object.",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 32,
+    "language": 2,
+    "en": "Get.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 33,
+    "language": 2,
+    "en": "Resume Cooking",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nUsed when food isn't finished cooking yet.",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140334705,
+      302,
+      0
+    ],
+    "row": 34,
+    "language": 2,
+    "en": "Resume Cooking.../Salmon",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing cooking/serving interaction on the Castaway Lomi Lomi Salmon object; exact row override.",
+    "object_names": [
+      "CS - Food - Lomi Lomi Salmon"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Flush",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Unclog",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Play With",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Flush Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 20,
+    "language": 2,
+    "en": "Flush",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 2,
+    "en": "Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Unclog",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 24,
+    "language": 2,
+    "en": "Play With",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131469184,
+      1,
+      0
+    ],
+    "row": 25,
+    "language": 2,
+    "en": "Flush Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch16\r\n\r\nNote: These strings are used in Toilet-Cheap, but they're the same as stringset sent in Batch 15 for Toilet Expensive.",
+    "category": "menu",
+    "reason": "Reviewed core player-facing toilet interaction on the Castaway Outdoor Hut toilet; exact row override. EP6 pet-training and developer state/test rows remain under review.",
+    "object_names": [
+      "CS - Toilet - Outdoor Hut",
+      "CS - Toilet - Outdoor Hut - 0, 0",
+      "CS - Toilet - Outdoor Hut - 0, 1",
+      "CS - Toilet - Outdoor Hut - 1, 0",
+      "CS - Toilet - Outdoor Hut - 1, 1 - Lead",
+      "CS - Toilet - Outdoor Hut - 2, 0",
+      "CS - Toilet - Outdoor Hut - 2, 1"
+    ]
   }
 ]

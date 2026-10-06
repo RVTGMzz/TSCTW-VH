@@ -10,8 +10,8 @@
   "unresolved_in_groups_with_cast_text": 5380,
   "unresolved_in_cs_named_objects": 2343,
   "warning": "EP/base-game metadata or a CS object name alone never proves a row unused or reachable. The main coverage report still retains the entire inherited queue until per-resource decisions are integrated.",
-  "effective_pending_overrides": 26,
-  "effective_review_rows": 37645,
-  "effective_candidate_rows": 7542,
-  "snapshot_note": "The compressed review_context snapshot still has 37,671 rows until the next full package extraction. Source-only QA promotes 26 exact pending overrides in memory (4 urn/death + 22 Castaway changing-table rows)."
+  "effective_pending_overrides": 61,
+  "effective_review_rows": 37610,
+  "effective_candidate_rows": 7577,
+  "snapshot_note": "The compressed review_context snapshot still has 37,671 rows until the next full package extraction. Source-only QA promotes 61 exact pending overrides in memory (4 urn/death + 22 Castaway changing-table + 25 Lomi Lomi Salmon + 10 Outdoor Hut toilet rows)."
 }

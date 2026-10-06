@@ -215,3 +215,8 @@ Architecture change: `validate_runtime.py` now merges exact pending `row_scope_o
 ## Latest checkpoint — 2026-10-06 Castaway changing table
 
 Promoted 22 exact STR# rows (English + UK English) from the dedicated `CS - Changing Table - Castaway` resource family: diaper, everyday/PJ dressing, put-down and toddler outfit-planning interactions. Added ten new menu mappings and reused the existing `Put $Object Down` translation. EP7 Outerwear rows remain review-only. Effective totals: 4,414 maps, 7,542 candidates, zero missing/review candidate rows, 37,645 inherited review rows. Package QA is still stale pending baseline package-byte access; do not claim an in-game fix yet.
+
+
+## Latest checkpoint — 2026-10-06 Lomi Lomi Salmon + Outdoor Hut toilet
+
+Promoted 35 exact menu rows: 25 from `CS - Food - Lomi Lomi Salmon` and 10 core interactions from `CS - Toilet - Outdoor Hut`. Added nine new salmon menu mappings; toilet labels and `Resume Cooking` reuse existing translations. Do not promote the toilet's EP6 pet-training, `Throw Up Test`, or developer `*Set ... State` rows without new reachability evidence. Effective totals: 4,423 maps, 7,577 candidates, zero missing/review candidate rows, 37,610 inherited review rows. Package-writer QA remains stale; selector runtime source remains unverified; no v0.8 TEST has been released.
