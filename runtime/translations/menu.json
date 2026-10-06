@@ -937,5 +937,15 @@
   "Teach To Talk": "Dạy chim nói",
   "Carry Bird": "Bế chim",
   "Put Bird Away": "Cho chim vào lồng",
-  "Build Onto": "Lắp thêm"
+  "Build Onto": "Lắp thêm",
+  "Change $Object's Diaper": "Thay tã cho $Object",
+  "Dress.../$Object in Everyday": "Mặc đồ.../$Object - Đồ thường ngày",
+  "Change Diaper .../$Object": "Thay tã.../$Object",
+  "Dress $Object in Everyday": "Mặc đồ thường ngày cho $Object",
+  "Dress $Object in PJs": "Mặc đồ ngủ cho $Object",
+  "Dress.../$Object in PJs": "Mặc đồ.../$Object - Đồ ngủ",
+  "Plan PJ Outfit for.../$Object": "Chọn đồ ngủ cho.../$Object",
+  "Plan Everyday Outfit for.../$Object": "Chọn đồ thường ngày cho.../$Object",
+  "Plan PJ Outfit for $Object": "Chọn đồ ngủ cho $Object",
+  "Plan Everyday Outfit for $Object": "Chọn đồ thường ngày cho $Object"
 }
