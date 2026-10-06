@@ -110,3 +110,6 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Controller - Age" --groups 20 --samples 320
           python src/builder/triage_review_queue.py --object-contains "Dartboard" --groups 20 --samples 120
           python src/builder/triage_review_queue.py --object-contains "NPC - Unique - Grim Reaper" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "Controller - Disease" --groups 20 --samples 200
+          python src/builder/triage_review_queue.py --object-contains "Controller - Pregnancy" --groups 20 --samples 200
+          python src/builder/triage_review_queue.py --object-contains "CS - Misc - Story Text Tester" --groups 20 --samples 200
