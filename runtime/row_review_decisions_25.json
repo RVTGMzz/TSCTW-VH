@@ -1,0 +1,932 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Be Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Get Sick",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Die",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Stop Morning Sickness",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139779254,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Throw Up",
+    "description": "!!!",
+    "reason": "Disease controller helper/cheat interaction; star-prefixed internal action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Show Stats",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Pregnant Half Way",
+    "description": "!!!",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Pregnant Fully",
+    "description": "!!!",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug Show Stats",
+    "description": "!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Pregnant Half Way",
+    "description": "!!!",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Pregnant Fully",
+    "description": "!!!",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Have Baby",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug Have Baby",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Pregnancy controller debug/state helper, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Failed",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Name your damn animals.",
+    "description": "",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Failed",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Name your damn animals.",
+    "description": "",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pregnancy State Set",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Impregnate.../$Object",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Impregnate.../$Object",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Have Baby With.../$Object",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132610889,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Force Impregnate.../$Object",
+    "description": "!",
+    "reason": "Pregnancy controller debug/test/force-state string, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 01 Text",
+    "description": "!!!!",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 02 Text",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 03 Text",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 04 Text",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 05 Text",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 06 Text",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 07 Text",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 08 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 09 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 10 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 11 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 12 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 13 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 14 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 15 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 16 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 17 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 18 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 19 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 20 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 21 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 22 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 23 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display Chapter 24 Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Display All Text",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      129,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141742391,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Story Text Tester",
+    "description": "!",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141742391,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Place this to test Castaway story text",
+    "description": "!",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Spawn - Orangutan",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Spawn - Jaguar",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141742391,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Spawn - Wild Dog",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Explicit Castaway Story Text Tester/developer action or tester catalog text; not player-facing runtime content."
+  }
+]

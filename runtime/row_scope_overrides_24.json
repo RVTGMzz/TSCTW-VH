@@ -1,0 +1,392 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is sick with food poisoning!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is sick with food poisoning!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is sick with a cold!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is sick with a cold!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is sick with the flu!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is sick with the flu!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object's cold has become much worse, and now he has pneumonia!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object's cold has become much worse, and now she has pneumonia!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "$Object is healthy again!",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is sick with food poisoning!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 13,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is sick with food poisoning!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is sick with a cold!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is sick with a cold!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is sick with the flu!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is sick with the flu!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object's cold has become much worse, and now he has pneumonia!  He will need plenty of rest in order to recover.  If he gets enough sleep and doesn't spend too much time standing up, he'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object's cold has become much worse, and now she has pneumonia!  She will need plenty of rest in order to recover.  If she gets enough sleep and doesn't spend too much time standing up, she'll be healthy in no time.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139779254,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 2,
+    "en": "$Object is healthy again!",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing illness/recovery notification from Castaway life simulation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Birth",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Come See Baby",
+    "description": "The Sims 2 - Needs Translation - Batch20\naction queue tooltip for reactions when Sims come see the baby.",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Birth",
+    "description": "The Sims2 EP6 - Needs Translation ",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Birth",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Birth",
+    "description": "The Sims2 EP6 - Needs Translation ",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Birth",
+    "description": "The Sims 2 - Translations copied here in case it is in game.",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch Birth",
+    "description": "The Sims 2 - Translations copied from \nTranslations in Batch15 - Pregnancy_Controller (name changed), set 1, string 12.\n",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132610889,
+      1,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Birth",
+    "description": "The Sims 2 - Translations copied here in case it is in game.",
+    "reason": "Player-facing pregnancy/birth action queue text retained by Castaway family gameplay."
+  }
+]
