@@ -29038,5 +29038,925 @@
     "category": "menu",
     "reason": "Reviewed duplicate player-facing light/torch menu variant in the same group as Cast Menu COM rows; exact English value is already selected and translated. Debug Break/Loops remain under review.",
     "object_names": []
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change Season To.../Spring",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Change Season To.../Spring",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Change Season To.../Summer",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Change Season To.../Summer",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Change Season To.../Fall",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Change Season To.../Fall",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Change Season To.../Winter",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Change Season To.../Winter",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Prolong Season.../1 More Day",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 20,
+    "language": 2,
+    "en": "Prolong Season.../1 More Day",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Prolong Season.../3 More Days",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 21,
+    "language": 2,
+    "en": "Prolong Season.../3 More Days",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Prolong Season.../Forever",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 22,
+    "language": 2,
+    "en": "Prolong Season.../Forever",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Create Weather.../Rain",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Create Weather.../Rain",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Create Weather.../Snow",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 24,
+    "language": 2,
+    "en": "Create Weather.../Snow",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Create Weather.../Hail",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 25,
+    "language": 2,
+    "en": "Create Weather.../Hail",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Turn Off.../Infinite Prolonged Season",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 26,
+    "language": 2,
+    "en": "Turn Off.../Infinite Prolonged Season",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Turn Off.../Rain",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 27,
+    "language": 2,
+    "en": "Turn Off.../Rain",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Turn Off.../Snow",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 28,
+    "language": 2,
+    "en": "Turn Off.../Snow",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Turn Off.../Hail",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 29,
+    "language": 2,
+    "en": "Turn Off.../Hail",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Create Weather.../Clear Sky",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 30,
+    "language": 2,
+    "en": "Create Weather.../Clear Sky",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Turn Off.../Clear Sky",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135710547,
+      302,
+      0
+    ],
+    "row": 31,
+    "language": 2,
+    "en": "Turn Off.../Clear Sky",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing submenu on Castaway's Ignis Ex Machina weather-control reward. Castaway-specific catalog copy confirms the reward is in scope; exact row override.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change Season",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Prolong Season",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Create Weather",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Change Season",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Prolong Season",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Create Weather",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims2EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Reviewed player-facing top-level interaction on Castaway's Ignis Ex Machina weather-control reward. Debug-only *Create Firestorm remains under review.",
+    "object_names": [
+      "Aspiration Reward - Weather Control Device",
+      "Aspiration Reward - Weather Control Device - 0, 0",
+      "Aspiration Reward - Weather Control Device - 0, 1 - Lead",
+      "Aspiration Reward - Weather Control Device - 1, 0",
+      "Aspiration Reward - Weather Control Device - 1, 1",
+      "CS - Aspiration Reward - Weather Control Device"
+    ]
   }
 ]
