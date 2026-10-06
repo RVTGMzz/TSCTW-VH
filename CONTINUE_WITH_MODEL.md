@@ -239,3 +239,10 @@ Effective totals: 4,454 maps, 7,650 candidates, 0 missing/review candidate rows,
 Added 22 exact rows for Shaman potion Browse interactions and two Castaway crafting stations, reusing existing menu translations. Exact-value tracing then resolved the reported Examine residue: 11 duplicate light/torch menu rows were promoted because their same-group Cast Menu COM counterparts are already selected. The remaining Use row is a base-game bush urination interaction in a collided instance with pet-cage Cast text and is intentionally left under review until ownership/reachability can be proven.
 
 Effective totals: 4,454 mappings, 7,683 candidates, 0 missing/review candidate rows, 37,504 inherited review rows, 0 parse errors. Exact override guards: 1,015 total. Package QA remains stale; selector runtime source remains unverified; no v0.8 TEST has been released.
+
+
+## Latest consolidated checkpoint — 2026-10-06
+
+Trust Source Audit over older handwritten totals. Current effective source: 4,486 mappings, 7,790 candidate rows, 0 missing/review candidate rows, 37,397 inherited review rows, 0 parse errors; menu 986 translated, catalog 941 translated. Exact row guards: 1,122 total = 772 menu, 271 dialog, 69 catalog, 9 story, 1 tutorial. Physical compressed snapshots still predate 274 pending exact overrides.
+
+Recent parallel batches already cover Ignis Ex Machina/weather reward actions, clear Castaway object interactions, Autumn Leaf Pile, Native Pet Shelter, the second Sanitation Station changing-table menu, and visible household catalog items. Do not redo them. Examine is already resolved by the duplicate light/torch menu override. The remaining Use row is a base-game bush urination interaction with no reliable Castaway ownership and must stay review-only unless new runtime evidence appears. Package QA remains stale (7,502 verified candidates vs 7,790 current); selector runtime source remains unverified; no v0.8 TEST has been released.

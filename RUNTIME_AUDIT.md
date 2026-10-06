@@ -266,3 +266,10 @@ Current effective source totals are 4,454 translation-map entries, 7,650 candida
 Promoted 22 exact Shaman/crafting interaction rows using existing Vietnamese mappings, then traced the two reported English leftovers by exact value. Examine resolves to a duplicate light/torch resource variant backed by same-group Cast Menu COM rows; 11 matching functional rows were promoted. Use resolves to an inherited bush urination interaction with no owner and a collided group containing unrelated pet-cage Cast text, so it remains unresolved pending stronger runtime ownership evidence.
 
 Effective totals: 4,454 maps, 7,683 candidate rows, 0 missing/review candidate rows, 37,504 inherited review rows, 0 parse errors. Package-writer QA is still stale and selector runtime source remains unverified.
+
+
+## Consolidated inherited checkpoint — 2026-10-06
+
+Source Audit now reports 4,486 translation-map entries and 7,790 effective candidate rows with zero missing/review candidate decisions and zero parser errors. The inherited review queue is 37,397 rows. Current translated maps include 986 menu values and 941 catalog values. Exact override inventory is 1,122 guards: 772 menu, 271 dialog, 69 catalog, nine story and one tutorial.
+
+Recent evidence-backed batches include weather/reward interactions, clear Castaway object actions, leaf-pile and native pet-shelter interactions, Sanitation Station changing-table rows, and visible household/catalog items (Average Paws Bedding, mixing/ingredient containers, crib, baking/frying pans). The exact Examine leftover is resolved through the duplicate Castaway light/torch resource; the lone Use leftover is an ownerless base-game bush urination interaction and remains review-only. Package-writer QA and selector runtime verification are still outstanding.
