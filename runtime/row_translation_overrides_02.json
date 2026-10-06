@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131822239,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Click",
+    "description": "!",
+    "vi": "Nhấn",
+    "reason": "Singing Stones are an interactive Castaway minigame; this exact Click action is localized by owning object context without creating a global Click mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131822239,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Click",
+    "description": "!",
+    "vi": "Nhấn",
+    "reason": "Singing Stones are an interactive Castaway minigame; this exact Click action is localized by owning object context without creating a global Click mapping."
+  }
+]

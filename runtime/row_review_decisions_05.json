@@ -1,0 +1,1502 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Finger Wiggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sniff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Give Love.../Hug",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Give Love.../Feed Treat",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Check Collar",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scold",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Praise",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adopt",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean Self",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fight!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pick Up",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Down",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nuzzle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Cat Teaser",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Give Love.../Stroke",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try For Puppy/Kitten",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "Yell At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "Give Love.../Snuggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Play With",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bat Fly",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase Tail",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "Yowl",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run Around",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scratch Stuff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Toss In Air",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pounce",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shoo Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shooed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shoo Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bark At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Finger Wiggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sniff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "Give Love.../Hug",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Growl At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "Give Love.../Feed Treat",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "Check Collar",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scold",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "Praise",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "Adopt",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet.../Sit",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet.../Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean Self",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 75,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 76,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sit",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 77,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fight!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 80,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pick Up",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 81,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Down",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "Nuzzle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Cat Teaser",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "Give Love.../Stroke",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try For Puppy/Kitten",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 87,
+    "status": "excluded",
+    "language": 2,
+    "en": "Yell At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "Give Love.../Snuggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 89,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Play With",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bat Fly",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 91,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase Tail",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 92,
+    "status": "excluded",
+    "language": 2,
+    "en": "Yowl",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 93,
+    "status": "excluded",
+    "language": 2,
+    "en": "Run Around",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 94,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scratch Stuff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 95,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 96,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 99,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Toss In Air",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 100,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pounce",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 102,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shoo Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 103,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 104,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shooed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 105,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shoo Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Challenge!",
+    "description": "",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set To Birthday",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go To Work",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take For A Walk",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Challenge!",
+    "description": "",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Interaction Cancel",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 101,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Interaction Cancel",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Pet.../Sit",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Pet.../Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Translation",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Interaction - Object Menu",
+    "description": "",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 98,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Interaction - Object Menu",
+    "description": "",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Force Aging",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      2,
+      0
+    ],
+    "row": 82,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Force Aging",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140747366,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sniff Butt - 90 Degree",
+    "description": "!",
+    "reason": "Jaguar template inherited EP6/Pets interaction or debug row; vanilla Castaway jaguar is not a normal player-interactable pet, so this exact row is outside player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146760388,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Birthday Cake Box description",
+    "description": "not needed?",
+    "reason": "Birthday Cake Box placeholder description is explicitly marked 'not needed?' and is not player-facing catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146760388,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Birthday Cake Box description",
+    "description": "not needed?",
+    "reason": "Birthday Cake Box placeholder description is explicitly marked 'not needed?' and is not player-facing catalog copy."
+  }
+]
