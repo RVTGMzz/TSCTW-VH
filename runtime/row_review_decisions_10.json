@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "University College Research residue on a Castaway bookcase; not part of Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Teach To Talk",
+    "description": "!!!!!!! Was Teach to Talk. Not needed.",
+    "reason": "Language toy obsolete/debug row explicitly marked not needed, deleted, or debug in source metadata."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Teach To Talk",
+    "description": "!!!!!!! Was teach to Talk - deleted.",
+    "reason": "Language toy obsolete/debug row explicitly marked not needed, deleted, or debug in source metadata."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Learn To Talk",
+    "description": "!!!!!!!Was Teach To Talk.",
+    "reason": "Language toy obsolete/debug row explicitly marked not needed, deleted, or debug in source metadata."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Learn to Speak",
+    "description": "!!!",
+    "reason": "Language toy obsolete/debug row explicitly marked not needed, deleted, or debug in source metadata."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Debug - Learn to Speak",
+    "description": "!!!",
+    "reason": "Language toy obsolete/debug row explicitly marked not needed, deleted, or debug in source metadata."
+  }
+]
