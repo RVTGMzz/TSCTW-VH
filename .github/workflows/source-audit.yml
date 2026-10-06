@@ -54,3 +54,4 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Story Reward" --groups 40 --samples 50
           python src/builder/triage_review_queue.py --type-filter "CTSS" --groups 120 --samples 10
           python src/builder/triage_review_queue.py --object-contains "CS - Autumn Leaf Pile" --groups 10 --samples 100
+          python src/builder/triage_review_queue.py --object-contains "CS - Pet Bed - House - Native" --groups 10 --samples 100
