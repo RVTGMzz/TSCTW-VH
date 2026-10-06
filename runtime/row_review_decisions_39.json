@@ -1,0 +1,347 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Suggest Outfit For...",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Purchase",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Show Item To",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Purchase",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3 / Open for Business retail interaction residue; Castaway Stories does not expose the OFB retail-business system."
+  }
+]
