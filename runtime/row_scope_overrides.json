@@ -28418,5 +28418,449 @@
     "object_names": [
       "CS - Accessory - Pickaxe"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131774216,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Elixir of Life - Shaman Dummy"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131774216,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Elixir of Life - Shaman Dummy"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132033257,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Love Struck - Shaman Station"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132033257,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Love Struck - Shaman Station"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133607930,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Elixir of Life - Shaman Station"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133607930,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Elixir of Life - Shaman Station"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139866839,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Love Struck - Shaman Dummy"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139866839,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Love Struck - Shaman Dummy"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141489114,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Penguin Party - Shaman Dummy"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141489114,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Browse.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "category": "menu",
+    "reason": "Reviewed player-facing Browse interaction on a Castaway Shaman potion object; exact row override. Existing Vietnamese mapping is reused.",
+    "object_names": [
+      "CS - Potion - Penguin Party - Shaman Dummy"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Make One...",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway electronic crafting station; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Electronic Crafting Station",
+      "CS - Crafting - Electronic Crafting Station - 0, 0",
+      "CS - Crafting - Electronic Crafting Station - 0, 1 - Lead",
+      "CS - Crafting - Electronic Crafting Station - 1, 0",
+      "CS - Crafting - Electronic Crafting Station - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Make Many...",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway electronic crafting station; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Electronic Crafting Station",
+      "CS - Crafting - Electronic Crafting Station - 0, 0",
+      "CS - Crafting - Electronic Crafting Station - 0, 1 - Lead",
+      "CS - Crafting - Electronic Crafting Station - 1, 0",
+      "CS - Crafting - Electronic Crafting Station - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Practice",
+    "description": "!!TheSims2EP3 - Batch 5",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway electronic crafting station; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Electronic Crafting Station",
+      "CS - Crafting - Electronic Crafting Station - 0, 0",
+      "CS - Crafting - Electronic Crafting Station - 0, 1 - Lead",
+      "CS - Crafting - Electronic Crafting Station - 1, 0",
+      "CS - Crafting - Electronic Crafting Station - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Scrap",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway electronic crafting station; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Electronic Crafting Station",
+      "CS - Crafting - Electronic Crafting Station - 0, 0",
+      "CS - Crafting - Electronic Crafting Station - 0, 1 - Lead",
+      "CS - Crafting - Electronic Crafting Station - 1, 0",
+      "CS - Crafting - Electronic Crafting Station - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Continue",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway electronic crafting station; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Electronic Crafting Station",
+      "CS - Crafting - Electronic Crafting Station - 0, 0",
+      "CS - Crafting - Electronic Crafting Station - 0, 1 - Lead",
+      "CS - Crafting - Electronic Crafting Station - 1, 0",
+      "CS - Crafting - Electronic Crafting Station - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133278405,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Sell for $",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway electronic crafting station; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Electronic Crafting Station",
+      "CS - Crafting - Electronic Crafting Station - 0, 0",
+      "CS - Crafting - Electronic Crafting Station - 0, 1 - Lead",
+      "CS - Crafting - Electronic Crafting Station - 1, 0",
+      "CS - Crafting - Electronic Crafting Station - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Make One...",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway toy bench; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Toy Bench",
+      "Crafting - Toy Bench - 0, 0",
+      "Crafting - Toy Bench - 0, 1",
+      "Crafting - Toy Bench - 1, 0",
+      "Crafting - Toy Bench - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Make Many...",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway toy bench; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Toy Bench",
+      "Crafting - Toy Bench - 0, 0",
+      "Crafting - Toy Bench - 0, 1",
+      "Crafting - Toy Bench - 1, 0",
+      "Crafting - Toy Bench - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Practice",
+    "description": "!!TheSims2EP3 - Batch 5",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway toy bench; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Toy Bench",
+      "Crafting - Toy Bench - 0, 0",
+      "Crafting - Toy Bench - 0, 1",
+      "Crafting - Toy Bench - 1, 0",
+      "Crafting - Toy Bench - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Scrap",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway toy bench; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Toy Bench",
+      "Crafting - Toy Bench - 0, 0",
+      "Crafting - Toy Bench - 0, 1",
+      "Crafting - Toy Bench - 1, 0",
+      "Crafting - Toy Bench - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Continue",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway toy bench; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Toy Bench",
+      "Crafting - Toy Bench - 0, 0",
+      "Crafting - Toy Bench - 0, 1",
+      "Crafting - Toy Bench - 1, 0",
+      "Crafting - Toy Bench - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146511525,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Sell for $",
+    "description": "!",
+    "category": "menu",
+    "reason": "Reviewed functional player-facing actions on the Castaway toy bench; exact row override. Dynamic Menu stays under review.",
+    "object_names": [
+      "CS - Crafting - Toy Bench",
+      "Crafting - Toy Bench - 0, 0",
+      "Crafting - Toy Bench - 0, 1",
+      "Crafting - Toy Bench - 1, 0",
+      "Crafting - Toy Bench - 1, 1"
+    ]
   }
 ]
