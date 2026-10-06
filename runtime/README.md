@@ -144,3 +144,14 @@ Promoted 52 exact inherited rows after source-evidence review. The first 26-row 
 A second 26-row batch promotes 22 House of Tuzu leaving-neighbor dialog rows (11 mapped messages across both English-language variants) plus four Grand Piano `Join`/`Dance` action rows. The ASPYR nanny developer note and piano `Break`/`Untune` debug-like rows remain unpromoted. Legacy Windows-1252 metadata is preserved byte-for-byte in exact guards rather than normalized.
 
 Exact row guards can now be split across `runtime/row_scope_overrides*.json` shards; audit, validator and triage merge the shards and still reject duplicates or stale source metadata. Source Audit passes at 4,491 mappings, 7,850 effective candidate rows, zero missing/review candidate decisions, 37,337 inherited review rows and zero parser errors. Package-writer QA is still stale at 7,502 verified candidates and must be rerun before release; no in-game test is claimed.
+
+
+### Sweep checkpoint: inherited classification + tutorial recovery (2026-10-06)
+
+The inherited sweep now distinguishes exact translated/promoted rows from exact reviewed exclusions. New `row_review_decisions*.json` shards classify source-guarded debug/internal/stale rows without treating a whole CS-named object as unused. Two conservative classification batches removed 426 obvious inherited rows, followed by 45 Tutorial Controller identifier/helper rows and 18 Seasons/University residue rows. Exact review decisions now total 489 rows.
+
+Player-facing work in the same sweep added the Tiki counter locale repair, Castaway bird-cage `Stock`, two Toy Box catalog variants, Penguin Party warning, Grand Piano catalog text, Pyramid Door `Close Door`, Volcano Juice tap action, Native High Chair `Feed Toddler`, Elixir of Life, additional seating/fridge interactions, and 16 previously unselected `Cast Old FIN` tutorial strings. The tutorial batch preserves original CR/LF signatures and Source Audit passes.
+
+Authoritative effective totals: **4,519 translation mappings, 7,894 candidate rows, zero missing/review candidate rows, 36,804 inherited review rows, zero parse errors**. Current translated category totals include menu 990, catalog 953, dialog 37 and tutorial 142. Exact translation guards total **1,226** = 816 menu + 297 dialog + 87 catalog + nine story + 17 tutorial. Exact inherited review decisions total **489**. The compressed extraction snapshots still predate 378 pending exact promotions; source-only validation is authoritative until the next package extraction.
+
+Package-writer QA remains stale at 7,502 verified candidates versus 7,894 current (392-row gap). Story-selector runtime source remains unverified. No new in-game test or v0.8 TEST release is claimed.

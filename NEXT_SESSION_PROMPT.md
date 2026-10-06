@@ -86,3 +86,12 @@ Package QA for the latest 7,502-row candidate snapshot passed structural round-t
 Trust Source Audit over older totals in this file: 4,491 mappings, 7,850 candidate rows, 0 missing/review candidate rows, 37,337 inherited review rows, 0 parse errors. Exact row guards total 1,182 (802 menu, 293 dialog, 77 catalog, 9 story, 1 tutorial) and may now be split across `runtime/row_scope_overrides*.json`. Latest reviewed batches already cover Castaway toy/chair/diary/clothing/easel interactions plus House of Tuzu leaving-neighbor dialogs and Grand Piano Join/Dance. Do not blindly promote developer/debug rows just because the object name starts with `CS -`.
 
 Package-writer QA is stale at 7,502 verified candidates versus 7,850 current and must be rerun against the user-owned baseline packages before any release claim. Story-selector runtime source is still unverified. No v0.8 TEST and no new in-game validation have been completed.
+
+
+## Current handoff checkpoint — 2026-10-06 inherited classification + tutorial
+
+Trust Source Audit over all older totals: **4,519 translation mappings, 7,894 effective candidate rows, zero missing/review candidate rows, 36,804 inherited review rows, zero parse errors**. Menu has 990 translated values, catalog 953, dialog 37 and tutorial 142.
+
+Exact translation guards total 1,226 rows (816 menu, 297 dialog, 87 catalog, 9 story, 17 tutorial). Exact inherited classification decisions total 489 rows and are stored in `runtime/row_review_decisions*.json`; never replace these with a broad “CS means visible/unused” heuristic. Recent work recovered 16 `Cast Old FIN` Tutorial Controller strings and classified their opaque IDs/helpers separately. Large mixed groups such as `CS - Not Allowed on Floor - Invisible Marker`, Jaguar/Pets templates and duplicated food-stand `Cup O' Ramen` rows remain deliberately unresolved because they mix plausible gameplay with expansion/stale data.
+
+Package-writer QA is stale: 7,502 verified candidates versus 7,894 current. Rerun against the user-owned baseline packages before any release claim. Selector runtime source remains unverified; no v0.8 TEST or new in-game verification exists yet.

@@ -144,8 +144,8 @@
   "status": "stale_after_source_update",
   "verified_commit": "64658bc140104e3cb0362208ab763b3b02d1c1ec",
   "verified_candidate_rows": 7502,
-  "current_candidate_rows": 7850,
+  "current_candidate_rows": 7894,
   "rerun_required": true,
-  "stale_reason": "Three hundred forty-eight exact inherited rows have been promoted after the last package-writer QA (7,850 current candidates versus 7,502 at the verified package-QA snapshot). Source-only validation applies pending exact overrides in memory; rerun check_runtime_packages.py against the user-owned baseline packages before treating package QA as current.",
+  "stale_reason": "Three hundred ninety-two candidate rows have been promoted after the last package-writer QA (7,894 current candidates versus 7,502 at the verified package-QA snapshot). Source-only validation applies pending exact overrides in memory; rerun check_runtime_packages.py against the user-owned baseline packages before treating package QA as current.",
   "source_sha256_note": "These hashes are intentionally retained as provenance for the last structurally verified snapshot. Rerun check_runtime_packages.py before treating package QA as current."
 }
