@@ -4,7 +4,7 @@
   "scope": "Cast localization metadata + exact same-resource English variants + reviewed exact row overrides. Remaining inherited rows are unresolved, not silently excluded.",
   "categories": {
     "catalog": {
-      "translated": 913,
+      "translated": 933,
       "exclude": 7,
       "retain": 5
     },
@@ -16,7 +16,7 @@
       "translated": 36
     },
     "menu": {
-      "translated": 960,
+      "translated": 962,
       "exclude": 6
     },
     "neighborhood": {
@@ -43,10 +43,10 @@
       "translated": 518
     }
   },
-  "translation_map_entries": 4432,
-  "candidate_rows": 7595,
+  "translation_map_entries": 4454,
+  "candidate_rows": 7650,
   "untranslated_or_review_candidate_rows": 0,
-  "untagged_review_rows": 37592,
+  "untagged_review_rows": 37537,
   "parse_errors": 0,
   "selector_runtime_source_verified": false,
   "release_gate": "Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete."
