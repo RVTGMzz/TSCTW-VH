@@ -30630,5 +30630,445 @@
       "CS - Pet Bed - House - Native - 1, 0",
       "CS - Pet Bed - House - Native - 1, 1"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change $Object's Diaper",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Dress.../$Object in Everyday",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Change Diaper .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Dress $Object in Everyday",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Dress $Object in PJs",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Dress.../$Object in PJs",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Put $Object Down",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n$Object is the toddler/baby's name.",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Plan PJ Outfit for.../$Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table. \"$Object\" is toddler's name.",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Plan Everyday Outfit for.../$Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Plan PJ Outfit for $Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Plan Everyday Outfit for $Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Change $Object's Diaper",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Dress.../$Object in Everyday",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Change Diaper .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Dress $Object in Everyday",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Dress $Object in PJs",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 20,
+    "language": 2,
+    "en": "Dress.../$Object in PJs",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 21,
+    "language": 2,
+    "en": "Put $Object Down",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n$Object is the toddler/baby's name.",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 22,
+    "language": 2,
+    "en": "Plan PJ Outfit for.../$Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table. \"$Object\" is toddler's name.",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Plan Everyday Outfit for.../$Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 24,
+    "language": 2,
+    "en": "Plan PJ Outfit for $Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144073853,
+      302,
+      0
+    ],
+    "row": 25,
+    "language": 2,
+    "en": "Plan Everyday Outfit for $Object",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-1\nThis is an interaction for Teens/Adults/Elders to \"Plan Outfit\" for a toddler by clicking on the changing table",
+    "category": "menu",
+    "reason": "Reviewed player-facing changing-table interaction on the Castaway Sanitation Station. Catalog title/description is selected Castaway text; EP7 Outerwear rows remain review-only.",
+    "object_names": [
+      "CS - Changing Table",
+      "Changing Table - 0,0",
+      "Changing Table - 1,0"
+    ]
   }
 ]
