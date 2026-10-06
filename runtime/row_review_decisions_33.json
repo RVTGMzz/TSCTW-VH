@@ -1,0 +1,2372 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131165863,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142205490,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142205490,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Positve 1",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142205490,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Positive 2",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142205490,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Positive 3",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142205490,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Negative 1",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142205490,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Negative 2",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142205490,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Negative 3",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144416236,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145307213,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Look At",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutorial Arrow",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Disable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enable Zoom",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Zoom Out",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Tutorial Task List",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build Mode Test",
+    "description": "!",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146827942,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Look At",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Invisible story/tutorial controller template, routing, monitor or helper action; not player-facing Castaway text."
+  }
+]
