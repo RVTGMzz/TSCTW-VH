@@ -2,316 +2,331 @@
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1414807923,
-      2145453426,
-      3,
+      1398034979,
+      2144627920,
+      301,
       0
     ],
-    "row": 0,
-    "category": "menu",
+    "row": 61,
+    "category": "story",
     "language": 1,
-    "en": "Browse",
-    "description": "The Sims 2 - Needs Translation - Batch19",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      3,
-      0
-    ],
-    "row": 12,
-    "category": "menu",
-    "language": 2,
-    "en": "Browse",
-    "description": "The Sims 2 - Needs Translation - Batch19",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      3,
-      0
-    ],
-    "row": 3,
-    "category": "menu",
-    "language": 1,
-    "en": "Ask To Join",
-    "description": "Sims2EP3 - Batch 8",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      3,
-      0
-    ],
-    "row": 6,
-    "category": "menu",
-    "language": 1,
-    "en": "Browse",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      3,
-      0
-    ],
-    "row": 9,
-    "category": "menu",
-    "language": 1,
-    "en": "Buy",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      3,
-      0
-    ],
-    "row": 10,
-    "category": "menu",
-    "language": 1,
-    "en": "Suggest Outfit For...",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      2,
-      0
-    ],
-    "row": 3,
-    "category": "menu",
-    "language": 1,
-    "en": "Dress for Work",
-    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nmissed in earlier batch",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 0,
-    "category": "menu",
-    "language": 1,
-    "en": "Browse",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 1,
-    "category": "menu",
-    "language": 1,
-    "en": "Buy",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 2,
-    "category": "menu",
-    "language": 1,
-    "en": "Browse",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 4,
-    "category": "menu",
-    "language": 1,
-    "en": "Purchase",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 8,
-    "category": "menu",
-    "language": 2,
-    "en": "Browse",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 9,
-    "category": "menu",
-    "language": 2,
-    "en": "Buy",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 10,
-    "category": "menu",
-    "language": 2,
-    "en": "Browse",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2145453426,
-      4,
-      0
-    ],
-    "row": 12,
-    "category": "menu",
-    "language": 2,
-    "en": "Purchase",
-    "description": "The Sims2EP3 - Batch 5",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "en": "Uh... what happened?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2145453426,
-      302,
+      2144627920,
+      301,
       0
     ],
-    "row": 18,
-    "category": "menu",
+    "row": 62,
+    "category": "story",
     "language": 1,
-    "en": "Try On.../Everyday Outfit 3",
-    "description": "!",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "en": "Where am I? This place doesn't look like any of the pictures in my brochure for Club Meet Your Mate.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2145453426,
-      302,
+      2144627920,
+      301,
       0
     ],
-    "row": 25,
-    "category": "menu",
+    "row": 63,
+    "category": "story",
     "language": 1,
-    "en": "Buy.../Everyday Outfit 2",
-    "description": "!",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "en": "What's that over there?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2145453426,
-      302,
+      2144627920,
+      301,
       0
     ],
-    "row": 26,
-    "category": "menu",
+    "row": 64,
+    "category": "story",
     "language": 1,
-    "en": "Buy.../Everyday Outfit 3",
-    "description": "!",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "en": "A hatchet? I hope this will come in handy. I wonder what else has washed up.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2145453426,
-      302,
+      2144627920,
+      301,
       0
     ],
-    "row": 90,
-    "category": "menu",
-    "language": 2,
-    "en": "Try On.../Casual Outfit 3",
-    "description": "!",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "row": 65,
+    "category": "story",
+    "language": 1,
+    "en": "I'll comb the beach for anything else that might be useful.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2145453426,
-      302,
+      2144627920,
+      301,
       0
     ],
-    "row": 97,
-    "category": "menu",
-    "language": 2,
-    "en": "Buy.../Casual Outfit 2",
-    "description": "!",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "row": 66,
+    "category": "story",
+    "language": 1,
+    "en": "It's a steamer trunk from the ship.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2145453426,
-      302,
+      2144627920,
+      301,
       0
     ],
-    "row": 98,
-    "category": "menu",
-    "language": 2,
-    "en": "Buy.../Casual Outfit 3",
-    "description": "!",
-    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+    "row": 67,
+    "category": "story",
+    "language": 1,
+    "en": "I need a nice flat spot to put this trunk on so I can open it. Maybe it's full of cell phones... or signal flares!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 71,
+    "category": "story",
+    "language": 1,
+    "en": "Whew! That's hard work for a snack. At least I have some supplies in the steamer trunk now. Hmm, now what should I do?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 72,
+    "category": "story",
+    "language": 1,
+    "en": "A fire will be essential to my survival here. I need to chop some wood.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 73,
+    "category": "story",
+    "language": 1,
+    "en": "Where there's wood, there's a way -- to make fire.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 75,
+    "category": "story",
+    "language": 1,
+    "en": "I did it! I have rediscovered fire!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 76,
+    "category": "story",
+    "language": 1,
+    "en": "Oh, great... I need to make some type of shelter.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 77,
+    "category": "story",
+    "language": 1,
+    "en": "The Salvage Breezecatcher Sleeper and Seater, it's a quaint, yet outdoorsy shelter with a view. It'll work for now.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 78,
+    "category": "story",
+    "language": 1,
+    "en": "I should get some sleep. It's not like I'm going to miss out on a raging party.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 79,
+    "category": "story",
+    "language": 1,
+    "en": "That hit the spot! I should get some more for later.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 80,
+    "category": "story",
+    "language": 1,
+    "en": "I hope this is all just a big, elaborate practical joke. Maybe I'm being Skunk'd.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 81,
+    "category": "story",
+    "language": 1,
+    "en": "That looks like my cruise ship! I... I remember boarding. It was empty, I was tired. I fell asleep and woke up here.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 82,
+    "category": "story",
+    "language": 1,
+    "en": "Others obviously boarded the ship at some point. Did they make it? Could they be here? I can't think about that now.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 83,
+    "category": "story",
+    "language": 1,
+    "en": "I'm so lonely... I know... I'll write in my diary when it gets too bad. It beats talking to myself all day and night.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 84,
+    "category": "story",
+    "language": 1,
+    "en": "I'll call this place... Felicity Island. Surely nothing bad can happen in a place with a name like Felicity.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 88,
+    "category": "story",
+    "language": 1,
+    "en": "This trunk will be a great place to keep my supplies. I need supplies.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 89,
+    "category": "story",
+    "language": 1,
+    "en": "Speaking of supplies, I'm parched. I need something to drink. A good stiff juice would be great right about now.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing female Chapter 1 story line; exact inherited row reuses existing story translation."
   }
 ]
