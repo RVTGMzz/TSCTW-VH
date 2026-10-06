@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135796838,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Toybox",
+    "description": "",
+    "reason": "Player-facing Catalog strings on the Castaway toy box."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135796838,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "There be toys there!",
+    "description": "",
+    "reason": "Player-facing Catalog strings on the Castaway toy box."
+  }
+]
