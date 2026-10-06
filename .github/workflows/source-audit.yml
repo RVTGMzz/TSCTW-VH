@@ -63,3 +63,7 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Pet - Contained Pet - Bird Cage" --groups 4 --samples 80
           python src/builder/triage_review_queue.py --object-contains "CS - Career - Hydroponic Garden" --groups 4 --samples 120
           python src/builder/triage_review_queue.py --object-contains "CS - Fridge - Cheap" --groups 4 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "CS - Urn - Ghost" --groups 6 --samples 220
+          python src/builder/triage_review_queue.py --object-contains "CS - Outdoor - Singing Stone" --groups 8 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "CS - Not Allowed on Floor - Invisible Marker" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "CS - Controller - Temperature Receptivity" --groups 10 --samples 220
