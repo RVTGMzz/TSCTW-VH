@@ -1,0 +1,317 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "You've reached the maximum number of skill points!",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing skill-cap/body-skill feedback in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of Body skill from swimming in the pool!",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing skill-cap/body-skill feedback in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 2,
+    "en": "You've reached the maximum number of skill points!",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing skill-cap/body-skill feedback in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of Body skill from swimming in the pool!",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing skill-cap/body-skill feedback in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Alas, it looks as though the great equalizer has taken its toll, as everyone in this household appears to have died. But there's no reason to allow this now empty house to remain empty! You can move in a new family. That's the way your Sims would have wanted it, don't you think?",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "The Finale",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n Header for dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Death. What can really be said about Death? Well, for one, he's a Taurus. He also enjoys long and windy walks on the beach. He describes himself as a horse lover, and prefers a lady on a pale horse to one in an overpriced SUV. But he notes that any interested parties should be gravely serious about starting new relationships, and that bringing along three friends for the other members of the apocalypse would be a preferable first date environment.",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 2,
+    "en": "Alas, it looks as though the great equalizer has taken its toll, as everyone in this household appears to have died. But there's no reason to allow this now empty house to remain empty! You can move in a new family. That's the way your Sims would have wanted it, don't you think?",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 2,
+    "en": "The Finale",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n Header for dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 2,
+    "en": "Death. What can really be said about Death? Well, for one, he's a Taurus. He also enjoys long and windy walks on the beach. He describes himself as a horse lover, and prefers a lady on a pale horse to one in an overpriced SUV. But he notes that any interested parties should be gravely serious about starting new relationships, and that bringing along three friends for the other members of the apocalypse would be a preferable first date environment.",
+    "description": "The Sims 2 - Needs Translation - Batch 23\n dialog that appears when everyone in household is dead.",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "Well, it looks like all of your Sims have died on the lot.  Now what?  Well, you can always exit this lot without saving.  That way, the next time you load this lot, you will return to your last save point.  Or, you can wait until the ghost of your beloved Sim returns home.  The choice is yours.",
+    "description": "The Sims2 EP3 - Batch 10\nneeds re-translation",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134917763,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 2,
+    "en": "Well, it looks like all of your Sims have died on the lot.  Now what?  Well, you can always exit this lot without saving.  That way, the next time you load this lot, you will return to your last save point.  Or, you can wait until the ghost of your beloved Sim returns home.  The choice is yours.",
+    "description": "The Sims2 EP3 - Batch 10\nneeds re-translation",
+    "reason": "Player-facing Grim Reaper/all-household-dead dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134917763,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "object",
+    "language": 1,
+    "en": "Grim Reaper",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n",
+    "reason": "Player-visible Grim Reaper object/NPC text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134917763,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "object",
+    "language": 1,
+    "en": "Education: BA Human Development, University of Hawaii\nFavorite Band: Styx\nShort Piers: I like it when you take long walks.\n",
+    "description": "",
+    "reason": "Player-visible Grim Reaper object/NPC text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131856463,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "object",
+    "language": 1,
+    "en": "Social Worker",
+    "description": "The Sims 2 - Needs Translation - Batch19\n\nDescription: This is the name of the NPC and what the player sees when mousing over him/her.",
+    "reason": "Player-visible Social Worker NPC mouseover name."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146760428,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "object",
+    "language": 1,
+    "en": "I've earned more than any Sim I ever heard of! Just call me Moneybags!",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-visible wealth memory description in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146760428,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "object",
+    "language": 2,
+    "en": "I've earned more than any Sim I ever heard of! Just call me Moneybags!",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-visible wealth memory description in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130788179,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "object",
+    "language": 1,
+    "en": "Socking it away makes me feel so good. And I earned it all myself!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-visible wealth memory description in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134150832,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "object",
+    "language": 1,
+    "en": "Hear that sweet sound? That's the dough just rollin' in! Can I bring it home or what?",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-visible wealth memory description in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134306245,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "object",
+    "language": 1,
+    "en": "I'm really starting to turn into a moneymaking monster! Now what else can I do to really turn up the cash?",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-visible wealth memory description in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136837635,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "object",
+    "language": 1,
+    "en": "Who knew a Sim could make this much money? I've practically got it coming out of my ears!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-visible wealth memory description in Castaway Free Play."
+  }
+]

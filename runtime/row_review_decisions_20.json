@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! You've gained a skill point!",
+    "description": "!!!This was the generic skill dialog. Should not see in game.",
+    "reason": "Badge Tracker source explicitly marks this generic skill notification as 'Should not see in game'."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139921429,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! You've gained a Cleaning skill point!",
+    "description": "!!!This was the generic skill dialog. Should not see in game.",
+    "reason": "Badge Tracker source explicitly marks this generic skill notification as 'Should not see in game'."
+  }
+]
