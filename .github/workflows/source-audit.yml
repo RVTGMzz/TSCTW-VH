@@ -46,6 +46,7 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Potty Chair" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - High Chair - Plastic" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "Reward" --groups 120 --samples 30
+          python src/builder/triage_review_queue.py --object-contains "Weather Control Device" --groups 10 --samples 100
           python src/builder/triage_review_queue.py --object-contains "Steamer Trunk" --groups 40 --samples 50
           python src/builder/triage_review_queue.py --object-contains "Hatchet" --groups 40 --samples 50
           python src/builder/triage_review_queue.py --object-contains "Pickaxe" --groups 40 --samples 50
