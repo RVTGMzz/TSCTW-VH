@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141489114,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Pick Up",
+    "description": "",
+    "reason": "Player-facing Pick Up action on Penguin Party potion dummy; exact inherited language row reuses existing menu translation."
+  }
+]

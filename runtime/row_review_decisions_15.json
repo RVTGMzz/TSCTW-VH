@@ -1,0 +1,167 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130713634,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130713634,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131021545,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131021545,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131888159,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131888159,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132913230,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132913230,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133773365,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133773365,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Accessory/animation prop TTAs row; Repair on held tool/totem prop is not the player-facing inventory/reward object interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134583391,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Yoga",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Yoga inherited on Tiki coffee-table resource; not an object interaction exposed by the Castaway coffee table."
+  }
+]
