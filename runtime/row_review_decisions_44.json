@@ -1,0 +1,392 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Drown",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Elect",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Starv",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Fire",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Create Ghost",
+    "description": "!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Old Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Disease",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mourn Debug",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Flies",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Fright",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Death Type.../Satelite",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Drown",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Elect",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Starv",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Fire",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 2,
+    "en": "Create Ghost",
+    "description": "!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Old Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Disease",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mourn Debug",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Flies",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Fright",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134423719,
+      1,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Death Type.../Satelite",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Internal death-state/ghost debug interaction table; not normal player-facing Castaway gameplay localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pet Debug.../Sit",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Explicit Pet Debug interaction inherited from Sims 2 EP6/Pets; developer-only menu, not player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pet Debug.../Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Explicit Pet Debug interaction inherited from Sims 2 EP6/Pets; developer-only menu, not player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet Debug.../Sit",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Explicit Pet Debug interaction inherited from Sims 2 EP6/Pets; developer-only menu, not player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet Debug.../Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Explicit Pet Debug interaction inherited from Sims 2 EP6/Pets; developer-only menu, not player-facing Castaway gameplay."
+  }
+]
