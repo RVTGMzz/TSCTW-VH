@@ -1,0 +1,98 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131772592,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Cup O' Ramen",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3\nNew food (noodles) that Sims can make in microwave and on stove.",
+    "vi": "Cá Mahi-Mahi",
+    "reason": "Exact Castaway food-stand catalog row; inherited Cup O' Ramen placeholder must be localized by owning object context."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131772592,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "This is a delicious Cup O Ramen soup. Looks tasty!",
+    "description": "TheSims2EP3 - Batch 4 Description",
+    "vi": "Cá mahi-mahi thơm ngon đậm vị biển đảo. Nhìn thôi là bụng réo rồi!",
+    "reason": "Exact Castaway Mahi-Mahi food-stand description; source is a stale Cup O' Ramen placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135174752,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Cup O' Ramen",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3\nNew food (noodles) that Sims can make in microwave and on stove.",
+    "vi": "Sườn Nhiệt Đới",
+    "reason": "Exact Castaway food-stand catalog row; inherited Cup O' Ramen placeholder must be localized by owning object context."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135174752,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "This is a delicious Cup O Ramen soup. Looks tasty!",
+    "description": "TheSims2EP3 - Batch 4 Description",
+    "vi": "Sườn nướng đậm vị nhiệt đới, thơm lừng tới mức đứng xa cũng nghe bụng réo.",
+    "reason": "Exact Castaway Tropical Ribs food-stand description; source is a stale Cup O' Ramen placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146506197,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Cup O' Ramen",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3\nNew food (noodles) that Sims can make in microwave and on stove.",
+    "vi": "Dứa Bất Ngờ",
+    "reason": "Exact Castaway food-stand catalog row; inherited Cup O' Ramen placeholder must be localized by owning object context."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146506197,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "This is a delicious Cup O Ramen soup. Looks tasty!",
+    "description": "TheSims2EP3 - Batch 4 Description",
+    "vi": "Món dứa nhiệt đới ngọt thơm, còn điều bất ngờ là gì thì... ăn thử đi rồi biết!",
+    "reason": "Exact Castaway Pineapple Surprise food-stand description; source is a stale Cup O' Ramen placeholder."
+  }
+]
