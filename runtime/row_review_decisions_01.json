@@ -1,0 +1,3977 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk Across/Success Extreme",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk Across/Success",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk Across/Fail A",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk Across/Fail B",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk Across/Success Extreme",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk Across/Success",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk Across/Fail A",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136171694,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Walk Across/Fail B",
+    "description": "!!!!Cast Menu INC",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Hot Coals', 'CS - Outdoor - Hot Coals 0,0', 'CS - Outdoor - Hot Coals 0,1', 'CS - Outdoor - Hot Coals 0,2', 'CS - Outdoor - Hot Coals 0,3', 'CS - Outdoor - Hot Coals 0,4', 'CS - Outdoor - Hot Coals 0,5 Lead', 'CS - Outdoor - Hot Coals 1,0', 'CS - Outdoor - Hot Coals 1,1', 'CS - Outdoor - Hot Coals 1,2', 'CS - Outdoor - Hot Coals 1,3', 'CS - Outdoor - Hot Coals 1,4', 'CS - Outdoor - Hot Coals 1,5']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register is hidden",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify please; $Local:0 is a variable.",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register is hidden",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify please; $Local:0 is a variable.",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register is out of world",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "My Render alpha is 0",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "I exist",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register is out of world",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "My Render alpha is 0",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132703205,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "I exist",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Stone Cash Register - Castaway']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register is hidden",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify please; $Local:0 is a variable.",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register is hidden",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify please; $Local:0 is a variable.",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register is out of world",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "My Render alpha is 0",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "I exist",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register is out of world",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "My Render alpha is 0",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133611370,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "I exist",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Cash Register']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136158296,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Model",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Pirate Ship', 'Pirate Ship - 0, 0, 0', 'Pirate Ship - 0, 1, 0', 'Pirate Ship - 0, 2, 0 ', 'Pirate Ship - 0, 3, 0 ', 'Pirate Ship - 0, 4, 0', 'Pirate Ship - 0, 5, 0', 'Pirate Ship - 0, 6, 0', 'Pirate Ship - 0, 7, 0', 'Pirate Ship - 0, 8, 0', 'Pirate Ship - 1, 0, 0', 'Pirate Ship - 1, 1, 0', 'Pirate Ship - 1, 2, 0', 'Pirate Ship - 1, 3, 2', 'Pirate Ship - 1, 4, 2', 'Pirate Ship - 1, 5, 2', 'Pirate Ship - 1, 7, 0', 'Pirate Ship - 1, 8, 0', 'Pirate Ship - 10, 0, 0', 'Pirate Ship - 10, 1, 0', 'Pirate Ship - 10, 1, 1', 'Pirate Ship - 10, 2, 0', 'Pirate Ship - 10, 2, 1', 'Pirate Ship - 10, 3, 1', 'Pirate Ship - 10, 4, 1', 'Pirate Ship - 10, 5, 1', 'Pirate Ship - 10, 6, 1', 'Pirate Ship - 10, 7, 0', 'Pirate Ship - 10, 7, 1', 'Pirate Ship - 10, 8, 0', 'Pirate Ship - 11, 0, 0', 'Pirate Ship - 11, 1, 0', 'Pirate Ship - 11, 1, 1', 'Pirate Ship - 11, 2, 0', 'Pirate Ship - 11, 2, 1', 'Pirate Ship - 11, 3, 1', 'Pirate Ship - 11, 4, 1', 'Pirate Ship - 11, 5, 1', 'Pirate Ship - 11, 6, 1', 'Pirate Ship - 11, 7, 0', 'Pirate Ship - 11, 7, 1', 'Pirate Ship - 11, 8, 0', 'Pirate Ship - 12, 0, 0', 'Pirate Ship - 12, 1, 0', 'Pirate Ship - 12, 1, 1', 'Pirate Ship - 12, 2, 0', 'Pirate Ship - 12, 2, 1', 'Pirate Ship - 12, 3, 1', 'Pirate Ship - 12, 4, 1', 'Pirate Ship - 12, 5, 1', 'Pirate Ship - 12, 6, 1', 'Pirate Ship - 12, 7, 0', 'Pirate Ship - 12, 7, 1', 'Pirate Ship - 12, 8, 0', 'Pirate Ship - 13, 0, 0', 'Pirate Ship - 13, 1, 0', 'Pirate Ship - 13, 1, 1', 'Pirate Ship - 13, 2, 0', 'Pirate Ship - 13, 2, 1', 'Pirate Ship - 13, 3, 1', 'Pirate Ship - 13, 4, 1', 'Pirate Ship - 13, 5, 1', 'Pirate Ship - 13, 6, 1', 'Pirate Ship - 13, 7, 0', 'Pirate Ship - 13, 7, 1', 'Pirate Ship - 13, 8, 0', 'Pirate Ship - 14, 0, 0', 'Pirate Ship - 14, 0, 1', 'Pirate Ship - 14, 1, 0', 'Pirate Ship - 14, 1, 1', 'Pirate Ship - 14, 2, 0', 'Pirate Ship - 14, 2, 1', 'Pirate Ship - 14, 3, 1', 'Pirate Ship - 14, 4, 1', 'Pirate Ship - 14, 5, 1', 'Pirate Ship - 14, 6, 1', 'Pirate Ship - 14, 7, 0', 'Pirate Ship - 14, 7, 1', 'Pirate Ship - 14, 8, 0', 'Pirate Ship - 14, 8, 1', 'Pirate Ship - 15, 0, 0', 'Pirate Ship - 15, 1, 0', 'Pirate Ship - 15, 1, 1', 'Pirate Ship - 15, 2, 0', 'Pirate Ship - 15, 2, 1', 'Pirate Ship - 15, 3, 1', 'Pirate Ship - 15, 4, 1', 'Pirate Ship - 15, 5, 1', 'Pirate Ship - 15, 6, 1', 'Pirate Ship - 15, 7, 0', 'Pirate Ship - 15, 7, 1', 'Pirate Ship - 15, 8, 0', 'Pirate Ship - 15, 8, 1 - Slot Table 1', 'Pirate Ship - 16, 0, 0', 'Pirate Ship - 16, 1, 0', 'Pirate Ship - 16, 2, 0', 'Pirate Ship - 16, 7, 0', 'Pirate Ship - 16, 8, 0', 'Pirate Ship - 17, 0, 0', 'Pirate Ship - 17, 1, 0', 'Pirate Ship - 17, 2, 0', 'Pirate Ship - 17, 7, 0', 'Pirate Ship - 17, 8, 0', 'Pirate Ship - 18, 0, 0', 'Pirate Ship - 18, 1, 0', 'Pirate Ship - 18, 2, 0', 'Pirate Ship - 18, 7, 0', 'Pirate Ship - 18, 8, 0', 'Pirate Ship - 19, 0, 0', 'Pirate Ship - 19, 1, 0', 'Pirate Ship - 19, 2, 0', 'Pirate Ship - 19, 7, 0', 'Pirate Ship - 19, 8, 0', 'Pirate Ship - 2, 0, 0', 'Pirate Ship - 2, 1, 0', 'Pirate Ship - 2, 2, 0', 'Pirate Ship - 2, 2, 2', 'Pirate Ship - 2, 3, 2', 'Pirate Ship - 2, 4, 2', 'Pirate Ship - 2, 5, 2', 'Pirate Ship - 2, 6, 2', 'Pirate Ship - 2, 7, 0', 'Pirate Ship - 2, 8, 0', 'Pirate Ship - 20, 0, 0', 'Pirate Ship - 20, 1, 0', 'Pirate Ship - 20, 2, 0', 'Pirate Ship - 20, 7, 0', 'Pirate Ship - 20, 8, 0 - Lead', 'Pirate Ship - 21, 0, 0', 'Pirate Ship - 21, 1, 0', 'Pirate Ship - 21, 2, 0', 'Pirate Ship - 21, 7, 0', 'Pirate Ship - 21, 8, 0', 'Pirate Ship - 22, 0, 0', 'Pirate Ship - 22, 1, 0', 'Pirate Ship - 22, 2, 0', 'Pirate Ship - 22, 7, 0', 'Pirate Ship - 22, 8, 0', 'Pirate Ship - 23, 0, 0', 'Pirate Ship - 23, 1, 0', 'Pirate Ship - 23, 2, 0', 'Pirate Ship - 23, 7, 0', 'Pirate Ship - 23, 8, 0', 'Pirate Ship - 24, 0, 0', 'Pirate Ship - 24, 1, 0', 'Pirate Ship - 24, 2, 0', 'Pirate Ship - 24, 7, 0', 'Pirate Ship - 24, 8, 0', 'Pirate Ship - 25, 0, 0', 'Pirate Ship - 25, 1, 0', 'Pirate Ship - 25, 2, 0', 'Pirate Ship - 25, 3, 0', 'Pirate Ship - 25, 4, 0', 'Pirate Ship - 25, 5, 0', 'Pirate Ship - 25, 6, 0', 'Pirate Ship - 25, 7, 0', 'Pirate Ship - 25, 8, 0', 'Pirate Ship - 3, 0, 0', 'Pirate Ship - 3, 1, 0', 'Pirate Ship - 3, 2, 0', 'Pirate Ship - 3, 2, 2', 'Pirate Ship - 3, 3, 2', 'Pirate Ship - 3, 4, 2', 'Pirate Ship - 3, 5, 2', 'Pirate Ship - 3, 6, 2', 'Pirate Ship - 3, 7, 0', 'Pirate Ship - 3, 8, 0', 'Pirate Ship - 4, 0, 0', 'Pirate Ship - 4, 1, 0', 'Pirate Ship - 4, 1, 2', 'Pirate Ship - 4, 2, 0', 'Pirate Ship - 4, 2, 2', 'Pirate Ship - 4, 3, 2', 'Pirate Ship - 4, 4, 2', 'Pirate Ship - 4, 5, 2', 'Pirate Ship - 4, 6, 2', 'Pirate Ship - 4, 7, 0', 'Pirate Ship - 4, 7, 2', 'Pirate Ship - 4, 8, 0', 'Pirate Ship - 5, 0, 0', 'Pirate Ship - 5, 1, 0', 'Pirate Ship - 5, 1, 2', 'Pirate Ship - 5, 2, 0', 'Pirate Ship - 5, 2, 2', 'Pirate Ship - 5, 3, 2', 'Pirate Ship - 5, 4, 1', 'Pirate Ship - 5, 4, 2', 'Pirate Ship - 5, 5, 2', 'Pirate Ship - 5, 6, 2', 'Pirate Ship - 5, 7, 0', 'Pirate Ship - 5, 7, 2', 'Pirate Ship - 5, 8, 0', 'Pirate Ship - 6, 0, 0', 'Pirate Ship - 6, 1, 0', 'Pirate Ship - 6, 1, 2', 'Pirate Ship - 6, 2, 0', 'Pirate Ship - 6, 2, 2', 'Pirate Ship - 6, 3, 2', 'Pirate Ship - 6, 4, 1', 'Pirate Ship - 6, 4, 2 - Slot Table 2', 'Pirate Ship - 6, 5, 2', 'Pirate Ship - 6, 6, 2', 'Pirate Ship - 6, 7, 0', 'Pirate Ship - 6, 7, 2', 'Pirate Ship - 6, 8, 0', 'Pirate Ship - 7, 0, 0', 'Pirate Ship - 7, 1, 0', 'Pirate Ship - 7, 1, 1', 'Pirate Ship - 7, 2, 0', 'Pirate Ship - 7, 2, 1', 'Pirate Ship - 7, 3, 1', 'Pirate Ship - 7, 4, 1', 'Pirate Ship - 7, 5, 1', 'Pirate Ship - 7, 6, 1', 'Pirate Ship - 7, 7, 0', 'Pirate Ship - 7, 7, 1', 'Pirate Ship - 7, 8, 0', 'Pirate Ship - 8, 0, 0', 'Pirate Ship - 8, 1, 0', 'Pirate Ship - 8, 1, 1', 'Pirate Ship - 8, 2, 0', 'Pirate Ship - 8, 2, 1', 'Pirate Ship - 8, 3, 1', 'Pirate Ship - 8, 4, 1', 'Pirate Ship - 8, 5, 1', 'Pirate Ship - 8, 6, 1', 'Pirate Ship - 8, 7, 0', 'Pirate Ship - 8, 7, 1', 'Pirate Ship - 8, 8, 0', 'Pirate Ship - 9, 0, 0', 'Pirate Ship - 9, 1, 0', 'Pirate Ship - 9, 1, 1', 'Pirate Ship - 9, 2, 0', 'Pirate Ship - 9, 2, 1', 'Pirate Ship - 9, 3, 1', 'Pirate Ship - 9, 4, 1', 'Pirate Ship - 9, 5, 1', 'Pirate Ship - 9, 6, 1', 'Pirate Ship - 9, 7, 0', 'Pirate Ship - 9, 7, 1', 'Pirate Ship - 9, 8, 0']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136158296,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skate",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!EP7 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Pirate Ship', 'Pirate Ship - 0, 0, 0', 'Pirate Ship - 0, 1, 0', 'Pirate Ship - 0, 2, 0 ', 'Pirate Ship - 0, 3, 0 ', 'Pirate Ship - 0, 4, 0', 'Pirate Ship - 0, 5, 0', 'Pirate Ship - 0, 6, 0', 'Pirate Ship - 0, 7, 0', 'Pirate Ship - 0, 8, 0', 'Pirate Ship - 1, 0, 0', 'Pirate Ship - 1, 1, 0', 'Pirate Ship - 1, 2, 0', 'Pirate Ship - 1, 3, 2', 'Pirate Ship - 1, 4, 2', 'Pirate Ship - 1, 5, 2', 'Pirate Ship - 1, 7, 0', 'Pirate Ship - 1, 8, 0', 'Pirate Ship - 10, 0, 0', 'Pirate Ship - 10, 1, 0', 'Pirate Ship - 10, 1, 1', 'Pirate Ship - 10, 2, 0', 'Pirate Ship - 10, 2, 1', 'Pirate Ship - 10, 3, 1', 'Pirate Ship - 10, 4, 1', 'Pirate Ship - 10, 5, 1', 'Pirate Ship - 10, 6, 1', 'Pirate Ship - 10, 7, 0', 'Pirate Ship - 10, 7, 1', 'Pirate Ship - 10, 8, 0', 'Pirate Ship - 11, 0, 0', 'Pirate Ship - 11, 1, 0', 'Pirate Ship - 11, 1, 1', 'Pirate Ship - 11, 2, 0', 'Pirate Ship - 11, 2, 1', 'Pirate Ship - 11, 3, 1', 'Pirate Ship - 11, 4, 1', 'Pirate Ship - 11, 5, 1', 'Pirate Ship - 11, 6, 1', 'Pirate Ship - 11, 7, 0', 'Pirate Ship - 11, 7, 1', 'Pirate Ship - 11, 8, 0', 'Pirate Ship - 12, 0, 0', 'Pirate Ship - 12, 1, 0', 'Pirate Ship - 12, 1, 1', 'Pirate Ship - 12, 2, 0', 'Pirate Ship - 12, 2, 1', 'Pirate Ship - 12, 3, 1', 'Pirate Ship - 12, 4, 1', 'Pirate Ship - 12, 5, 1', 'Pirate Ship - 12, 6, 1', 'Pirate Ship - 12, 7, 0', 'Pirate Ship - 12, 7, 1', 'Pirate Ship - 12, 8, 0', 'Pirate Ship - 13, 0, 0', 'Pirate Ship - 13, 1, 0', 'Pirate Ship - 13, 1, 1', 'Pirate Ship - 13, 2, 0', 'Pirate Ship - 13, 2, 1', 'Pirate Ship - 13, 3, 1', 'Pirate Ship - 13, 4, 1', 'Pirate Ship - 13, 5, 1', 'Pirate Ship - 13, 6, 1', 'Pirate Ship - 13, 7, 0', 'Pirate Ship - 13, 7, 1', 'Pirate Ship - 13, 8, 0', 'Pirate Ship - 14, 0, 0', 'Pirate Ship - 14, 0, 1', 'Pirate Ship - 14, 1, 0', 'Pirate Ship - 14, 1, 1', 'Pirate Ship - 14, 2, 0', 'Pirate Ship - 14, 2, 1', 'Pirate Ship - 14, 3, 1', 'Pirate Ship - 14, 4, 1', 'Pirate Ship - 14, 5, 1', 'Pirate Ship - 14, 6, 1', 'Pirate Ship - 14, 7, 0', 'Pirate Ship - 14, 7, 1', 'Pirate Ship - 14, 8, 0', 'Pirate Ship - 14, 8, 1', 'Pirate Ship - 15, 0, 0', 'Pirate Ship - 15, 1, 0', 'Pirate Ship - 15, 1, 1', 'Pirate Ship - 15, 2, 0', 'Pirate Ship - 15, 2, 1', 'Pirate Ship - 15, 3, 1', 'Pirate Ship - 15, 4, 1', 'Pirate Ship - 15, 5, 1', 'Pirate Ship - 15, 6, 1', 'Pirate Ship - 15, 7, 0', 'Pirate Ship - 15, 7, 1', 'Pirate Ship - 15, 8, 0', 'Pirate Ship - 15, 8, 1 - Slot Table 1', 'Pirate Ship - 16, 0, 0', 'Pirate Ship - 16, 1, 0', 'Pirate Ship - 16, 2, 0', 'Pirate Ship - 16, 7, 0', 'Pirate Ship - 16, 8, 0', 'Pirate Ship - 17, 0, 0', 'Pirate Ship - 17, 1, 0', 'Pirate Ship - 17, 2, 0', 'Pirate Ship - 17, 7, 0', 'Pirate Ship - 17, 8, 0', 'Pirate Ship - 18, 0, 0', 'Pirate Ship - 18, 1, 0', 'Pirate Ship - 18, 2, 0', 'Pirate Ship - 18, 7, 0', 'Pirate Ship - 18, 8, 0', 'Pirate Ship - 19, 0, 0', 'Pirate Ship - 19, 1, 0', 'Pirate Ship - 19, 2, 0', 'Pirate Ship - 19, 7, 0', 'Pirate Ship - 19, 8, 0', 'Pirate Ship - 2, 0, 0', 'Pirate Ship - 2, 1, 0', 'Pirate Ship - 2, 2, 0', 'Pirate Ship - 2, 2, 2', 'Pirate Ship - 2, 3, 2', 'Pirate Ship - 2, 4, 2', 'Pirate Ship - 2, 5, 2', 'Pirate Ship - 2, 6, 2', 'Pirate Ship - 2, 7, 0', 'Pirate Ship - 2, 8, 0', 'Pirate Ship - 20, 0, 0', 'Pirate Ship - 20, 1, 0', 'Pirate Ship - 20, 2, 0', 'Pirate Ship - 20, 7, 0', 'Pirate Ship - 20, 8, 0 - Lead', 'Pirate Ship - 21, 0, 0', 'Pirate Ship - 21, 1, 0', 'Pirate Ship - 21, 2, 0', 'Pirate Ship - 21, 7, 0', 'Pirate Ship - 21, 8, 0', 'Pirate Ship - 22, 0, 0', 'Pirate Ship - 22, 1, 0', 'Pirate Ship - 22, 2, 0', 'Pirate Ship - 22, 7, 0', 'Pirate Ship - 22, 8, 0', 'Pirate Ship - 23, 0, 0', 'Pirate Ship - 23, 1, 0', 'Pirate Ship - 23, 2, 0', 'Pirate Ship - 23, 7, 0', 'Pirate Ship - 23, 8, 0', 'Pirate Ship - 24, 0, 0', 'Pirate Ship - 24, 1, 0', 'Pirate Ship - 24, 2, 0', 'Pirate Ship - 24, 7, 0', 'Pirate Ship - 24, 8, 0', 'Pirate Ship - 25, 0, 0', 'Pirate Ship - 25, 1, 0', 'Pirate Ship - 25, 2, 0', 'Pirate Ship - 25, 3, 0', 'Pirate Ship - 25, 4, 0', 'Pirate Ship - 25, 5, 0', 'Pirate Ship - 25, 6, 0', 'Pirate Ship - 25, 7, 0', 'Pirate Ship - 25, 8, 0', 'Pirate Ship - 3, 0, 0', 'Pirate Ship - 3, 1, 0', 'Pirate Ship - 3, 2, 0', 'Pirate Ship - 3, 2, 2', 'Pirate Ship - 3, 3, 2', 'Pirate Ship - 3, 4, 2', 'Pirate Ship - 3, 5, 2', 'Pirate Ship - 3, 6, 2', 'Pirate Ship - 3, 7, 0', 'Pirate Ship - 3, 8, 0', 'Pirate Ship - 4, 0, 0', 'Pirate Ship - 4, 1, 0', 'Pirate Ship - 4, 1, 2', 'Pirate Ship - 4, 2, 0', 'Pirate Ship - 4, 2, 2', 'Pirate Ship - 4, 3, 2', 'Pirate Ship - 4, 4, 2', 'Pirate Ship - 4, 5, 2', 'Pirate Ship - 4, 6, 2', 'Pirate Ship - 4, 7, 0', 'Pirate Ship - 4, 7, 2', 'Pirate Ship - 4, 8, 0', 'Pirate Ship - 5, 0, 0', 'Pirate Ship - 5, 1, 0', 'Pirate Ship - 5, 1, 2', 'Pirate Ship - 5, 2, 0', 'Pirate Ship - 5, 2, 2', 'Pirate Ship - 5, 3, 2', 'Pirate Ship - 5, 4, 1', 'Pirate Ship - 5, 4, 2', 'Pirate Ship - 5, 5, 2', 'Pirate Ship - 5, 6, 2', 'Pirate Ship - 5, 7, 0', 'Pirate Ship - 5, 7, 2', 'Pirate Ship - 5, 8, 0', 'Pirate Ship - 6, 0, 0', 'Pirate Ship - 6, 1, 0', 'Pirate Ship - 6, 1, 2', 'Pirate Ship - 6, 2, 0', 'Pirate Ship - 6, 2, 2', 'Pirate Ship - 6, 3, 2', 'Pirate Ship - 6, 4, 1', 'Pirate Ship - 6, 4, 2 - Slot Table 2', 'Pirate Ship - 6, 5, 2', 'Pirate Ship - 6, 6, 2', 'Pirate Ship - 6, 7, 0', 'Pirate Ship - 6, 7, 2', 'Pirate Ship - 6, 8, 0', 'Pirate Ship - 7, 0, 0', 'Pirate Ship - 7, 1, 0', 'Pirate Ship - 7, 1, 1', 'Pirate Ship - 7, 2, 0', 'Pirate Ship - 7, 2, 1', 'Pirate Ship - 7, 3, 1', 'Pirate Ship - 7, 4, 1', 'Pirate Ship - 7, 5, 1', 'Pirate Ship - 7, 6, 1', 'Pirate Ship - 7, 7, 0', 'Pirate Ship - 7, 7, 1', 'Pirate Ship - 7, 8, 0', 'Pirate Ship - 8, 0, 0', 'Pirate Ship - 8, 1, 0', 'Pirate Ship - 8, 1, 1', 'Pirate Ship - 8, 2, 0', 'Pirate Ship - 8, 2, 1', 'Pirate Ship - 8, 3, 1', 'Pirate Ship - 8, 4, 1', 'Pirate Ship - 8, 5, 1', 'Pirate Ship - 8, 6, 1', 'Pirate Ship - 8, 7, 0', 'Pirate Ship - 8, 7, 1', 'Pirate Ship - 8, 8, 0', 'Pirate Ship - 9, 0, 0', 'Pirate Ship - 9, 1, 0', 'Pirate Ship - 9, 1, 1', 'Pirate Ship - 9, 2, 0', 'Pirate Ship - 9, 2, 1', 'Pirate Ship - 9, 3, 1', 'Pirate Ship - 9, 4, 1', 'Pirate Ship - 9, 5, 1', 'Pirate Ship - 9, 6, 1', 'Pirate Ship - 9, 7, 0', 'Pirate Ship - 9, 7, 1', 'Pirate Ship - 9, 8, 0']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136158296,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Here",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Pirate Ship', 'Pirate Ship - 0, 0, 0', 'Pirate Ship - 0, 1, 0', 'Pirate Ship - 0, 2, 0 ', 'Pirate Ship - 0, 3, 0 ', 'Pirate Ship - 0, 4, 0', 'Pirate Ship - 0, 5, 0', 'Pirate Ship - 0, 6, 0', 'Pirate Ship - 0, 7, 0', 'Pirate Ship - 0, 8, 0', 'Pirate Ship - 1, 0, 0', 'Pirate Ship - 1, 1, 0', 'Pirate Ship - 1, 2, 0', 'Pirate Ship - 1, 3, 2', 'Pirate Ship - 1, 4, 2', 'Pirate Ship - 1, 5, 2', 'Pirate Ship - 1, 7, 0', 'Pirate Ship - 1, 8, 0', 'Pirate Ship - 10, 0, 0', 'Pirate Ship - 10, 1, 0', 'Pirate Ship - 10, 1, 1', 'Pirate Ship - 10, 2, 0', 'Pirate Ship - 10, 2, 1', 'Pirate Ship - 10, 3, 1', 'Pirate Ship - 10, 4, 1', 'Pirate Ship - 10, 5, 1', 'Pirate Ship - 10, 6, 1', 'Pirate Ship - 10, 7, 0', 'Pirate Ship - 10, 7, 1', 'Pirate Ship - 10, 8, 0', 'Pirate Ship - 11, 0, 0', 'Pirate Ship - 11, 1, 0', 'Pirate Ship - 11, 1, 1', 'Pirate Ship - 11, 2, 0', 'Pirate Ship - 11, 2, 1', 'Pirate Ship - 11, 3, 1', 'Pirate Ship - 11, 4, 1', 'Pirate Ship - 11, 5, 1', 'Pirate Ship - 11, 6, 1', 'Pirate Ship - 11, 7, 0', 'Pirate Ship - 11, 7, 1', 'Pirate Ship - 11, 8, 0', 'Pirate Ship - 12, 0, 0', 'Pirate Ship - 12, 1, 0', 'Pirate Ship - 12, 1, 1', 'Pirate Ship - 12, 2, 0', 'Pirate Ship - 12, 2, 1', 'Pirate Ship - 12, 3, 1', 'Pirate Ship - 12, 4, 1', 'Pirate Ship - 12, 5, 1', 'Pirate Ship - 12, 6, 1', 'Pirate Ship - 12, 7, 0', 'Pirate Ship - 12, 7, 1', 'Pirate Ship - 12, 8, 0', 'Pirate Ship - 13, 0, 0', 'Pirate Ship - 13, 1, 0', 'Pirate Ship - 13, 1, 1', 'Pirate Ship - 13, 2, 0', 'Pirate Ship - 13, 2, 1', 'Pirate Ship - 13, 3, 1', 'Pirate Ship - 13, 4, 1', 'Pirate Ship - 13, 5, 1', 'Pirate Ship - 13, 6, 1', 'Pirate Ship - 13, 7, 0', 'Pirate Ship - 13, 7, 1', 'Pirate Ship - 13, 8, 0', 'Pirate Ship - 14, 0, 0', 'Pirate Ship - 14, 0, 1', 'Pirate Ship - 14, 1, 0', 'Pirate Ship - 14, 1, 1', 'Pirate Ship - 14, 2, 0', 'Pirate Ship - 14, 2, 1', 'Pirate Ship - 14, 3, 1', 'Pirate Ship - 14, 4, 1', 'Pirate Ship - 14, 5, 1', 'Pirate Ship - 14, 6, 1', 'Pirate Ship - 14, 7, 0', 'Pirate Ship - 14, 7, 1', 'Pirate Ship - 14, 8, 0', 'Pirate Ship - 14, 8, 1', 'Pirate Ship - 15, 0, 0', 'Pirate Ship - 15, 1, 0', 'Pirate Ship - 15, 1, 1', 'Pirate Ship - 15, 2, 0', 'Pirate Ship - 15, 2, 1', 'Pirate Ship - 15, 3, 1', 'Pirate Ship - 15, 4, 1', 'Pirate Ship - 15, 5, 1', 'Pirate Ship - 15, 6, 1', 'Pirate Ship - 15, 7, 0', 'Pirate Ship - 15, 7, 1', 'Pirate Ship - 15, 8, 0', 'Pirate Ship - 15, 8, 1 - Slot Table 1', 'Pirate Ship - 16, 0, 0', 'Pirate Ship - 16, 1, 0', 'Pirate Ship - 16, 2, 0', 'Pirate Ship - 16, 7, 0', 'Pirate Ship - 16, 8, 0', 'Pirate Ship - 17, 0, 0', 'Pirate Ship - 17, 1, 0', 'Pirate Ship - 17, 2, 0', 'Pirate Ship - 17, 7, 0', 'Pirate Ship - 17, 8, 0', 'Pirate Ship - 18, 0, 0', 'Pirate Ship - 18, 1, 0', 'Pirate Ship - 18, 2, 0', 'Pirate Ship - 18, 7, 0', 'Pirate Ship - 18, 8, 0', 'Pirate Ship - 19, 0, 0', 'Pirate Ship - 19, 1, 0', 'Pirate Ship - 19, 2, 0', 'Pirate Ship - 19, 7, 0', 'Pirate Ship - 19, 8, 0', 'Pirate Ship - 2, 0, 0', 'Pirate Ship - 2, 1, 0', 'Pirate Ship - 2, 2, 0', 'Pirate Ship - 2, 2, 2', 'Pirate Ship - 2, 3, 2', 'Pirate Ship - 2, 4, 2', 'Pirate Ship - 2, 5, 2', 'Pirate Ship - 2, 6, 2', 'Pirate Ship - 2, 7, 0', 'Pirate Ship - 2, 8, 0', 'Pirate Ship - 20, 0, 0', 'Pirate Ship - 20, 1, 0', 'Pirate Ship - 20, 2, 0', 'Pirate Ship - 20, 7, 0', 'Pirate Ship - 20, 8, 0 - Lead', 'Pirate Ship - 21, 0, 0', 'Pirate Ship - 21, 1, 0', 'Pirate Ship - 21, 2, 0', 'Pirate Ship - 21, 7, 0', 'Pirate Ship - 21, 8, 0', 'Pirate Ship - 22, 0, 0', 'Pirate Ship - 22, 1, 0', 'Pirate Ship - 22, 2, 0', 'Pirate Ship - 22, 7, 0', 'Pirate Ship - 22, 8, 0', 'Pirate Ship - 23, 0, 0', 'Pirate Ship - 23, 1, 0', 'Pirate Ship - 23, 2, 0', 'Pirate Ship - 23, 7, 0', 'Pirate Ship - 23, 8, 0', 'Pirate Ship - 24, 0, 0', 'Pirate Ship - 24, 1, 0', 'Pirate Ship - 24, 2, 0', 'Pirate Ship - 24, 7, 0', 'Pirate Ship - 24, 8, 0', 'Pirate Ship - 25, 0, 0', 'Pirate Ship - 25, 1, 0', 'Pirate Ship - 25, 2, 0', 'Pirate Ship - 25, 3, 0', 'Pirate Ship - 25, 4, 0', 'Pirate Ship - 25, 5, 0', 'Pirate Ship - 25, 6, 0', 'Pirate Ship - 25, 7, 0', 'Pirate Ship - 25, 8, 0', 'Pirate Ship - 3, 0, 0', 'Pirate Ship - 3, 1, 0', 'Pirate Ship - 3, 2, 0', 'Pirate Ship - 3, 2, 2', 'Pirate Ship - 3, 3, 2', 'Pirate Ship - 3, 4, 2', 'Pirate Ship - 3, 5, 2', 'Pirate Ship - 3, 6, 2', 'Pirate Ship - 3, 7, 0', 'Pirate Ship - 3, 8, 0', 'Pirate Ship - 4, 0, 0', 'Pirate Ship - 4, 1, 0', 'Pirate Ship - 4, 1, 2', 'Pirate Ship - 4, 2, 0', 'Pirate Ship - 4, 2, 2', 'Pirate Ship - 4, 3, 2', 'Pirate Ship - 4, 4, 2', 'Pirate Ship - 4, 5, 2', 'Pirate Ship - 4, 6, 2', 'Pirate Ship - 4, 7, 0', 'Pirate Ship - 4, 7, 2', 'Pirate Ship - 4, 8, 0', 'Pirate Ship - 5, 0, 0', 'Pirate Ship - 5, 1, 0', 'Pirate Ship - 5, 1, 2', 'Pirate Ship - 5, 2, 0', 'Pirate Ship - 5, 2, 2', 'Pirate Ship - 5, 3, 2', 'Pirate Ship - 5, 4, 1', 'Pirate Ship - 5, 4, 2', 'Pirate Ship - 5, 5, 2', 'Pirate Ship - 5, 6, 2', 'Pirate Ship - 5, 7, 0', 'Pirate Ship - 5, 7, 2', 'Pirate Ship - 5, 8, 0', 'Pirate Ship - 6, 0, 0', 'Pirate Ship - 6, 1, 0', 'Pirate Ship - 6, 1, 2', 'Pirate Ship - 6, 2, 0', 'Pirate Ship - 6, 2, 2', 'Pirate Ship - 6, 3, 2', 'Pirate Ship - 6, 4, 1', 'Pirate Ship - 6, 4, 2 - Slot Table 2', 'Pirate Ship - 6, 5, 2', 'Pirate Ship - 6, 6, 2', 'Pirate Ship - 6, 7, 0', 'Pirate Ship - 6, 7, 2', 'Pirate Ship - 6, 8, 0', 'Pirate Ship - 7, 0, 0', 'Pirate Ship - 7, 1, 0', 'Pirate Ship - 7, 1, 1', 'Pirate Ship - 7, 2, 0', 'Pirate Ship - 7, 2, 1', 'Pirate Ship - 7, 3, 1', 'Pirate Ship - 7, 4, 1', 'Pirate Ship - 7, 5, 1', 'Pirate Ship - 7, 6, 1', 'Pirate Ship - 7, 7, 0', 'Pirate Ship - 7, 7, 1', 'Pirate Ship - 7, 8, 0', 'Pirate Ship - 8, 0, 0', 'Pirate Ship - 8, 1, 0', 'Pirate Ship - 8, 1, 1', 'Pirate Ship - 8, 2, 0', 'Pirate Ship - 8, 2, 1', 'Pirate Ship - 8, 3, 1', 'Pirate Ship - 8, 4, 1', 'Pirate Ship - 8, 5, 1', 'Pirate Ship - 8, 6, 1', 'Pirate Ship - 8, 7, 0', 'Pirate Ship - 8, 7, 1', 'Pirate Ship - 8, 8, 0', 'Pirate Ship - 9, 0, 0', 'Pirate Ship - 9, 1, 0', 'Pirate Ship - 9, 1, 1', 'Pirate Ship - 9, 2, 0', 'Pirate Ship - 9, 2, 1', 'Pirate Ship - 9, 3, 1', 'Pirate Ship - 9, 4, 1', 'Pirate Ship - 9, 5, 1', 'Pirate Ship - 9, 6, 1', 'Pirate Ship - 9, 7, 0', 'Pirate Ship - 9, 7, 1', 'Pirate Ship - 9, 8, 0']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136158296,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Pirate Ship', 'Pirate Ship - 0, 0, 0', 'Pirate Ship - 0, 1, 0', 'Pirate Ship - 0, 2, 0 ', 'Pirate Ship - 0, 3, 0 ', 'Pirate Ship - 0, 4, 0', 'Pirate Ship - 0, 5, 0', 'Pirate Ship - 0, 6, 0', 'Pirate Ship - 0, 7, 0', 'Pirate Ship - 0, 8, 0', 'Pirate Ship - 1, 0, 0', 'Pirate Ship - 1, 1, 0', 'Pirate Ship - 1, 2, 0', 'Pirate Ship - 1, 3, 2', 'Pirate Ship - 1, 4, 2', 'Pirate Ship - 1, 5, 2', 'Pirate Ship - 1, 7, 0', 'Pirate Ship - 1, 8, 0', 'Pirate Ship - 10, 0, 0', 'Pirate Ship - 10, 1, 0', 'Pirate Ship - 10, 1, 1', 'Pirate Ship - 10, 2, 0', 'Pirate Ship - 10, 2, 1', 'Pirate Ship - 10, 3, 1', 'Pirate Ship - 10, 4, 1', 'Pirate Ship - 10, 5, 1', 'Pirate Ship - 10, 6, 1', 'Pirate Ship - 10, 7, 0', 'Pirate Ship - 10, 7, 1', 'Pirate Ship - 10, 8, 0', 'Pirate Ship - 11, 0, 0', 'Pirate Ship - 11, 1, 0', 'Pirate Ship - 11, 1, 1', 'Pirate Ship - 11, 2, 0', 'Pirate Ship - 11, 2, 1', 'Pirate Ship - 11, 3, 1', 'Pirate Ship - 11, 4, 1', 'Pirate Ship - 11, 5, 1', 'Pirate Ship - 11, 6, 1', 'Pirate Ship - 11, 7, 0', 'Pirate Ship - 11, 7, 1', 'Pirate Ship - 11, 8, 0', 'Pirate Ship - 12, 0, 0', 'Pirate Ship - 12, 1, 0', 'Pirate Ship - 12, 1, 1', 'Pirate Ship - 12, 2, 0', 'Pirate Ship - 12, 2, 1', 'Pirate Ship - 12, 3, 1', 'Pirate Ship - 12, 4, 1', 'Pirate Ship - 12, 5, 1', 'Pirate Ship - 12, 6, 1', 'Pirate Ship - 12, 7, 0', 'Pirate Ship - 12, 7, 1', 'Pirate Ship - 12, 8, 0', 'Pirate Ship - 13, 0, 0', 'Pirate Ship - 13, 1, 0', 'Pirate Ship - 13, 1, 1', 'Pirate Ship - 13, 2, 0', 'Pirate Ship - 13, 2, 1', 'Pirate Ship - 13, 3, 1', 'Pirate Ship - 13, 4, 1', 'Pirate Ship - 13, 5, 1', 'Pirate Ship - 13, 6, 1', 'Pirate Ship - 13, 7, 0', 'Pirate Ship - 13, 7, 1', 'Pirate Ship - 13, 8, 0', 'Pirate Ship - 14, 0, 0', 'Pirate Ship - 14, 0, 1', 'Pirate Ship - 14, 1, 0', 'Pirate Ship - 14, 1, 1', 'Pirate Ship - 14, 2, 0', 'Pirate Ship - 14, 2, 1', 'Pirate Ship - 14, 3, 1', 'Pirate Ship - 14, 4, 1', 'Pirate Ship - 14, 5, 1', 'Pirate Ship - 14, 6, 1', 'Pirate Ship - 14, 7, 0', 'Pirate Ship - 14, 7, 1', 'Pirate Ship - 14, 8, 0', 'Pirate Ship - 14, 8, 1', 'Pirate Ship - 15, 0, 0', 'Pirate Ship - 15, 1, 0', 'Pirate Ship - 15, 1, 1', 'Pirate Ship - 15, 2, 0', 'Pirate Ship - 15, 2, 1', 'Pirate Ship - 15, 3, 1', 'Pirate Ship - 15, 4, 1', 'Pirate Ship - 15, 5, 1', 'Pirate Ship - 15, 6, 1', 'Pirate Ship - 15, 7, 0', 'Pirate Ship - 15, 7, 1', 'Pirate Ship - 15, 8, 0', 'Pirate Ship - 15, 8, 1 - Slot Table 1', 'Pirate Ship - 16, 0, 0', 'Pirate Ship - 16, 1, 0', 'Pirate Ship - 16, 2, 0', 'Pirate Ship - 16, 7, 0', 'Pirate Ship - 16, 8, 0', 'Pirate Ship - 17, 0, 0', 'Pirate Ship - 17, 1, 0', 'Pirate Ship - 17, 2, 0', 'Pirate Ship - 17, 7, 0', 'Pirate Ship - 17, 8, 0', 'Pirate Ship - 18, 0, 0', 'Pirate Ship - 18, 1, 0', 'Pirate Ship - 18, 2, 0', 'Pirate Ship - 18, 7, 0', 'Pirate Ship - 18, 8, 0', 'Pirate Ship - 19, 0, 0', 'Pirate Ship - 19, 1, 0', 'Pirate Ship - 19, 2, 0', 'Pirate Ship - 19, 7, 0', 'Pirate Ship - 19, 8, 0', 'Pirate Ship - 2, 0, 0', 'Pirate Ship - 2, 1, 0', 'Pirate Ship - 2, 2, 0', 'Pirate Ship - 2, 2, 2', 'Pirate Ship - 2, 3, 2', 'Pirate Ship - 2, 4, 2', 'Pirate Ship - 2, 5, 2', 'Pirate Ship - 2, 6, 2', 'Pirate Ship - 2, 7, 0', 'Pirate Ship - 2, 8, 0', 'Pirate Ship - 20, 0, 0', 'Pirate Ship - 20, 1, 0', 'Pirate Ship - 20, 2, 0', 'Pirate Ship - 20, 7, 0', 'Pirate Ship - 20, 8, 0 - Lead', 'Pirate Ship - 21, 0, 0', 'Pirate Ship - 21, 1, 0', 'Pirate Ship - 21, 2, 0', 'Pirate Ship - 21, 7, 0', 'Pirate Ship - 21, 8, 0', 'Pirate Ship - 22, 0, 0', 'Pirate Ship - 22, 1, 0', 'Pirate Ship - 22, 2, 0', 'Pirate Ship - 22, 7, 0', 'Pirate Ship - 22, 8, 0', 'Pirate Ship - 23, 0, 0', 'Pirate Ship - 23, 1, 0', 'Pirate Ship - 23, 2, 0', 'Pirate Ship - 23, 7, 0', 'Pirate Ship - 23, 8, 0', 'Pirate Ship - 24, 0, 0', 'Pirate Ship - 24, 1, 0', 'Pirate Ship - 24, 2, 0', 'Pirate Ship - 24, 7, 0', 'Pirate Ship - 24, 8, 0', 'Pirate Ship - 25, 0, 0', 'Pirate Ship - 25, 1, 0', 'Pirate Ship - 25, 2, 0', 'Pirate Ship - 25, 3, 0', 'Pirate Ship - 25, 4, 0', 'Pirate Ship - 25, 5, 0', 'Pirate Ship - 25, 6, 0', 'Pirate Ship - 25, 7, 0', 'Pirate Ship - 25, 8, 0', 'Pirate Ship - 3, 0, 0', 'Pirate Ship - 3, 1, 0', 'Pirate Ship - 3, 2, 0', 'Pirate Ship - 3, 2, 2', 'Pirate Ship - 3, 3, 2', 'Pirate Ship - 3, 4, 2', 'Pirate Ship - 3, 5, 2', 'Pirate Ship - 3, 6, 2', 'Pirate Ship - 3, 7, 0', 'Pirate Ship - 3, 8, 0', 'Pirate Ship - 4, 0, 0', 'Pirate Ship - 4, 1, 0', 'Pirate Ship - 4, 1, 2', 'Pirate Ship - 4, 2, 0', 'Pirate Ship - 4, 2, 2', 'Pirate Ship - 4, 3, 2', 'Pirate Ship - 4, 4, 2', 'Pirate Ship - 4, 5, 2', 'Pirate Ship - 4, 6, 2', 'Pirate Ship - 4, 7, 0', 'Pirate Ship - 4, 7, 2', 'Pirate Ship - 4, 8, 0', 'Pirate Ship - 5, 0, 0', 'Pirate Ship - 5, 1, 0', 'Pirate Ship - 5, 1, 2', 'Pirate Ship - 5, 2, 0', 'Pirate Ship - 5, 2, 2', 'Pirate Ship - 5, 3, 2', 'Pirate Ship - 5, 4, 1', 'Pirate Ship - 5, 4, 2', 'Pirate Ship - 5, 5, 2', 'Pirate Ship - 5, 6, 2', 'Pirate Ship - 5, 7, 0', 'Pirate Ship - 5, 7, 2', 'Pirate Ship - 5, 8, 0', 'Pirate Ship - 6, 0, 0', 'Pirate Ship - 6, 1, 0', 'Pirate Ship - 6, 1, 2', 'Pirate Ship - 6, 2, 0', 'Pirate Ship - 6, 2, 2', 'Pirate Ship - 6, 3, 2', 'Pirate Ship - 6, 4, 1', 'Pirate Ship - 6, 4, 2 - Slot Table 2', 'Pirate Ship - 6, 5, 2', 'Pirate Ship - 6, 6, 2', 'Pirate Ship - 6, 7, 0', 'Pirate Ship - 6, 7, 2', 'Pirate Ship - 6, 8, 0', 'Pirate Ship - 7, 0, 0', 'Pirate Ship - 7, 1, 0', 'Pirate Ship - 7, 1, 1', 'Pirate Ship - 7, 2, 0', 'Pirate Ship - 7, 2, 1', 'Pirate Ship - 7, 3, 1', 'Pirate Ship - 7, 4, 1', 'Pirate Ship - 7, 5, 1', 'Pirate Ship - 7, 6, 1', 'Pirate Ship - 7, 7, 0', 'Pirate Ship - 7, 7, 1', 'Pirate Ship - 7, 8, 0', 'Pirate Ship - 8, 0, 0', 'Pirate Ship - 8, 1, 0', 'Pirate Ship - 8, 1, 1', 'Pirate Ship - 8, 2, 0', 'Pirate Ship - 8, 2, 1', 'Pirate Ship - 8, 3, 1', 'Pirate Ship - 8, 4, 1', 'Pirate Ship - 8, 5, 1', 'Pirate Ship - 8, 6, 1', 'Pirate Ship - 8, 7, 0', 'Pirate Ship - 8, 7, 1', 'Pirate Ship - 8, 8, 0', 'Pirate Ship - 9, 0, 0', 'Pirate Ship - 9, 1, 0', 'Pirate Ship - 9, 1, 1', 'Pirate Ship - 9, 2, 0', 'Pirate Ship - 9, 2, 1', 'Pirate Ship - 9, 3, 1', 'Pirate Ship - 9, 4, 1', 'Pirate Ship - 9, 5, 1', 'Pirate Ship - 9, 6, 1', 'Pirate Ship - 9, 7, 0', 'Pirate Ship - 9, 7, 1', 'Pirate Ship - 9, 8, 0']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136158296,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test Routing",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Pirate Ship', 'Pirate Ship - 0, 0, 0', 'Pirate Ship - 0, 1, 0', 'Pirate Ship - 0, 2, 0 ', 'Pirate Ship - 0, 3, 0 ', 'Pirate Ship - 0, 4, 0', 'Pirate Ship - 0, 5, 0', 'Pirate Ship - 0, 6, 0', 'Pirate Ship - 0, 7, 0', 'Pirate Ship - 0, 8, 0', 'Pirate Ship - 1, 0, 0', 'Pirate Ship - 1, 1, 0', 'Pirate Ship - 1, 2, 0', 'Pirate Ship - 1, 3, 2', 'Pirate Ship - 1, 4, 2', 'Pirate Ship - 1, 5, 2', 'Pirate Ship - 1, 7, 0', 'Pirate Ship - 1, 8, 0', 'Pirate Ship - 10, 0, 0', 'Pirate Ship - 10, 1, 0', 'Pirate Ship - 10, 1, 1', 'Pirate Ship - 10, 2, 0', 'Pirate Ship - 10, 2, 1', 'Pirate Ship - 10, 3, 1', 'Pirate Ship - 10, 4, 1', 'Pirate Ship - 10, 5, 1', 'Pirate Ship - 10, 6, 1', 'Pirate Ship - 10, 7, 0', 'Pirate Ship - 10, 7, 1', 'Pirate Ship - 10, 8, 0', 'Pirate Ship - 11, 0, 0', 'Pirate Ship - 11, 1, 0', 'Pirate Ship - 11, 1, 1', 'Pirate Ship - 11, 2, 0', 'Pirate Ship - 11, 2, 1', 'Pirate Ship - 11, 3, 1', 'Pirate Ship - 11, 4, 1', 'Pirate Ship - 11, 5, 1', 'Pirate Ship - 11, 6, 1', 'Pirate Ship - 11, 7, 0', 'Pirate Ship - 11, 7, 1', 'Pirate Ship - 11, 8, 0', 'Pirate Ship - 12, 0, 0', 'Pirate Ship - 12, 1, 0', 'Pirate Ship - 12, 1, 1', 'Pirate Ship - 12, 2, 0', 'Pirate Ship - 12, 2, 1', 'Pirate Ship - 12, 3, 1', 'Pirate Ship - 12, 4, 1', 'Pirate Ship - 12, 5, 1', 'Pirate Ship - 12, 6, 1', 'Pirate Ship - 12, 7, 0', 'Pirate Ship - 12, 7, 1', 'Pirate Ship - 12, 8, 0', 'Pirate Ship - 13, 0, 0', 'Pirate Ship - 13, 1, 0', 'Pirate Ship - 13, 1, 1', 'Pirate Ship - 13, 2, 0', 'Pirate Ship - 13, 2, 1', 'Pirate Ship - 13, 3, 1', 'Pirate Ship - 13, 4, 1', 'Pirate Ship - 13, 5, 1', 'Pirate Ship - 13, 6, 1', 'Pirate Ship - 13, 7, 0', 'Pirate Ship - 13, 7, 1', 'Pirate Ship - 13, 8, 0', 'Pirate Ship - 14, 0, 0', 'Pirate Ship - 14, 0, 1', 'Pirate Ship - 14, 1, 0', 'Pirate Ship - 14, 1, 1', 'Pirate Ship - 14, 2, 0', 'Pirate Ship - 14, 2, 1', 'Pirate Ship - 14, 3, 1', 'Pirate Ship - 14, 4, 1', 'Pirate Ship - 14, 5, 1', 'Pirate Ship - 14, 6, 1', 'Pirate Ship - 14, 7, 0', 'Pirate Ship - 14, 7, 1', 'Pirate Ship - 14, 8, 0', 'Pirate Ship - 14, 8, 1', 'Pirate Ship - 15, 0, 0', 'Pirate Ship - 15, 1, 0', 'Pirate Ship - 15, 1, 1', 'Pirate Ship - 15, 2, 0', 'Pirate Ship - 15, 2, 1', 'Pirate Ship - 15, 3, 1', 'Pirate Ship - 15, 4, 1', 'Pirate Ship - 15, 5, 1', 'Pirate Ship - 15, 6, 1', 'Pirate Ship - 15, 7, 0', 'Pirate Ship - 15, 7, 1', 'Pirate Ship - 15, 8, 0', 'Pirate Ship - 15, 8, 1 - Slot Table 1', 'Pirate Ship - 16, 0, 0', 'Pirate Ship - 16, 1, 0', 'Pirate Ship - 16, 2, 0', 'Pirate Ship - 16, 7, 0', 'Pirate Ship - 16, 8, 0', 'Pirate Ship - 17, 0, 0', 'Pirate Ship - 17, 1, 0', 'Pirate Ship - 17, 2, 0', 'Pirate Ship - 17, 7, 0', 'Pirate Ship - 17, 8, 0', 'Pirate Ship - 18, 0, 0', 'Pirate Ship - 18, 1, 0', 'Pirate Ship - 18, 2, 0', 'Pirate Ship - 18, 7, 0', 'Pirate Ship - 18, 8, 0', 'Pirate Ship - 19, 0, 0', 'Pirate Ship - 19, 1, 0', 'Pirate Ship - 19, 2, 0', 'Pirate Ship - 19, 7, 0', 'Pirate Ship - 19, 8, 0', 'Pirate Ship - 2, 0, 0', 'Pirate Ship - 2, 1, 0', 'Pirate Ship - 2, 2, 0', 'Pirate Ship - 2, 2, 2', 'Pirate Ship - 2, 3, 2', 'Pirate Ship - 2, 4, 2', 'Pirate Ship - 2, 5, 2', 'Pirate Ship - 2, 6, 2', 'Pirate Ship - 2, 7, 0', 'Pirate Ship - 2, 8, 0', 'Pirate Ship - 20, 0, 0', 'Pirate Ship - 20, 1, 0', 'Pirate Ship - 20, 2, 0', 'Pirate Ship - 20, 7, 0', 'Pirate Ship - 20, 8, 0 - Lead', 'Pirate Ship - 21, 0, 0', 'Pirate Ship - 21, 1, 0', 'Pirate Ship - 21, 2, 0', 'Pirate Ship - 21, 7, 0', 'Pirate Ship - 21, 8, 0', 'Pirate Ship - 22, 0, 0', 'Pirate Ship - 22, 1, 0', 'Pirate Ship - 22, 2, 0', 'Pirate Ship - 22, 7, 0', 'Pirate Ship - 22, 8, 0', 'Pirate Ship - 23, 0, 0', 'Pirate Ship - 23, 1, 0', 'Pirate Ship - 23, 2, 0', 'Pirate Ship - 23, 7, 0', 'Pirate Ship - 23, 8, 0', 'Pirate Ship - 24, 0, 0', 'Pirate Ship - 24, 1, 0', 'Pirate Ship - 24, 2, 0', 'Pirate Ship - 24, 7, 0', 'Pirate Ship - 24, 8, 0', 'Pirate Ship - 25, 0, 0', 'Pirate Ship - 25, 1, 0', 'Pirate Ship - 25, 2, 0', 'Pirate Ship - 25, 3, 0', 'Pirate Ship - 25, 4, 0', 'Pirate Ship - 25, 5, 0', 'Pirate Ship - 25, 6, 0', 'Pirate Ship - 25, 7, 0', 'Pirate Ship - 25, 8, 0', 'Pirate Ship - 3, 0, 0', 'Pirate Ship - 3, 1, 0', 'Pirate Ship - 3, 2, 0', 'Pirate Ship - 3, 2, 2', 'Pirate Ship - 3, 3, 2', 'Pirate Ship - 3, 4, 2', 'Pirate Ship - 3, 5, 2', 'Pirate Ship - 3, 6, 2', 'Pirate Ship - 3, 7, 0', 'Pirate Ship - 3, 8, 0', 'Pirate Ship - 4, 0, 0', 'Pirate Ship - 4, 1, 0', 'Pirate Ship - 4, 1, 2', 'Pirate Ship - 4, 2, 0', 'Pirate Ship - 4, 2, 2', 'Pirate Ship - 4, 3, 2', 'Pirate Ship - 4, 4, 2', 'Pirate Ship - 4, 5, 2', 'Pirate Ship - 4, 6, 2', 'Pirate Ship - 4, 7, 0', 'Pirate Ship - 4, 7, 2', 'Pirate Ship - 4, 8, 0', 'Pirate Ship - 5, 0, 0', 'Pirate Ship - 5, 1, 0', 'Pirate Ship - 5, 1, 2', 'Pirate Ship - 5, 2, 0', 'Pirate Ship - 5, 2, 2', 'Pirate Ship - 5, 3, 2', 'Pirate Ship - 5, 4, 1', 'Pirate Ship - 5, 4, 2', 'Pirate Ship - 5, 5, 2', 'Pirate Ship - 5, 6, 2', 'Pirate Ship - 5, 7, 0', 'Pirate Ship - 5, 7, 2', 'Pirate Ship - 5, 8, 0', 'Pirate Ship - 6, 0, 0', 'Pirate Ship - 6, 1, 0', 'Pirate Ship - 6, 1, 2', 'Pirate Ship - 6, 2, 0', 'Pirate Ship - 6, 2, 2', 'Pirate Ship - 6, 3, 2', 'Pirate Ship - 6, 4, 1', 'Pirate Ship - 6, 4, 2 - Slot Table 2', 'Pirate Ship - 6, 5, 2', 'Pirate Ship - 6, 6, 2', 'Pirate Ship - 6, 7, 0', 'Pirate Ship - 6, 7, 2', 'Pirate Ship - 6, 8, 0', 'Pirate Ship - 7, 0, 0', 'Pirate Ship - 7, 1, 0', 'Pirate Ship - 7, 1, 1', 'Pirate Ship - 7, 2, 0', 'Pirate Ship - 7, 2, 1', 'Pirate Ship - 7, 3, 1', 'Pirate Ship - 7, 4, 1', 'Pirate Ship - 7, 5, 1', 'Pirate Ship - 7, 6, 1', 'Pirate Ship - 7, 7, 0', 'Pirate Ship - 7, 7, 1', 'Pirate Ship - 7, 8, 0', 'Pirate Ship - 8, 0, 0', 'Pirate Ship - 8, 1, 0', 'Pirate Ship - 8, 1, 1', 'Pirate Ship - 8, 2, 0', 'Pirate Ship - 8, 2, 1', 'Pirate Ship - 8, 3, 1', 'Pirate Ship - 8, 4, 1', 'Pirate Ship - 8, 5, 1', 'Pirate Ship - 8, 6, 1', 'Pirate Ship - 8, 7, 0', 'Pirate Ship - 8, 7, 1', 'Pirate Ship - 8, 8, 0', 'Pirate Ship - 9, 0, 0', 'Pirate Ship - 9, 1, 0', 'Pirate Ship - 9, 1, 1', 'Pirate Ship - 9, 2, 0', 'Pirate Ship - 9, 2, 1', 'Pirate Ship - 9, 3, 1', 'Pirate Ship - 9, 4, 1', 'Pirate Ship - 9, 5, 1', 'Pirate Ship - 9, 6, 1', 'Pirate Ship - 9, 7, 0', 'Pirate Ship - 9, 7, 1', 'Pirate Ship - 9, 8, 0']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135887731,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135887731,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135887731,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135887731,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138202541,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Effect Fountain - Lava']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138202541,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Effect Fountain - Lava']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138202541,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Space Column by Spitz",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Effect Fountain - Lava']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138202541,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Designer Spitz had two goals in mind when designing this unusual column: make it look like something one would expect to find in space and take up minimal floor space. The dual emphasis on space and space makes this column revolutionary and redundant at the same time.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Effect Fountain - Lava']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "React to Pet WooHoo",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Pet Bed - House - Native', 'CS - Pet Bed - House - Native - 0, 0', 'CS - Pet Bed - House - Native - 0, 1 - Lead', 'CS - Pet Bed - House - Native - 1, 0', 'CS - Pet Bed - House - Native - 1, 1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "React to Pet WooHoo",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - Pet Bed - House - Native', 'CS - Pet Bed - House - Native - 0, 0', 'CS - Pet Bed - House - Native - 0, 1 - Lead', 'CS - Pet Bed - House - Native - 1, 0', 'CS - Pet Bed - House - Native - 1, 1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Pet Bed - House - Native', 'CS - Pet Bed - House - Native - 0, 0', 'CS - Pet Bed - House - Native - 0, 1 - Lead', 'CS - Pet Bed - House - Native - 1, 0', 'CS - Pet Bed - House - Native - 1, 1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143641397,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Pet Bed - House - Native', 'CS - Pet Bed - House - Native - 0, 0', 'CS - Pet Bed - House - Native - 0, 1 - Lead', 'CS - Pet Bed - House - Native - 1, 0', 'CS - Pet Bed - House - Native - 1, 1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142768063,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "You've spawned a new plantbaby and now they need a name!",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - NPC - Template - Ghost Captain']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142768063,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "You have too many people in your family already. You can't spawn a new plantbaby until someone moves out.",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Reviewed exact inherited row on ['CS - NPC - Template - Ghost Captain']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132575445,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plastic Cup",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nA large \"party cup\".",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Cauldron Ladel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Material 1",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Material 2",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Material 3",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Material 4",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Material 1",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Material 2",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Material 3",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131377000,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Material 4",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Hammock Pillow']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135627095,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136744377,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "[f]",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "* Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "* Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131518291,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "* Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - MakeShift', 'CS - Tub - MakeShift - 0, 0', 'CS - Tub - MakeShift - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "* Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "* Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146615092,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "* Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Stone', 'CS - Tub - Stone - 0, 0', 'CS - Tub - Stone - 0, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run Anim $PrivateString:0:1",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Do Softs",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Do Hards",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Do Hard Start/Stops",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135887731,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Do Hard Start/Stops",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - ScriptHolder - Staff Heal-Zap']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Age",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139410529,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Tub - Central Asian', 'Tub - Central Asian 0,0', 'Tub - Central Asian 0,1']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      131,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      131,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      131,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      131,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Age Trans.../Good",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Birthday Cake']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Age Trans.../Bad",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Birthday Cake']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Birthday Cake']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Age Trans.../Good",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Birthday Cake']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Age Trans.../Bad",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Birthday Cake']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137654404,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic Menu",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Birthday Cake']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134723014,
+      129,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134723014,
+      129,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Splash Autonomously",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134723014,
+      129,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134723014,
+      129,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "*BREAK!!",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134723014,
+      129,
+      0
+    ],
+    "row": 78,
+    "status": "excluded",
+    "language": 2,
+    "en": "*BREAK!!",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Survival', 'CS - Hot Tub - Raised - Survival - 0, 0', 'CS - Hot Tub - Raised - Survival - 0, 1', 'CS - Hot Tub - Raised - Survival - 0, 2 - Lead', 'CS - Hot Tub - Raised - Survival - 1, 0', 'CS - Hot Tub - Raised - Survival - 1, 1', 'CS - Hot Tub - Raised - Survival - 1, 2', 'CS - Hot Tub - Raised - Survival - 2, 0', 'CS - Hot Tub - Raised - Survival - 2, 1', 'CS - Hot Tub - Raised - Survival - 2, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144813064,
+      129,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144813064,
+      129,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Splash Autonomously",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144813064,
+      129,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144813064,
+      129,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "*BREAK!!",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144813064,
+      129,
+      0
+    ],
+    "row": 78,
+    "status": "excluded",
+    "language": 2,
+    "en": "*BREAK!!",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Hot Tub - Raised - Value', 'Hot Tub - Raised - Value - Bottom Left', 'Hot Tub - Raised - Value - Bottom Middle - entrance/exit', 'Hot Tub - Raised - Value - Bottom Right - control', 'Hot Tub - Raised - Value - Mid Left - entrance/exit', 'Hot Tub - Raised - Value - Mid Middle', 'Hot Tub - Raised - Value - Mid Right - entrance/exit', 'Hot Tub - Raised - Value - Top Left', 'Hot Tub - Raised - Value - Top Middle - entrance/exit', 'Hot Tub - Raised - Value - Top Right']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "NPC Paint",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Prepare for Hanging",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Prepare for Hanging",
+    "description": "!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "TEST TEXTURE CREATION",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "TEST - FOR DAVE MILLER",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "TEST TEXTURE CREATION",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134273999,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "TEST - FOR DAVE MILLER",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Easel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139032197,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I am petting the cat.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - LeanTo - Social']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139032197,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I am being petted.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - LeanTo - Social']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139032197,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "I am petting the cat.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - LeanTo - Social']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139032197,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I am being petted.",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - LeanTo - Social']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135669783,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeeled']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135669783,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeeled']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135669783,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeeled']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135669783,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeeled']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136532384,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Pet - Contained Pet - Bird']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136532384,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Pet - Contained Pet - Bird']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136532384,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Pet - Contained Pet - Bird']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136532384,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Pet - Contained Pet - Bird']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139335527,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Nepeta Leaf']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139335527,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Nepeta Leaf']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139335527,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Nepeta Leaf']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139335527,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Nepeta Leaf']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139911056,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaFull']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139911056,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaFull']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139911056,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaFull']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139911056,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaFull']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140878877,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140878877,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140878877,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140878877,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - BananaPeel']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142679948,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Coconut']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142679948,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Coconut']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142679948,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Coconut']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142679948,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Coconut']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143175573,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['Band - Piano - Grand - 0, 0', 'Band - Piano - Grand - 0, 1', 'Band - Piano - Grand - 0, 2 - Lead', 'Band - Piano - Grand - 1, 0', 'Band - Piano - Grand - 1, 1', 'Band - Piano - Grand - 1, 2', 'CS - Band - Piano - Grand']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143175573,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Untune",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['Band - Piano - Grand - 0, 0', 'Band - Piano - Grand - 0, 1', 'Band - Piano - Grand - 0, 2 - Lead', 'Band - Piano - Grand - 1, 0', 'Band - Piano - Grand - 1, 1', 'Band - Piano - Grand - 1, 2', 'CS - Band - Piano - Grand']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143175573,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['Band - Piano - Grand - 0, 0', 'Band - Piano - Grand - 0, 1', 'Band - Piano - Grand - 0, 2 - Lead', 'Band - Piano - Grand - 1, 0', 'Band - Piano - Grand - 1, 1', 'Band - Piano - Grand - 1, 2', 'CS - Band - Piano - Grand']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143175573,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Untune",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['Band - Piano - Grand - 0, 0', 'Band - Piano - Grand - 0, 1', 'Band - Piano - Grand - 0, 2 - Lead', 'Band - Piano - Grand - 1, 0', 'Band - Piano - Grand - 1, 1', 'Band - Piano - Grand - 1, 2', 'CS - Band - Piano - Grand']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145203453,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Machete']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145203453,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Machete']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145203453,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Machete']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145203453,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Machete']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136303922,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "CHEAT - Get Fat",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Exercise Machine - Native', 'CS - Exercise Machine - Native - 0, 0', 'CS - Exercise Machine - Native - 0, 1', 'CS - Exercise Machine - Native - 0, 2 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136303922,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Exercise Machine - Native', 'CS - Exercise Machine - Native - 0, 0', 'CS - Exercise Machine - Native - 0, 1', 'CS - Exercise Machine - Native - 0, 2 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136303922,
+      129,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Exercise Machine - Native', 'CS - Exercise Machine - Native - 0, 0', 'CS - Exercise Machine - Native - 0, 1', 'CS - Exercise Machine - Native - 0, 2 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136303922,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Reset Body Skill",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Exercise Machine - Native', 'CS - Exercise Machine - Native - 0, 0', 'CS - Exercise Machine - Native - 0, 1', 'CS - Exercise Machine - Native - 0, 2 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136303922,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*DEBUG OBJECT ANIMS",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Exercise Machine - Native', 'CS - Exercise Machine - Native - 0, 0', 'CS - Exercise Machine - Native - 0, 1', 'CS - Exercise Machine - Native - 0, 2 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137413586,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Have a Coconut",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137413586,
+      1,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Interaction - Have a Coconut",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137413586,
+      1,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Add Beach Combing Bypass",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137413586,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add food Debug",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137413586,
+      1,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Add food Debug",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131574973,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Type",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal - Ghost', 'CS - Outdoor - Basket Tribal - Ghost - 0, 0', 'CS - Outdoor - Basket Tribal - Ghost - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131574973,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Original Ghost nID",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal - Ghost', 'CS - Outdoor - Basket Tribal - Ghost - 0, 0', 'CS - Outdoor - Basket Tribal - Ghost - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131574973,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cleanup count",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal - Ghost', 'CS - Outdoor - Basket Tribal - Ghost - 0, 0', 'CS - Outdoor - Basket Tribal - Ghost - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135108983,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire - Lit  [0 = off // 1 = on]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Campfire Small ']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135108983,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cooking [0=None,1=Kabob, 2=Wrap]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Campfire Small ']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135108983,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "MyLifeTime",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Campfire Small ']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137413586,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Food Units",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137413586,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Am I Open? [0 = Closed // 1 = Open]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137413586,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Capacity",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Sea Chest', 'CS - Outdoor - Sea Chest 0,0', 'CS - Outdoor - Sea Chest 1,0 Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137709316,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Food Units",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal', 'CS - Outdoor - Basket Tribal - 0, 0', 'CS - Outdoor - Basket Tribal - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137709316,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Am I Open? [0 = Closed // 1 = Open]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal', 'CS - Outdoor - Basket Tribal - 0, 0', 'CS - Outdoor - Basket Tribal - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137709316,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Capacity",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal', 'CS - Outdoor - Basket Tribal - 0, 0', 'CS - Outdoor - Basket Tribal - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137833678,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Type",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal - Chiefs', 'CS - Outdoor - Basket Tribal - Chiefs - 0, 0', 'CS - Outdoor - Basket Tribal - Chiefs - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137833678,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Original Ghost nID",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal - Chiefs', 'CS - Outdoor - Basket Tribal - Chiefs - 0, 0', 'CS - Outdoor - Basket Tribal - Chiefs - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137833678,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cleanup count",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Basket Tribal - Chiefs', 'CS - Outdoor - Basket Tribal - Chiefs - 0, 0', 'CS - Outdoor - Basket Tribal - Chiefs - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137853971,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire - Lit  [0 = off // 1 = on]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit Survival']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137853971,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cooking [0=None,1=Kabob, 2=Wrap]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit Survival']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137853971,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "MyLifeTime",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit Survival']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142375049,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Food Units",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142375049,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Am I Open? [0 = Closed // 1 = Open]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142375049,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Capacity",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145603030,
+      256,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire - Lit  [0 = off // 1 = on]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145603030,
+      256,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cooking [0=None,1=Kabob, 2=Wrap]",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145603030,
+      256,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "MyLifeTime",
+    "description": "!Cast Object COM",
+    "reason": "Reviewed exact inherited row on ['CS - Outdoor - Fire Pit']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      129,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "! ",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "! ",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "! ",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      130,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      130,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      130,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      132,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      132,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      132,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      133,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      133,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      133,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      134,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      134,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132091065,
+      134,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Lot Prop - Waterfall']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135190817,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell for $",
+    "description": "! Does not actually appear in game, replaced by another string which includes a variable for the amount sold.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Easel - Painting']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135190817,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sell for $",
+    "description": "! Does not actually appear in game, replaced by another string which includes a variable for the amount sold.",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Easel - Painting']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135190817,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug - DELETE PAINTING",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Easel - Painting']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135190817,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug - DELETE PAINTING",
+    "description": "!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Accessory - Easel - Painting']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142375049,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Have a Coconut",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142375049,
+      1,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Interaction - Have a Coconut",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142375049,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add food Debug",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142375049,
+      1,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Add food Debug",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Food - Food Basket', 'CS - Food - Food Basket - 0, 0', 'CS - Food - Food Basket - 1, 0 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132404554,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pregnancy Demo",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - Survival', 'CS - Bed - Double - Survival - 0, 0', 'CS - Bed - Double - Survival - 0, 1', 'CS - Bed - Double - Survival - 0, 2 - Lead', 'CS - Bed - Double - Survival - 1, 0', 'CS - Bed - Double - Survival - 1, 1', 'CS - Bed - Double - Survival - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132404554,
+      128,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pregnancy Demo",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - Survival', 'CS - Bed - Double - Survival - 0, 0', 'CS - Bed - Double - Survival - 0, 1', 'CS - Bed - Double - Survival - 0, 2 - Lead', 'CS - Bed - Double - Survival - 1, 0', 'CS - Bed - Double - Survival - 1, 1', 'CS - Bed - Double - Survival - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132404554,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Autonomous subqueue",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - Survival', 'CS - Bed - Double - Survival - 0, 0', 'CS - Bed - Double - Survival - 0, 1', 'CS - Bed - Double - Survival - 0, 2 - Lead', 'CS - Bed - Double - Survival - 1, 0', 'CS - Bed - Double - Survival - 1, 1', 'CS - Bed - Double - Survival - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136193746,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pregnancy Demo",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - MakeShift', 'CS - Bed - Double - MakeShift - 0, 0', 'CS - Bed - Double - MakeShift - 0, 1', 'CS - Bed - Double - MakeShift - 0, 2 - Lead', 'CS - Bed - Double - MakeShift - 1, 0', 'CS - Bed - Double - MakeShift - 1, 1', 'CS - Bed - Double - MakeShift - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136193746,
+      128,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pregnancy Demo",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - MakeShift', 'CS - Bed - Double - MakeShift - 0, 0', 'CS - Bed - Double - MakeShift - 0, 1', 'CS - Bed - Double - MakeShift - 0, 2 - Lead', 'CS - Bed - Double - MakeShift - 1, 0', 'CS - Bed - Double - MakeShift - 1, 1', 'CS - Bed - Double - MakeShift - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136193746,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Autonomous subqueue",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - MakeShift', 'CS - Bed - Double - MakeShift - 0, 0', 'CS - Bed - Double - MakeShift - 0, 1', 'CS - Bed - Double - MakeShift - 0, 2 - Lead', 'CS - Bed - Double - MakeShift - 1, 0', 'CS - Bed - Double - MakeShift - 1, 1', 'CS - Bed - Double - MakeShift - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141119359,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pregnancy Demo",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - Fancy', 'CS - Bed - Double - Fancy - 0, 0', 'CS - Bed - Double - Fancy - 0, 1', 'CS - Bed - Double - Fancy - 0, 2 - Lead', 'CS - Bed - Double - Fancy - 1, 0', 'CS - Bed - Double - Fancy - 1, 1', 'CS - Bed - Double - Fancy - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141119359,
+      128,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pregnancy Demo",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - Fancy', 'CS - Bed - Double - Fancy - 0, 0', 'CS - Bed - Double - Fancy - 0, 1', 'CS - Bed - Double - Fancy - 0, 2 - Lead', 'CS - Bed - Double - Fancy - 1, 0', 'CS - Bed - Double - Fancy - 1, 1', 'CS - Bed - Double - Fancy - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141119359,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Autonomous subqueue",
+    "description": "!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Bed - Double - Fancy', 'CS - Bed - Double - Fancy - 0, 0', 'CS - Bed - Double - Fancy - 0, 1', 'CS - Bed - Double - Fancy - 0, 2 - Lead', 'CS - Bed - Double - Fancy - 1, 0', 'CS - Bed - Double - Fancy - 1, 1', 'CS - Bed - Double - Fancy - 1, 2']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133808184,
+      130,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Outhouse', 'CS - Toilet - Outhouse - 0, 0', 'CS - Toilet - Outhouse - 0, 1', 'CS - Toilet - Outhouse - 1, 0', 'CS - Toilet - Outhouse - 1, 1 - Lead']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136248665,
+      130,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Set Dirty State.../Ultra-Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Reviewed exact inherited row on ['CS - Toilet - Stall', 'Toilet - Stall (0,0)', 'Toilet - Stall (0,1)', 'Toilet - Stall (0,2)']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136744377,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Should not see this",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136744377,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Should not see this",
+    "description": "!",
+    "reason": "Reviewed exact inherited row on ['CS - Book - Diary']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137156344,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Teen Elder - Gatherer']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137156344,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Teen Elder - Gatherer']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138162774,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "DogTemplate",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - NPC - Template - Wild Dog']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138162774,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "DogTemplate",
+    "description": "TheSims2 EPX - NEEDS TEXT",
+    "reason": "Reviewed exact inherited row on ['CS - NPC - Template - Wild Dog']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140573310,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Orangutan - Gatherer']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140573310,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Orangutan - Gatherer']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142114241,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Teen Elder - Crafter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142114241,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Teen Elder - Crafter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144607821,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Orangutan - Crafter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144607821,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Orangutan - Crafter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144857350,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Orangutan - Hunter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144857350,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Orangutan - Hunter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145351152,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "temp",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Potion - Medicine']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145351152,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "temp",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - Potion - Medicine']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145470373,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Teen Elder - Hunter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145470373,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Blank Description",
+    "description": "",
+    "reason": "Reviewed exact inherited row on ['CS - JobData - Teen Elder - Hunter']; developer/internal state, stale cloned text, placeholder, or unreachable helper text rather than player-facing localization."
+  }
+]
