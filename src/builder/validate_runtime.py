@@ -41,6 +41,11 @@ def auto_review_decision(row):
             'status': 'excluded',
             'reason': 'Source metadata explicitly marks the inherited row deleted/not-needed/not-used/unused; no accepted promotion uses this metadata family.',
         }
+    if re.match(r'^(?:DEBUG|DBG)\b', en, re.I):
+        return {
+            'status': 'excluded',
+            'reason': 'DEBUG/DBG-prefixed inherited interaction or diagnostic; current accepted exact promotions contain zero rows from this value family.',
+        }
     if re.fullmatch(r'(?:[0-9a-f]{8}|bebe[0-9a-f]+|ecdb[0-9a-f]+)', en, re.I):
         return {
             'status': 'excluded',
