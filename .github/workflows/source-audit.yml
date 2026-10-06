@@ -56,3 +56,5 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Autumn Leaf Pile" --groups 10 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Pet Bed - House - Native" --groups 10 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Changing Table" --groups 10 --samples 100
+          python src/builder/triage_review_queue.py --object-contains "CS - Door - House of Tuzu" --groups 4 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "CS - Band - Piano - Grand" --groups 4 --samples 80
