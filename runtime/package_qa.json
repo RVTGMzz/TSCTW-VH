@@ -144,8 +144,8 @@
   "status": "stale_after_source_update",
   "verified_commit": "64658bc140104e3cb0362208ab763b3b02d1c1ec",
   "verified_candidate_rows": 7502,
-  "current_candidate_rows": 7577,
+  "current_candidate_rows": 7595,
   "rerun_required": true,
-  "stale_reason": "Seventy-five exact inherited rows have been promoted after the last package-writer QA (14 early-story, 4 CS - Urn - Ghost, 22 Castaway changing-table, 25 Lomi Lomi Salmon, 10 Outdoor Hut toilet rows). Source-only validation applies pending exact overrides in memory; rerun check_runtime_packages.py against the user-owned baseline packages before treating package QA as current.",
+  "stale_reason": "Ninety-three exact inherited rows have been promoted after the last package-writer QA (14 early-story, 4 CS - Urn - Ghost, 22 Castaway changing-table, 25 Lomi Lomi Salmon, 10 Outdoor Hut toilet, 18 birthday/potty/high-chair rows). Source-only validation applies pending exact overrides in memory; rerun check_runtime_packages.py against the user-owned baseline packages before treating package QA as current.",
   "source_sha256_note": "These hashes are intentionally retained as provenance for the last structurally verified snapshot. Rerun check_runtime_packages.py before treating package QA as current."
 }
