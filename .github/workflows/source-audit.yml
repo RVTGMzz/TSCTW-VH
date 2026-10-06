@@ -78,3 +78,11 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Phone Call - Service - Nanny" --groups 20 --samples 260
           python src/builder/triage_review_queue.py --object-contains "Phone Call - Service - Maid" --groups 20 --samples 260
           python src/builder/triage_review_queue.py --object-contains "Phone Call - Party - Party" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "CS - Raft Parts - Raft Itself" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "CS - Chapter Rocket" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "CS - Reset All Objects" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "CS - Stove - Restaurant" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "CS - Bug_Jar" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "CS - Toilet - Outdoor Hut" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "CS - Social - Pet - Chase" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "CS - Social - Orangutan - Chase" --groups 20 --samples 160
