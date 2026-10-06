@@ -3,60 +3,1320 @@
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2139921429,
+      2140098230,
       301,
       0
     ],
-    "row": 0,
+    "row": 69,
     "status": "excluded",
-    "language": 1,
-    "en": "Congratulations! You've gained a skill point!",
-    "description": "!!!This was the generic skill dialog. Should not see in game.",
-    "reason": "Badge Tracker source explicitly marks this generic skill dialog as not shown in game."
+    "language": 2,
+    "en": "Congratulations! You've unlocked all of the Sims Gift Codes! Go to the Game Options panel and click the \"Codes\" button to see everything you've unlocked. You will no longer receive Sims Gift Codes when your pets are promoted at work.",
+    "description": "!",
+    "reason": "Pet Stories gift-code/pet-career residue; not part of Castaway Stories."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2139921429,
+      2144627920,
       301,
       0
     ],
-    "row": 6,
+    "row": 8,
     "status": "excluded",
-    "language": 2,
-    "en": "Congratulations! You've gained a Cleaning skill point!",
-    "description": "!!!This was the generic skill dialog. Should not see in game.",
-    "reason": "Badge Tracker source explicitly marks this generic skill dialog as not shown in game."
+    "language": 1,
+    "en": "This is the only adult or elder on the lot, please use the Move Family tool in the neighborhood to move them out.",
+    "description": "Sims2 - Needs Translation - Batch19\r\nThis dialog is when choosing to Find Own place using the computer or newspaper.",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1129599827,
-      2134917763,
-      2000,
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "This is the only married or joined couple on the lot, please use the Move Family tool in the neighborhood to move them out.",
+    "description": "Sims2 - Needs Translation - Batch19",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object is wasting time trying to build Class Performance because the Class Performance Meter is full. To make room in the meter, have $Object build one of the required skills.",
+    "description": "The Sims2EP1 - BatchEP1-8\nThis dialog appears if a Sim starts trying to build class performance when the meter is already filled.  They need to increase their potential in order to build skill further.",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "A nice meal with good service isn't free and since you seem to be lacking the necessary funds to pay for your evening a bill of $$Local:1 has been sent to your home.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your Group Size has changed and your dining bill has been taken care of. Please see the Host about being seated again if you'd like to continue dining.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Where were you!?  I can't believe you stood me up!  Don't call me again!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object decided to Comp $Local:3% of your bill because you're such a good friend.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "You better get a move on and start heading out to a Community lot... you don't want to stand $Neighbor up!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nRe-translate",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "This will end $Me's date with $Object. Are you sure you want to do this? To continue the date at home, do \"Ask.../Back To My Place\"",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "End Date",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stay Here",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "You better get a move on and start heading out to a Community lot... you don't want to stand $GroupName:6 up!",
+    "description": "The Sims2EP2 - Needs Translation",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 102,
+    "status": "excluded",
+    "language": 2,
+    "en": "This is the only adult or elder on the lot, please use the Move Family tool in the neighborhood to move them out.",
+    "description": "Sims2 - Needs Translation - Batch19\r\nThis dialog is when choosing to Find Own place using the computer or newspaper.",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 103,
+    "status": "excluded",
+    "language": 2,
+    "en": "This is the only married or joined couple on the lot, please use the Move Family tool in the neighborhood to move them out.",
+    "description": "Sims2 - Needs Translation - Batch19",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 118,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object just went over the grade point cap and he's not getting anymore. Baaaaaaaaad $Object",
+    "description": "! there was a string here regarding the performance meter filling up during an interaction, but that was added and cut again all on 1/13/05!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 120,
+    "status": "excluded",
+    "language": 2,
+    "en": "A nice meal with good service isn't free and since you seem to be lacking the necessary funds to pay for your evening a bill of $$Local:1 has been sent to your home.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 121,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your Group Size has changed and your dining bill has been taken care of. Please see the Host about being seated again if you'd like to continue dining.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 122,
+    "status": "excluded",
+    "language": 2,
+    "en": "Where were you!?  I can't believe you stood me up!  Don't call me again!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 123,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object decided to Comp $Local:3% of your bill because you're such a good friend.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 124,
+    "status": "excluded",
+    "language": 2,
+    "en": "You better get a move on and start heading out to a Community lot... you don't want to stand $Neighbor up!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nRe-translate",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 125,
+    "status": "excluded",
+    "language": 2,
+    "en": "This will end $Me's date with $Object. Are you sure you want to do this? To continue the date at home, do \"Ask.../Back To My Place\"",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 126,
+    "status": "excluded",
+    "language": 2,
+    "en": "End Date",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 127,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stay Here",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 128,
+    "status": "excluded",
+    "language": 2,
+    "en": "You better get a move on and start heading out to a Community lot... you don't want to stand $GroupName:6 up!",
+    "description": "The Sims2EP2 - Needs Translation",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "My ownership is $Local:0",
+    "description": "! This is a cheat string",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "No one can \"own\" this object.",
+    "description": "!Sims2 - This is a cheat sting,",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "$BehaviorString:1:0 in Flag Field 2 is SET",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "No Flag Set in flags - Object Data index 8",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "$BehaviorString:1:0 in Flags is SET",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "No Flag Set in Flag Fiels 2 - Object Data 40",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "$BehaviorString:1:0 in Body Flag is SET",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snap Failure($Local:0) - $GlobalString:1:2",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want $Object to purchase $LotNameLocalByLotId:0 for $$PropertyGlobalString:3:4?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object can't afford $LotNameLocalByLotId:0.  Please choose a less expensive lot.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object is now the owner of $LotNameLocalByLotId:0.  A copy of the deed has been placed in $Object's inventory.",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "A copy of the deed for $LotNameLocalByLotId:0 has been placed in $Object's inventory.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want $Object to purchase a copy of the deed for $LotNameLocalByLotId:0 for $$Money:1?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object does not have $$Money:1 to pay for a copy of the deed.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "There is already a deed for $LotNameLocalByLotId:0 on this lot.  Are you sure you want $Object to purchase a duplicate deed for $$Money:1?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "There is already a deed for $LotNameLocalByLotId:0 in $Object's inventory.  Are you sure you want $Object to purchase a duplicate deed for $$Money:1?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your business is losing favor with its patrons and has gone down to Business Rank $local:2. Gain back some Customer Loyalty to build your rank up!\n",
+    "description": "The Sims2EP3 - Batch 7",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your Business is now Rank $local:2! Keep up the good work!",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Your business is now Rank $local:2 and you have gained a point to spend on Business Perks. Click on the Business Perks button on the Business Tracker and choose your new perk!",
+    "description": "The Sims2EP3 - Batch 7",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Neighbor is now the owner of the lot $LotNameLocalByLotId:1.  A copy of the deed has been placed into $Neighbor's inventory. $Neighbor can also order extra copies of the deed via the phone or computer by choosing the Real Estate option.",
+    "description": "The Sims2EP3 - Batch 7",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "$FullNameLocal:2 is now the owner of $LotNameLocalByLotId:1.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me would need to buy another fridge to hold more food!",
+    "description": "The Sims EP3 - Batch 5 Moved from FoodDisplayGlobals table 301 index 0",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me will need to buy a fridge to hold all this food!",
+    "description": "The Sims EP3 - Batch 5 Moved from FoodDisplayGlobals table 301 index 1",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations!  This is the first Simoleon earned by $NeighborLocal:0 from $LotNameLocalByLotId:1.  It has been  placed in $NeighborLocal:0's inventory.  Display this award with pride for all to see!",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm too tired to come in to work right now, let me rest a bit longer.",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 97,
+    "status": "excluded",
+    "language": 2,
+    "en": "My ownership is $Local:0",
+    "description": "! This is a cheat string",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 98,
+    "status": "excluded",
+    "language": 2,
+    "en": "No one can \"own\" this object.",
+    "description": "!Sims2 - This is a cheat sting,",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 106,
+    "status": "excluded",
+    "language": 2,
+    "en": "No Flag Set",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 2,
+    "en": "$GlobalString:1:0 in Flags is SET",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 108,
+    "status": "excluded",
+    "language": 2,
+    "en": "No Flag Fields 2 set",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 109,
+    "status": "excluded",
+    "language": 2,
+    "en": "$GlobalString:1:0 in Body Flag is SET",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 111,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snap Failure(Local:0) - $GlobalString:0:1",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 129,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you want $Object to purchase $LotNameLocalByLotId:0 for $$PropertyGlobalString:3:4?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 130,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object can't afford $LotNameLocalByLotId:0.  Please choose a less expensive lot.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 131,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object is now the owner of $LotNameLocalByLotId:0.  A copy of the deed has been placed in $Object's inventory.",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 132,
+    "status": "excluded",
+    "language": 2,
+    "en": "A copy of the deed for $LotNameLocalByLotId:0 has been placed in $Object's inventory.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 133,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you want $Object to purchase a copy of the deed for $LotNameLocalByLotId:0 for $$Money:1?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 134,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object does not have $$Money:1 to pay for a copy of the deed.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 135,
+    "status": "excluded",
+    "language": 2,
+    "en": "There is already a deed for $LotNameLocalByLotId:0 on this lot.  Are you sure you want $Object to purchase a duplicate deed for $$Money:1?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 136,
+    "status": "excluded",
+    "language": 2,
+    "en": "There is already a deed for $LotNameLocalByLotId:0 in $Object's inventory.  Are you sure you want $Object to purchase a duplicate deed for $$Money:1?",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 137,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your business is losing favor with its patrons and has gone down to Business Rank $local:2. Gain back some Customer Loyalty to build your rank up!\n",
+    "description": "The Sims2EP3 - Batch 7",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 138,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your Business is now Rank $local:2! Keep up the good work!",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 139,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Your business is now Rank $local:2 and you have gained a point to spend on Business Perks. Click on the Business Perks button on the Business Tracker and choose your new perk!",
+    "description": "The Sims2EP3 - Batch 7",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 140,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Neighbor is now the owner of the lot $LotNameLocalByLotId:1.  A copy of the deed has been placed into $Neighbor's inventory. $Neighbor can also order extra copies of the deed via the phone or computer by choosing the Real Estate option.",
+    "description": "The Sims2EP3 - Batch 7",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 141,
+    "status": "excluded",
+    "language": 2,
+    "en": "$FullNameLocal:2 is now the owner of $LotNameLocalByLotId:1.",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Local:0 is not a result code I know about.  (Please update this function is it is a new one!)",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Failure($Local:0) - $GlobalString:1:2",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 110,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Local:0 is not a result code I know about.  (Please update this function is it is a new one!)",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 112,
+    "status": "excluded",
+    "language": 2,
+    "en": "Route Failure($Local:0) - $GlobalString:1:2",
+    "description": "!",
+    "reason": "Expansion/business/date/class-performance or debug/cheat/route residue in shared dialog primitive; outside Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
       0
     ],
     "row": 0,
     "status": "excluded",
     "language": 1,
-    "en": "Grim Reaper",
-    "description": "The Sims 2 - Needs Translation - Batch15\r\n",
-    "reason": "Hidden NPC CTSS/catalog metadata for Grim Reaper, not a player-facing catalog object."
+    "en": "Browse",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1129599827,
-      2134917763,
-      2000,
+      1414807923,
+      2144627920,
+      1,
       0
     ],
     "row": 1,
     "status": "excluded",
     "language": 1,
-    "en": "Education: BA Human Development, University of Hawaii\nFavorite Band: Styx\nShort Piers: I like it when you take long walks.\n",
-    "description": "",
-    "reason": "Hidden NPC CTSS/catalog metadata for Grim Reaper, not a player-facing catalog object."
+    "en": "Restock",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price Of Type",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic - Show Object",
+    "description": "!",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add to Shopping Bag",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell At Wholesale Cost",
+    "description": "Sims2EP3 - Batch 6",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price Of Type",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic - Show Object",
+    "description": "!",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Add to Shopping Bag",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144627920,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Debug - Fake Buy",
+    "description": "!",
+    "reason": "Open for Business retail interaction residue in shared semiglobal; Castaway Stories does not ship OFB retail gameplay."
   }
 ]
