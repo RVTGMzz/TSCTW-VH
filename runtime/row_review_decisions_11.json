@@ -1,0 +1,407 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order a pizza?",
+    "description": "!! Deleted. Moved to PhoneCall Delivery was \"Would you like to order a pizza?\"",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to restock your fridge? It'll cost you.",
+    "description": "!! Deleted, actual string is in Phone Call Delivery. was \"Would you like to restock your fridge? It'll cost you.\"",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to adopt a baby?",
+    "description": "!! Deleted, moved to Phone_Call Special and is now back in this stringset as string 19. was \"Would you like to adopt a baby?\"",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's too early to come over now, but I'll be over around $Local:0.",
+    "description": "!! Deleted. Was a pm version of 10 (When 10 was referring to am time)",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's too late to come over now. I'll be over around $Local:0 tomorrow.",
+    "description": "!! Deleted. Was a pm version of 11 (When 11 was referring to am time)",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Matchmaking Service",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife/EP2 matchmaking residue is not evidenced as reachable in Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order a pizza?",
+    "description": "!! Deleted. Moved to PhoneCall Delivery was \"Would you like to order a pizza?\"",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to restock your fridge? It'll cost you.",
+    "description": "!! Deleted, actual string is in Phone Call Delivery. was \"Would you like to restock your fridge? It'll cost you.\"",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to adopt a baby?",
+    "description": "!! Deleted, moved to Phone_Call Special and is now back in this stringset as string 19. was \"Would you like to adopt a baby?\"",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's too early to come over now, but I'll be over around $Local:0.",
+    "description": "!! Deleted. Was a pm version of 10 (When 10 was referring to am time)",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's too late to come over now. I'll be over around $Local:0 tomorrow.",
+    "description": "!! Deleted. Was a pm version of 11 (When 11 was referring to am time)",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Source metadata marks this service/adoption row deleted or obsolete."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Matchmaking Service",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife/EP2 matchmaking residue is not evidenced as reachable in Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Graduation Party List",
+    "description": "The Sims EP1 - Needs Translation - BatchEP1-5\nHeader for Dialog to choose Sims for a graduation party",
+    "reason": "University/expansion party-type residue outside Castaway party flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Toga Party List",
+    "description": "The Sims EP1 - Needs Translation - BatchEP1-5\nHeader for Dialog to choose Sims for a toga party",
+    "reason": "University/expansion party-type residue outside Castaway party flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sports Party List",
+    "description": "The Sims EP1 - Needs Translation - BatchEP1-5\nHeader for Dialog to choose Sims for a sports party",
+    "reason": "University/expansion party-type residue outside Castaway party flow."
+  }
+]

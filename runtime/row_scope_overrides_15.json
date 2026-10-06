@@ -1,0 +1,1667 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $Local:2 Resources plus $Local:3 Resources per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "dialog",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "dialog",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "dialog",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "dialog",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "dialog",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "dialog",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "dialog",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "dialog",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135010478,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135010478,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "dialog",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "dialog",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "dialog",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "dialog",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "dialog",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "dialog",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "dialog",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "dialog",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $Local:2 Resources initially, and $Local:3 Resources per hour. Deal?",
+    "description": "!Cast UI COM",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $Local:2 Resources initially, and $Local:3 Resources per hour. Deal?",
+    "description": "!Cast UI COM",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138306286,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138306286,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Player-facing Castaway shell-phone service/adoption/nanny text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! The wedding's on, and the guests are on their way. Let the festivities begin.",
+    "description": "The Sims 2 - Needs translation - Batch19\nWas marked for Batch16 as \"You're getting married now\" but wording has improved.  Appears after Sim calls to invite friends to a wedding party.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "The guests are all invited. Break out the refreshments and the latest tunes. It's party time! ",
+    "description": "The Sims 2 - Needs translation - Batch19\nWas marked for Batch16 but wording has improved. TNS appears after you invite Sims to the party on the phone.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "House Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to House Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 1,
+    "en": "Birthday Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to Birthday Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wedding Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to Wedding Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "Anniversary Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to Anniversary Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "You already have a pretty full lot! Would you still like to continue?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog when choosing to invite people over for a party. Not sure of the exact parameters when this will show up.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "%d Guests Maximum",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLine appears underneath \"Invite List\" in Phone invite UI",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "%d Guest Allowed",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLine appears underneath \"Invite List\" in Phone invite UI - if lot is so full that only one guest can attend.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Missing some of your party guests? Whenever you send out an invite list, there's always the chance that some guests might not show up, but there's an even better chance of them not showing up if they don't like the host.",
+    "description": "The Sims2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 13,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations! The wedding's on, and the guests are on their way. Let the festivities begin.",
+    "description": "The Sims 2 - Needs translation - Batch19\nWas marked for Batch16 as \"You're getting married now\" but wording has improved.  Appears after Sim calls to invite friends to a wedding party.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 2,
+    "en": "The guests are all invited. Break out the refreshments and the latest tunes. It's party time! ",
+    "description": "The Sims 2 - Needs translation - Batch19\nWas marked for Batch16 but wording has improved. TNS appears after you invite Sims to the party on the phone.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 2,
+    "en": "House Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to House Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 2,
+    "en": "Birthday Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to Birthday Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wedding Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to Wedding Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 2,
+    "en": "Anniversary Party List",
+    "description": "The Sims 2 - Needs Translation - Batch19\nHeader for Phone UI when inviting guests to Anniversary Party (on right side of dialog) - Party UI Message",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 2,
+    "en": "You already have a pretty full lot! Would you still like to continue?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog when choosing to invite people over for a party. Not sure of the exact parameters when this will show up.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 2,
+    "en": "%d Guests Maximum",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLine appears underneath \"Invite List\" in Phone invite UI",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 2,
+    "en": "%d Guest Allowed",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLine appears underneath \"Invite List\" in Phone invite UI - if lot is so full that only one guest can attend.",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133166524,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 2,
+    "en": "Missing some of your party guests? Whenever you send out an invite list, there's always the chance that some guests might not show up, but there's an even better chance of them not showing up if they don't like the host.",
+    "description": "The Sims2 - Needs Translation - Batch 23",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133166524,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "House Party",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133166524,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "House Party",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing Castaway shell-phone party UI/dialog."
+  }
+]
