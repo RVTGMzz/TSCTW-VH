@@ -1,0 +1,137 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game clothing interaction retained in the Castaway clothing instance; exact English label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game clothing interaction retained in the Castaway clothing instance; exact English label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      2,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dress for Work",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nmissed in earlier batch",
+    "reason": "Base-game clothing interaction retained in the Castaway clothing instance; exact English label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Try On.../Everyday Outfit 3",
+    "description": "!",
+    "reason": "Clothing try-on/purchase menu retained in the same Castaway clothing instance; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy.../Everyday Outfit 2",
+    "description": "!",
+    "reason": "Clothing try-on/purchase menu retained in the same Castaway clothing instance; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy.../Everyday Outfit 3",
+    "description": "!",
+    "reason": "Clothing try-on/purchase menu retained in the same Castaway clothing instance; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 90,
+    "category": "menu",
+    "language": 2,
+    "en": "Try On.../Casual Outfit 3",
+    "description": "!",
+    "reason": "Clothing try-on/purchase menu retained in the same Castaway clothing instance; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 97,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy.../Casual Outfit 2",
+    "description": "!",
+    "reason": "Clothing try-on/purchase menu retained in the same Castaway clothing instance; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 98,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy.../Casual Outfit 3",
+    "description": "!",
+    "reason": "Clothing try-on/purchase menu retained in the same Castaway clothing instance; exact label already has an approved Vietnamese menu mapping."
+  }
+]
