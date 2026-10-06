@@ -1,0 +1,152 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Totals: \r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Young Adult - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Young Adult - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Elder - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Totals: \r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Young Adult - Male\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Young Adult - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Elder - Female\r\rCasual: $Local:0\rSwim: $Local:1\rFormal: $Local:2\rPJ: $Local:3\rUnderwear: $Local:4\rGym: $Local:5",
+    "description": "!",
+    "reason": "Internal clothing-availability diagnostic dump of category counts; raw $Local counters are not player-facing catalog/menu copy."
+  }
+]
