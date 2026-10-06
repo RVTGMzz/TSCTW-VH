@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Catch Flies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase Flies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play In",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "Catch Flies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase Flies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play In",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7 inherited destination interaction residue; Seasons-only fly/play/eat actions are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Summon Wolves",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6/Pets inherited destination action residue; standard Summon Wolves interaction is outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pee On",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6/Pets inherited destination action residue; standard pet Pee On interaction is outside Castaway Stories."
+  }
+]
