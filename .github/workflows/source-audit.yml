@@ -98,6 +98,8 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Singing Stone Tutorial Controller" --groups 20 --samples 200
           python src/builder/triage_review_queue.py --object-contains "Ch07_Crossroads Event - Jaguar Controller" --groups 20 --samples 200
           python src/builder/triage_review_queue.py --object-contains "Ch15_Jungle - Shaman's Guard Controller" --groups 20 --samples 200
+          python src/builder/triage_review_queue.py --object-contains "Controller - Age" --groups 20 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "Controller - Disease" --groups 20 --samples 120
           python src/builder/triage_review_queue.py --instance-id 2135885514 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2145233707 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2145453426 --groups 20 --samples 120
