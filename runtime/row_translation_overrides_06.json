@@ -1,0 +1,754 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 305,
+    "category": "menu",
+    "language": 1,
+    "en": "Hiss At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Khè vào",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 306,
+    "category": "menu",
+    "language": 1,
+    "en": "Propose.../Give Pet.../$Object",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Đề nghị.../Tặng thú cưng.../$Object",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 313,
+    "category": "menu",
+    "language": 1,
+    "en": "Greet $NameLocal:2 & $NeighborLocal:8",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chào $NameLocal:2 & $NeighborLocal:8",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 625,
+    "category": "menu",
+    "language": 2,
+    "en": "Hiss At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Khè vào",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 626,
+    "category": "menu",
+    "language": 2,
+    "en": "Propose.../Give Pet.../$Object",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Đề nghị.../Tặng thú cưng.../$Object",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 633,
+    "category": "menu",
+    "language": 2,
+    "en": "Greet $NameLocal:2 & $NeighborLocal:8",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chào $NameLocal:2 & $NeighborLocal:8",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 433,
+    "category": "menu",
+    "language": 1,
+    "en": "Attack",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Tấn công",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 434,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Love.../Belly Rub",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin yêu thương.../Xoa bụng",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 435,
+    "category": "menu",
+    "language": 1,
+    "en": "Sniff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Đánh hơi",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 437,
+    "category": "menu",
+    "language": 1,
+    "en": "Bark At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Sủa vào",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 439,
+    "category": "menu",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Gầm gừ với",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 441,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Love.../Beg For Treat",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin yêu thương.../Đòi đồ ăn vặt",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 442,
+    "category": "menu",
+    "language": 1,
+    "en": "Howl",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Tru",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 443,
+    "category": "menu",
+    "language": 1,
+    "en": "Howl",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Tru",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 444,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Razzle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chơi.../Quậy tưng",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 445,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Fetch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chơi.../Nhặt đồ",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 448,
+    "category": "menu",
+    "language": 1,
+    "en": "Beg For Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin ăn",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 450,
+    "category": "menu",
+    "language": 1,
+    "en": "Sell Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Bán thú cưng",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 451,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Love.../Stroke",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin yêu thương.../Vuốt ve",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 455,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask for Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin đồ ăn",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 456,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Rượt đuổi",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 458,
+    "category": "menu",
+    "language": 1,
+    "en": "Lick Toddler",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Liếm trẻ tập đi",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 952,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask for Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin đồ ăn",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 460,
+    "category": "menu",
+    "language": 1,
+    "en": "Toss In Air",
+    "description": "Sims 2 EP6: Needs Text",
+    "vi": "Tung lên",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 461,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle With Toddler",
+    "description": "Sims 2 EP6: Needs Text",
+    "vi": "Ôm ấp với trẻ tập đi",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 305,
+    "category": "menu",
+    "language": 1,
+    "en": "Hiss At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Khè vào",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 306,
+    "category": "menu",
+    "language": 1,
+    "en": "Propose.../Give Pet.../$Object",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Đề nghị.../Tặng thú cưng.../$Object",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 313,
+    "category": "menu",
+    "language": 1,
+    "en": "Greet $NameLocal:2 & $NeighborLocal:8",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chào $NameLocal:2 & $NeighborLocal:8",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 625,
+    "category": "menu",
+    "language": 2,
+    "en": "Hiss At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Khè vào",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 626,
+    "category": "menu",
+    "language": 2,
+    "en": "Propose.../Give Pet.../$Object",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Đề nghị.../Tặng thú cưng.../$Object",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 633,
+    "category": "menu",
+    "language": 2,
+    "en": "Greet $NameLocal:2 & $NeighborLocal:8",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chào $NameLocal:2 & $NeighborLocal:8",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 434,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Love.../Belly Rub",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin yêu thương.../Xoa bụng",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 437,
+    "category": "menu",
+    "language": 1,
+    "en": "Bark At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Sủa vào",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 439,
+    "category": "menu",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Gầm gừ với",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 441,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Love.../Beg For Treat",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin yêu thương.../Đòi đồ ăn vặt",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 442,
+    "category": "menu",
+    "language": 1,
+    "en": "Howl",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Tru",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 443,
+    "category": "menu",
+    "language": 1,
+    "en": "Howl",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Tru",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 444,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Razzle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chơi.../Quậy tưng",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 445,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Fetch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Chơi.../Nhặt đồ",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 448,
+    "category": "menu",
+    "language": 1,
+    "en": "Beg For Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin ăn",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 450,
+    "category": "menu",
+    "language": 1,
+    "en": "Sell Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Bán thú cưng",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 451,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Love.../Stroke",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin yêu thương.../Vuốt ve",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 455,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask for Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin đồ ăn",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 458,
+    "category": "menu",
+    "language": 1,
+    "en": "Lick Toddler",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Liếm trẻ tập đi",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 985,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask for Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Xin đồ ăn",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 460,
+    "category": "menu",
+    "language": 1,
+    "en": "Toss In Air",
+    "description": "Sims 2 EP6: Needs Text",
+    "vi": "Tung lên",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 461,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle With Toddler",
+    "description": "Sims 2 EP6: Needs Text",
+    "vi": "Ôm ấp với trẻ tập đi",
+    "reason": "Retained Pets interaction used by Castaway hyena/pet systems; exact-row translation keeps pet behavior without promoting unrelated expansion text."
+  }
+]
