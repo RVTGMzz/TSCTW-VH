@@ -11,7 +11,7 @@
     "category": "dialog",
     "language": 1,
     "en": "$Me says, \"I’m starved. See you later.\"",
-    "description": "!Killed?Notes:leaving-neighbor - low hunger need- Neighbor is unable to satisfy hunger need at a sim\udce9s house and this is the message the player will see.",
+    "description": "!Killed?Notes:leaving-neighbor - low hunger need- Neighbor is unable to satisfy hunger need at a sim\udc92s house and this is the message the player will see.",
     "reason": "Explicit player-facing leaving-neighbor dialog on the Castaway House of Tuzu door; exact inherited row only."
   },
   {
@@ -26,7 +26,7 @@
     "category": "dialog",
     "language": 2,
     "en": "$Me says, \"I’m starved. See you later.\"",
-    "description": "!Killed?Notes:leaving-neighbor - low hunger need- Neighbor is unable to satisfy hunger need at a sim\udce9s house and this is the message the player will see.",
+    "description": "!Killed?Notes:leaving-neighbor - low hunger need- Neighbor is unable to satisfy hunger need at a sim\udc92s house and this is the message the player will see.",
     "reason": "Explicit player-facing leaving-neighbor dialog on the Castaway House of Tuzu door; exact inherited row only."
   },
   {
