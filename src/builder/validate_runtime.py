@@ -32,6 +32,19 @@ def load_row_overrides():
     return rows
 
 
+def load_row_review_decisions():
+    """Load exact inherited-row exclude/retain decisions from numbered shards."""
+    rows = []
+    for path in sorted(RUNTIME.glob('row_review_decisions*.json')):
+        if path.name == 'row_review_decisions_applied.json':
+            continue
+        data = json.loads(path.read_text())
+        if not isinstance(data, list):
+            raise ValueError(('Row review decision shard must be a JSON list', path.name))
+        rows.extend(data)
+    return rows
+
+
 def effective_records():
     """Merge exact row overrides into committed snapshots for source-only QA.
 
@@ -51,10 +64,28 @@ def effective_records():
             raise ValueError(('Duplicate row override', identity))
         overrides[identity] = override
 
+    review_decisions = {}
+    for decision in load_row_review_decisions():
+        identity = (decision['package'], tuple(decision['key']), decision['row'])
+        if identity in review_decisions:
+            raise ValueError(('Duplicate row review decision', identity))
+        if identity in overrides:
+            raise ValueError(('Row cannot be both promoted and excluded/retained', identity))
+        if decision.get('status') not in ('excluded', 'retain'):
+            raise ValueError(('Unsupported row review decision status', identity, decision.get('status')))
+        review_decisions[identity] = decision
+    applied_path = RUNTIME/'row_review_decisions_applied.json'
+    applied_decisions = {}
+    if applied_path.exists():
+        for decision in json.loads(applied_path.read_text()):
+            identity = (decision['package'], tuple(decision['key']), decision['row'])
+            applied_decisions[identity] = decision
+
     catalog_by_id = {row_identity(row): row for row in records}
     review_by_id = {row_identity(row): row for row in review}
     promoted = []
     promoted_ids = set()
+    decided_ids = set()
     for identity, override in overrides.items():
         if identity in catalog_by_id:
             row = catalog_by_id[identity]
@@ -76,9 +107,27 @@ def effective_records():
         promoted.append(promoted_row)
         promoted_ids.add(identity)
 
+    for identity, decision in review_decisions.items():
+        if identity in catalog_by_id:
+            raise ValueError(('Row review decision overlaps candidate row', identity))
+        row = review_by_id.get(identity)
+        if row is None:
+            applied = applied_decisions.get(identity)
+            if applied != decision:
+                raise ValueError(('Row review decision missing from review snapshot and applied-decision inventory', identity))
+            continue
+        if row['category'] != 'review' or (row['language'], row['en'], row['description']) != (decision['language'], decision['en'], decision['description']):
+            raise ValueError((
+                'Pending row review decision baseline mismatch', identity,
+                'source', (row['category'], row['language'], repr(row['en']), repr(row['description'])),
+                'decision', (decision['status'], decision['language'], repr(decision['en']), repr(decision['description'])),
+            ))
+        decided_ids.add(identity)
+
     if promoted:
         records.extend(promoted)
-        review = [row for row in review if row_identity(row) not in promoted_ids]
+    if promoted_ids or decided_ids:
+        review = [row for row in review if row_identity(row) not in promoted_ids and row_identity(row) not in decided_ids]
     return records, review
 
 
