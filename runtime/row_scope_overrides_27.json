@@ -1,0 +1,77 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140262859,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Teleport Here",
+    "description": "The Sims 2 - BatchMTF2 - same as set 302, string 10 copied 6/24/04\n\nThis is an interaction that used to be named from the \"Add Change Action String\" table, but no longer is.   The text should be the same.",
+    "reason": "Core player-facing Teleport Here action retained on the Castaway invisible floor marker; translate only this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nPool Get In",
+    "reason": "Core player-facing pool/water Get In action retained on the Castaway invisible floor marker; translate only this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Teleport Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This was \"Float Here\" and is now \"Teleport Here\". Context is that a Sim progresses from meditating, to levitating, to teleporting. Once the Sim has levitated long enough, the player can click on the ground and choose \"Teleport Here\" - like \"Go Here\", and the Sim will magically appear there.",
+    "reason": "Core player-facing Teleport Here action retained on the Castaway invisible floor marker; translate only this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nPool Get In",
+    "reason": "Core player-facing pool/water Get In action retained on the Castaway invisible floor marker; translate only this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140262859,
+      302,
+      0
+    ],
+    "row": 51,
+    "category": "menu",
+    "language": 2,
+    "en": "Teleport Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This was \"Float Here\" and is now \"Teleport Here\". Context is that a Sim progresses from meditating, to levitating, to teleporting. Once the Sim has levitated long enough, the player can click on the ground and choose \"Teleport Here\" - like \"Go Here\", and the Sim will magically appear there.",
+    "reason": "Core player-facing Teleport Here action retained on the Castaway invisible floor marker; translate only this exact row."
+  }
+]
