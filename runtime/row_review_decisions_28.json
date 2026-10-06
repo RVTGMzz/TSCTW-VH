@@ -1,0 +1,512 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Streak Here",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\ninteraction to click on ground and tell a Streaking Sim to \"Streak Here\". variation on Go Here, etc.",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Place $Neighbor's Grave Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Place Grave Here.../$Neighbor",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Streak Here",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\ninteraction to click on ground and tell a Streaking Sim to \"Streak Here\". variation on Go Here, etc.",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Place $Neighbor's Grave Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "Place Grave Here.../$Neighbor",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Fail",
+    "description": "!",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Common",
+    "description": "!",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Uncommon",
+    "description": "!",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Rare",
+    "description": "!",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig Preset../Ultra-Rare",
+    "description": "!",
+    "reason": "University/Nightlife or hidden dig-preset residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fly Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stalk Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Place Grave Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Snow Angel",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Snow Angel",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Die By Satellite",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fish Subqueue",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Teleport Here",
+    "description": "!!!!",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dig",
+    "description": "!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Nightlife/snow/debug/internal destination residue outside Castaway player-facing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "My lot isn't big enough to build a snowman. Maybe I should clear up some space outside.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Bronze Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Silver Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Gold Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "My lot isn't big enough to build a snowman. Maybe I should clear up some space outside.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Bronze Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Silver Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Catching all those fish got $NameLocal:0 a Gold Fishing Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Snow/fishing-talent-badge expansion residue not used by Castaway fishing progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132776298,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Destination",
+    "description": "! Out of World",
+    "reason": "Destination catalog placeholder explicitly marked Out of World."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132776298,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Here.",
+    "description": "! Out of World",
+    "reason": "Destination catalog placeholder explicitly marked Out of World."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132776298,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Destination",
+    "description": "! Out of World",
+    "reason": "Destination catalog placeholder explicitly marked Out of World."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132776298,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go Here.",
+    "description": "! Out of World",
+    "reason": "Destination catalog placeholder explicitly marked Out of World."
+  }
+]

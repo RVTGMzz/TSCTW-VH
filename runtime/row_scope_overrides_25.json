@@ -1,0 +1,1202 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch Clouds",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Stargaze",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Crawl Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Swim Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nPool Get In",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Carry $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Put $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Carry Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This is used in the Phones. When a Sim is talking on the phone, player can click to have them walk somewhere with the phone while talking. marked for translation 5/11 smp, verifed with MattG",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Teleport Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This was \"Float Here\" and is now \"Teleport Here\". Context is that a Sim progresses from meditating, to levitating, to teleporting. Once the Sim has levitated long enough, the player can click on the ground and choose \"Teleport Here\" - like \"Go Here\", and the Sim will magically appear there.",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Catch Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Catch Butterflies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask $Me to Fish",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Recast",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch Clouds",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Stargaze",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Crawl Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 2,
+    "en": "Swim Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nPool Get In",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 46,
+    "category": "menu",
+    "language": 2,
+    "en": "Carry $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 2,
+    "en": "Put $Object Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 48,
+    "category": "menu",
+    "language": 2,
+    "en": "Carry Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Here",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 50,
+    "category": "menu",
+    "language": 2,
+    "en": "Talk Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This is used in the Phones. When a Sim is talking on the phone, player can click to have them walk somewhere with the phone while talking. marked for translation 5/11 smp, verifed with MattG",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 51,
+    "category": "menu",
+    "language": 2,
+    "en": "Teleport Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: This was \"Float Here\" and is now \"Teleport Here\". Context is that a Sim progresses from meditating, to levitating, to teleporting. Once the Sim has levitated long enough, the player can click on the ground and choose \"Teleport Here\" - like \"Go Here\", and the Sim will magically appear there.",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Catch Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 56,
+    "category": "menu",
+    "language": 2,
+    "en": "Catch Butterflies",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 57,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask $Me to Fish",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 59,
+    "category": "menu",
+    "language": 2,
+    "en": "Chase Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Chase Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 72,
+    "category": "menu",
+    "language": 2,
+    "en": "Recast",
+    "description": "The Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../ Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Join Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Lure to.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 58,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../ Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 65,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 66,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 67,
+    "category": "menu",
+    "language": 2,
+    "en": "Join Using.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 68,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Worm",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 69,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Riverblossom Minnow",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 70,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Stink Ball Bait",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      302,
+      0
+    ],
+    "row": 71,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Lure to.../Sparkle Spinner",
+    "description": "The Sims 2 EP7: Needs re-Translation",
+    "reason": "Player-facing Castaway destination/ground/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Here",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nrouting without carrying anything",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Run",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Face Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Here!",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Skip Here",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch Clouds",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Run Here",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Sneak Here",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n\r\nThis is for sims that are able to use the special \"Sneak\" walk in addition to a normal walk.  Choosing this makes you sneak to your destination.",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Teleport Here",
+    "description": "The Sims 2 - BatchMTF2 - same as set 302, string 10 copied 6/24/04\n\nThis is an interaction that used to be named from the \"Add Change Action String\" table, but no longer is.   The text should be the same.",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Fish Using...",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Go Here",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nrouting without carrying anything",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 40,
+    "category": "menu",
+    "language": 2,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Run",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132776298,
+      128,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Fish Using...",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway destination/routing/fishing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "I can't cast that far.  I should try catching fish closer to the edge.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "The terrain looks too steep for me.  Maybe I should cast from somewhere else.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 2,
+    "en": "I can't cast that far.  I should try catching fish closer to the edge.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132776298,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 2,
+    "en": "The terrain looks too steep for me.  Maybe I should cast from somewhere else.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Player-facing Castaway fishing feedback."
+  }
+]
