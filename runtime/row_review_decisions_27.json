@@ -1,0 +1,4907 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Casual 1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Swimsuit",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Formal",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Pajamas",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Workout",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Maternity",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Outfit.../Underwear",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Ambulance Driver",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Bartender",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Boss",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Burglar",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Bus Driver",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Caterer",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Clown",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Clown Cleanser",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Cop",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Delivery Person",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Exterminator",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Fire Fighter",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Gardener",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Genie",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Grim Reaper",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Handy Man",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Headmaster",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Ice Cream Vendor",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Maid",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Mail Carrier",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Nanny",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Paper Delivery Person",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Pizza Guy",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Pool Cleaner",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Raccoon",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Repoman",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Robot - Servo",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Salesperson",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Social Bunny",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Social Worker",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Register Clerk",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dress Like NPC.../Therapist",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 2",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 3",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 4",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 5",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 6",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 7",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 8",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 9",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work $NameLocal:2.../ Level 10",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Casual 1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Swimsuit",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Formal",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Pajamas",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Workout",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Maternity",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Outfit.../Underwear",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Ambulance Driver",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Bartender",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Boss",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Burglar",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Bus Driver",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Caterer",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Clown",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Clown Cleanser",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Cop",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Delivery Person",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Exterminator",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Fire Fighter",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Gardener",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Genie",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Grim Reaper",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Handy Man",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Headmaster",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Ice Cream Vendor",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 75,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Maid",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 76,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Mail Carrier",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 77,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Nanny",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 78,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Paper Delivery Person",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Pizza Guy",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 80,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Pool Cleaner",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 81,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Raccoon",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 82,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Repoman",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Robot - Servo",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Salesperson",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Social Bunny",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Social Worker",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 87,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Register Clerk",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dress Like NPC.../Therapist",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 91,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 2",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 92,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 3",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 93,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 4",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 94,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 5",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 95,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 6",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 96,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 7",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 97,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 8",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 98,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 9",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      302,
+      0
+    ],
+    "row": 99,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work $NameLocal:2.../ Level 10",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Warning I don't have category $Local:0 (Casual=0, Swimsuit=2, Formal=4, Pajamas=5, Underwear=11, Naked=1,Gym=3, Maternity=8)",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey, I could not change into $Local:0 (Casual=0, Swimsuit=2, Formal=4, Pajamas=5, Underwear=11, Naked=1,Gym=3, Maternity=8)",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Trying on $Local:0 (Casual=0, Swimsuit=2, Formal=4, Pajamas=5, Underwear=11, Naked=1,Gym=3, Maternity=8)",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Trying on Clothes",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cannot Find that NPC's Clothes     $Local:0  ID",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object is Job Data",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "You selected $Object at level $Local:1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Warning I don't have category $Local:0 (Casual=0, Swimsuit=2, Formal=4, Pajamas=5, Underwear=11, Naked=1,Gym=3, Maternity=8)",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey, I could not change into $Local:0 (Casual=0, Swimsuit=2, Formal=4, Pajamas=5, Underwear=11, Naked=1,Gym=3, Maternity=8)",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Trying on $Local:0 (Casual=0, Swimsuit=2, Formal=4, Pajamas=5, Underwear=11, Naked=1,Gym=3, Maternity=8)",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Trying on Clothes",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cannot Find that NPC's Clothes     $Local:0  ID",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object is Job Data",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133507212,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "You selected $Object at level $Local:3",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Morph",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Redress",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "What Clothes Do I Have?",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "NPC Clothes",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work Clothes",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Teen and Elder Jobs",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Burnt Skin",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Party.../Togas",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133507212,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Party.../Grads",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource [\"CS - Debug - Phil's Clothing Availibility Test\"]; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Generate Townies now? (v2.0)",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Local:0 Townie(s) Made",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Done making all the townies. ",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Adults",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Teens",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Local:0 DownTownie(s) Made",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Townies",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "DownTownies",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "I've been investigating your business and I think it's top notch. I'm writing a Good Review to tell others about your fantastic establishment!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "I've taken a look at your business and I'm disappointed!  I've written a Bad Review to warn others about your lackluster establishment.",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow - you really know what you're doing!  Your outstanding business has impressed me so much that I'm giving you the Best of the Best Award. Whenever you want to display it, just look for it in your inventory.",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NameLocal:0 has realized that a lot of empty shelves make even a ritzy boutique look like a fly-by-night flea market. That kind of insight wins a Bronze Stocking Talent Badge!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NameLocal:0's getting good at setting things down fast as well as straight. Those full displays deserve a Silver Stocking Talent Badge!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "With an eagle eye, a sure hand and some pure stick-to-it-ness, $NameLocal:0 can keep the merchandise flowing to a serious crowd! Congrats on earning a Gold Stocking Talent Badge!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow - you really know what you're doing!  $LotNameLocalByLotId:0 has impressed me so much that I'm giving you the Best of the Best Award. Whenever you want to display it, just look for it in $NeighborLocal:1's inventory.",
+    "description": "Sims2EP3 - Batch 9",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "No townies have been detected.  Generate them now? (v2.0)",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Local:0 Townie(s) Made",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Done making all the townies. ",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Adults",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Teens",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Local:0 DownTownie(s) Made",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Townies",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "DownTownies",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "I've been investigating your business and I think it's top notch. I'm writing a Good Review to tell others about your fantastic establishment!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "I've taken a look at your business and I'm disappointed!  I've written a Bad Review to warn others about your lackluster establishment.",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow - you really know what you're doing!  Your outstanding business has impressed me so much that I'm giving you the Best of the Best Award. Whenever you want to display it, just look for it in your inventory.",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NameLocal:0 has realized that a lot of empty shelves make even a ritzy boutique look like a fly-by-night flea market. That kind of insight wins a Bronze Stocking Talent Badge!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NameLocal:0's getting good at setting things down fast as well as straight. Those full displays deserve a Silver Stocking Talent Badge!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "With an eagle eye, a sure hand and some pure stick-to-it-ness, $NameLocal:0 can keep the merchandise flowing to a serious crowd! Congrats on earning a Gold Stocking Talent Badge!",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "COMMUNITY LOT CONTROLLER RESET",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130874153,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "COMMUNITY LOT CONTROLLER RESET",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130874153,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Leave by Portal",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130874153,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk away from portal",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - CLP - Community Lot - Populator', 'Controller - CLP - Generator - Townies']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 02...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 03...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 04...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 05...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 06...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 07...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 08...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 09...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 10...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 11...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Starting Mission 12...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mission reload failed. Since your wants are probably screwed up, you should reload your last saved game.  Sorry...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 02...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 03...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 04...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 05...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 06...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 07...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 08...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 09...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 10...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 11...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Starting Mission 12...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mission reload failed. Since your wants are probably screwed up, you should reload your last saved game.  Sorry...",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "You are not in mission 1.  Reset your saved game to default in order to use this debug object.",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135339460,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are not in mission 1.  Reset your saved game to default in order to use this debug object.",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 02",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 03",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 04",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 05",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 06",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 07",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 08",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 09",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 10",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 11",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Mission 12",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 02",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 03",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 04",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 05",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 06",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 07",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 08",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 09",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 10",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 11",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135339460,
+      1,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Mission 12",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - DEBUG - Mission Rocket']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138851295,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138851295,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enter Dev mode?",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138851295,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "PLEASE be sure to do the following:\r*Not enter live mode unless necessary\r*Revert clock back to 8am when done\r*Delete Storymode Complete token and add Master Token when done.\r*Reset walls and initial camera angles as originally set\r*If in doubt, ask Nestor\r\rAre you SURE you want to enter Dev mode?",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138851295,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Enter Dev mode?",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138851295,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "PLEASE be sure to do the following:\r*Not enter live mode unless necessary\r*Revert clock back to 8am when done\r*Delete Storymode Complete token and add Master Token when done.\r*Reset walls and initial camera angles as originally set\r*If in doubt, ask Nestor",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Enable Build-Barter in Freeplay']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146319,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139146319,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi.  Rusty here.  Rhinehart's routing is breaking.  This script should have corrected the problem temporarily, but we need to know when this is happening.  Sorry for the inconvenient pop-up.  Keep up the good work.  ",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139146319,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi.  Rusty here.  Rhinehart's routing is breaking.  This script should have corrected the problem temporarily, but we need to know when this is happening.  Sorry for the inconvenient pop-up.  Keep up the good work.  ",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug Rhinehart Slope Checker']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140999840,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140999840,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Enter Dev mode?",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140999840,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "PLEASE be sure to do the following:\r*Not enter live mode unless necessary\r*Revert clock back to 8am when done\r*Delete Storymode Complete token and add Master Token when done.\r*Reset walls and initial camera angles as originally set\r*If in doubt, ask Nestor\r\rAre you SURE you want to enter Dev mode?",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140999840,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Enter Dev mode?",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140999840,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "PLEASE be sure to do the following:\r*Not enter live mode unless necessary\r*Revert clock back to 8am when done\r*Delete Storymode Complete token and add Master Token when done.\r*Reset walls and initial camera angles as originally set\r*If in doubt, ask Nestor",
+    "description": "!",
+    "reason": "Explicit debug/test/controller resource ['CS - Controller - Storymode Launcher']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../101-150../$Local:0",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../51-100../$Local:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../1-50../$Local:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../(50)-0/$Local:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../(100)-50../$Local:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Heat../-100-50../$Local:0",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Do Hard Start/Stops",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137975152,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Do Hard Start/Stops",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Temperature Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../$Local:0",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Difficulty../$PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Difficulty../Easy",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Do Softs",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Do Hards",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Do Hard Start/Stops",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Do Hard Start/Stops",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138809540,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "What Difficulty Am I? And Show Time",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138809540,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stop",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138809540,
+      131,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Difficulty",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138809540,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138809540,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Time: $Local:1::$Local:2\rDifficulty: $PrivateString:5:4",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138809540,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/controller resource ['CS - Debug - Difficulty Test Object']; developer tooling, expansion-business residue, or internal diagnostics rather than player-facing Castaway localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Empty Interaction",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "_HSN - Stu Shoves Jimmy Interaction",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Need Help",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Jade",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Fight",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait for Hug",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run From Lot",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mess Around",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137620038,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Global Time Control inherited routing/social helper row; internal controller behavior, not player-facing text."
+  }
+]
