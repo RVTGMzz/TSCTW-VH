@@ -49,6 +49,7 @@ def main():
     ap.add_argument('--groups', type=int, default=24)
     ap.add_argument('--samples', type=int, default=10)
     ap.add_argument('--object-contains', default='')
+    ap.add_argument('--value-exact', default='')
     args = ap.parse_args()
 
     catalog_ids = {row_identity(r) for r in read_records('catalog')}
@@ -63,6 +64,7 @@ def main():
         and row_identity(r) not in catalog_ids
         and (r.get('en') or '').strip().lower() not in {'n/a', 'na'}
         and (not args.object_contains or any(args.object_contains.lower() in n.lower() for n in (r.get('object_names') or [])))
+        and (not args.value_exact or (r.get('en') or '') == args.value_exact)
     ]
 
     grouped = collections.defaultdict(list)
