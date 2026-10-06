@@ -86,6 +86,10 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Toilet - Outdoor Hut" --groups 20 --samples 160
           python src/builder/triage_review_queue.py --object-contains "CS - Social - Pet - Chase" --groups 20 --samples 160
           python src/builder/triage_review_queue.py --object-contains "CS - Social - Orangutan - Chase" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --object-contains "Ch01_G" --groups 100 --samples 1200
+          python src/builder/triage_review_queue.py --object-contains "Ch02_G" --groups 100 --samples 1200
+          python src/builder/triage_review_queue.py --object-contains "Ch03_G" --groups 100 --samples 1200
+          python src/builder/triage_review_queue.py --object-contains "Ch13_G" --groups 100 --samples 1200
           python src/builder/triage_review_queue.py --instance-id 2135885514 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2145233707 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2145453426 --groups 20 --samples 120
