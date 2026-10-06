@@ -75,3 +75,6 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Career - Pinball" --groups 10 --samples 80
           python src/builder/triage_review_queue.py --object-contains "Bookcase - Colonial" --groups 10 --samples 120
           python src/builder/triage_review_queue.py --object-contains "Toy - Language" --groups 10 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "Phone Call - Service - Nanny" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "Phone Call - Service - Maid" --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --object-contains "Phone Call - Party - Party" --groups 20 --samples 260
