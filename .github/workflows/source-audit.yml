@@ -97,3 +97,13 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "CS - Controller - Swamp Effects" --groups 10 --samples 260
           python src/builder/triage_review_queue.py --object-contains "CS - Controller - NPC Pool" --groups 20 --samples 260
           python src/builder/triage_review_queue.py --object-contains "Dartboard" --groups 10 --samples 80
+          python src/builder/triage_review_queue.py --instance-id 2141025447 --groups 20 --samples 1600
+          python src/builder/triage_review_queue.py --instance-id 2130832425 --groups 20 --samples 1600
+          python src/builder/triage_review_queue.py --instance-id 2137513243 --groups 20 --samples 400
+          python src/builder/triage_review_queue.py --instance-id 2134423719 --groups 20 --samples 240
+          python src/builder/triage_review_queue.py --object-contains "Ch01_" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "Ch02_" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "Ch03_" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "Ch13_" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --object-contains "CS - Stereo - Jukebox" --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --instance-id 2135177202 --groups 20 --samples 80
