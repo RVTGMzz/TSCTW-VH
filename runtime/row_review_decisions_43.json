@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134665070,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stair Modular - Pirate - 0, 0 - Lead - New Mimic",
+    "description": "No text necessary",
+    "reason": "Technical CTSS asset/mimic identifier; source metadata explicitly says no text necessary and it is not catalog prose."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134665070,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stair Modular - Pirate - 0, 0 - Lead - Description - New Mimic",
+    "description": "No text necessary",
+    "reason": "Technical CTSS asset/description identifier; source metadata explicitly says no text necessary and it is not player-facing catalog prose."
+  }
+]
