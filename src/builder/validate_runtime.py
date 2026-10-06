@@ -21,6 +21,22 @@ def row_identity(row):
     return row['package'], tuple(row['key']), row['row']
 
 
+def auto_review_decision(row):
+    """Return an evidence-backed automatic inherited-row decision, or None.
+
+    A leading asterisk is the game's hidden/helper interaction convention in the
+    audited Castaway runtime tables. Exact overrides/translations/manual review
+    decisions always take precedence, so a future proven exception can still be
+    promoted explicitly.
+    """
+    if (row.get('en') or '').startswith('*'):
+        return {
+            'status': 'excluded',
+            'reason': 'Leading * marks a hidden/helper interaction; current accepted exact promotions contain zero star-prefixed player-facing rows.',
+        }
+    return None
+
+
 def load_row_overrides():
     """Load exact row guards from the base file plus numbered review shards."""
     rows = []
@@ -172,10 +188,23 @@ def effective_records():
             ))
         decided_ids.add(identity)
 
+    auto_decided_ids = set()
+    for row in review:
+        identity = row_identity(row)
+        if identity in promoted_ids or identity in decided_ids:
+            continue
+        if auto_review_decision(row):
+            auto_decided_ids.add(identity)
+
     if promoted:
         records.extend(promoted)
-    if promoted_ids or decided_ids:
-        review = [row for row in review if row_identity(row) not in promoted_ids and row_identity(row) not in decided_ids]
+    if promoted_ids or decided_ids or auto_decided_ids:
+        review = [
+            row for row in review
+            if row_identity(row) not in promoted_ids
+            and row_identity(row) not in decided_ids
+            and row_identity(row) not in auto_decided_ids
+        ]
     return records, review
 
 
@@ -215,6 +244,26 @@ def assess():
         (r['package'], tuple(r['key']), r['row']): r
         for r in load_row_translations()
     }
+    raw_review = read_records('review_queue')
+    overrides_ids = {
+        (r['package'], tuple(r['key']), r['row'])
+        for r in load_row_overrides()
+    }
+    exact_translation_ids = {
+        (r['package'], tuple(r['key']), r['row'])
+        for r in load_row_translations()
+    }
+    manual_decision_ids = {
+        (r['package'], tuple(r['key']), r['row'])
+        for r in load_row_review_decisions()
+    }
+    auto_review_exclusions = sum(
+        1 for row in raw_review
+        if row_identity(row) not in overrides_ids
+        and row_identity(row) not in exact_translation_ids
+        and row_identity(row) not in manual_decision_ids
+        and auto_review_decision(row)
+    )
     records, review = effective_records()
     decisions = {}
     for row in json.loads((RUNTIME/'scope_decisions.json').read_text()):
@@ -264,6 +313,7 @@ def assess():
         'candidate_rows': len(records),
         'untranslated_or_review_candidate_rows': len(remaining),
         'untagged_review_rows': len(review),
+        'auto_review_exclusions': auto_review_exclusions,
         'parse_errors': parse_errors,
         'selector_runtime_source_verified': False,
         'release_gate': 'Do not publish v0.8 TEST as a completed sweep until candidate translations, untagged classification, selector source and package QA are complete.',

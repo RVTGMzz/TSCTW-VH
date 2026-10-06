@@ -2,6 +2,7 @@
 from pathlib import Path
 import argparse, collections, gzip, hashlib, json, re
 from runtime_dbpf import Package, TEXT_TYPES, parse_table
+from validate_runtime import auto_review_decision
 
 ROOT = Path(__file__).resolve().parents[2]
 CAST = re.compile(r'^Cast\s+(Menu|Catalog|UI|Want|Wants|Story|Dialog|Tutorial|Text|Object|Character|Neighborhood)\b',re.I)
@@ -115,6 +116,10 @@ def main():
                         raise ValueError(('Row override baseline mismatch',identity))
                     category,reason=override['category'],override['reason']
                     used.add(identity)
+                elif category=='review':
+                    automatic=auto_review_decision({'en':value})
+                    if automatic:
+                        category,reason=automatic['status'],automatic['reason']
                 counts[category]+=1;found.add(category)
                 if category in ('excluded','retain'):continue
                 record=dict(package=rel,key=list(entry.key),type=TEXT_TYPES[entry.key[0]],name=name,row=ordinal,language=lang,en=value,description=desc,category=category,reason=reason)

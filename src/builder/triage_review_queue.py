@@ -6,7 +6,7 @@ import gzip
 import json
 import re
 
-from validate_runtime import RUNTIME, row_identity, read_records, load_row_overrides, load_row_review_decisions, load_row_translations
+from validate_runtime import RUNTIME, row_identity, read_records, load_row_overrides, load_row_review_decisions, load_row_translations, auto_review_decision
 
 VISIBLE_TYPES = {'STR#', 'CTSS', 'TTAs'}
 DESC_SIGNAL = re.compile(r'needs? translation|dialog|interaction|catalog|message|tooltip|menu|title', re.I)
@@ -79,6 +79,7 @@ def main():
         and row_identity(r) not in review_decisions
         and row_identity(r) not in row_translations
         and row_identity(r) not in catalog_ids
+        and not auto_review_decision(r)
         and (r.get('en') or '').strip().lower() not in {'n/a', 'na'}
         and (not args.object_contains or any(args.object_contains.lower() in n.lower() for n in (r.get('object_names') or [])))
         and (not args.value_exact or (r.get('en') or '') == args.value_exact)
