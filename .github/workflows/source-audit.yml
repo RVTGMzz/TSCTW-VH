@@ -39,7 +39,7 @@ jobs:
 
       - name: Print inherited review triage
         run: |
-          python src/builder/triage_review_queue.py --groups 40 --samples 8
+          python src/builder/triage_review_queue.py --groups 80 --samples 8
           python src/builder/triage_review_queue.py --object-contains "CS - Food - Lomi Lomi Salmon" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Toilet - Outdoor Hut" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Birthday Cake" --groups 4 --samples 100
