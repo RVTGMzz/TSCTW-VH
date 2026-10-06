@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Stomp",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Giẫm",
+    "reason": "Shared plant/garden interaction retained in Castaway; exact-row translation avoids creating a global ambiguous Stomp mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139771401,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Stomp",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Giẫm",
+    "reason": "Shared plant/garden interaction retained in Castaway; exact-row translation avoids creating a global ambiguous Stomp mapping."
+  }
+]
