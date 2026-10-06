@@ -1,0 +1,662 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132353278,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Pets/pet-shop purchase dialog uses Simoleons and retail pet-food flow, unlike Castaway's Resources/adoption gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132353278,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Pets/pet-shop purchase dialog uses Simoleons and retail pet-food flow, unlike Castaway's Resources/adoption gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132353278,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cheat",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nMean Sims can cheat",
+    "reason": "Pets/pet-shop purchase dialog uses Simoleons and retail pet-food flow, unlike Castaway's Resources/adoption gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132353278,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "-Duck",
+    "description": " ",
+    "reason": "Pets/pet-shop purchase dialog uses Simoleons and retail pet-food flow, unlike Castaway's Resources/adoption gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132353278,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "-Move",
+    "description": " ",
+    "reason": "Pets/pet-shop purchase dialog uses Simoleons and retail pet-food flow, unlike Castaway's Resources/adoption gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917763,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Expire",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nSim dying when Grim Reaper comes.",
+    "reason": "Grim Reaper internal death-processing action; not a player-selectable interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      2,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Outfit Data Test",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Explicit clothing/outfit debug diagnostic."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      2,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Sim Outfit Counts",
+    "description": "!!!!!!!!!",
+    "reason": "Explicit clothing/outfit debug diagnostic."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      2,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Family Outfit Count",
+    "description": "!!!!!!!",
+    "reason": "Explicit clothing/outfit debug diagnostic."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134746731,
+      131,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134746731,
+      131,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134746731,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "!!!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134746731,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "!!! Flamingo: Both: Notes: Appears when selected by both adults and children.",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132598176,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Reset Idol",
+    "description": "!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132598176,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Reset Idol",
+    "description": "!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133530448,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Red and Stop Animate",
+    "description": "!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133530448,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Green and Animate",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135179556,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Start FX",
+    "description": "!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135179556,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "*Start FX",
+    "description": "!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135784063,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fish Using...",
+    "description": "The Sims 2 EP7 - Needs re-Translation",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135784063,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fish Using...",
+    "description": "The Sims 2 EP7 - Needs re-Translation",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141359977,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Show Spawner Model",
+    "description": "!!!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141359977,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hide Spawner Model",
+    "description": "!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141665762,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*End Try On",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141665762,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "*End Try On",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142157160,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "*End Try On",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142157160,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "*End Try On",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144878932,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fish Using...",
+    "description": "The Sims 2 EP7 - Needs re-Translation",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144878932,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fish Using...",
+    "description": "The Sims 2 EP7 - Needs re-Translation",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145435971,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fish Using...",
+    "description": "The Sims 2 EP7 - Needs re-Translation",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145435971,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fish Using...",
+    "description": "The Sims 2 EP7 - Needs re-Translation",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134437838,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Place this if you want sims to appear on this lot",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134437838,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn Point",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131757284,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133729598,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134022709,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "<interaction name>",
+    "description": "",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134404358,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135415927,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135710547,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Create Firestorm",
+    "description": "!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135877285,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Turn off fire",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136937407,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137407494,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137993931,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139052945,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "*Dynamic",
+    "description": "!!",
+    "reason": "Named helper/effect/spawn/state/placeholder object row used internally rather than exposed as player-facing Castaway text."
+  }
+]

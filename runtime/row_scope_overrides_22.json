@@ -1,0 +1,122 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140098230,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-visible Castaway work/travel action queue text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140098230,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Walk Home",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-visible Castaway work/travel action queue text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140098230,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Friend Come Home",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-visible Castaway work/travel action queue text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137521669,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "! Do not overwrite. Copied from Bar object 302:2 in all  languages. This is the new work interaction that assigns the Sim to bartend as thier assignment but uses the old text.",
+    "reason": "Player-facing bar interaction in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137521669,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Tend Bar",
+    "description": "! Do not overwrite. Copied from Bar object 302:2 in all  languages. This is the new work interaction that assigns the Sim to bartend as thier assignment but uses the old text.",
+    "reason": "Player-facing bar interaction in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917763,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Plead for Loved One",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n",
+    "reason": "Player-facing Grim Reaper interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145638114,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 2,
+    "en": "Shoo",
+    "description": "",
+    "reason": "Player-facing interaction with the Castaway Penguin Party penguin."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145638114,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Pet",
+    "description": "",
+    "reason": "Player-facing interaction with the Castaway Penguin Party penguin."
+  }
+]
