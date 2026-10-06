@@ -1,0 +1,317 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "Sims2EP3 - Batch 8",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      3,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Suggest Outfit For...",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      2,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dress for Work",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nmissed in earlier batch",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Purchase",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145453426,
+      4,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Purchase",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Try On.../Everyday Outfit 3",
+    "description": "!",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy.../Everyday Outfit 2",
+    "description": "!",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy.../Everyday Outfit 3",
+    "description": "!",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 90,
+    "category": "menu",
+    "language": 2,
+    "en": "Try On.../Casual Outfit 3",
+    "description": "!",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 97,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy.../Casual Outfit 2",
+    "description": "!",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145453426,
+      302,
+      0
+    ],
+    "row": 98,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy.../Casual Outfit 3",
+    "description": "!",
+    "reason": "Player-facing clothing-rack/outfit interaction retained by Castaway Village Market clothing flow."
+  }
+]
