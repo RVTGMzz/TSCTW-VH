@@ -1,0 +1,887 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135421652,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "True",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135421652,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "False",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135421652,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "True",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135421652,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "False",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135421652,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "One",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135421652,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Two",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135425375,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Heat../$Local:0",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135425375,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135425375,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135425375,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135425375,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Monitor My Temperature",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135425375,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stop",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135425375,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135425375,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135425375,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Body Heat: $Local:0\rTime: $Local:1::$Local:2\rIdle System: $Local:3",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135425375,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135577376,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hard Start $PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135577376,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135577376,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135577376,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135577376,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Lightning Strike",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135577376,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135577376,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139975894,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hard Start $PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139975894,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139975894,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139975894,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139975894,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Start",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139975894,
+      131,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Toggle Hard/Soft",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139975894,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139975894,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144590341,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run Anim $PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144590341,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144590341,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Start.../$PrivateString:0:1",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144590341,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Soft Start $PrivateString:0:1",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144590341,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Start",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144590341,
+      131,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repair",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144590341,
+      131,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144590341,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144590341,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Animation broke",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290621,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mess With Weather",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290621,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn up da heat!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290621,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "It's gon' rain!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138290621,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stop the rain",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130837133,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "OK. Now, you will need to reload the lot or simulate a lot loading for changes to take effect",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130837133,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "You will need to reload the lot or simulate a lot loading for changes to take effect",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137179894,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "One",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137179894,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Add bypass token",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142749084,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "float on chest",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142749084,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "add ripple bypass token",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146528111,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Orangutan",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146528111,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set to next O-neighbor",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139706469,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play",
+    "description": "",
+    "reason": "Direct Castaway invisible/helper-marker interaction; internal routing/test action is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144159314,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play",
+    "description": "",
+    "reason": "Direct Castaway invisible/helper-marker interaction; internal routing/test action is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135091046,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test Ring",
+    "description": "!",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135091046,
+      2,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Test Ring",
+    "description": "!",
+    "reason": "Direct Castaway debug/test-object resource; developer/test interaction is not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146729788,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "wander",
+    "description": "! Loc unnecessary these strings should never bee seen by the user.",
+    "reason": "Direct Castaway controller helper; source metadata/object role identifies these as internal strings not intended for player display."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146729788,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "attack",
+    "description": "!",
+    "reason": "Direct Castaway controller helper; source metadata/object role identifies these as internal strings not intended for player display."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146729788,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Leave",
+    "description": "!",
+    "reason": "Direct Castaway controller helper; source metadata/object role identifies these as internal strings not intended for player display."
+  }
+]
