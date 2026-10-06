@@ -1,0 +1,377 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145504059,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug - Make Staff Visible",
+    "description": "!!Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Misc - Petrified Tree with Staff', 'CS - Misc - Petrified Tree with Staff - 0, 0', 'CS - Misc - Petrified Tree with Staff - 0, 1', 'CS - Misc - Petrified Tree with Staff - 1, 0', 'CS - Misc - Petrified Tree with Staff - 1, 1']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145504059,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug - Make Staff Invisible",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Misc - Petrified Tree with Staff', 'CS - Misc - Petrified Tree with Staff - 0, 0', 'CS - Misc - Petrified Tree with Staff - 0, 1', 'CS - Misc - Petrified Tree with Staff - 1, 0', 'CS - Misc - Petrified Tree with Staff - 1, 1']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145504059,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug - Make Staff Visible",
+    "description": "!!Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Misc - Petrified Tree with Staff', 'CS - Misc - Petrified Tree with Staff - 0, 0', 'CS - Misc - Petrified Tree with Staff - 0, 1', 'CS - Misc - Petrified Tree with Staff - 1, 0', 'CS - Misc - Petrified Tree with Staff - 1, 1']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145504059,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug - Make Staff Invisible",
+    "description": "!Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Misc - Petrified Tree with Staff', 'CS - Misc - Petrified Tree with Staff - 0, 0', 'CS - Misc - Petrified Tree with Staff - 0, 1', 'CS - Misc - Petrified Tree with Staff - 1, 0', 'CS - Misc - Petrified Tree with Staff - 1, 1']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136567750,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food - Snack Papaya']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136567750,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Test",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food - Snack Papaya']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131158924,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Make Dead Food",
+    "description": "!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food Stand - Native', 'CS - Food Stand - Native - 0, 0', 'CS - Food Stand - Native - 0, 1', 'CS - Food Stand - Native - 0, 2', 'CS - Food Stand - Native - 0, 3', 'CS - Food Stand - Native - 0, 4 - Lead', 'CS - Food Stand - Native - 1, 0', 'CS - Food Stand - Native - 1, 1', 'CS - Food Stand - Native - 1, 2', 'CS - Food Stand - Native - 1, 3', 'CS - Food Stand - Native - 1, 4', 'CS - Food Stand - Native - 2, 0', 'CS - Food Stand - Native - 2, 1', 'CS - Food Stand - Native - 2, 2', 'CS - Food Stand - Native - 2, 3', 'CS - Food Stand - Native - 2, 4', 'CS - Food Stand - Native - 3, 0', 'CS - Food Stand - Native - 3, 1', 'CS - Food Stand - Native - 3, 2', 'CS - Food Stand - Native - 3, 3', 'CS - Food Stand - Native - 3, 4']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131158924,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Make Dead Food",
+    "description": "!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food Stand - Native', 'CS - Food Stand - Native - 0, 0', 'CS - Food Stand - Native - 0, 1', 'CS - Food Stand - Native - 0, 2', 'CS - Food Stand - Native - 0, 3', 'CS - Food Stand - Native - 0, 4 - Lead', 'CS - Food Stand - Native - 1, 0', 'CS - Food Stand - Native - 1, 1', 'CS - Food Stand - Native - 1, 2', 'CS - Food Stand - Native - 1, 3', 'CS - Food Stand - Native - 1, 4', 'CS - Food Stand - Native - 2, 0', 'CS - Food Stand - Native - 2, 1', 'CS - Food Stand - Native - 2, 2', 'CS - Food Stand - Native - 2, 3', 'CS - Food Stand - Native - 2, 4', 'CS - Food Stand - Native - 3, 0', 'CS - Food Stand - Native - 3, 1', 'CS - Food Stand - Native - 3, 2', 'CS - Food Stand - Native - 3, 3', 'CS - Food Stand - Native - 3, 4']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133567408,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Bonfire - Castaway', 'CS - Bonfire - Castaway (FX Holder)', 'CS - Bonfire - Castaway - 0, 0', 'CS - Bonfire - Castaway - 0, 1', 'CS - Bonfire - Castaway - 0, 2 - Lead', 'CS - Bonfire - Castaway - 1, 0', 'CS - Bonfire - Castaway - 1, 1', 'CS - Bonfire - Castaway - 1, 2', 'CS - Bonfire - Castaway - 2, 0', 'CS - Bonfire - Castaway - 2, 1', 'CS - Bonfire - Castaway - 2, 2']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133567408,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Bonfire - Castaway', 'CS - Bonfire - Castaway (FX Holder)', 'CS - Bonfire - Castaway - 0, 0', 'CS - Bonfire - Castaway - 0, 1', 'CS - Bonfire - Castaway - 0, 2 - Lead', 'CS - Bonfire - Castaway - 1, 0', 'CS - Bonfire - Castaway - 1, 1', 'CS - Bonfire - Castaway - 1, 2', 'CS - Bonfire - Castaway - 2, 0', 'CS - Bonfire - Castaway - 2, 1', 'CS - Bonfire - Castaway - 2, 2']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138162774,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug - Test Selectability",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - NPC - Template - Wild Dog']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138162774,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Debug - Test Selectability",
+    "description": "!!!!!!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - NPC - Template - Wild Dog']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138707542,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Route TEST",
+    "description": "!!!!!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - HotTub - Hot Spring', 'HotTub - Hot Spring - 0, 0', 'HotTub - Hot Spring - 0, 1', 'HotTub - Hot Spring - 0, 2', 'HotTub - Hot Spring - 0, 3', 'HotTub - Hot Spring - 0, 4', 'HotTub - Hot Spring - 0, 5 - LEAD', 'HotTub - Hot Spring - 1, 0', 'HotTub - Hot Spring - 1, 1', 'HotTub - Hot Spring - 1, 2', 'HotTub - Hot Spring - 1, 3', 'HotTub - Hot Spring - 1, 4', 'HotTub - Hot Spring - 1, 5', 'HotTub - Hot Spring - 2, 0', 'HotTub - Hot Spring - 2, 1', 'HotTub - Hot Spring - 2, 2', 'HotTub - Hot Spring - 2, 3', 'HotTub - Hot Spring - 2, 4', 'HotTub - Hot Spring - 2, 5', 'HotTub - Hot Spring - 3, 0', 'HotTub - Hot Spring - 3, 1', 'HotTub - Hot Spring - 3, 2', 'HotTub - Hot Spring - 3, 3', 'HotTub - Hot Spring - 3, 4', 'HotTub - Hot Spring - 3, 5', 'HotTub - Hot Spring - 4, 0', 'HotTub - Hot Spring - 4, 1', 'HotTub - Hot Spring - 4, 2', 'HotTub - Hot Spring - 4, 3', 'HotTub - Hot Spring - 4, 4', 'HotTub - Hot Spring - 4, 5', 'HotTub - Hot Spring - 5, 0', 'HotTub - Hot Spring - 5, 1', 'HotTub - Hot Spring - 5, 2', 'HotTub - Hot Spring - 5, 3', 'HotTub - Hot Spring - 5, 4', 'HotTub - Hot Spring - 5, 5']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138707542,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Route TEST",
+    "description": "!!!!!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - HotTub - Hot Spring', 'HotTub - Hot Spring - 0, 0', 'HotTub - Hot Spring - 0, 1', 'HotTub - Hot Spring - 0, 2', 'HotTub - Hot Spring - 0, 3', 'HotTub - Hot Spring - 0, 4', 'HotTub - Hot Spring - 0, 5 - LEAD', 'HotTub - Hot Spring - 1, 0', 'HotTub - Hot Spring - 1, 1', 'HotTub - Hot Spring - 1, 2', 'HotTub - Hot Spring - 1, 3', 'HotTub - Hot Spring - 1, 4', 'HotTub - Hot Spring - 1, 5', 'HotTub - Hot Spring - 2, 0', 'HotTub - Hot Spring - 2, 1', 'HotTub - Hot Spring - 2, 2', 'HotTub - Hot Spring - 2, 3', 'HotTub - Hot Spring - 2, 4', 'HotTub - Hot Spring - 2, 5', 'HotTub - Hot Spring - 3, 0', 'HotTub - Hot Spring - 3, 1', 'HotTub - Hot Spring - 3, 2', 'HotTub - Hot Spring - 3, 3', 'HotTub - Hot Spring - 3, 4', 'HotTub - Hot Spring - 3, 5', 'HotTub - Hot Spring - 4, 0', 'HotTub - Hot Spring - 4, 1', 'HotTub - Hot Spring - 4, 2', 'HotTub - Hot Spring - 4, 3', 'HotTub - Hot Spring - 4, 4', 'HotTub - Hot Spring - 4, 5', 'HotTub - Hot Spring - 5, 0', 'HotTub - Hot Spring - 5, 1', 'HotTub - Hot Spring - 5, 2', 'HotTub - Hot Spring - 5, 3', 'HotTub - Hot Spring - 5, 4', 'HotTub - Hot Spring - 5, 5']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139920072,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['Bonfire (0,0)', 'Bonfire (0,1)', 'Bonfire (0,2)', 'Bonfire (1,0)', 'Bonfire (1,1)', 'Bonfire (1,2)', 'Bonfire (2,0)', 'Bonfire (2,1)', 'Bonfire (2,2)', 'CS - Bonfire', 'CS - Bonfire FX Holder']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139920072,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['Bonfire (0,0)', 'Bonfire (0,1)', 'Bonfire (0,2)', 'Bonfire (1,0)', 'Bonfire (1,1)', 'Bonfire (1,2)', 'Bonfire (2,0)', 'Bonfire (2,1)', 'Bonfire (2,2)', 'CS - Bonfire', 'CS - Bonfire FX Holder']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140023001,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG - Make Dead Food",
+    "description": "!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food Stand - Tropics', 'Food Stand - Tropics\\\\ - 0, 0', 'Food Stand - Tropics\\\\ - 0, 1', 'Food Stand - Tropics\\\\ - 0, 2', 'Food Stand - Tropics\\\\ - 0, 3', 'Food Stand - Tropics\\\\ - 0, 4 - Lead', 'Food Stand - Tropics\\\\ - 1, 0', 'Food Stand - Tropics\\\\ - 1, 1', 'Food Stand - Tropics\\\\ - 1, 2', 'Food Stand - Tropics\\\\ - 1, 3', 'Food Stand - Tropics\\\\ - 1, 4', 'Food Stand - Tropics\\\\ - 2, 0', 'Food Stand - Tropics\\\\ - 2, 1', 'Food Stand - Tropics\\\\ - 2, 2', 'Food Stand - Tropics\\\\ - 2, 3', 'Food Stand - Tropics\\\\ - 2, 4', 'Food Stand - Tropics\\\\ - 3, 0', 'Food Stand - Tropics\\\\ - 3, 1', 'Food Stand - Tropics\\\\ - 3, 2', 'Food Stand - Tropics\\\\ - 3, 3', 'Food Stand - Tropics\\\\ - 3, 4']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140023001,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "DEBUG - Make Dead Food",
+    "description": "!!!!!!!!!!!Sims 2 EP10: Needs Text",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food Stand - Tropics', 'Food Stand - Tropics\\\\ - 0, 0', 'Food Stand - Tropics\\\\ - 0, 1', 'Food Stand - Tropics\\\\ - 0, 2', 'Food Stand - Tropics\\\\ - 0, 3', 'Food Stand - Tropics\\\\ - 0, 4 - Lead', 'Food Stand - Tropics\\\\ - 1, 0', 'Food Stand - Tropics\\\\ - 1, 1', 'Food Stand - Tropics\\\\ - 1, 2', 'Food Stand - Tropics\\\\ - 1, 3', 'Food Stand - Tropics\\\\ - 1, 4', 'Food Stand - Tropics\\\\ - 2, 0', 'Food Stand - Tropics\\\\ - 2, 1', 'Food Stand - Tropics\\\\ - 2, 2', 'Food Stand - Tropics\\\\ - 2, 3', 'Food Stand - Tropics\\\\ - 2, 4', 'Food Stand - Tropics\\\\ - 3, 0', 'Food Stand - Tropics\\\\ - 3, 1', 'Food Stand - Tropics\\\\ - 3, 2', 'Food Stand - Tropics\\\\ - 3, 3', 'Food Stand - Tropics\\\\ - 3, 4']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133107533,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Toddler Play",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Stuffed Animal - Sock Monkey']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133852051,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Toddler Play",
+    "description": "!!!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Stuffed Animal - Teddy Bear']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135179556,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG Slots",
+    "description": "!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Food Table - Buffet', 'Food Table - Buffet - 0,0', 'Food Table - Buffet - 1,0', 'Food Table - Buffet - 2,0']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135905360,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "DEBUG SLEEP",
+    "description": "",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Bed - Lean To', 'CS - Bed - Lean To - 0, 0 - Lead', 'CS - Bed - Lean To - 0, 1', 'CS - Bed - Lean To - 0, 2', 'CS - Bed - Lean To - 1, 0', 'CS - Bed - Lean To - 1, 1', 'CS - Bed - Lean To - 1, 2', 'CS - Bed - Lean To - 2, 0', 'CS - Bed - Lean To - 2, 1', 'CS - Bed - Lean To - 2, 2']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137853971,
+      1,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unused",
+    "description": "!Sims 2 ",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Outdoor - Fire Pit Survival']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138666794,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug Show Slot",
+    "description": "!!!!!!!!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Sculpture - FigureTropical']; not player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144285633,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debug - Diaper Toss",
+    "description": "!!!",
+    "reason": "Explicit debug/test/unused interaction on ['CS - Diaper']; not player-facing localization."
+  }
+]
