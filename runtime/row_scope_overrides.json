@@ -31070,5 +31070,259 @@
       "Changing Table - 0,0",
       "Changing Table - 1,0"
     ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147148920,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Average Paws Bedding",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway medium pet bed; exact row override.",
+    "object_names": [
+      "CS - Pet Bed - House - Medium",
+      "Pet Bed - House - Medium - 0, 0",
+      "Pet Bed - House - Medium - 0, 1 - Lead",
+      "Pet Bed - House - Medium - 1, 0",
+      "Pet Bed - House - Medium - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147148920,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Never really concerned with being the best, but always a bit above the worst, the crafters behind the Average Paws Bedding have always resided comfortably below the bar that has been raised by their competitors. When you buy a product from a company whose mission statement simply says \"eh\", you know your purchase will be inoffensive, functional and just right for your dog or cat.",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway medium pet bed; exact row override.",
+    "object_names": [
+      "CS - Pet Bed - House - Medium",
+      "Pet Bed - House - Medium - 0, 0",
+      "Pet Bed - House - Medium - 0, 1 - Lead",
+      "Pet Bed - House - Medium - 1, 0",
+      "Pet Bed - House - Medium - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147148920,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Average Paws Bedding",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway medium pet bed; exact row override.",
+    "object_names": [
+      "CS - Pet Bed - House - Medium",
+      "Pet Bed - House - Medium - 0, 0",
+      "Pet Bed - House - Medium - 0, 1 - Lead",
+      "Pet Bed - House - Medium - 1, 0",
+      "Pet Bed - House - Medium - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147148920,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Never really concerned with being the best, but always a bit above the worst, the crafters behind the Average Paws Bedding have always resided comfortably below the bar that has been raised by their competitors. When you buy a product from a company whose mission statement simply says \"eh\", you know your purchase will be inoffensive, functional and just right for your dog or cat.",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway medium pet bed; exact row override.",
+    "object_names": [
+      "CS - Pet Bed - House - Medium",
+      "Pet Bed - House - Medium - 0, 0",
+      "Pet Bed - House - Medium - 0, 1 - Lead",
+      "Pet Bed - House - Medium - 1, 0",
+      "Pet Bed - House - Medium - 1, 1"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134404358,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Mixing Bowl",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nBowl used for mixing foods during food prep. Catalog text visible when moving object in buy mode",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway wood mixing bowl; exact row override.",
+    "object_names": [
+      "CS - Food Container - Wood Mixing Bowl"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134404358,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Mixing Bowl",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nBowl used for mixing foods during food prep. Catalog text visible when moving object in buy mode",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway wood mixing bowl; exact row override.",
+    "object_names": [
+      "CS - Food Container - Wood Mixing Bowl"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136937407,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Ingredients Tray",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nObject used during preparation of foods that need prep (chef salad, salmon), etc. Catalog text visible for in-world object when selected in buy mode.",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway ingredients tray; exact row override.",
+    "object_names": [
+      "CS - Food Container - Ingredients Tray"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136937407,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Ingredients Tray",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nObject used during preparation of foods that need prep (chef salad, salmon), etc. Catalog text visible for in-world object when selected in buy mode.",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway ingredients tray; exact row override.",
+    "object_names": [
+      "CS - Food Container - Ingredients Tray"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145457692,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "The Kinder Kontainer",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway cheap crib; exact row override.",
+    "object_names": [
+      "CS - Crib - Cheap",
+      "Crib - Cheap 0,0",
+      "Crib - Cheap 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145457692,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "The Kinder Kontainer may not look like much, but it definitely does NOT look like a security fence. Instead, its designers would have it viewed as a blank canvas where the impressionable and eager mind of your child can expand and flourish without being inundated with the stereotypical images and ideals of \"corporate childhood.\" This cubicle features solid steel crossbeams and triple welds for ensured security and stability, yet its plush cushioning is the ideal landing spot for post-lunch naps.",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "catalog",
+    "reason": "Reviewed catalog title/description on the Castaway cheap crib; exact row override.",
+    "object_names": [
+      "CS - Crib - Cheap",
+      "Crib - Cheap 0,0",
+      "Crib - Cheap 1,0"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131757284,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Baking Pan",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway rusty pie pan; exact row override.",
+    "object_names": [
+      "CS - Food Container - Pie Pan Rusty"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135415927,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Frying Pan",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway stone frying pan; exact row override.",
+    "object_names": [
+      "CS - Food Container - Stone Frying Pan"
+    ]
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137993931,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Baking Pan",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "category": "catalog",
+    "reason": "Reviewed visible catalog label on the Castaway rusty baking pan; exact row override.",
+    "object_names": [
+      "CS - Food Container - Baking Pan Rusty"
+    ]
   }
 ]
