@@ -1,0 +1,287 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read Book",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Read To",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n\rChildren/Toddler's action queue tooltip text when adults/teens read a book to them.",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read To Youngster",
+    "description": "The Sims 2 - Needs Translation - Batch18l\rAction queue used for Adults/Teens when they read a book to children/toddlers.",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away All Books",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Study.../Cooking",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Study.../Mechanical",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Study.../Cleaning",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Write in Diary",
+    "description": "The Sims 2 - Needs Translation - Batch . Copying over from Personality Shy, set 1, string 4 (base1)",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Read Book",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Read To",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n\rChildren/Toddler's action queue tooltip text when adults/teens read a book to them.",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Read To Youngster",
+    "description": "The Sims 2 - Needs Translation - Batch18l\rAction queue used for Adults/Teens when they read a book to children/toddlers.",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Away All Books",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Study.../Cooking",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Study.../Mechanical",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135527461,
+      1,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Study.../Cleaning",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing interaction on catalog-backed Castaway bookcase; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nmarked by SP 5/6. Interaction used to be Learn to Talk, changed per production.",
+    "reason": "Player-facing interaction on Language Assimilator 5000; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nmarked by SP 5/6. I believe this is the interaction for the parent playing with the child & toy.",
+    "reason": "Player-facing interaction on Language Assimilator 5000; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nmarked by SP 5/6. Interaction used to be Learn to Talk, changed per production.",
+    "reason": "Player-facing interaction on Language Assimilator 5000; exact inherited row reuses existing menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140177667,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nmarked by SP 5/6. I believe this is the interaction for the parent playing with the child & toy.",
+    "reason": "Player-facing interaction on Language Assimilator 5000; exact inherited row reuses existing menu translation."
+  }
+]
