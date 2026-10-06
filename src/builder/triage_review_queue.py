@@ -110,6 +110,26 @@ def main():
                         'description': item.get('description'),
                         'category': item.get('category'),
                     }, ensure_ascii=False))
+            review_context = [
+                item for item in read_context()
+                if item.get('package') == package and item.get('key', [None, None])[1] == key[1]
+            ]
+            if review_context:
+                print('review_group_context:')
+                for item in review_context[:80]:
+                    print(json.dumps({
+                        'key': item.get('key'),
+                        'type': item.get('type'),
+                        'resource_name': item.get('name'),
+                        'row': item.get('row'),
+                        'language': item.get('language'),
+                        'en': item.get('en'),
+                        'description': item.get('description'),
+                        'decision': item.get('decision'),
+                        'category': item.get('category'),
+                        'object_names': item.get('object_names'),
+                        'shares_group_with_cast_text': item.get('shares_group_with_cast_text'),
+                    }, ensure_ascii=False))
         samples = sorted(group, key=lambda r: (-score(r), r['row']))[:args.samples]
         for row in samples:
             print(json.dumps({
