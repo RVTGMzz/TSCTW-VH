@@ -1,0 +1,422 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Solo",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135885514,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask to Join",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nNote: this may be a dupe since this interaction is listed under separate stereos.",
+    "reason": "Core stereo interaction retained by Castaway audio objects; exact inherited semiglobal row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140098230,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing career action retained in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140098230,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Walk Home",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing career action retained in Castaway Free Play."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "story",
+    "language": 1,
+    "en": "Uh... what happened?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "story",
+    "language": 1,
+    "en": "Where am I? This place doesn't look like any of the pictures in my brochure for Club Meet Your Mate.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "story",
+    "language": 1,
+    "en": "What's that over there?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "story",
+    "language": 1,
+    "en": "A hatchet? I hope this will come in handy. I wonder what else has washed up.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "story",
+    "language": 1,
+    "en": "I'll comb the beach for anything else that might be useful.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 66,
+    "category": "story",
+    "language": 1,
+    "en": "It's a steamer trunk from the ship.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 67,
+    "category": "story",
+    "language": 1,
+    "en": "I need a nice flat spot to put this trunk on so I can open it. Maybe it's full of cell phones... or signal flares!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 71,
+    "category": "story",
+    "language": 1,
+    "en": "Whew! That's hard work for a snack. At least I have some supplies in the steamer trunk now. Hmm, now what should I do?",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 72,
+    "category": "story",
+    "language": 1,
+    "en": "A fire will be essential to my survival here. I need to chop some wood.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 73,
+    "category": "story",
+    "language": 1,
+    "en": "Where there's wood, there's a way -- to make fire.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 75,
+    "category": "story",
+    "language": 1,
+    "en": "I did it! I have rediscovered fire!",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 76,
+    "category": "story",
+    "language": 1,
+    "en": "Oh, great... I need to make some type of shelter.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 77,
+    "category": "story",
+    "language": 1,
+    "en": "The Salvage Breezecatcher Sleeper and Seater, it's a quaint, yet outdoorsy shelter with a view. It'll work for now.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 78,
+    "category": "story",
+    "language": 1,
+    "en": "I should get some sleep. It's not like I'm going to miss out on a raging party.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 79,
+    "category": "story",
+    "language": 1,
+    "en": "That hit the spot! I should get some more for later.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 80,
+    "category": "story",
+    "language": 1,
+    "en": "I hope this is all just a big, elaborate practical joke. Maybe I'm being Skunk'd.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 81,
+    "category": "story",
+    "language": 1,
+    "en": "That looks like my cruise ship! I... I remember boarding. It was empty, I was tired. I fell asleep and woke up here.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 82,
+    "category": "story",
+    "language": 1,
+    "en": "Others obviously boarded the ship at some point. Did they make it? Could they be here? I can't think about that now.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 83,
+    "category": "story",
+    "language": 1,
+    "en": "I'm so lonely... I know... I'll write in my diary when it gets too bad. It beats talking to myself all day and night.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 84,
+    "category": "story",
+    "language": 1,
+    "en": "I'll call this place... Felicity Island. Surely nothing bad can happen in a place with a name like Felicity.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 88,
+    "category": "story",
+    "language": 1,
+    "en": "This trunk will be a great place to keep my supplies. I need supplies.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144627920,
+      301,
+      0
+    ],
+    "row": 89,
+    "category": "story",
+    "language": 1,
+    "en": "Speaking of supplies, I'm parched. I need something to drink. A good stiff juice would be great right about now.",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Player-facing Female Chapter 1 Castaway story line recovered from inherited dialog semiglobal."
+  }
+]
