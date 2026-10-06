@@ -51,3 +51,4 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Pickaxe" --groups 40 --samples 50
           python src/builder/triage_review_queue.py --object-contains "Staff of Tuzu" --groups 40 --samples 50
           python src/builder/triage_review_queue.py --object-contains "Story Reward" --groups 40 --samples 50
+          python src/builder/triage_review_queue.py --type-filter "CTSS" --groups 120 --samples 10
