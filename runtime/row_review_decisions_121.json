@@ -1,0 +1,272 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134713738,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Pets-specific urnstone/grave variant; Castaway's human grave text is handled separately and this pet-grave resource is outside the retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134713738,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "reason": "Pets-specific urnstone/grave variant; Castaway's human grave text is handled separately and this pet-grave resource is outside the retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134713738,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "reason": "Pets-specific urnstone/grave variant; Castaway's human grave text is handled separately and this pet-grave resource is outside the retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134713738,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Pets-specific urnstone/grave variant; Castaway's human grave text is handled separately and this pet-grave resource is outside the retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134713738,
+      2000,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "reason": "Pets-specific urnstone/grave variant; Castaway's human grave text is handled separately and this pet-grave resource is outside the retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134713738,
+      2000,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "reason": "Pets-specific urnstone/grave variant; Castaway's human grave text is handled separately and this pet-grave resource is outside the retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136041293,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get a Bronze Gardening Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Gardening Talent Badge token strings; badge subsystem is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136041293,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get a Silver Gardening Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Gardening Talent Badge token strings; badge subsystem is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136041293,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get a Gold Gardening Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Gardening Talent Badge token strings; badge subsystem is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136041293,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get a Bronze Gardening Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Gardening Talent Badge token strings; badge subsystem is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136041293,
+      2000,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get a Silver Gardening Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Gardening Talent Badge token strings; badge subsystem is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136041293,
+      2000,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get a Gold Gardening Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Gardening Talent Badge token strings; badge subsystem is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141969163,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get a Bronze Fishing Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Fishing Talent Badge token strings; Castaway fishing uses its own gameplay and not the Seasons talent-badge subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141969163,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get a Silver Fishing Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Fishing Talent Badge token strings; Castaway fishing uses its own gameplay and not the Seasons talent-badge subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141969163,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get a Gold Fishing Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Fishing Talent Badge token strings; Castaway fishing uses its own gameplay and not the Seasons talent-badge subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141969163,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get a Bronze Fishing Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Fishing Talent Badge token strings; Castaway fishing uses its own gameplay and not the Seasons talent-badge subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141969163,
+      2000,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get a Silver Fishing Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Fishing Talent Badge token strings; Castaway fishing uses its own gameplay and not the Seasons talent-badge subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141969163,
+      2000,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get a Gold Fishing Talent Badge",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons (EP7) Fishing Talent Badge token strings; Castaway fishing uses its own gameplay and not the Seasons talent-badge subsystem."
+  }
+]
