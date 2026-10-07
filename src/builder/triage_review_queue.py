@@ -55,6 +55,7 @@ def main():
     ap.add_argument('--description-regex', default='')
     ap.add_argument('--type-filter', default='')
     ap.add_argument('--instance-id', type=int, default=0)
+    ap.add_argument('--include-unowned', action='store_true', help='Include inherited groups without CS ownership/shared Cast text for broad residue triage.')
     args = ap.parse_args()
 
     catalog_rows = read_records('catalog')
@@ -95,7 +96,7 @@ def main():
     grouped = collections.defaultdict(list)
     for row in rows:
         names = row.get('object_names') or []
-        if not (row.get('shares_group_with_cast_text') or any(n.startswith('CS -') for n in names)):
+        if not args.include_unowned and not (row.get('shares_group_with_cast_text') or any(n.startswith('CS -') for n in names)):
             continue
         grouped[(row['package'], tuple(row['key']), tuple(names))].append(row)
 
