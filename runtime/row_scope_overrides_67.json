@@ -1,0 +1,362 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 210,
+    "language": 2,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 212,
+    "language": 2,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 213,
+    "language": 2,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 214,
+    "language": 2,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 215,
+    "language": 1,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 217,
+    "language": 1,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 210,
+    "language": 2,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 212,
+    "language": 2,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 213,
+    "language": 2,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 214,
+    "language": 2,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 215,
+    "language": 1,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 217,
+    "language": 1,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 210,
+    "language": 2,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 212,
+    "language": 2,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 213,
+    "language": 2,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 214,
+    "language": 2,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 215,
+    "language": 1,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 217,
+    "language": 1,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 210,
+    "language": 2,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 212,
+    "language": 2,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 213,
+    "language": 2,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 214,
+    "language": 2,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 215,
+    "language": 1,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 217,
+    "language": 1,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "reason": "Shared base-game emergency-call dialog retained by Castaway phone controllers; reuse approved Vietnamese dialog mapping on this exact row."
+  }
+]
