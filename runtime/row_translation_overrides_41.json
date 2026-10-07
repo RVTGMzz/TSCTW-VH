@@ -1,0 +1,258 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "You have been fined $$local:2 for calling when there was no emergency.",
+    "description": "The Sims 2 - Needs translation - Batch16",
+    "category": "dialog",
+    "vi": "Bạn bị phạt $$local:2 vì gọi khi không hề có tình huống khẩn cấp.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "I'm sorry, it looks like the burglar got away.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nCop didn't make it in time.",
+    "category": "dialog",
+    "vi": "Xin lỗi, có vẻ tên trộm đã chạy thoát.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "I caught $NameLocal:5 out making mischief. Whatever happened to responsible parenting?",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nCop brings teen home after sneak out. Changed to first person.",
+    "category": "dialog",
+    "vi": "Tôi bắt gặp $NameLocal:5 đang quậy phá ngoài đường. Người lớn có trách nhiệm đâu hết rồi?",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "$NameLocal:5 was out way past their bedtime.  It's dangerous to let kids stay out this late.  Don't let it happen again.",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nCop brings teen home after sneak out.)",
+    "category": "dialog",
+    "vi": "$NameLocal:5 ở ngoài quá giờ đi ngủ rồi. Để trẻ đi lang thang muộn thế này nguy hiểm lắm. Đừng để chuyện này tái diễn.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Okay, this party is too LOUD! Let's break it up, people.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nPolice arriving to break up a party dialog. added apostrophe",
+    "category": "dialog",
+    "vi": "Được rồi, bữa tiệc này ỒN QUÁ! Mọi người giải tán thôi.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "What a fight! I guess I'm just not the cop I used to be.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: Cop fights with burglar and loses.",
+    "category": "dialog",
+    "vi": "Một trận ra trò! Chắc tôi không còn phong độ như ngày xưa nữa rồi.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Beaten by a burglar? Now I'll never get that promotion.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: Cop fights with burglar and loses.",
+    "category": "dialog",
+    "vi": "Bị một tên trộm đánh bại á? Thế này thì còn lâu mới được thăng chức.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Next time, burglar! Next time you're going down!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: Cop fights with burglar and loses.",
+    "category": "dialog",
+    "vi": "Lần sau nhé, tên trộm kia! Lần sau thì ngươi tiêu đời!",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "You have been fined $$local:2 for calling when there was no emergency.",
+    "description": "The Sims 2 - Needs translation - Batch16",
+    "category": "dialog",
+    "vi": "Bạn bị phạt $$local:2 vì gọi khi không hề có tình huống khẩn cấp.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "I'm sorry, it looks like the burglar got away.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nCop didn't make it in time.",
+    "category": "dialog",
+    "vi": "Xin lỗi, có vẻ tên trộm đã chạy thoát.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "I caught $NameLocal:5 out making mischief. Whatever happened to responsible parenting?",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nCop brings teen home after sneak out. Changed to first person.",
+    "category": "dialog",
+    "vi": "Tôi bắt gặp $NameLocal:5 đang quậy phá ngoài đường. Người lớn có trách nhiệm đâu hết rồi?",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "$NameLocal:5 was out way past their bedtime.  It's dangerous to let kids stay out this late.  Don't let it happen again.",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nCop brings teen home after sneak out.)",
+    "category": "dialog",
+    "vi": "$NameLocal:5 ở ngoài quá giờ đi ngủ rồi. Để trẻ đi lang thang muộn thế này nguy hiểm lắm. Đừng để chuyện này tái diễn.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Okay, this party is too LOUD! Let's break it up, people.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nPolice arriving to break up a party dialog. added apostrophe",
+    "category": "dialog",
+    "vi": "Được rồi, bữa tiệc này ỒN QUÁ! Mọi người giải tán thôi.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "What a fight! I guess I'm just not the cop I used to be.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: Cop fights with burglar and loses.",
+    "category": "dialog",
+    "vi": "Một trận ra trò! Chắc tôi không còn phong độ như ngày xưa nữa rồi.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Beaten by a burglar? Now I'll never get that promotion.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: Cop fights with burglar and loses.",
+    "category": "dialog",
+    "vi": "Bị một tên trộm đánh bại á? Thế này thì còn lâu mới được thăng chức.",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133013560,
+      301,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Next time, burglar! Next time you're going down!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nContext: Cop fights with burglar and loses.",
+    "category": "dialog",
+    "vi": "Lần sau nhé, tên trộm kia! Lần sau thì ngươi tiêu đời!",
+    "reason": "Player-facing base-game police-service dialog; exact-row translation preserves placeholders."
+  }
+]
