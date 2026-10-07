@@ -1,0 +1,1202 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Undeclared",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Art",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Biology",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drama",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Economics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "History",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Literature",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mathematics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Philosophy",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Physics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Political Science",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Psychology",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "with all the rights, privileges, and honors thereto pertaining here and elsewhere.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating with no honors.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "with the honor of Cum Laude in recognition of academic achievement.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating Cum Laude.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "with the honor of Magna Cum Laude in recognition of outstanding academic achievement.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating Magna Cum Laude\nLTEDIT - As LT pointed out - this string was sent for translation as \"the honor of \"Summa Cum Luade\" but it should be \"Magna Cum Laude\"",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "with the honor of Summa Cum Laude in recognition of overwhelmingly brilliant academic achievement.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating Magna Cum Laude\nLTEDIT - As LT pointed out - this string was sent for translation as \"the honor of \"Magna Cum Laude\" but it should be \"Summa Cum Laude\"",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Sims 2 University\r\rHereby it is certified that upon recommendation of the faculty in the Department of $PrivateString:1:2, the regents of this University have conferred upon $FullNameLocal:0, a Bachelor's degree in $PrivateString:1:2, $PrivateString:1:3",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis is the Diploma Dialog that appears when the diploma is received and when a Sim clicks on it.\n$PrivateString:1:2 is the name of the Sim's Major.\n$FullNameLocal:0 is the name of the Sim.\n$PrivateString:1:3 is one of the 4 \"honors\" strings above. One for Sims with no honors and one each for all other Sims.\nPlease preserve all the line breaks.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Undeclared",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Art",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Biology",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drama",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Economics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "History",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Literature",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mathematics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Philosophy",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Physics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Political Science",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Psychology",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThese subjects have already been translated in batch 5 but they must be included separately in this object so that each Sim's diploma can show what that Sim majored in.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "with the honor of Cum Laude in recognition of academic achievement.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating Cum Laude.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "with the honor of Magna Cum Laude in recognition of outstanding academic achievement.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating Magna Cum Laude\nLTEDIT - As LT pointed out - this string was sent for translation as \"the honor of \"Summa Cum Luade\" but it should be \"Magna Cum Laude\"",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "with the honor of Summa Cum Laude in recognition of overwhelmingly brilliant academic achievement.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThis clause is appended as the last string in the diploma dialog. It appears for Sims graduating Magna Cum Laude\nLTEDIT - As LT pointed out - this string was sent for translation as \"the honor of \"Magna Cum Laude\" but it should be \"Summa Cum Laude\"",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Sims 2 University\r\rHereby it is certified that upon recommendation of the faculty in the Department of $PrivateString:1:2, the regents of this University have conferred upon $FullNameLocal:0, a Bachelor's degree in $PrivateString:1:2, $PrivateString:1:3",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis is the Diploma Dialog that appears when the diploma is received and when a Sim clicks on it.\n$PrivateString:1:2 is the name of the Sim's Major.\n$FullNameLocal:0 is the name of the Sim.\n$PrivateString:1:3 is one of the 4 \"honors\" strings above. One for Sims with no honors and one each for all other Sims.\nPlease preserve all the line breaks.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133004554,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "View Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133004554,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133004554,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "View Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133004554,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Take Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133004554,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "View",
+    "description": "! view was disabled on this object since you can view it and see the diploma text.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133004554,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "View",
+    "description": "! view was disabled on this object since you can view it and see the diploma text.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133004554,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Save the Sheep\" Faux Sheepskin Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133004554,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "This prestigious diploma bestowed by your Sim's university at graduation gives one more sheep a another chance at life. Made of the finest faux sheepskin, this diploma tells the world that your Sim is educated, employable, and concerned about sheep conservation.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133004554,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "This prestigious diploma bestowed by your Sim's university at graduation gives one more sheep a another chance at life. Made of the finest faux sheepskin, this diploma tells the world that your Sim is educated, employable, and concerned about sheep conservation.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Read $NeighborLocal:0's Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nInteraction on Diploma - click on it and the \"Diploma TNS\" comes up showing what the Sim's major was, any honors, etc.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133004554,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Read $NeighborLocal:0's Diploma",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nInteraction on Diploma - click on it and the \"Diploma TNS\" comes up showing what the Sim's major was, any honors, etc.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Claim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unclaim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Lock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unlock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Knock On Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Claim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unclaim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Lock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798973,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unlock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144798973,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Myne Door",
+    "description": "The Sims2EP1 - Translated - Copy translations\nafter translations for DormDoor (regular) return.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144798973,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Myne Door",
+    "description": "The Sims2EP1 - Translated - Copy translations\nafter translations for DormDoor (regular) return.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Claim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unclaim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Lock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unlock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Knock On Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Claim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unclaim Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Lock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147053263,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unlock Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147053263,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Myne Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-2",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147053263,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Myne Door",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-2",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147053263,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Now it's easier than ever to make a room into YOUR room.  Sims can work in privacy while this door stops any nosy neighbors from wandering in to bother them.  A brand new \"pic-o-matic\" function also allows Sims to reflect their stake on the door by posting their picture on it for all to see.  Don't waste any more precious quiet time and make the Myne yours today.\n",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-2",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147053263,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Now it's easier than ever to make a room into YOUR room.  Sims can work in privacy while this door stops any nosy neighbors from wandering in to bother them.  A brand new \"pic-o-matic\" function also allows Sims to reflect their stake on the door by posting their picture on it for all to see.  Don't waste any more precious quiet time and make the Myne yours today.\n",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-2",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I don't think so...I really don't like you well enough yet to be acting like your obedient Pledge.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\ndialog for a Sim rejecting the invitation to Pledge another Sim's Greek House because of their bad relationship with the first Sim.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "I don't think you're the type of member we're looking for right now. ",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-10\nThis is a dialog coming from a greek member when another Sim tries to join their house, but they don't have a high enough relationship with the members to do so.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "So you want to join our house . . .  GREAT! We'll send some members over to meet you right away!",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\nIf the Sim does \"Ask to Join Greek House\" on a greek member, but not while the greek scenario is going on, the Sim will respond with this dialog and more greek members will come over to start the greek scenario.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Someone on the Lot is currently trying to join a Greek House. Please wait to try joining one until they're done.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "I don't think so...I really don't like you well enough yet to be acting like your obedient Pledge.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\ndialog for a Sim rejecting the invitation to Pledge another Sim's Greek House because of their bad relationship with the first Sim.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "I don't think you're the type of member we're looking for right now. ",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-10\nThis is a dialog coming from a greek member when another Sim tries to join their house, but they don't have a high enough relationship with the members to do so.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "So you want to join our house . . .  GREAT! We'll send some members over to meet you right away!",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\nIf the Sim does \"Ask to Join Greek House\" on a greek member, but not while the greek scenario is going on, the Sim will respond with this dialog and more greek members will come over to start the greek scenario.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142811036,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Someone on the Lot is currently trying to join a Greek House. Please wait to try joining one until they're done.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142811036,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-8\r\nPie menu and action queue text for SimA asking SimB to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142811036,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Asked to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-8\r\nPie menu and action queue text for SimB being asked to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142811036,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-8\r\nPie menu and action queue text for SimA asking SimB to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142811036,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Asked to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-8\r\nPie menu and action queue text for SimB being asked to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University/college-specific inherited resource (diploma, dorm privacy or Greek-house membership); not part of Castaway Stories runtime."
+  }
+]
