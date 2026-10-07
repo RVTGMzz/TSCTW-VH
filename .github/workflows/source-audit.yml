@@ -41,6 +41,17 @@ jobs:
         run: |
           python src/builder/triage_review_queue.py --groups 80 --samples 8
           python src/builder/triage_review_queue.py --include-unowned --groups 160 --samples 6
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131542912 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2138487677 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141349871 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135021452 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141680657 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135839361 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141256242 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142527278 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146781225 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143127959 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2138732373 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Chair - Living" --groups 120 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Mirror -" --groups 120 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Television -" --groups 120 --samples 240
