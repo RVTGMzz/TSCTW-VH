@@ -1,0 +1,122 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Exit Gossip",
+    "description": "!!!!!!!",
+    "reason": "Gossip exit helper marked with bang-only metadata; internal social-flow action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Exit Gossip",
+    "description": "!!!!!!!",
+    "reason": "Gossip exit helper marked with bang-only metadata; internal social-flow action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bad Mouth",
+    "description": "The Sims2EP - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Bad Mouth / Be Bad Mouthed rows are explicit Nightlife/EP2 social residue; exclude exact rows while keeping base Tell Secret rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Bad Mouthed",
+    "description": "The Sims2EP - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Bad Mouth / Be Bad Mouthed rows are explicit Nightlife/EP2 social residue; exclude exact rows while keeping base Tell Secret rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Exit Gossip",
+    "description": "!!!!!!!",
+    "reason": "Exit Gossip helper marked with bang-only metadata; internal social-flow action, not player-facing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bad Mouth",
+    "description": "The Sims2EP - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Bad Mouth / Be Bad Mouthed rows are explicit Nightlife/EP2 social residue; exclude exact rows while keeping base Tell Secret rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Bad Mouthed",
+    "description": "The Sims2EP - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Bad Mouth / Be Bad Mouthed rows are explicit Nightlife/EP2 social residue; exclude exact rows while keeping base Tell Secret rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Exit Gossip",
+    "description": "!!!!!!!",
+    "reason": "Exit Gossip helper marked with bang-only metadata; internal social-flow action, not player-facing."
+  }
+]

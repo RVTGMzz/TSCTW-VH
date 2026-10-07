@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Gossip",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Gossip",
+    "description": "The Sims 2 - Needs Translation - Batch22 (was 15)",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Tell Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Be Told a  Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Gossip",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Gossip",
+    "description": "The Sims 2 - Needs Translation - Batch22 (was 15)",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Tell Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137211020,
+      128,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Be Told a  Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Gossip/Tell Secret social interaction retained in Castaway's social system; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Tell Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Tell Secret social rows copied into the mixed Bad Mouth resource; promote exact rows only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Be Told a  Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Tell Secret social rows copied into the mixed Bad Mouth resource; promote exact rows only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Tell Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Tell Secret social rows copied into the mixed Bad Mouth resource; promote exact rows only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147077980,
+      128,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Be Told a  Secret",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "menu",
+    "reason": "Base-game Tell Secret social rows copied into the mixed Bad Mouth resource; promote exact rows only."
+  }
+]

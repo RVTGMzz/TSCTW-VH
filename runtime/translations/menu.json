@@ -1261,5 +1261,8 @@
   "Pay Bills: $ $Local:0": "Thanh toán hóa đơn: $ $Local:0",
   "Fill $Object's food dish $$Local:0": "Đổ thức ăn cho $Object $$Local:0",
   "Mop Up": "Lau sạch",
-  "Spray": "Xịt thuốc"
+  "Spray": "Xịt thuốc",
+  "Gossip": "Buôn chuyện",
+  "Tell Secret": "Kể bí mật",
+  "Be Told a  Secret": "Nghe kể bí mật"
 }
