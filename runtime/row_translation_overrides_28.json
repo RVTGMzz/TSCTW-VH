@@ -1,0 +1,290 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "vi": "Giữ máy nhé! Chúng tôi đang tới! Hãy cẩn thận và tránh xa đám cháy!",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "vi": "Chúng tôi sẽ tới sớm nhất có thể! Cẩn thận nhé, kẻ trộm có thể rất nguy hiểm...",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "vi": "Được rồi, chúng tôi sẽ cố tìm $NameLocal:0, nhưng không thể đảm bảo kết quả!",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "vi": "E là $NameLocal:0 đã mất tích hơn 24 giờ rồi. Rất tiếc, giờ chúng tôi không thể làm được nhiều...",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Emergency Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ khẩn cấp",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Call the %s",
+    "description": "Sims2 - Needs Translation - batch19 :: Old description -  Emergency Phone Call Message in selection dialog",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Hang on! We're on our way! Please be careful and stay away from the fire!",
+    "description": "The Sims  2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "vi": "Giữ máy nhé! Chúng tôi đang tới! Hãy cẩn thận và tránh xa đám cháy!",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "We'll be there as soon as we can! Be careful, burglars can be dangerous. . .",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling the police station.",
+    "category": "dialog",
+    "vi": "Chúng tôi sẽ tới sớm nhất có thể! Cẩn thận nhé, kẻ trộm có thể rất nguy hiểm...",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "vi": "Được rồi, chúng tôi sẽ cố tìm $NameLocal:0, nhưng không thể đảm bảo kết quả!",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "vi": "E là $NameLocal:0 đã mất tích hơn 24 giờ rồi. Rất tiếc, giờ chúng tôi không thể làm được nhiều...",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "Emergency Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ khẩn cấp",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "Call the %s",
+    "description": "Sims2 - Needs Translation - batch19 :: Old description -  Emergency Phone Call Message in selection dialog",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "vi": "Báo mất tích.../$NameLocal:0",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "vi": "Báo $NameLocal:0 mất tích",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      302,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Call.../Emergency",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "vi": "Gọi.../Khẩn cấp",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      302,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "vi": "Báo mất tích.../$NameLocal:0",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      302,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "vi": "Báo $NameLocal:0 mất tích",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      302,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Call.../Emergency",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "vi": "Gọi.../Khẩn cấp",
+    "reason": "Player-facing emergency phone text; placeholders preserved exactly."
+  }
+]
