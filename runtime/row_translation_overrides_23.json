@@ -1,0 +1,594 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm Pretty Good At ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình khá giỏi ",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm Very Good At ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình rất giỏi ",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm An Expert At ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình là chuyên gia về ",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 13,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm not really good at anything yet...",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình vẫn chưa thực sự giỏi món nào...",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm Pretty Good At $SkillName:2.\n",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "vi": "Mình khá giỏi $SkillName:2.\n",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm Very Good At $SkillName:2\n",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "vi": "Mình rất giỏi $SkillName:2\n",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm Excellent At $SkillName:2.\n",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "vi": "Mình cực giỏi $SkillName:2.\n",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm Pretty Good At ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình khá giỏi ",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm Very Good At ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình rất giỏi ",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm An Expert At ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình là chuyên gia về ",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm not really good at anything yet...",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS message responses for asking what skills a Sim has",
+    "vi": "Mình vẫn chưa thực sự giỏi món nào...",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm Pretty Good At $SkillName:2.\n",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "vi": "Mình khá giỏi $SkillName:2.\n",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm Very Good At $SkillName:2\n",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "vi": "Mình rất giỏi $SkillName:2\n",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm Excellent At $SkillName:2.\n",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "vi": "Mình cực giỏi $SkillName:2.\n",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 1,
+    "en": "Cooking",
+    "description": "",
+    "vi": "Nấu ăn",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "Mechanical",
+    "description": "",
+    "vi": "Cơ khí",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "Charisma",
+    "description": "",
+    "vi": "Khéo ăn nói",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Body",
+    "description": "",
+    "vi": "Thể chất",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Logic",
+    "description": "",
+    "vi": "Logic",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "Creativity",
+    "description": "",
+    "vi": "Sáng tạo",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Cleaning",
+    "description": "",
+    "vi": "Dọn dẹp",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "Cleaning",
+    "description": "Copy translations from String 9 above",
+    "vi": "Dọn dẹp",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Cooking",
+    "description": "Copy translations from string 3 above",
+    "vi": "Nấu ăn",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Charisma",
+    "description": "Copy translations from string 5 above",
+    "vi": "Khéo ăn nói",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "Mechanical",
+    "description": "Copy translations from string 4 above",
+    "vi": "Cơ khí",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "Creativity",
+    "description": "Copy translations from string 8 above",
+    "vi": "Sáng tạo",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Body",
+    "description": "Copy translations from string 6 above",
+    "vi": "Thể chất",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Logic",
+    "description": "Copy translations from string 7 above",
+    "vi": "Logic",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "dialog",
+    "language": 2,
+    "en": "Cooking",
+    "description": "",
+    "vi": "Nấu ăn",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "dialog",
+    "language": 2,
+    "en": "Mechanical",
+    "description": "",
+    "vi": "Cơ khí",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 2,
+    "en": "Charisma",
+    "description": "",
+    "vi": "Khéo ăn nói",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 2,
+    "en": "Body",
+    "description": "",
+    "vi": "Thể chất",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 2,
+    "en": "Logic",
+    "description": "",
+    "vi": "Logic",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 33,
+    "category": "dialog",
+    "language": 2,
+    "en": "Creativity",
+    "description": "",
+    "vi": "Sáng tạo",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130862890,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 2,
+    "en": "Cleaning",
+    "description": "",
+    "vi": "Dọn dẹp",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130862890,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask About Skills",
+    "description": "The Sims2EP2 - NEEDS RETRANSLATION",
+    "vi": "Hỏi về kỹ năng",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130862890,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Asked About Skills",
+    "description": "The Sims2EP2 - NEEDS RETRANSLATION",
+    "vi": "Được hỏi về kỹ năng",
+    "reason": "Player-facing skill-question response/interaction paired with the retained Ask About Skills social; exact-row translation preserves skill placeholders."
+  }
+]
