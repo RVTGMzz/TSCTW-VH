@@ -1,0 +1,2042 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131958665,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131958665,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Small Ice Cap Skating Rink",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131958665,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "When was the last time you dreamed of the ice caps? If you're anything like us, it was most likely your last passing thought. The Ice Cap Skating Rink was built purely to accomodate a frosty Sim's enjoyment. We took the best the ice caps had to offer, then flattened and condensed these portions into reasonably sized, skateable surfaces. Take one of these refined continental hunks home for your family and neighbors today!  ",
+    "description": "Sims 2 EP7: Needs Translation, fixed extra 'space' bug 1427",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131958665,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Small Ice Cap Skating Rink",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131958665,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "When was the last time you dreamed of the ice caps? If you're anything like us, it was most likely your last passing thought. The Ice Cap Skating Rink was built purely to accomodate a frosty Sim's enjoyment. We took the best the ice caps had to offer, then flattened and condensed these portions into reasonably sized, skateable surfaces. Take one of these refined continental hunks home for your family and neighbors today!  ",
+    "description": "Sims 2 EP7: Needs Translation, fixed extra 'space' bug 1427",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131958665,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131958665,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131958665,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131958665,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133364350,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes.../Middle",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes.../Outer",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes.../Inner",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes.../Middle",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes.../Outer",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133364350,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes.../Inner",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133364350,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Large Roll-O-Rama Rink",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133364350,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "It's time to throw on your skates and hit the Roll-O-Rama Rink. All of the coolest people will be there for all night skate parties. Everyone who is anyone will be having their birthday there. If you aren't skating, then you're walking -- which means you're slow, boring, and out of touch. You aren't hip. Return to the fold with the Roll-O-Rama Rink and reinstate your coolness. \n",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133364350,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Large Roll-O-Rama Rink",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133364350,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's time to throw on your skates and hit the Roll-O-Rama Rink. All of the coolest people will be there for all night skate parties. Everyone who is anyone will be having their birthday there. If you aren't skating, then you're walking -- which means you're slow, boring, and out of touch. You aren't hip. Return to the fold with the Roll-O-Rama Rink and reinstate your coolness. \n",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138332415,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138332415,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Small Roll-O-Rama Rink",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138332415,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "It's time to throw on your skates and hit the Roll-O-Rama Rink. All of the coolest people will be there for all night skate parties. Everyone who is anyone will be having their birthday there. If you aren't skating, then you're walking -- which means you're slow, boring, and out of touch. You aren't hip. Return to the fold with the Roll-O-Rama Rink and reinstate your coolness. \n",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138332415,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Small Roll-O-Rama Rink",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138332415,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's time to throw on your skates and hit the Roll-O-Rama Rink. All of the coolest people will be there for all night skate parties. Everyone who is anyone will be having their birthday there. If you aren't skating, then you're walking -- which means you're slow, boring, and out of touch. You aren't hip. Return to the fold with the Roll-O-Rama Rink and reinstate your coolness. \n",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138332415,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138332415,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138332415,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138332415,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skate",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With...",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146977019,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Jump",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Twirl With.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Join.../$neighbor",
+    "description": "EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes.../Middle Lane",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes.../Outer Lane",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Lanes.../Inner Lane",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes.../Middle Lane",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes.../Outer Lane",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Switch Lanes.../Inner Lane",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146977019,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Large Ice Cap Skating Rink ",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146977019,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "When was the last time you dreamed of the ice caps? If you're anything like us, it was most likely your last passing thought. The Ice Cap Skating Rink was built purely to accomodate a frosty Sim's enjoyment. We took the best the ice caps had to offer, then flattened and condensed these portions into reasonably sized, skateable surfaces. Take one of these refined continental hunks home for your family and neighbors today! ",
+    "description": "Sims 2 EP7: Needs Translation, fixed extra 'space' bug 1427",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146977019,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Large Ice Cap Skating Rink ",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146977019,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "When was the last time you dreamed of the ice caps? If you're anything like us, it was most likely your last passing thought. The Ice Cap Skating Rink was built purely to accomodate a frosty Sim's enjoyment. We took the best the ice caps had to offer, then flattened and condensed these portions into reasonably sized, skateable surfaces. Take one of these refined continental hunks home for your family and neighbors today! ",
+    "description": "Sims 2 EP7: Needs Translation, fixed extra 'space' bug 1427",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of body skill from the $NameLocal:1 ",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146977019,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of body skill from the $NameLocal:1 ",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Build a Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Knock Over Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Build a Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Knock Over Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Destroyed Snowman",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chew or Scratch",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "React To Destroyed Snowman",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135304813,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chew or Scratch",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Resume Building",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Me To Join",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Resume Building",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask $Me To Join",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135304813,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135304813,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135304813,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135304813,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snowman",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bottom Made",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Middle Made",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Top Made",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snowman Complete",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "BOOM",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bottom Made",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Middle Made",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Top Made",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snowman Complete",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135304813,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "BOOM",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Catch Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Catch Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Catch Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Catch Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase Butterflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146813036,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase Fireflies",
+    "description": "The Sims 2 EP7: Needs Translation 12.19.06",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146813036,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Catch",
+    "description": "!",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146813036,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Catch Fireflies",
+    "description": "Sims 2 EP7: Needs re-Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146813036,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Catch",
+    "description": "!",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146813036,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Catch Fireflies",
+    "description": "Sims 2 EP7: Needs re-Translation",
+    "reason": "Seasons/skating/snow/firefly inherited resource; climate/rink system is outside Castaway Stories tropical runtime."
+  }
+]
