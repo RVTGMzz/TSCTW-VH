@@ -1,0 +1,497 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141895000,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jacuster's \"Last Stand\" Sectional Booth",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141895000,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tired of all the silly \"dining chair\" nonsense prevalent throughout the world, the infamous King Jacuster proclaimed that seating should be far more comfortable and banished all dining chairs from his kingdom.  Now you can create any layout or configuration of majestic opulence you can possibly imagine and relish the fact that you're enjoying the luxurious royal treatment preferred by 9 out of 10 kings.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Picture.../Romantic $$Local:0",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Picture.../Goofy $$Local:0",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Picture.../Normal $$Local:0",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Take Picture.../Romantic $$Local:0",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Take Picture.../Goofy $$Local:0",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136606208,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Take Picture.../Normal $$Local:0",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/EP2 photo-booth interaction resource (Romantic/Goofy/Normal picture poses and Get In); outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION copies\nCopy strings from Destination.package (Core), Set 128, String 2",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "End Outing",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Outing is Over",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - End Date/Outing",
+    "description": "!Invisible Interaction",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gather Casual Group",
+    "description": "!",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go Here",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION copies\nCopy strings from Destination.package (Core), Set 128, String 2",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sit",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "End Outing",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Outing is Over",
+    "description": "",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Interaction - End Date/Outing",
+    "description": "!Invisible Interaction",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141118989,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Gather Casual Group",
+    "description": "!",
+    "reason": "Nightlife outing/casual-group resource (End Outing, Gather Casual Group, EP2-copied Go Here); outside Castaway Stories social/travel systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141895000,
+      129,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 Jacuster sectional dining booth resource; object catalog and seating interactions belong to the Nightlife restaurant furniture path, not Castaway's island catalog."
+  }
+]
