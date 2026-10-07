@@ -1,0 +1,572 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996067,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Impresso Espress-o-Matic",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996067,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "This new industrial Espresso machine is bigger, shinier, and will make more high-energy drinks faster than anything ever has before. Sims all around town will dash to this delicious drink dispenser like moths to a flame, eager for tantalizing tastes to tango across their tongues.\n",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145996067,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Barista.../$Object",
+    "description": "The Sims2EP3 - Batch 9",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145996067,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work as Barista",
+    "description": "! Do not overwrite. Copied from TTA menus in all  languages. This is the new work interaction that assigns the Sim to be the barista as thier assignment but uses the old text.",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145996067,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Assign Barista.../$Object",
+    "description": "The Sims2EP3 - Batch 9",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145996067,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work as Barista",
+    "description": "! Do not overwrite. Copied from TTA menus in all  languages. This is the new work interaction that assigns the Sim to be the barista as thier assignment but uses the old text.",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the countertop game display; keep Browse/Buy undecided separately, exclude only business-control rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the countertop game display; keep Browse/Buy undecided separately, exclude only business-control rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the countertop game display; keep Browse/Buy undecided separately, exclude only business-control rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the countertop game display; keep Browse/Buy undecided separately, exclude only business-control rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the countertop game display; keep Browse/Buy undecided separately, exclude only business-control rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the countertop game display; keep Browse/Buy undecided separately, exclude only business-control rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Plant-state force command is a developer/debug interaction, not a player-facing gardening action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Plant-state force command is a developer/debug interaction, not a player-facing gardening action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Plant-state force command is a developer/debug interaction, not a player-facing gardening action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Healthy",
+    "description": "!",
+    "reason": "Plant-state force command is a developer/debug interaction, not a player-facing gardening action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Wilted",
+    "description": "!",
+    "reason": "Plant-state force command is a developer/debug interaction, not a player-facing gardening action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Force Dead",
+    "description": "!",
+    "reason": "Plant-state force command is a developer/debug interaction, not a player-facing gardening action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Purchase",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Purchase",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "Open for Business retail-management helper on the video-game rack; Castaway does not use OFB restock/pricing/dynamic-menu business controls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work as Barista",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Coffee",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Espresso",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThese interactions should be the same as the interactions on the home espresso maker for the base game.",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Espresso",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThese interactions should be the same as the interactions on the home espresso maker for the base game.",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Espresso",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-10\nThese interactions should be the same as the interactions on the home espresso maker for the base game.",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Espresso",
+    "description": "",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "!",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work as Barista",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996067,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Coffee",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University (EP1) Espresso Machine Cart / barista-assignment resource; outside Castaway Stories island gameplay and catalog systems."
+  }
+]
