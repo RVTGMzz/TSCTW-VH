@@ -1,0 +1,242 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Pet Reflection",
+    "description": "Sims 2 EP6: Needs Text",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Change Appearance of...",
+    "description": "Sims 2 EP6: Needs Text",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Have Appearance Changed",
+    "description": "",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 2,
+    "en": "Pet Reflection",
+    "description": "Sims 2 EP6: Needs Text",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 22,
+    "language": 2,
+    "en": "Change Appearance of...",
+    "description": "Sims 2 EP6: Needs Text",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Have Appearance Changed",
+    "description": "",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Change Appearance for your Pet.../$Object",
+    "description": "Sims 2 EP7: Needs Translation",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Change your Pet, $Object's, Appearance",
+    "description": "Sims 2 EP7: Needs Translation 1/11/07",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Change Appearance for your Pet.../$Object",
+    "description": "Sims 2 EP7: Needs Translation",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Change your Pet, $Object's, Appearance",
+    "description": "Sims 2 EP7: Needs Translation 1/11/07",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change Appearance Of.../$Object",
+    "description": "Sims 2 EP7 - for babies",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Change $Object's Appearance",
+    "description": "Sims 2 EP7 - for babies",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Change Appearance Of.../$Object",
+    "description": "Sims 2 EP7 - for babies",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      302,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Change $Object's Appearance",
+    "description": "Sims 2 EP7 - for babies",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Placeholder for CAP Coat Catalog",
+    "description": "",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Placeholder for CAP Coat Catalog",
+    "description": "",
+    "status": "excluded",
+    "reason": "Pets/CAP appearance customization residue or placeholder; outside Castaway Stories player-facing mirror scope."
+  }
+]
