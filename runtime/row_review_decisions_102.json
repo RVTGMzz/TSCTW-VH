@@ -1,0 +1,272 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you ready to leave the Secret Society Lot?  We'll get a limo to take you home.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\ndialog for Sims leaving the Secret Society Lot",
+    "reason": "Explicit University/Secret Society transport residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Limo will swing by shortly to pick you up!",
+    "description": "The Sims2EP1  - Needs Translation - BatchEP1-8\nDialog for when Sims call to visit the Secret Society or call to go home from the Secret Society  -- See PhoneCall_Transport, set 301, string 17 (base 1 for DB). \"The Taxi will swing by shortly to pick you up\"- just change \"Taxi\" to \"Limo\".",
+    "reason": "Explicit University/Secret Society transport residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you want to take a taxi or your car?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Nightlife owned-car/taxi-choice residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Taxi",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Nightlife owned-car/taxi-choice residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Car",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Nightlife owned-car/taxi-choice residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you ready to leave the Secret Society Lot?  We'll get a limo to take you home.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\ndialog for Sims leaving the Secret Society Lot",
+    "reason": "Explicit University/Secret Society transport residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Limo will swing by shortly to pick you up!",
+    "description": "The Sims2EP1  - Needs Translation - BatchEP1-8\nDialog for when Sims call to visit the Secret Society or call to go home from the Secret Society  -- See PhoneCall_Transport, set 301, string 17 (base 1 for DB). \"The Taxi will swing by shortly to pick you up\"- just change \"Taxi\" to \"Limo\".",
+    "reason": "Explicit University/Secret Society transport residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you want to take a taxi or your car?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Nightlife owned-car/taxi-choice residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "Taxi",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Nightlife owned-car/taxi-choice residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "Car",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Nightlife owned-car/taxi-choice residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Home",
+    "description": "The Sims 2EP1 - Needs Translations - BatchEP1-8",
+    "reason": "University/Secret Society transport branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2003,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Home",
+    "description": "The Sims 2EP1 - Needs Translations - BatchEP1-8",
+    "reason": "University/Secret Society transport branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Secret Society",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\nChoice off of Phone.../Transport if Sim is in the Secret Society",
+    "reason": "University/Secret Society transport branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Invite a Group to a Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business transport/group branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "CHANGED The Sims2EP1 - BatchEP1-10",
+    "reason": "University/Secret Society transport branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../Call Taxi",
+    "description": "Sims2 EP3 Batch 9",
+    "reason": "Nightlife/Open for Business transport/group branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go Home",
+    "description": "CHANGED The Sims2EP1 - BatchEP1-10",
+    "reason": "University/Secret Society transport branch residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Call Taxi",
+    "description": "Sims2 EP3 Batch 9",
+    "reason": "Nightlife/Open for Business transport/group branch residue; outside Castaway Stories runtime."
+  }
+]
