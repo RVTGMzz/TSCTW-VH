@@ -1,0 +1,1832 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131189802,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "Batch - copying strings 0 and 1 into strings 3 and 4",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131457406,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drive",
+    "description": "Batch - copying strings 0 and 1 into strings 3 and 4",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132526529,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drive",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134175257,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait to Get Out",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wait to Get Out",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get out of Cop Car",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Apprehend Burglar",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be in Car",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cop - Wait to Get Out",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Dropped Off",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Open Rear Door",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cop's Reaction to Burglar Free",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Return Kid",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Return from Sneak Out",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134917614,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break Up Party",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140349289,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140773686,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141511587,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141589314,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142033170,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142199802,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Return Home",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Arrive",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Welcome Home!",
+    "description": "The Sims 2 - Needs Translation - Batch23",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Return Home",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142366151,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Arrive",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117373,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143160751,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143764237,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drive",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144598031,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drive",
+    "description": "",
+    "reason": "Road-based base-game/expansion career or service vehicle resource; Castaway Stories uses island-specific travel/career systems and does not expose this car/helicopter/spaceship commute interaction."
+  }
+]
