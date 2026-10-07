@@ -1,0 +1,602 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do $Object's Assignment ($Local:0%)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do Assignment ($Local:0%)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Help with Assignment.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Help $Object with Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask for Assignment Help.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object for Assignment Help",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask for Tutoring.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object for Tutoring",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Offer to Tutor for Simoleons.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tutor $Object for Simoleons",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do $Object's Assignment ($Local:0%)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do Assignment ($Local:0%)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Help with Assignment.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Help $Object with Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask for Assignment Help.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask $Object for Assignment Help",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask for Tutoring.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask $Object for Tutoring",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Offer to Tutor for Simoleons.../$Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144826958,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tutor $Object for Simoleons",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do Assignment",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to be Taught to Study.../",
+    "description": "The Sims 2 - Needs translation - Batch22\r\nDoes this interaction work without a variable? smp 5/11",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Teach.../",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nDoes this interaction work without a variable? smp 5/11",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction on college homework.",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do Assignment",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to be Taught to Study.../",
+    "description": "The Sims 2 - Needs translation - Batch22\r\nDoes this interaction work without a variable? smp 5/11",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Teach.../",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nDoes this interaction work without a variable? smp 5/11",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do Assignment",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction on college homework.",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do Assignment",
+    "description": "Copy translations",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Put Homework Down",
+    "description": "!! PUSHED BY BUS ONLY",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do Assignment",
+    "description": "Copy Translations",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do Assignment",
+    "description": "Copy translations",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Put Homework Down",
+    "description": "!! PUSHED BY BUS ONLY",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144826958,
+      1,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do Assignment",
+    "description": "Copy Translations",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144826958,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "College Assignment",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144826958,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "College Assignment",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University homework/assignment resource inherited from The Sims 2 University; not part of Castaway Stories gameplay."
+  }
+]
