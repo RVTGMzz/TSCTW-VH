@@ -1,0 +1,242 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Practice Speech",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Practice Romance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Gussy Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Change Appearance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Check Self Out",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nThis interaction is for Teen Sims checking themselves out in the mirror.",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Use Acne Cream",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nTeen Sim interaction.",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Change Appearance",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Change Appearance",
+    "description": "Sims 2 EP7 - Needs translation",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "Practice Speech",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "Practice Romance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Gussy Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Change Appearance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Check Self Out",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nThis interaction is for Teen Sims checking themselves out in the mirror.",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Use Acne Cream",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nTeen Sim interaction.",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Change Appearance",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139400692,
+      1,
+      0
+    ],
+    "row": 20,
+    "language": 2,
+    "en": "Change Appearance",
+    "description": "Sims 2 EP7 - Needs translation",
+    "category": "menu",
+    "reason": "Generic mirror interaction with an existing approved Vietnamese mapping."
+  }
+]
