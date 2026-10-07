@@ -1,0 +1,887 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat Trash",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll In Trash",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dig In Trash",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat Trash",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Roll In Trash",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dig In Trash",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Check Job Status",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Object Visible(Alpha Change)",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Reset Age Duration",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "unuse",
+    "description": "",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Check Job Status",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Object Visible(Alpha Change)",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Reset Age Duration",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "unuse",
+    "description": "",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test Salvaged Objects",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Test Salvaged Objects",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Debug/test/unused helper in the mixed outdoor-trash resource; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Kiss.../Blow Kiss",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Irritate.../Throw Drink",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Flirt.../Feed A Bite",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Steal A Bite",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Propose.../Surprise Engagement",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Flirt.../Caress Hands",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Entertain.../Toast",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fall Asleep",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To Sleeper",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Kiss.../Blow Kiss",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Flirt.../Caress Hands",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Irritate.../Throw Drink",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Entertain.../Toast",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Propose.../Surpise Engagement",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play.../Throw Food",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Flirt.../Feed A Bite",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play.../Steal A Bite",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneeds retranslation from batch 3",
+    "reason": "Explicit Sims 2 EP2/Nightlife social-food interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Beg For Food",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Share Food",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP6/Pets interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tend",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tend Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spray",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spray Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Talk To",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tend",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tend Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spray",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spray Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135495273,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Talk To",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell Fruit",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sell Fruit",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135495273,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sell Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set For Class",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\ninteraction on alarm clock so Sims can get up for class",
+    "reason": "Explicit Sims 2 EP1/University alarm-clock class interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set For Class",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\ninteraction on alarm clock so Sims can get up for class",
+    "reason": "Explicit Sims 2 EP1/University alarm-clock class interaction residue; outside Castaway Stories runtime."
+  }
+]
