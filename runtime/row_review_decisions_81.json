@@ -1,0 +1,542 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tend",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tend Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Water",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Water Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spray",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spray Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Talk To",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dispose",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tend",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tend Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Water",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Water Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spray",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spray Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest Many",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Talk To",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134389574,
+      1,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dispose",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell Produce",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Compost",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Harvest Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sell Produce",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Compost",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Harvest Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sell Many $Objects",
+    "description": "Sims 2 EP7: Needs Translation ('s' added at the end of the $Object variable to make the catalog name plural.  If translating this is a problem, just remove \"$Objects\" from the translated string.  Leave it in the english version)",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! Digging in the dirt isn't so hard after all and $NameLocal:0 has earned a Bronze Gardening Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "All that time planting seeds and pulling weeds has yielded great results! $NameLocal:0 has received a Silver Gardening Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Talk about a green thumb! $NameLocal:0 has learned to understand the secret language of plants and all that work has produced a Gold Gardening Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! Digging in the dirt isn't so hard after all and $NameLocal:0 has earned a Bronze Gardening Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "All that time planting seeds and pulling weeds has yielded great results! $NameLocal:0 has received a Silver Gardening Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134389574,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Talk about a green thumb! $NameLocal:0 has learned to understand the secret language of plants and all that work has produced a Gold Gardening Talent Badge!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons gardening resource; Castaway uses separate CS hydroponic-garden resources already audited."
+  }
+]
