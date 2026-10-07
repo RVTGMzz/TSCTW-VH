@@ -1,0 +1,782 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Campus Directory",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University campus phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Campus Phonebook",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for the college dialog",
+    "reason": "Explicit Sims 2 EP1/University campus phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "I don't know anyone to ask on a date. I need to get to know somebody before I can ask them out!!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Community lot or your place?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask %s on date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sounds great! I'll see you soon...Don't be late!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "No, I don't think so.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "%d Members Maximum",
+    "description": "! string used in Groups dialog",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call Sim Options",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "What would you like to do with this Sim?",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "Who to invite?",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "%d Maximum",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sounds great! We'll be right over!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm definitely coming, but the rest of my household may not be coming with me.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "Invite Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:4's Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Invite Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "Household Members",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "You don't know anyone to call. Loser.",
+    "description": "! Moved to PhoneGlobals.  No longer used here. Sims2 - Needs Translation - batch12 was \"You don't know anyone to call. Loser.",
+    "reason": "Source marks this row as moved, unused/cut, placeholder or test text; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:0 is at work. Try again later.",
+    "description": "! Moved to PhoneCallGlobals, String 0. Sims2 - Needs Translation - batch12 - Was $NeighborLocal:0 is at work. Try again later.\"",
+    "reason": "Source marks this row as moved, unused/cut, placeholder or test text; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Campus Directory",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University campus phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Campus Phonebook",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for the college dialog",
+    "reason": "Explicit Sims 2 EP1/University campus phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "I don't know anyone to ask on a date. I need to get to know somebody before I can ask them out!!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask %s on date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sounds great! I'll see you soon...Don't be late!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "No, I don't think so.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "%d Guests Maximum",
+    "description": "! string used in Groups dialog",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call Sim Options",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "What would you like to do with this Sim?",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 75,
+    "status": "excluded",
+    "language": 2,
+    "en": "Who to invite?",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 76,
+    "status": "excluded",
+    "language": 2,
+    "en": "%d Maximum",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 77,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sounds great! We'll be right over!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 78,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm definitely coming, but the rest of my household may not be coming with me.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "Invite Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 80,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:4's Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "dsfsd",
+    "description": "!Sims 2 EP6: Needs Text",
+    "reason": "Source marks this row as moved, unused/cut, placeholder or test text; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 81,
+    "status": "excluded",
+    "language": 2,
+    "en": "dsfsd",
+    "description": "!Sims 2 EP6: Needs Text",
+    "reason": "Source marks this row as moved, unused/cut, placeholder or test text; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../Ask Out on Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groups.../Manage Groups",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groups.../Invite Group Over.../For an Outing",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groups.../Invite Group Over.../Just for Fun",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Ask Out on Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Groups.../Invite Group Over.../For an Outing",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife date/group phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145525850,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Invite Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145525850,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Invite Household",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145525850,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just Talk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145525850,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Invite Over",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets household-call residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145525850,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Campus Directory",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit Sims 2 EP1/University campus phone residue; outside Castaway Stories runtime."
+  }
+]
