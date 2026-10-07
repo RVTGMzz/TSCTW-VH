@@ -1,0 +1,767 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      302,
+      0
+    ],
+    "row": 84,
+    "language": 2,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      302,
+      0
+    ],
+    "row": 85,
+    "language": 2,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      302,
+      0
+    ],
+    "row": 86,
+    "language": 1,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      302,
+      0
+    ],
+    "row": 87,
+    "language": 1,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 218,
+    "language": 1,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 219,
+    "language": 1,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135839361,
+      2003,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135839361,
+      2003,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135839361,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135839361,
+      2002,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Police Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu.",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      302,
+      0
+    ],
+    "row": 84,
+    "language": 2,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      302,
+      0
+    ],
+    "row": 85,
+    "language": 2,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      302,
+      0
+    ],
+    "row": 86,
+    "language": 1,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      302,
+      0
+    ],
+    "row": 87,
+    "language": 1,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 218,
+    "language": 1,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 219,
+    "language": 1,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141256242,
+      2003,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141256242,
+      2003,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141256242,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141256242,
+      2002,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Police Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu.",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      302,
+      0
+    ],
+    "row": 84,
+    "language": 2,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      302,
+      0
+    ],
+    "row": 85,
+    "language": 2,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      302,
+      0
+    ],
+    "row": 86,
+    "language": 1,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      302,
+      0
+    ],
+    "row": 87,
+    "language": 1,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 218,
+    "language": 1,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 219,
+    "language": 1,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142527278,
+      2003,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142527278,
+      2003,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142527278,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142527278,
+      2002,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Police Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu.",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      302,
+      0
+    ],
+    "row": 84,
+    "language": 2,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      302,
+      0
+    ],
+    "row": 85,
+    "language": 2,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      302,
+      0
+    ],
+    "row": 86,
+    "language": 1,
+    "en": "Report Missing.../$NameLocal:0",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      302,
+      0
+    ],
+    "row": 87,
+    "language": 1,
+    "en": "Report $NameLocal:0 Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on Phone after Sim has run away.",
+    "category": "menu",
+    "reason": "Base-game runaway-teen phone action retained in the emergency-call stringset; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 218,
+    "language": 1,
+    "en": "Okay, we'll try to find $NameLocal:0, but we can't guarantee results!",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears after calling police to report a missing teenage Sim. There is a chance that police will not find the missing Sim, however, teen will always return before their age transition.",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 219,
+    "language": 1,
+    "en": "I'm afraid it's been more than 24 hours since $NameLocal:0 has gone missing. I'm sorry, but there's not much we can do now...",
+    "description": "The Sims  2 - Needs Translation - Batch19\nDialog which appears if parent calls police to report teen Sim missing after 24 hours has passed. Also can be used as notification if parent did call within 24 hours but police did not find the Sim. Teen Sim always returns before their age transition to an adult. ",
+    "category": "dialog",
+    "reason": "Player-facing base-game missing-Sim police response; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146781225,
+      2003,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146781225,
+      2003,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Report Sim Missing",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "category": "menu",
+    "reason": "Phone-book choice for reporting a missing Sim; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146781225,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146781225,
+      2002,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Police Station",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu.",
+    "category": "menu",
+    "reason": "Player-facing base-game phone-book choice; reuse approved Vietnamese menu mapping on this exact CTSS row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Delinquent Notice",
+    "description": "Sims2 - Needs Translation - batch10\r\n\r\n0000NEW Bills: Overdue01: Dialog:  Title\r\n\r\nNotes: Appears when bills have turned red to indicate overdue payment.",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Sorry!",
+    "description": "Sims2 - Needs Translation - batch10\r\n\r\nBills: No Funds01: Dialog: Title",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "SimCity Collection Agency has noticed a lag in the payment of your bills. If we do not receive payment immediately, we will take serious action.",
+    "description": "The Sims2 - Needs translation - batch16\r\n\r\nBills: Overdue01: Dialog: Text:\r\n\r\nNotes: Appears when bills have turned red to indicate overdue payment.",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Delinquent Notice",
+    "description": "Sims2 - Needs Translation - batch10\r\n\r\n0000NEW Bills: Overdue01: Dialog:  Title\r\n\r\nNotes: Appears when bills have turned red to indicate overdue payment.",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Sorry!",
+    "description": "Sims2 - Needs Translation - batch10\r\n\r\nBills: No Funds01: Dialog: Title",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "SimCity Collection Agency has noticed a lag in the payment of your bills. If we do not receive payment immediately, we will take serious action.",
+    "description": "The Sims2 - Needs translation - batch16\r\n\r\nBills: Overdue01: Dialog: Text:\r\n\r\nNotes: Appears when bills have turned red to indicate overdue payment.",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "$ $Local:0 has been deducted from your account to pay this overdue bill. Please pay your bills on time!",
+    "description": "!",
+    "category": "dialog",
+    "reason": "Player-facing base-game Bills notification; reuse approved Vietnamese dialog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143127959,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Pay Bills",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing base-game Bills interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143127959,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Bills",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nBuy Mode: *Non-Catalog: Bills: Name\r\n\r\nNotes: This item cannot be purchased, but can be moved in Buy Mode",
+    "category": "catalog",
+    "reason": "Visible base-game Bills object name; reuse approved Vietnamese catalog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143127959,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Bills",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nBuy Mode: *Non-Catalog: Bills: Name\r\n\r\nNotes: This item cannot be purchased, but can be moved in Buy Mode",
+    "category": "catalog",
+    "reason": "Visible base-game Bills object name; reuse approved Vietnamese catalog mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Pay Bills: $ $Local:0",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nBills: Both: \r\nNotes: $Local:0 is a variable for the amount of the bills. Appears when selected by adults only.",
+    "category": "menu",
+    "reason": "Player-facing base-game Bills action string; reuse approved Vietnamese menu mapping on this exact row."
+  }
+]

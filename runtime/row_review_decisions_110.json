@@ -1,0 +1,617 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 211,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135839361,
+      301,
+      0
+    ],
+    "row": 216,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 211,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141256242,
+      301,
+      0
+    ],
+    "row": 216,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 211,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142527278,
+      301,
+      0
+    ],
+    "row": 216,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 211,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146781225,
+      301,
+      0
+    ],
+    "row": 216,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Explicit obsolete ambulance/delivery dialog; source metadata states the ambulance no longer comes to deliver babies."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your unpaid dining bill has been added to your home bills. The total was $$Local:0.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife (EP2) dining-bill residue; outside Castaway Stories base Bills flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143127959,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your unpaid dining bill has been added to your home bills. The total was $$Local:0.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife (EP2) dining-bill residue; outside Castaway Stories base Bills flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143127959,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Force Repo Man",
+    "description": "!!!!!",
+    "reason": "Bills developer/debug control, not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143127959,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Calculate",
+    "description": "!!!!!",
+    "reason": "Bills developer/debug control, not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143127959,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Repogun",
+    "description": "!!!!!",
+    "reason": "Bills developer/debug control, not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143127959,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Delinquent",
+    "description": "!!!",
+    "reason": "Bills developer/debug control, not a player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143127959,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bills Description",
+    "description": "! only name used",
+    "reason": "Source metadata explicitly says only the Bills name is used; unused description row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143127959,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bills Description",
+    "description": "! only name used",
+    "reason": "Source metadata explicitly says only the Bills name is used; unused description row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Set Mode.../-->$Local:1<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Set Mode.../$Local:1",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) ClubCube configuration residue; outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131542912,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "ClubCube by Luminescent Projections",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Nightlife (EP2) ClubCube catalog residue; outside Castaway Stories catalog scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131542912,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "This simple-looking block is actually on the cutting edge of lighting technology.  Use it to liven up a hoppin' dance club, or to enhance the ambience of a chill night spot.  Best of all, you can stack ClubCubes on top of each other, and customize the color theme with the click of a button.",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Explicit Nightlife (EP2) ClubCube catalog residue; outside Castaway Stories catalog scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131542912,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mode",
+    "description": "",
+    "reason": "Internal configuration controls owned by the EP2 ClubCube/Block - Stacking resource, not Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131542912,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fade",
+    "description": "",
+    "reason": "Internal configuration controls owned by the EP2 ClubCube/Block - Stacking resource, not Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131542912,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sync",
+    "description": "",
+    "reason": "Internal configuration controls owned by the EP2 ClubCube/Block - Stacking resource, not Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stock",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Remove Produce",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Steal Back Statue",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) statue-theft interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Steal Back Statue",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) statue-theft interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138487677,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I have stolen back my statue, it is in my Inventory.",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) statue-theft dialog residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138487677,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "I have stolen back my statue, it is in my Inventory.",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) statue-theft dialog residue; outside Castaway Stories scope."
+  }
+]

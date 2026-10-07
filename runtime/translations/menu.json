@@ -1251,5 +1251,12 @@
   "Float Here": "Nổi ở đây",
   "Levitate Here": "Bay lơ lửng ở đây",
   "Poke": "Khều lửa",
-  "Warm Self": "Sưởi ấm"
+  "Warm Self": "Sưởi ấm",
+  "Report Missing.../$NameLocal:0": "Báo mất tích.../$NameLocal:0",
+  "Report $NameLocal:0 Missing": "Báo $NameLocal:0 mất tích",
+  "Report Sim Missing": "Báo Sim mất tích",
+  "Fire Station": "Trạm cứu hỏa",
+  "Police Station": "Đồn cảnh sát",
+  "Pay Bills": "Thanh toán hóa đơn",
+  "Pay Bills: $ $Local:0": "Thanh toán hóa đơn: $ $Local:0"
 }
