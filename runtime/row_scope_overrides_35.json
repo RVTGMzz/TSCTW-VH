@@ -1,0 +1,587 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 272,
+    "category": "menu",
+    "language": 1,
+    "en": "Flirt.../Wolf Whistle",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 282,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 289,
+    "category": "menu",
+    "language": 1,
+    "en": "Entertain.../Bust A Move",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 300,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Pillow Fight",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 304,
+    "category": "menu",
+    "language": 1,
+    "en": "Bonfire Dance",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction dancing near the bonfire object.",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 305,
+    "category": "menu",
+    "language": 1,
+    "en": "Answer",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 323,
+    "category": "menu",
+    "language": 1,
+    "en": "Slow Dance",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 326,
+    "category": "menu",
+    "language": 1,
+    "en": "Kiss.../Blow Kiss",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nDining Interaction - needs retranslation from batch 4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 331,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Bad Mouth",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 333,
+    "category": "menu",
+    "language": 1,
+    "en": "Primp",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 348,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask.../About Interests",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 363,
+    "category": "menu",
+    "language": 1,
+    "en": "Invite to Join",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 369,
+    "category": "menu",
+    "language": 1,
+    "en": "Kiss.../Kiss Hand",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 819,
+    "category": "menu",
+    "language": 2,
+    "en": "Entertain.../Bust A Move",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 830,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Pillow Fight",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 379,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Rock Paper Scissors",
+    "description": "TheSims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 380,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Together",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 393,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Tickle",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 394,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Tease",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 418,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Outfit",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 282,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 289,
+    "category": "menu",
+    "language": 1,
+    "en": "Entertain.../Bust A Move",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 300,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Pillow Fight",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 304,
+    "category": "menu",
+    "language": 1,
+    "en": "Bonfire Dance",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction dancing near the bonfire object.",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 305,
+    "category": "menu",
+    "language": 1,
+    "en": "Answer",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 323,
+    "category": "menu",
+    "language": 1,
+    "en": "Slow Dance",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 326,
+    "category": "menu",
+    "language": 1,
+    "en": "Kiss.../Blow Kiss",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nDining Interaction - needs retranslation from batch 4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 331,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Bad Mouth",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 333,
+    "category": "menu",
+    "language": 1,
+    "en": "Primp",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 348,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask.../About Interests",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 363,
+    "category": "menu",
+    "language": 1,
+    "en": "Invite to Join",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 369,
+    "category": "menu",
+    "language": 1,
+    "en": "Kiss.../Kiss Hand",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 786,
+    "category": "menu",
+    "language": 2,
+    "en": "Entertain.../Bust A Move",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 797,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Pillow Fight",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 379,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Rock Paper Scissors",
+    "description": "TheSims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 380,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Together",
+    "description": "Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 393,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Tickle",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 394,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Tease",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 418,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Outfit",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Generic player-facing social interaction with a newly approved shared Vietnamese menu mapping; promote only this exact inherited row."
+  }
+]
