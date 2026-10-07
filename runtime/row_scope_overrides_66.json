@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143020623,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing base-game Trash Compactor interaction; reuse approved Vietnamese menu mapping on this exact resource row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143020623,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Take Out Trash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing base-game Trash Compactor interaction; reuse approved Vietnamese menu mapping on this exact resource row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143020623,
+      128,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing base-game Trash Compactor interaction; reuse approved Vietnamese menu mapping on this exact resource row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143020623,
+      128,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing base-game Trash Compactor interaction; reuse approved Vietnamese menu mapping on this exact resource row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143020623,
+      128,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Take Out Trash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing base-game Trash Compactor interaction; reuse approved Vietnamese menu mapping on this exact resource row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143020623,
+      128,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing base-game Trash Compactor interaction; reuse approved Vietnamese menu mapping on this exact resource row."
+  }
+]
