@@ -1,0 +1,162 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132970848,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Baby Bottle - Smart Milk",
+    "description": "The Sims2 - Needs Translation - Batch18",
+    "vi": "Bình sữa - Sữa Thông Minh",
+    "reason": "Base Smart Milk aspiration-reward catalog name; exact-row translation keeps the existing Vietnamese Smart Milk terminology."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132970848,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Baby Bottle - Smart Milk",
+    "description": "The Sims2 - Needs Translation - Batch18",
+    "vi": "Bình sữa - Sữa Thông Minh",
+    "reason": "UK-English duplicate of the Smart Milk catalog name."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135230153,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Soma 44\" PancakeTek Television",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "TV Soma 44 inch PancakeTek",
+    "reason": "Player-facing catalog name for the base expensive television."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135230153,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "This 44\" television delivers multiple channels of high-fidelity, flat-panel clarity unparalleled by tube based televisions, and its digital pre-processing unit features the innovative PancakeTek chipset, which squishes the unpalatable three dimensions of the real world into far more digestible two.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Chiếc TV 44 inch này mang đến nhiều kênh với hình ảnh phẳng sắc nét, trung thực vượt xa TV ống truyền thống. Bộ xử lý kỹ thuật số tích hợp chipset PancakeTek mới lạ, ép ba chiều rối rắm của thế giới thật thành hai chiều dễ nuốt hơn nhiều.",
+    "reason": "Player-facing catalog description for the base expensive television."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137115936,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "This television is already being used!",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "TV này đang có người dùng rồi!",
+    "reason": "Player-facing TV/video-game system warning."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137115936,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "To use the video game system, it must be close to and in front of a television.",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Muốn dùng máy chơi game, hãy đặt nó gần và ở phía trước TV.",
+    "reason": "Player-facing placement warning for the video-game system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137115936,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "This television is broken! ",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "TV này hỏng rồi!",
+    "reason": "Player-facing broken-TV warning."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137115936,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 2,
+    "en": "This television is already being used!",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "TV này đang có người dùng rồi!",
+    "reason": "UK-English duplicate of the player-facing TV/video-game system warning."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137115936,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 2,
+    "en": "To use the video game system, it must be close to and in front of a television.",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Muốn dùng máy chơi game, hãy đặt nó gần và ở phía trước TV.",
+    "reason": "UK-English duplicate of the video-game placement warning."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137115936,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 2,
+    "en": "This television is broken! ",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "TV này hỏng rồi!",
+    "reason": "UK-English duplicate of the broken-TV warning."
+  }
+]
