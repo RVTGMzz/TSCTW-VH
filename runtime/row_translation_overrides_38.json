@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145702848,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Titania Vineyards 1914 Toasting Set",
+    "description": "Sims2 - Needs Translation - batch16",
+    "category": "catalog",
+    "vi": "Bộ nâng ly Titania Vineyards 1914",
+    "reason": "Player-facing catalog title for the base-game Toasting Set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145702848,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "This beautiful toasting set comes complete with a sterling silver tray, crystal flutes, and a fine bottle of Titania Vineyards sparkling white grape juice, dated 1914 (an exceptional year for sparkling white grape juice). This item is perfect for toasting newlyweds at their wedding, or just enjoying a quiet evening with a toast-worthy guest.",
+    "description": "Sims2 - Needs Translation - batch16",
+    "category": "catalog",
+    "vi": "Bộ nâng ly tuyệt đẹp này gồm khay bạc sterling, ly pha lê và một chai nước nho trắng có ga Titania Vineyards niên vụ 1914 — một năm đặc biệt xuất sắc của dòng nước nho này. Hoàn hảo để nâng ly chúc mừng đôi tân hôn trong ngày cưới, hoặc đơn giản là tận hưởng một buổi tối yên bình bên vị khách đáng để cụng ly.",
+    "reason": "Player-facing catalog description for the base-game Toasting Set."
+  }
+]
