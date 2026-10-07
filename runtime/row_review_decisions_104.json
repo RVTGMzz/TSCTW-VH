@@ -1,0 +1,122 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1129599827,
+      2135171317,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "SwingarmCo 27\" Multivid V Television",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Explicit Nightlife EP2 television catalog residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1129599827,
+      2135171317,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "We at SwingarmCo would like to take this opportunity to express our most sincere dedication to the task of determining the validity of many of our customers complaints that we \"borrowed\" the Trottco model and simply added a swing arm to it.  We would like to point out to all of our customers that the SwingarmCo Multivid V Television is nothing like the Trottco Multivid IV Television.  The Trottco is a floor model.  The SwingarmCo is definitely not a floor model.  What more do you need?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Explicit Nightlife EP2 television catalog residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1398034979,
+      2133539705,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change To.../SimStation Sports",
+    "description": "The Sims EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit EP1 expansion television-channel residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1398034979,
+      2133539705,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Change To.../SimStation Sports",
+    "description": "The Sims EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit EP1 expansion television-channel residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1398034979,
+      2141306469,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change To.../ Weather Station",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons EP7 television-channel residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1398034979,
+      2141306469,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Change To.../ Weather Station",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons EP7 television-channel residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1398034979,
+      2136813450,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Change To.../ Base",
+    "description": "!!! I don't think this shows up in the game.",
+    "reason": "Source metadata explicitly indicates base-template channel text likely does not appear in game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1398034979,
+      2136813450,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Change To.../ Base",
+    "description": "!!! I don't think this shows up in the game.",
+    "reason": "Source metadata explicitly indicates base-template channel text likely does not appear in game."
+  }
+]
