@@ -1,0 +1,258 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Congratulations! $Object has fulfilled a Want!",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "Chúc mừng! $Object vừa hoàn thành một Mong muốn!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "$Object has realized a fear.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "$Object vừa gặp đúng điều mình sợ.",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "$Object has fulfilled a want! Wants fill up your Sims' Aspiration Meter and add to their bank of Aspiration Reward Points, which you can spend on special new reward objects.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nChanged for consistency - \"Aspiration Meter\" is correct reference.",
+    "category": "dialog",
+    "vi": "$Object vừa hoàn thành một mong muốn! Mong muốn sẽ làm đầy Thanh Khát vọng của Sim và cộng Điểm Thưởng Khát vọng để đổi lấy các vật phẩm thưởng đặc biệt.",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Unfortunately, $Object has just realized a fear. Fears will lower your Sims' Aspiration Meter, eventually leading them into worry and desperation.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nChanged for consistency - \"Aspiration Meter\" is correct reference.",
+    "category": "dialog",
+    "vi": "Tiếc quá, $Object vừa gặp đúng điều mình sợ. Nỗi sợ sẽ làm giảm Thanh Khát vọng của Sim, lâu dần có thể khiến họ lo âu và tuyệt vọng.",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Congratulations! $NeighborLocal:8 has just gained an Aspiration Level, going from $AspirationString:5:6 to $AspirationString:1:2. Keep helping $NeighborLocal:8 achieve his wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next highest moniker level.  MALE POSITIVE",
+    "category": "dialog",
+    "vi": "Chúc mừng! Mức Khát vọng của $NeighborLocal:8 vừa tăng từ $AspirationString:5:6 lên $AspirationString:1:2. Tiếp tục giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Congratulations! $NeighborLocal:8 has just gained an Aspiration Level, going from $AspirationString:5:6 to $AspirationString:1:2. Keep helping $NeighborLocal:8 achieve her wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next highest aspiration level.  Female POSITIVE",
+    "category": "dialog",
+    "vi": "Chúc mừng! Mức Khát vọng của $NeighborLocal:8 vừa tăng từ $AspirationString:5:6 lên $AspirationString:1:2. Tiếp tục giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Watch out! $NeighborLocal:8 has just gone down an Aspiration Level, from $AspirationString:5:6 to $AspirationString:1:2. Be sure to help $NeighborLocal:8 fulfill his wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next lowest aspiration level. MALE NEGATIVE",
+    "category": "dialog",
+    "vi": "Coi chừng! Mức Khát vọng của $NeighborLocal:8 vừa giảm từ $AspirationString:5:6 xuống $AspirationString:1:2. Nhớ giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Watch out! $NeighborLocal:8 has just gone down an Aspiration Level, from $AspirationString:5:6 to $AspirationString:1:2. Be sure to help $NeighborLocal:8 fulfill her wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next lowest aspiration level. FEMALE NEGATIVE",
+    "category": "dialog",
+    "vi": "Coi chừng! Mức Khát vọng của $NeighborLocal:8 vừa giảm từ $AspirationString:5:6 xuống $AspirationString:1:2. Nhớ giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Congratulations! $Object has fulfilled a Want!",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "Chúc mừng! $Object vừa hoàn thành một Mong muốn!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "$Object has realized a fear.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "$Object vừa gặp đúng điều mình sợ.",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "$Object has fulfilled a want! Wants fill up your Sims' Aspiration Meter and add to their bank of Aspiration Reward Points, which you can spend on special new reward objects.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nChanged for consistency - \"Aspiration Meter\" is correct reference.",
+    "category": "dialog",
+    "vi": "$Object vừa hoàn thành một mong muốn! Mong muốn sẽ làm đầy Thanh Khát vọng của Sim và cộng Điểm Thưởng Khát vọng để đổi lấy các vật phẩm thưởng đặc biệt.",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "Unfortunately, $Object has just realized a fear. Fears will lower your Sims' Aspiration Meter, eventually leading them into worry and desperation.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nChanged for consistency - \"Aspiration Meter\" is correct reference.",
+    "category": "dialog",
+    "vi": "Tiếc quá, $Object vừa gặp đúng điều mình sợ. Nỗi sợ sẽ làm giảm Thanh Khát vọng của Sim, lâu dần có thể khiến họ lo âu và tuyệt vọng.",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Congratulations! $NeighborLocal:8 has just gained an Aspiration Level, going from $AspirationString:5:6 to $AspirationString:1:2. Keep helping $NeighborLocal:8 achieve his wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next highest moniker level.  MALE POSITIVE",
+    "category": "dialog",
+    "vi": "Chúc mừng! Mức Khát vọng của $NeighborLocal:8 vừa tăng từ $AspirationString:5:6 lên $AspirationString:1:2. Tiếp tục giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Congratulations! $NeighborLocal:8 has just gained an Aspiration Level, going from $AspirationString:5:6 to $AspirationString:1:2. Keep helping $NeighborLocal:8 achieve her wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next highest aspiration level.  Female POSITIVE",
+    "category": "dialog",
+    "vi": "Chúc mừng! Mức Khát vọng của $NeighborLocal:8 vừa tăng từ $AspirationString:5:6 lên $AspirationString:1:2. Tiếp tục giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Watch out! $NeighborLocal:8 has just gone down an Aspiration Level, from $AspirationString:5:6 to $AspirationString:1:2. Be sure to help $NeighborLocal:8 fulfill his wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next lowest aspiration level. MALE NEGATIVE",
+    "category": "dialog",
+    "vi": "Coi chừng! Mức Khát vọng của $NeighborLocal:8 vừa giảm từ $AspirationString:5:6 xuống $AspirationString:1:2. Nhớ giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Watch out! $NeighborLocal:8 has just gone down an Aspiration Level, from $AspirationString:5:6 to $AspirationString:1:2. Be sure to help $NeighborLocal:8 fulfill her wants!",
+    "description": "The Sims 2 - Needs Translation - Batch23 -- needs retranslation 7/1\nTNS for when Sim transitions into the next lowest aspiration level. FEMALE NEGATIVE",
+    "category": "dialog",
+    "vi": "Coi chừng! Mức Khát vọng của $NeighborLocal:8 vừa giảm từ $AspirationString:5:6 xuống $AspirationString:1:2. Nhớ giúp $NeighborLocal:8 hoàn thành các mong muốn nhé!",
+    "reason": "Player-facing Wants/Fears/Aspiration notification from the base game system retained for Castaway; placeholders preserved exactly."
+  }
+]
