@@ -1,0 +1,114 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "I have nowhere to put the mail, so I'll leave it in the mailbox for now. If there was a surface in the house, I'd bring it in.",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nMailbox: No Surface01: Dialog: Text\r\n\r\nNotes: Appears when Sim attempts to bring in mail from mailbox and there is no available surface to place the mail (mail must be placed on a surface, it cannot be placed on the ground).",
+    "category": "dialog",
+    "vi": "Mình không có chỗ để đặt thư, nên tạm để lại trong hộp thư vậy. Nếu trong nhà có chỗ trống thì mình đã mang vào rồi.",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "There is more mail, but I have nowhere to put it! I left it in the mail box. If there was a surface in the house, I'd bring it in.",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nMailbox: No Surface02: Dialog: Text\r\n\r\nNotes: Appears when Sim attempts to bring in mail from mailbox and there is no available surface to place the mail (mail must be placed on a surface, it cannot be placed on the ground). There is still more mail in the mailbox.",
+    "category": "dialog",
+    "vi": "Vẫn còn thư, nhưng mình chẳng có chỗ để đặt! Mình để lại trong hộp thư rồi. Nếu trong nhà có chỗ trống thì mình đã mang vào.",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "$Me can't afford that!",
+    "description": "The Sims 2 - Needs Translation - Batch22\nThis should be a machine-speak dialog with the icon of the item the Sim is trying to buy.  Seen in game most easily when buying food at community lots.",
+    "category": "dialog",
+    "vi": "$Me không đủ tiền mua cái đó!",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "I have nowhere to put the mail, so I'll leave it in the mailbox for now. If there was a surface in the house, I'd bring it in.",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nMailbox: No Surface01: Dialog: Text\r\n\r\nNotes: Appears when Sim attempts to bring in mail from mailbox and there is no available surface to place the mail (mail must be placed on a surface, it cannot be placed on the ground).",
+    "category": "dialog",
+    "vi": "Mình không có chỗ để đặt thư, nên tạm để lại trong hộp thư vậy. Nếu trong nhà có chỗ trống thì mình đã mang vào rồi.",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "There is more mail, but I have nowhere to put it! I left it in the mail box. If there was a surface in the house, I'd bring it in.",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nMailbox: No Surface02: Dialog: Text\r\n\r\nNotes: Appears when Sim attempts to bring in mail from mailbox and there is no available surface to place the mail (mail must be placed on a surface, it cannot be placed on the ground). There is still more mail in the mailbox.",
+    "category": "dialog",
+    "vi": "Vẫn còn thư, nhưng mình chẳng có chỗ để đặt! Mình để lại trong hộp thư rồi. Nếu trong nhà có chỗ trống thì mình đã mang vào.",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "$Me can't afford that!",
+    "description": "The Sims 2 - Needs Translation - Batch22\nThis should be a machine-speak dialog with the icon of the item the Sim is trying to buy.  Seen in game most easily when buying food at community lots.",
+    "category": "dialog",
+    "vi": "$Me không đủ tiền mua cái đó!",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145694772,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Mailbox",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "catalog",
+    "vi": "Hộp thư",
+    "reason": "Player-facing mailbox text; exact-row translation preserves context and placeholders."
+  }
+]
