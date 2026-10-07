@@ -1,0 +1,47 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi! I'm a member of the local Garden Club and I thought I'd stop by to pass along some information about our club. We can inspect your garden for quality at any time, but we recommend you improve your landscaping by checking the new Gardening section in the Garden Center section of Build Mode.",
+    "description": "The Sims 2 EP7 - Needs Retranslation",
+    "reason": "Explicit Sims 2 EP7/Seasons Garden Club introduction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "zl;skjdf;alskdjfa;sljfa;sljfa;lsjf;lasjf",
+    "description": "!!!!",
+    "reason": "Nonsense/debug placeholder with bang metadata; not player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi! I'm a member of the local Garden Club and I thought I'd stop by to pass along some information about our club. We can inspect your garden for quality at any time, but we recommend you improve your landscaping by checking the new Gardening section in the Garden Center section of Build Mode.",
+    "description": "The Sims 2 EP7 - Needs Retranslation",
+    "reason": "Explicit Sims 2 EP7/Seasons Garden Club introduction residue; outside Castaway Stories runtime."
+  }
+]
