@@ -52,6 +52,17 @@ jobs:
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2146781225 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2143127959 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2138732373 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136134055 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140390182 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146392492 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146812259 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132626904 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146250052 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140064765 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132771612 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145996067 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135789311 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139632840 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Chair - Living" --groups 120 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Mirror -" --groups 120 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Television -" --groups 120 --samples 240
