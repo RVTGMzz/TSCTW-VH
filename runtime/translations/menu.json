@@ -1207,5 +1207,11 @@
   "Send Email $Neighbor": "Gửi email cho $Neighbor",
   "Play.../ $Object": "Chơi.../ $Object",
   "Play $Object": "Chơi $Object",
-  "Order Groceries": "Đặt mua thực phẩm"
+  "Order Groceries": "Đặt mua thực phẩm",
+  "Call.../Emergency": "Gọi.../Khẩn cấp",
+  "Call.../Work": "Gọi.../Công việc",
+  "Call.../Delivery": "Gọi.../Giao hàng",
+  "Call.../Transportation": "Gọi.../Phương tiện",
+  "Put Handset Away": "Cất ống nghe",
+  "Hang Up": "Cúp máy"
 }
