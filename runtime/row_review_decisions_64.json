@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greet Mail Carrier",
+    "description": "!",
+    "reason": "Mail-carrier-specific Sims 2 Pets/global animal interaction residue; the same instance is the inherited animal interaction table, not a Castaway mail-service menu."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      1,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greet Mail Carrier",
+    "description": "!",
+    "reason": "UK-English duplicate of mail-carrier-specific Sims 2 Pets/global animal interaction residue."
+  }
+]
