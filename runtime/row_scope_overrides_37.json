@@ -1,0 +1,782 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Cleaning",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Cooking",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Charisma",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Mechanical",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Creativity",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Body",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Logic",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 217,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 224,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 226,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Show Off.../Cartwheel",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 227,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Show Off.../Somersault",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 228,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Show Off.../Headstand",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 235,
+    "category": "menu",
+    "language": 1,
+    "en": "Complain About.../Environment",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 338,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Cleaning",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 339,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Cooking",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 340,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Charisma",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 341,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Mechanical",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 342,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Creativity",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 343,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Body",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 344,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Logic",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 537,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 544,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 546,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Show Off.../Cartwheel",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 547,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Show Off.../Somersault",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 548,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Show Off.../Headstand",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2130832425,
+      302,
+      0
+    ],
+    "row": 555,
+    "category": "menu",
+    "language": 2,
+    "en": "Complain About.../Environment",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Cleaning",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Cooking",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Charisma",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Mechanical",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Creativity",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Body",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Teach.../Logic",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 217,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 224,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 226,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Show Off.../Cartwheel",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 227,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Show Off.../Somersault",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 228,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Show Off.../Headstand",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 235,
+    "category": "menu",
+    "language": 1,
+    "en": "Complain About.../Environment",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 338,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Cleaning",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 339,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Cooking",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 340,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Charisma",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 341,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Mechanical",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 342,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Creativity",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 343,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Body",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 344,
+    "category": "menu",
+    "language": 2,
+    "en": "Teach.../Logic",
+    "description": "!",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 537,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 544,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Up Seat",
+    "description": "To be copied from Podium strings",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 546,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Show Off.../Cartwheel",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 547,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Show Off.../Somersault",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 548,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Show Off.../Headstand",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141025447,
+      302,
+      0
+    ],
+    "row": 555,
+    "category": "menu",
+    "language": 2,
+    "en": "Complain About.../Environment",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Shared MakeActionString player-facing menu row with an approved Vietnamese mapping; promote exact inherited row."
+  }
+]
