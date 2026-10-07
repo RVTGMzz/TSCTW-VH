@@ -1,0 +1,1217 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Set Hour.../1:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Set Hour.../2:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Set Hour.../3:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Set Hour.../4:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Set Hour.../5:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Set Hour.../6:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Set Hour.../7:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Set Hour.../8:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Set Hour.../9:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Set Hour.../10:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Set Hour.../11:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Set Minute.../:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Set Minute.../:05",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Set Minute.../:10",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Set Minute.../:15",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Set Minute.../:20",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Set Minute.../:25",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 18,
+    "language": 1,
+    "en": "Set Minute.../:30",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 19,
+    "language": 1,
+    "en": "Set Minute.../:35",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "Set Minute.../:40",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Set Minute.../:45",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Set Minute.../:50",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 1,
+    "en": "Set Minute.../:55",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 24,
+    "language": 1,
+    "en": "Set AM-PM.../AM",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 25,
+    "language": 1,
+    "en": "Set AM-PM.../PM",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 26,
+    "language": 1,
+    "en": "Turn Off Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 27,
+    "language": 1,
+    "en": "Unset Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Set Hour.../1:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Set Hour.../2:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Set Hour.../3:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Set Hour.../4:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Set Hour.../5:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Set Hour.../6:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Set Hour.../7:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Set Hour.../8:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Set Hour.../9:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Set Hour.../10:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Set Hour.../11:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Set Minute.../:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Set Minute.../:05",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Set Minute.../:10",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Set Minute.../:15",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Set Minute.../:20",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Set Minute.../:25",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 18,
+    "language": 1,
+    "en": "Set Minute.../:30",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 19,
+    "language": 1,
+    "en": "Set Minute.../:35",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "Set Minute.../:40",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Set Minute.../:45",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Set Minute.../:50",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 1,
+    "en": "Set Minute.../:55",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 24,
+    "language": 1,
+    "en": "Set AM-PM.../AM",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 25,
+    "language": 1,
+    "en": "Set AM-PM.../PM",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 26,
+    "language": 1,
+    "en": "Turn Off Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 27,
+    "language": 1,
+    "en": "Unset Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 32,
+    "language": 2,
+    "en": "Set Hour.../1:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 33,
+    "language": 2,
+    "en": "Set Hour.../2:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 34,
+    "language": 2,
+    "en": "Set Hour.../3:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 35,
+    "language": 2,
+    "en": "Set Hour.../4:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 36,
+    "language": 2,
+    "en": "Set Hour.../5:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 37,
+    "language": 2,
+    "en": "Set Hour.../6:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 38,
+    "language": 2,
+    "en": "Set Hour.../7:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 39,
+    "language": 2,
+    "en": "Set Hour.../8:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 40,
+    "language": 2,
+    "en": "Set Hour.../9:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 41,
+    "language": 2,
+    "en": "Set Hour.../10:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 42,
+    "language": 2,
+    "en": "Set Hour.../11:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 43,
+    "language": 2,
+    "en": "Set Minute.../:00",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 44,
+    "language": 2,
+    "en": "Set Minute.../:05",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 45,
+    "language": 2,
+    "en": "Set Minute.../:10",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 46,
+    "language": 2,
+    "en": "Set Minute.../:15",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 47,
+    "language": 2,
+    "en": "Set Minute.../:20",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 48,
+    "language": 2,
+    "en": "Set Minute.../:25",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 49,
+    "language": 2,
+    "en": "Set Minute.../:30",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 50,
+    "language": 2,
+    "en": "Set Minute.../:35",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 51,
+    "language": 2,
+    "en": "Set Minute.../:40",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 52,
+    "language": 2,
+    "en": "Set Minute.../:45",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 53,
+    "language": 2,
+    "en": "Set Minute.../:50",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 54,
+    "language": 2,
+    "en": "Set Minute.../:55",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 55,
+    "language": 2,
+    "en": "Set AM-PM.../AM",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 56,
+    "language": 2,
+    "en": "Set AM-PM.../PM",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 57,
+    "language": 2,
+    "en": "Turn Off Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 58,
+    "language": 2,
+    "en": "Unset Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Player-facing alarm-clock setting with an approved Vietnamese menu mapping."
+  }
+]
