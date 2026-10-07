@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Label explicitly identifies itself as debug text; internal routing/test interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Named Route To helper action from inherited EP6 logic; internal routing label, not player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Route To Denise",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Named Route To helper action from inherited EP6 logic; internal routing label, not player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Route Near Mailbox",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Route Near helper action; internal routing label, not player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Route Near Trash",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Route Near helper action; internal routing label, not player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "status": "excluded",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Route Near helper action; internal routing label, not player-facing menu copy."
+  }
+]
