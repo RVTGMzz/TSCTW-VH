@@ -1,0 +1,578 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Do you want to invite $NeighborLocal:0 over?",
+    "description": "Sims2 - Needs Translation - Batch16\r\rwas batch10, rewritten and uses a different variable per OE bug fix - smp",
+    "category": "dialog",
+    "vi": "Bạn có muốn mời $NeighborLocal:0 qua chơi không?",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "SimCity Times",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Thời báo SimCity",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Online Job Finder",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Tìm việc trực tuyến",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "There are no more jobs available today.",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Hôm nay không còn việc nào để xem nữa.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "I already have a job. If I take a new job, I will lose the one I have. Should I take it anyway?",
+    "description": "The Sims2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "vi": "Mình đã có việc rồi. Nếu nhận việc mới, mình sẽ mất công việc hiện tại. Vẫn nhận chứ?",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "I don't want to look for a job right now. I am too depressed.",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Giờ mình không muốn tìm việc. Tâm trạng tệ quá.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "$Me is not in a good enough mood to write a novel right now!",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Tâm trạng của $Me chưa đủ tốt để viết tiểu thuyết lúc này!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Looks like $Me is done writing the novel. Hopefully it will sell well.",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Có vẻ $Me đã viết xong tiểu thuyết rồi. Mong là bán chạy!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Sorry, Charlie! You don't have enough money to buy groceries.",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "dialog",
+    "vi": "Tiếc nha! Bạn không đủ tiền để mua thực phẩm.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "$NeighborLocal:0 doesn't feel like coming over right now.",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "dialog",
+    "vi": "$NeighborLocal:0 hiện không muốn qua chơi.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "$NeighborLocal:0 will be over in a few minutes!",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "dialog",
+    "vi": "$NeighborLocal:0 sẽ qua trong vài phút nữa!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "$NeighborLocal:5 signed off.",
+    "description": "Sims2 - Needs Translation - batch15\r\n\r\nDescription: this is the notification the player gets when a sim signs off during chat (but this wasn't necessarily the same sim you're chatting with).",
+    "category": "dialog",
+    "vi": "$NeighborLocal:5 đã đăng xuất.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of Creativity skill from the $NameLocal:1.",
+    "description": "The Sims 2 - Needs Translation - Batch17\nNote - this changed from logic to creativity - translations to copy over - sp 7/17",
+    "category": "dialog",
+    "vi": "$NameLocal:0 vừa nhận 1 điểm kỹ năng Sáng tạo từ $NameLocal:1.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "This couple will move out of the current house. Is this ok?",
+    "description": "The Sims 2 - Needs Translation - Batch20\r\nThis dialog appears when a joined/married Sim couple attempts to move out of the house via the newspaper or computer \"Find Own Place\" interaction. Both Sims will move out.",
+    "category": "dialog",
+    "vi": "Cặp đôi này sẽ chuyển khỏi ngôi nhà hiện tại. Bạn có đồng ý không?",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "$Object has no new e-mail.",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nThis dialog appears when Sim does not receive any new e-mail ",
+    "category": "dialog",
+    "vi": "$Object không có email mới.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Send Email to %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nFor the dialog when emailing friends on the computer.",
+    "category": "dialog",
+    "vi": "Gửi email cho %s",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "I don't know anyone to email. I need to go meet some people first before I can email them!",
+    "description": "Sims2 - Needs Translation - Batch23",
+    "category": "dialog",
+    "vi": "Mình chưa quen ai để gửi email cả. Phải đi làm quen vài người trước đã!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Email Address Book",
+    "description": "the sims2 - Needs Translation - batch24",
+    "category": "dialog",
+    "vi": "Danh bạ email",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 47,
+    "language": 2,
+    "en": "Do you want to invite $NeighborLocal:0 over?",
+    "description": "Sims2 - Needs Translation - Batch16\r\rwas batch10, rewritten and uses a different variable per OE bug fix - smp",
+    "category": "dialog",
+    "vi": "Bạn có muốn mời $NeighborLocal:0 qua chơi không?",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 49,
+    "language": 2,
+    "en": "SimCity Times",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Thời báo SimCity",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 50,
+    "language": 2,
+    "en": "Online Job Finder",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Tìm việc trực tuyến",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 51,
+    "language": 2,
+    "en": "There are no more jobs available today.",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Hôm nay không còn việc nào để xem nữa.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 52,
+    "language": 2,
+    "en": "I already have a job. If I take a new job, I will lose the one I have. Should I take it anyway?",
+    "description": "The Sims2 - Needs Translation - Batch19",
+    "category": "dialog",
+    "vi": "Mình đã có việc rồi. Nếu nhận việc mới, mình sẽ mất công việc hiện tại. Vẫn nhận chứ?",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 53,
+    "language": 2,
+    "en": "I don't want to look for a job right now. I am too depressed.",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Giờ mình không muốn tìm việc. Tâm trạng tệ quá.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 54,
+    "language": 2,
+    "en": "$Me is not in a good enough mood to write a novel right now!",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Tâm trạng của $Me chưa đủ tốt để viết tiểu thuyết lúc này!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 55,
+    "language": 2,
+    "en": "Looks like $Me is done writing the novel. Hopefully it will sell well.",
+    "description": "Sims2 - Needs Translation - Batch10",
+    "category": "dialog",
+    "vi": "Có vẻ $Me đã viết xong tiểu thuyết rồi. Mong là bán chạy!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 56,
+    "language": 2,
+    "en": "Sorry, Charlie! You don't have enough money to buy groceries.",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "dialog",
+    "vi": "Tiếc nha! Bạn không đủ tiền để mua thực phẩm.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 57,
+    "language": 2,
+    "en": "$NeighborLocal:0 doesn't feel like coming over right now.",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "dialog",
+    "vi": "$NeighborLocal:0 hiện không muốn qua chơi.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 58,
+    "language": 2,
+    "en": "$NeighborLocal:0 will be over in a few minutes!",
+    "description": "Sims2 - Needs Translation - batch13",
+    "category": "dialog",
+    "vi": "$NeighborLocal:0 sẽ qua trong vài phút nữa!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 60,
+    "language": 2,
+    "en": "$NeighborLocal:5 signed off.",
+    "description": "Sims2 - Needs Translation - batch15\r\n\r\nDescription: this is the notification the player gets when a sim signs off during chat (but this wasn't necessarily the same sim you're chatting with).",
+    "category": "dialog",
+    "vi": "$NeighborLocal:5 đã đăng xuất.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 61,
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of Creativity skill from the $NameLocal:1.",
+    "description": "The Sims 2 - Needs Translation - Batch17\nNote - this changed from logic to creativity - translations to copy over - sp 7/17",
+    "category": "dialog",
+    "vi": "$NameLocal:0 vừa nhận 1 điểm kỹ năng Sáng tạo từ $NameLocal:1.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 62,
+    "language": 2,
+    "en": "This couple will move out of the current house. Is this ok?",
+    "description": "The Sims 2 - Needs Translation - Batch20\r\nThis dialog appears when a joined/married Sim couple attempts to move out of the house via the newspaper or computer \"Find Own Place\" interaction. Both Sims will move out.",
+    "category": "dialog",
+    "vi": "Cặp đôi này sẽ chuyển khỏi ngôi nhà hiện tại. Bạn có đồng ý không?",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 63,
+    "language": 2,
+    "en": "$Object has no new e-mail.",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nThis dialog appears when Sim does not receive any new e-mail ",
+    "category": "dialog",
+    "vi": "$Object không có email mới.",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 64,
+    "language": 2,
+    "en": "Send Email to %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nFor the dialog when emailing friends on the computer.",
+    "category": "dialog",
+    "vi": "Gửi email cho %s",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 67,
+    "language": 2,
+    "en": "I don't know anyone to email. I need to go meet some people first before I can email them!",
+    "description": "Sims2 - Needs Translation - Batch23",
+    "category": "dialog",
+    "vi": "Mình chưa quen ai để gửi email cả. Phải đi làm quen vài người trước đã!",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 68,
+    "language": 2,
+    "en": "Email Address Book",
+    "description": "the sims2 - Needs Translation - batch24",
+    "category": "dialog",
+    "vi": "Danh bạ email",
+    "reason": "Base-game player-facing computer/newspaper/email dialog retained for Castaway; exact-row translation preserves placeholders and isolates expansion-only branches."
+  }
+]
