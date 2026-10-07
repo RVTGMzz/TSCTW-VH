@@ -1,0 +1,977 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Note:",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "There is nothing to bill for. ( No billable objects on the lot )",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Bill to be generated = $Local:0",
+    "description": "!!!! this is a cheat",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "$Object was worth $Local:1",
+    "description": "!!!! this is a cheat",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Residential Bill = $Local:0",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "Note:",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "There is nothing to bill for. ( No billable objects on the lot )",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Total lot value = $Local:0",
+    "description": "!!!! this is a cheat",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "$Object was worth $Local:1",
+    "description": "!!!! this is a cheat",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Residential Bill = $Local:0",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Error - No Dateable Townies of this type have been saved into the neighborhood.  You can make them with the \" Townie/NPC Maker\" test object.",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      301,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Error - No Dateable Townies of this type have been saved into the neighborhood.  You can make them with the Townie/NPC Creator test object.",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Deliver Mail",
+    "description": " ",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 45,
+    "language": 1,
+    "en": "Make NPC .../Stray Pet",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 47,
+    "language": 1,
+    "en": "Make NPC .../Penguin",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 48,
+    "language": 1,
+    "en": "Make NPC .../Stray Pets - All",
+    "description": "!!!!!!!!!!!!!!!!Sims 2 EP7: Needs Text",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 49,
+    "language": 1,
+    "en": "Make Cheat Object",
+    "description": "!!!!!!!!Sims 2 EP7: Needs Text",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 50,
+    "language": 1,
+    "en": "Make Cheat Object",
+    "description": "!!!!Sims 2 EP7: Needs Text",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 51,
+    "language": 1,
+    "en": "Make Cheat Object",
+    "description": "!!Sims 2 EP7: Needs Text",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 54,
+    "language": 2,
+    "en": "Force Bill Delivery",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 57,
+    "language": 2,
+    "en": "Make me know everyone",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 58,
+    "language": 2,
+    "en": "Make All Happy",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 59,
+    "language": 2,
+    "en": "Make Friends for Me",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Make NPC .../ $PrivateString:1:0 ",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Make Professor.../Art",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Make Professor.../Biology",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Make Professor.../Drama",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 18,
+    "language": 1,
+    "en": "Make Professor.../Economics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 19,
+    "language": 1,
+    "en": "Make Professor.../History",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "Make Professor.../Literature",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Make Professor.../Mathematics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Make Professor.../Philosophy",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 23,
+    "language": 1,
+    "en": "Make Professor.../Physics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 24,
+    "language": 1,
+    "en": "Make Professor.../Politics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 25,
+    "language": 1,
+    "en": "Make Professor.../Psychology",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 26,
+    "language": 1,
+    "en": "Make Professor.../Undeclared",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 28,
+    "language": 1,
+    "en": "Make Pet.../Dog",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 29,
+    "language": 1,
+    "en": "Make Pet.../Small Dog",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 30,
+    "language": 1,
+    "en": "Make Pet.../Cat",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 31,
+    "language": 1,
+    "en": "Make Pet.../Large Dog Puppy",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 32,
+    "language": 1,
+    "en": "Make Pet.../Small Dog Puppy",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 33,
+    "language": 1,
+    "en": "Make Pet.../Kitten",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 47,
+    "language": 2,
+    "en": "Create Break Inducer",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 48,
+    "language": 2,
+    "en": "Force Repair Fails",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 49,
+    "language": 2,
+    "en": "UnForce Repair Fail",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 50,
+    "language": 2,
+    "en": "Remove Break Inducer",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 51,
+    "language": 2,
+    "en": "Make NPC .../$PrivateString:0",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 52,
+    "language": 2,
+    "en": "Make Professor.../Art",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 53,
+    "language": 2,
+    "en": "Make Professor.../Biology",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 54,
+    "language": 2,
+    "en": "Make Professor.../Drama",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 55,
+    "language": 2,
+    "en": "Make Professor.../Economics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 56,
+    "language": 2,
+    "en": "Make Professor.../History",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 57,
+    "language": 2,
+    "en": "Make Professor.../Literature",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 58,
+    "language": 2,
+    "en": "Make Professor.../Mathematics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 59,
+    "language": 2,
+    "en": "Make Professor.../Philosophy",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 60,
+    "language": 2,
+    "en": "Make Professor.../Physics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 61,
+    "language": 2,
+    "en": "Make Professor.../Politics",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 62,
+    "language": 2,
+    "en": "Make Professor.../Psychology",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 63,
+    "language": 2,
+    "en": "Make Professor.../Undeclared",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 65,
+    "language": 2,
+    "en": "Make Pet.../Dog",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 66,
+    "language": 2,
+    "en": "Make Pet.../Small Dog",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 67,
+    "language": 2,
+    "en": "Make Pet.../Cat",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 68,
+    "language": 2,
+    "en": "Make Pet.../Large Dog Puppy",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 69,
+    "language": 2,
+    "en": "Make Pet.../Small Dog Puppy",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145694772,
+      302,
+      0
+    ],
+    "row": 70,
+    "language": 2,
+    "en": "Make Pet.../Kitten",
+    "description": "",
+    "status": "excluded",
+    "reason": "Mailbox cheat/NPC-maker/debug/service helper text; not normal player-facing Castaway gameplay."
+  }
+]
