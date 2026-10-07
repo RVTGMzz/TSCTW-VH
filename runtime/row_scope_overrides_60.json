@@ -1,0 +1,722 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132104824,
+      131,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137033768,
+      131,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138180871,
+      131,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144455086,
+      131,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Snooze",
+    "description": "The Sims 2 - Batch - copy translations",
+    "reason": "Player-facing base recliner interaction; reuse approved Vietnamese mapping and keep Pets-only sleeper rows separate."
+  }
+]
