@@ -1,0 +1,2492 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle Intensely",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Peck",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Pecked",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Massage",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Massaged",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 1,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Splashed",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 1,
+    "en": "Try For Baby",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle Intensely",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 46,
+    "category": "menu",
+    "language": 2,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 2,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 2,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 50,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 51,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 52,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 53,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 54,
+    "category": "menu",
+    "language": 2,
+    "en": "Peck",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Pecked",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Massage",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Massaged",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 65,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Splashed",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 67,
+    "category": "menu",
+    "language": 2,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 68,
+    "category": "menu",
+    "language": 2,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 75,
+    "category": "menu",
+    "language": 2,
+    "en": "Try For Baby",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 76,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131990296,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "!!!!!!!!!!!!!!!!!!",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle Intensely",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Peck",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Pecked",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Massage",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Massaged",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 1,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Splashed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle Intensely",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Cuddled",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Kissed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 46,
+    "category": "menu",
+    "language": 2,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 2,
+    "en": "Makeout",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 48,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 2,
+    "en": "Move",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 50,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 67,
+    "category": "menu",
+    "language": 2,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 68,
+    "category": "menu",
+    "language": 2,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 69,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 75,
+    "category": "menu",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131940746,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Wash...",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Washed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 38,
+    "category": "menu",
+    "language": 2,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Wash...",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Washed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132827695,
+      128,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Wash...",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Washed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146074651,
+      128,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Wash...",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Washed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146129679,
+      128,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing tub/hot-tub interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  }
+]
