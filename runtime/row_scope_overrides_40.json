@@ -1,0 +1,932 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15\nFixed English from Workout to Work Out",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15\nFixed English from Workout to Work Out",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135230153,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Batch - this is the action queue for a Sim who's being shooed by another Sim who's watching TV.",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 460,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 462,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 463,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 465,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 467,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 474,
+    "category": "menu",
+    "language": 2,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 483,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 485,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 486,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 488,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 490,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 497,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 503,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch20\nAction queue for Sim being shooed by another Sim who's watching TV (this sim is standing in front).",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch20\nAction queue for Sim being shooed by another Sim who's watching TV (this sim is standing in front).",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 38,
+    "category": "menu",
+    "language": 2,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Batch - copied translation from Video game system. Action queue tooltip for Sim shooing another Sim who's standing in front of them while watching TV.",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Shooed",
+    "description": "The Sims 2 - Batch - copied translation from Video game system. Action queue tooltip for Sim shooing another Sim who's standing in front of them while watching TV.",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Batch - copied translation from Video game system. Action queue tooltip for Sim shooing another Sim who's standing in front of them while watching TV.",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing television interaction on an inherited object family; exact label already has an approved Vietnamese menu mapping."
+  }
+]
