@@ -1,0 +1,450 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Find a Job",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tìm việc",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Bring In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Mang vào nhà",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Do Crossword",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Giải ô chữ",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Airplane",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Gấp máy bay giấy",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Find Own Place",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tìm chỗ ở riêng",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Steal",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "vi": "Trộm",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Find a Job",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tìm việc",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Bring In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Mang vào nhà",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Do Crossword",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Giải ô chữ",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Airplane",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Gấp máy bay giấy",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Find Own Place",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tìm chỗ ở riêng",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Steal",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "vi": "Trộm",
+    "reason": "Player-facing newspaper interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Shower",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tắm vòi sen",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Wait For Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chờ tắm",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Shower",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tắm vòi sen",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 2,
+    "en": "Wait For Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chờ tắm",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Shower",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tắm vòi sen",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Wait For bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chờ tắm",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142145731,
+      128,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Shower",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tắm vòi sen",
+    "reason": "Player-facing shower/tub interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Stand Up",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Dựng lên",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Steal Back Gnome",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Trộm lại tượng lùn",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Stand Up",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Dựng lên",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Steal Back Gnome",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Trộm lại tượng lùn",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Steal",
+    "description": "!!!",
+    "vi": "Trộm",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Steal",
+    "description": "!!!",
+    "vi": "Trộm",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Try To Knock Over",
+    "description": "!!!",
+    "vi": "Thử đá ngã",
+    "reason": "Player-facing gnome interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Play Wtih",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Chơi cùng",
+    "reason": "Player-facing toy box interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143996965,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit Down",
+    "description": "The Sims2EP2 - Needs Text",
+    "vi": "Ngồi xuống",
+    "reason": "Player-facing sofa interaction with clear local context; exact-row translation avoids ambiguous global remapping."
+  }
+]
