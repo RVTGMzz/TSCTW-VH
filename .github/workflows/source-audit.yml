@@ -65,6 +65,23 @@ jobs:
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Gnome" --groups 40 --samples 120
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Toy Box" --groups 40 --samples 120
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Lemonade Stand" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Phone Call - Service" --groups 120 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Phone Call - Work" --groups 120 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Computer -" --groups 100 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Car Ownable" --groups 100 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "UrnStone" --groups 120 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Dining - Podium" --groups 80 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Karaoke" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Booth - Photo" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Display - Pet - Cat" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Social - Find Match" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Incoming Call - Downtown" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Food Stand - Asian" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Social - Dining" --groups 80 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Social - What Are You Good At" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Phone Call - Delivery" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Car - Service - Social Worker" --groups 60 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Homework" --groups 80 --samples 160
           python src/builder/triage_review_queue.py --object-contains "CS - Food - Lomi Lomi Salmon" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Toilet - Outdoor Hut" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Birthday Cake" --groups 4 --samples 100
