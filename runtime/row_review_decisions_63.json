@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 307,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stand Next To...",
+    "description": "",
+    "reason": "Bon Voyage pose/photo positioning interaction inherited into the global social table; not part of Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 307,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stand Next To...",
+    "description": "",
+    "reason": "Bon Voyage pose/photo positioning interaction inherited into the global social table; not part of Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144394938,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Impersonate",
+    "description": "!!!",
+    "reason": "Door/dynamic-menu helper label with debug-style metadata; not a normal player-facing Castaway door command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144394938,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Impersonate",
+    "description": "!!!",
+    "reason": "UK-English duplicate of door/dynamic-menu helper label with debug-style metadata."
+  }
+]
