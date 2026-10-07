@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Love.../Hug",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Âu yếm.../Ôm",
+    "reason": "Same retained animal-interaction family as approved Give Love.../Stroke and Give Love.../Snuggle mappings; exact-row translation preserves submenu wording."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Love.../Hug",
+    "description": "Sims 2 EP6: Needs Translation",
+    "vi": "Âu yếm.../Ôm",
+    "reason": "UK-English duplicate of retained animal-interaction family; exact-row translation matches approved affection submenu wording."
+  }
+]
