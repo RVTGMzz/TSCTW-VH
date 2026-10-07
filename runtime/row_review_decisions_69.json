@@ -982,36 +982,6 @@
       1,
       0
     ],
-    "row": 2,
-    "status": "excluded",
-    "language": 1,
-    "en": "Clean Up",
-    "description": "Sims2EP3 - Batch5",
-    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2140935073,
-      1,
-      0
-    ],
-    "row": 3,
-    "status": "excluded",
-    "language": 1,
-    "en": "Clean Up",
-    "description": "Sims2EP3 - Batch5",
-    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2140935073,
-      1,
-      0
-    ],
     "row": 4,
     "status": "excluded",
     "language": 1,
@@ -1072,21 +1042,6 @@
       1,
       0
     ],
-    "row": 8,
-    "status": "excluded",
-    "language": 1,
-    "en": "Dispose",
-    "description": "Sims2EP3 - Batch5",
-    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2140935073,
-      1,
-      0
-    ],
     "row": 9,
     "status": "excluded",
     "language": 1,
@@ -1136,36 +1091,6 @@
     "status": "excluded",
     "language": 2,
     "en": "Make More Lemonade",
-    "description": "Sims2EP3 - Batch5",
-    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2140935073,
-      1,
-      0
-    ],
-    "row": 16,
-    "status": "excluded",
-    "language": 2,
-    "en": "Clean Up",
-    "description": "Sims2EP3 - Batch5",
-    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1414807923,
-      2140935073,
-      1,
-      0
-    ],
-    "row": 17,
-    "status": "excluded",
-    "language": 2,
-    "en": "Clean Up",
     "description": "Sims2EP3 - Batch5",
     "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
   },
