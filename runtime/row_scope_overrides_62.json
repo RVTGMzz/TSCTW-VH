@@ -1,0 +1,212 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135247918,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing base-game bar interaction; reuse approved Vietnamese mapping."
+  }
+]
