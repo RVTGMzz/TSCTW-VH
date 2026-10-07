@@ -82,6 +82,16 @@ jobs:
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Phone Call - Delivery" --groups 40 --samples 120
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Car - Service - Social Worker" --groups 60 --samples 160
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Homework" --groups 80 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143107331 --groups 40 --samples 500
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135167636 --groups 40 --samples 500
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135859760 --groups 80 --samples 600
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145525850 --groups 60 --samples 500
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146325018 --groups 40 --samples 200
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139503788 --groups 40 --samples 200
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140988335 --groups 40 --samples 300
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139118177 --groups 60 --samples 300
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142374138 --groups 60 --samples 300
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134891285 --groups 40 --samples 300
           python src/builder/triage_review_queue.py --object-contains "CS - Food - Lomi Lomi Salmon" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Toilet - Outdoor Hut" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Birthday Cake" --groups 4 --samples 100
