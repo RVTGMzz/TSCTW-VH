@@ -153,3 +153,11 @@ jobs:
           python src/builder/triage_review_queue.py --instance-id 2145375815 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --instance-id 2144394938 --groups 20 --samples 120
           python src/builder/triage_review_queue.py --instance-id 2136745598 --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Anti-Gossip" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Muscle In" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Act..." --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Stand Next To..." --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Help Me" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Greet Mail Carrier" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Impersonate" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --value-exact "Trim" --groups 20 --samples 120
