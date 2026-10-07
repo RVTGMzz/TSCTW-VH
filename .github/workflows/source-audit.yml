@@ -41,6 +41,19 @@ jobs:
         run: |
           python src/builder/triage_review_queue.py --groups 80 --samples 8
           python src/builder/triage_review_queue.py --include-unowned --groups 160 --samples 6
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132789952 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145702848 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2147141396 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135247918 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135495273 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137101786 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132220028 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139780520 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134014926 --groups 20 --samples 180
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132104824 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137033768 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2138180871 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144455086 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2143107331 --groups 20 --samples 320
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2135167636 --groups 20 --samples 320
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2135859760 --groups 20 --samples 360
