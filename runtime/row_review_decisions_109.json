@@ -1,0 +1,362 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Set Mode.../-->$Local:1<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking configuration residue; internal expansion configuration strings are outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Set Mode.../$Local:1",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking configuration residue; internal expansion configuration strings are outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking configuration residue; internal expansion configuration strings are outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking configuration residue; internal expansion configuration strings are outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking configuration residue; internal expansion configuration strings are outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking configuration residue; internal expansion configuration strings are outside Castaway Stories player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Rainbow Colors",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking color-mode dialog residue; expansion configuration text is outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Night Club Colors",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking color-mode dialog residue; expansion configuration text is outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pastels Colors",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking color-mode dialog residue; expansion configuration text is outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Rainbow Colors",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking color-mode dialog residue; expansion configuration text is outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Night Club Colors",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking color-mode dialog residue; expansion configuration text is outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131542912,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pastels Colors",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Explicit Nightlife (EP2) Block - Stacking color-mode dialog residue; expansion configuration text is outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146117097,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wish",
+    "description": "EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) wishing-well interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146117097,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drink",
+    "description": "EP7 - Needs translation",
+    "reason": "Explicit Seasons (EP7) wishing-well interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146117097,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fall From Heaven",
+    "description": "EP7 - Needs Translations",
+    "reason": "Explicit Seasons (EP7) wishing-well interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146117097,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wish",
+    "description": "EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) wishing-well interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146117097,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Drink",
+    "description": "EP7 - Needs translation",
+    "reason": "Explicit Seasons (EP7) wishing-well interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146117097,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fall From Heaven",
+    "description": "EP7 - Needs Translations",
+    "reason": "Explicit Seasons (EP7) wishing-well interaction residue; outside Castaway Stories scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stock",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Remove Produce",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138732373,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer interaction residue; no verified Castaway Stories juicer-system reachability."
+  }
+]
