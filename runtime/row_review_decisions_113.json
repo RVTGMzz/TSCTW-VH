@@ -1,0 +1,482 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141680657,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Compulsion\" Fragrance Display",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141680657,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Compulsion\" is the new fragrance that is wafting across the globe; make the wise choice and give your customers access to this intense scent by purchasing this display for your store. Contains limitless numbers of  elegant, single-use \"Compulsion\" flasks for use at just the right moment. Remember: it’s Compulsion. You have no choice.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy 1 ($$Local:0)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy 3 ($$Local:1)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy 5 ($$Local:1)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy 10 ($$Local:1)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy 1 ($$Local:0)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy 3 ($$Local:1)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy 5 ($$Local:1)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141680657,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy 10 ($$Local:1)",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146908055,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Which Outcome?",
+    "description": "!",
+    "reason": "University Fruit Punch Barrel / Juice Keg resource (EP1), including outcome helper text; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146908055,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Failure",
+    "description": "!",
+    "reason": "University Fruit Punch Barrel / Juice Keg resource (EP1), including outcome helper text; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146908055,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Success + Fail",
+    "description": "!",
+    "reason": "University Fruit Punch Barrel / Juice Keg resource (EP1), including outcome helper text; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146908055,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Success x 2",
+    "description": "!",
+    "reason": "University Fruit Punch Barrel / Juice Keg resource (EP1), including outcome helper text; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146908055,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Fruit Punch Barrel is out of Punch! Go into Buy Mode to dispose of it, or to buy a new Fruit Punch Barrel!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nLTEDIT - updated name of object in this dialog... per ESRB.",
+    "reason": "University Fruit Punch Barrel / Juice Keg resource (EP1), including outcome helper text; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146908055,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Fruit Punch Barrel is out of Punch! Go into Buy Mode to dispose of it, or to buy a new Fruit Punch Barrel!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nLTEDIT - updated name of object in this dialog... per ESRB.",
+    "reason": "University Fruit Punch Barrel / Juice Keg resource (EP1), including outcome helper text; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "Sims2 EP3 Batch 10 review",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Purchase",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Show Object",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price",
+    "description": "Sims2 EP3 Batch 10 review",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Purchase",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Show Object",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141680657,
+      2,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "Nightlife Compulsion fragrance display / retail helper resource (EP2 plus OFB pricing/restock paths); not part of Castaway Stories player-facing catalog/gameplay."
+  }
+]
