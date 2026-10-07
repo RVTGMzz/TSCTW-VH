@@ -1,0 +1,1832 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want to keep $NameLocal:2 home today?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, we won't be expecting $NameLocal:2 today. Thanks for calling.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NameLocal:2 doesn't have enough vacation days saved up to take the day off.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you want to keep $NameLocal:2 home today?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, we won't be expecting $NameLocal:2 today. Thanks for calling.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145566174,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NameLocal:2 doesn't have enough vacation days saved up to take the day off.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call to %s",
+    "description": "Sims2 - Needs Translation - batch19 :: - Work Phone Call Message",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call to %s",
+    "description": "Sims2 - Needs Translation - batch19 :: - Work Phone Call Message",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Should $NameLocal:0 quit working?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142448460,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Should $NameLocal:0 quit working?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you want $NameLocal:0 to retire?",
+    "description": "The Sims2 EP6 - Needs Translation ",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you want $NameLocal:0 to retire?",
+    "description": "The Sims2 EP6 - Needs Translation ",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139887554,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2004,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2004,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2004,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2004,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../Pet's Job../$NeighborLocal:2",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135002548,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Pet's Job../$NeighborLocal:2",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135002548,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139887554,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142448460,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Keep Pet Home",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145566174,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Phone Call - Work Pet resource belongs to The Sims 2 Pets pet-career system; not Castaway Stories runtime."
+  }
+]
