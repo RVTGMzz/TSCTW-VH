@@ -1,0 +1,2162 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133016612,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129525,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133268797,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133633936,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134713738,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139347436,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143206910,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145996120,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Move this Grave",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Move all Graves",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 1,
+    "en": "Move Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Move All Back Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Smash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Scared",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Mourn",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147132901,
+      129,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSim kicks urn. smp 5/11. flagged by RF.",
+    "reason": "Player-facing urn/grave interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  }
+]
