@@ -1,0 +1,1172 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Delivery Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order %s for Delivery",
+    "description": "Sims2 - Needs Translation - batch19 :: -Delivery Phone Call Message in selection dialog",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Delivery Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order %s for Delivery",
+    "description": "Sims2 - Needs Translation - batch19 :: -Delivery Phone Call Message in selection dialog",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138200301,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142477819,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your pizza is on its way!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order some Chinese food? It will cost you $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your Chinese food is on its way!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146670909,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138200301,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138200301,
+      2002,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142477819,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142477819,
+      2002,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144238976,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144238976,
+      2002,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146670909,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146670909,
+      2002,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chinese Food",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nrevised to be \"Chinese Food\"",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../Delivery",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144238976,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Delivery",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138200301,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groceries",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138200301,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pizza",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142477819,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groceries",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142477819,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pizza",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144238976,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groceries",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144238976,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pizza",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146670909,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groceries",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146670909,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pizza",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base-game/University food and grocery delivery phone system is not part of Castaway Stories' island runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Kid in Car",
+    "description": "!!! interaction for Social Worker, won't be seen in pie menu",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Put Kid in Car",
+    "description": "!!! interaction for Social Worker, won't be seen in pie menu",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Kid in Car",
+    "description": "!!! interaction for Social Worker, won't be seen in pie menu",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Put Kid in Car",
+    "description": "!!! interaction for Social Worker, won't be seen in pie menu",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bye Kid",
+    "description": "!!!! not seen in game",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cry for Lost Child",
+    "description": "! not seen in game",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bye Kid",
+    "description": "!!!! not seen in game",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cry for Lost Child",
+    "description": "! not seen in game",
+    "reason": "Social-worker helper row is explicitly marked by source metadata as not visible in the pie menu/game."
+  }
+]
