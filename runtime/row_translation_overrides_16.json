@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144931547,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "You already have enough people living in this house!",
+    "description": "!move in-reject",
+    "vi": "Nhà này đã đủ người ở rồi!",
+    "reason": "Explicit move-in rejection dialog; player-facing household-capacity warning."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144931547,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "dialog",
+    "language": 2,
+    "en": "You already have enough people living in this house!",
+    "description": "!move in-reject",
+    "vi": "Nhà này đã đủ người ở rồi!",
+    "reason": "UK-English duplicate of explicit move-in rejection dialog; player-facing household-capacity warning."
+  }
+]
