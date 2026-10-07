@@ -1,0 +1,122 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 28,
+    "language": 1,
+    "en": "Set To Random Time",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 29,
+    "language": 1,
+    "en": "Throw Tantrum",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139503788,
+      1,
+      0
+    ],
+    "row": 30,
+    "language": 1,
+    "en": "RING!",
+    "description": "! ",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 28,
+    "language": 1,
+    "en": "Set To Random Time",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 29,
+    "language": 1,
+    "en": "Throw Tantrum",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 59,
+    "language": 2,
+    "en": "Set To Random Time",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 60,
+    "language": 2,
+    "en": "Throw Tantrum",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146325018,
+      1,
+      0
+    ],
+    "row": 30,
+    "language": 1,
+    "en": "RING!",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Alarm-clock reaction/test helper action rather than a player-facing alarm-setting command."
+  }
+]
