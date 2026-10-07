@@ -1,0 +1,82 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 275,
+    "category": "menu",
+    "language": 1,
+    "en": "Use Cell Phone",
+    "description": "LTEDIT - We had thought this text never appears in the game because the cell phone should just be using the regular phone menus, but it is appearing in game untranslated on 1/24. Please check your translations.",
+    "vi": "Dùng điện thoại di động",
+    "reason": "Complete player-facing interaction label in the inherited global-social table; exact-row translation is safer than assuming the feature is unreachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 275,
+    "category": "menu",
+    "language": 1,
+    "en": "Use Cell Phone",
+    "description": "LTEDIT - We had thought this text never appears in the game because the cell phone should just be using the regular phone menus, but it is appearing in game untranslated on 1/24. Please check your translations.",
+    "vi": "Dùng điện thoại di động",
+    "reason": "Complete player-facing interaction label in the inherited global-social table; exact-row translation is safer than assuming the feature is unreachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 278,
+    "category": "menu",
+    "language": 1,
+    "en": "Flirt.../Text Message",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "vi": "Tán tỉnh.../Nhắn tin",
+    "reason": "Complete player-facing interaction label in the inherited global-social table; exact-row translation is safer than assuming the feature is unreachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 808,
+    "category": "menu",
+    "language": 2,
+    "en": "Flirt.../Text Message",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "vi": "Tán tỉnh.../Nhắn tin",
+    "reason": "Complete player-facing interaction label in the inherited global-social table; exact-row translation is safer than assuming the feature is unreachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 775,
+    "category": "menu",
+    "language": 2,
+    "en": "Flirt.../Text Message",
+    "description": "",
+    "vi": "Tán tỉnh.../Nhắn tin",
+    "reason": "Complete player-facing interaction label in the inherited global-social table; exact-row translation is safer than assuming the feature is unreachable."
+  }
+]
