@@ -1,0 +1,272 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1199,
+    "status": "excluded",
+    "language": 2,
+    "en": "%s",
+    "description": "Sims2 - Needs Translation - batch19 ::- Transport Phone Call Message",
+    "reason": "Placeholder-only phone selection row contains no translatable language; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1202,
+    "status": "excluded",
+    "language": 2,
+    "en": "College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for College Phonebook",
+    "reason": "Explicit Sims 2 EP1/University phonebook residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1203,
+    "status": "excluded",
+    "language": 2,
+    "en": "Campus Phonebook",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for College Phonebook",
+    "reason": "Explicit Sims 2 EP1/University phonebook residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1227,
+    "status": "excluded",
+    "language": 1,
+    "en": "%s",
+    "description": "Sims2 - Needs Translation - batch19 ::- Transport Phone Call Message",
+    "reason": "Placeholder-only phone selection row contains no translatable language; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1230,
+    "status": "excluded",
+    "language": 1,
+    "en": "College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for College Phonebook",
+    "reason": "Explicit Sims 2 EP1/University phonebook residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1231,
+    "status": "excluded",
+    "language": 1,
+    "en": "Campus Phonebook",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for College Phonebook",
+    "reason": "Explicit Sims 2 EP1/University phonebook residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nInteraction on the phone to call college.",
+    "reason": "Explicit Sims 2 EP1/University phonebook residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groups.../Meet Group on Community Lot.../For an Outing",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife group-outing phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Groups.../Meet Group on Community Lot.../Just for Fun",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife group-outing phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nInteraction on the phone to call college.",
+    "reason": "Explicit Sims 2 EP1/University phonebook residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Groups.../Meet Group on Community Lot.../For an Outing",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife group-outing phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Groups.../Meet Group on Community Lot.../Just for Fun",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife group-outing phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3/Open for Business real-estate/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../Call Taxi",
+    "description": "Sims2 EP3 Batch 9",
+    "reason": "Explicit Sims 2 EP3/Open for Business real-estate/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Real Estate",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3/Open for Business real-estate/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Call Taxi",
+    "description": "Sims2 EP3 Batch 9",
+    "reason": "Explicit Sims 2 EP3/Open for Business real-estate/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Call",
+    "description": "!!!!!!!",
+    "reason": "Technical call helper with debug/bang metadata; not a player-facing phone menu."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Technical call helper with debug/bang metadata; not a player-facing phone menu."
+  }
+]
