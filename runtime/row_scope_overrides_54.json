@@ -1,0 +1,542 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Politics",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Politics",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Money",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Money",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Environment",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Environment",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Crime",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Crime",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Entertainment",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Entertainment",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Culture",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Culture",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Food",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Food",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Health",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Health",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Fashion",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Fashion",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Sports",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Sports",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Paranormal",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Paranormal",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Travel",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Travel",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Weather",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Weather",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Animals",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Animals",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../School",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 38,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../School",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Toys",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Toys",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Topic.../Sci-Fi",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "Player-facing conversation topic menu documented as available after two Sims are chatting; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131184440,
+      302,
+      0
+    ],
+    "row": 40,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Topic.../Sci-Fi",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nAfter two Sims are Chatting, click on active Sim to change topic.",
+    "reason": "UK-English duplicate of player-facing conversation topic menu; reuse approved Vietnamese mapping."
+  }
+]
