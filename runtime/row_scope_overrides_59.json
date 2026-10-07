@@ -1,0 +1,332 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Salvage",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Salvage",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Translations Copied\nFrom SofaGlobals, set 302, string 1\nWas \"*Cuddle Mild\" but this was showing up in game although marked with a \"*\"",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "The Sims 2 -Translations Copied\nFrom SofaGlobals, set 302, string 1\nWas \"*Cuddle Intense\" but this was showing up in game although marked with a \"*\"",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "The Sims 2 - Translations Copied\nFrom SofaGlobals, set 302, string 1\nWas \"*Cuddle Mild\" but this was showing up in game although marked with a \"*\"",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132789952,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "The Sims 2 -Translations Copied\nFrom SofaGlobals, set 302, string 1\nWas \"*Cuddle Intense\" but this was showing up in game although marked with a \"*\"",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Set For Morning",
+    "description": "The Sims 2 - Needs Translation - Batch23\nInteraction on the alarm clock which appears for Adult and Elder Sims who are unemployed. ",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Unset Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Set For School",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nInteraction on the alarm clock which appears for child and teen Sims.",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Set For Work",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nInteraction on the alarm clock which appears for teens, adults, and elders who are employed. Note that teens with jobs get Set for school and Set for work.",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Set For Morning",
+    "description": "The Sims 2 - Needs Translation - Batch23\nInteraction on the alarm clock which appears for Adult and Elder Sims who are unemployed. ",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Unset Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off Alarm",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Set For School",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nInteraction on the alarm clock which appears for child and teen Sims.",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142247667,
+      1,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Set For Work",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nInteraction on the alarm clock which appears for teens, adults, and elders who are employed. Note that teens with jobs get Set for school and Set for work.",
+    "reason": "Player-facing base-game interaction in a mixed inherited resource; reuse approved Vietnamese menu mapping while keeping expansion/debug rows separate."
+  }
+]
