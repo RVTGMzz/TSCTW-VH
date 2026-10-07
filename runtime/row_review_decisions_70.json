@@ -1,0 +1,5627 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Work",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Somewhere Else",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To Work With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take To School.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To School",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To School With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit In Vehicle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo With $Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Stereo On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Stereo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object To Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take $Object Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138677808,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Work",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Somewhere Else",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To Work With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take To School.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To School",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To School With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit In Vehicle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo With $Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Stereo On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Stereo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object To Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take $Object Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139146518,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Work",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Somewhere Else",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To Work With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take To School.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To School",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To School With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit In Vehicle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo With $Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Stereo On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Stereo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object To Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take $Object Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139730617,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Work",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Somewhere Else",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To Work With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take To School.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To School",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To School With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit In Vehicle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo With $Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Stereo On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Stereo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object To Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take $Object Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141405793,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Work",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To Community Lot",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Home",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive Somewhere Else",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To Work With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take To School.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Drive To School",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Carpool To School With.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sit In Vehicle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo With $Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Stereo On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Switch Stereo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask $Object To Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take $Object Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141685931,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Home",
+    "description": "! For E3 Demo",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138677808,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hunka 711 by Hwang Motors",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138677808,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you feel you're not measuring up in certain areas?  That something in your life is coming up short?  Make up for it with the revolutionary Hunka 711 from Hwang Motors.  The Hunka is more than a car, it is an extension of you.  Your friends will envy you.  Your dates will swoon.  In a world where bigger is better, you deserve to have the biggest one of all.\n\nMust place on driveway.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138677808,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hunka 711 by Hwang Motors",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138677808,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you feel you're not measuring up in certain areas?  That something in your life is coming up short?  Make up for it with the revolutionary Hunka 711 from Hwang Motors.  The Hunka is more than a car, it is an extension of you.  Your friends will envy you.  Your dates will swoon.  In a world where bigger is better, you deserve to have the biggest one of all.\n\nMust place on driveway.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139730617,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Smoogo Minima",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139730617,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "We know you've got money problems.  Here at Smoogo, we have them, too.  Sure, other car companies think that throwing money away on things like genuine steel bolts and welding lessons for their employees is the way to do business, but at Smoogo we know that those things cost money.  Thats why cutting corners is what we do best.  The Smoogo Minima: You don't want to pay too much; we don't want to try too hard.\n\nMust place on driveway.",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139730617,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Smoogo Minima",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139730617,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "We know you've got money problems.  Here at Smoogo, we have them, too.  Sure, other car companies think that throwing money away on things like genuine steel bolts and welding lessons for their employees is the way to do business, but at Smoogo we know that those things cost money.  Thats why cutting corners is what we do best.  The Smoogo Minima: You don't want to pay too much; we don't want to try too hard.\n\nMust place on driveway.",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141685931,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Smord P328",
+    "description": "The Sims 2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141685931,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "This baby can withstand anything.  A cattle stampede.  A trip to the lumber yard.  A ton of boulders.  An atomic explosion.  Built for maximum brawn, the P328's solid adamantine frame is unyielding and can take on anything life throws your way.  Even the cup holder is designed to stand up to today's massive beverage containers.  So go ahead and maximize yourself.  The P328 can handle it.  Smord makes it bigger than it needs to be.\n\nMust place on driveway.",
+    "description": "The Sims 2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141685931,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Smord P328",
+    "description": "The Sims 2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141685931,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "This baby can withstand anything.  A cattle stampede.  A trip to the lumber yard.  A ton of boulders.  An atomic explosion.  Built for maximum brawn, the P328's solid adamantine frame is unyielding and can take on anything life throws your way.  Even the cup holder is designed to stand up to today's massive beverage containers.  So go ahead and maximize yourself.  The P328 can handle it.  Smord makes it bigger than it needs to be.\n\nMust place on driveway.",
+    "description": "The Sims 2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139146518,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Yomoshoto Evasion",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139146518,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Yomoshoto Evasion",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139146518,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your kid failed his math test.  You caught your teenager sneaking out.  The neighbors are screaming because someone stole their gnome.  Your father claims he was abducted by aliens again.  Your bills are overdue.  If you're late to work one more time, you'll lose your job.  Life moves fast.  You need to have a car that can keep up.  The Evasion is your quiet escape in this crazy world.  Sensible styling, affordable elegance, and a steering wheel to control the vehicle's direction.  From Yomoshoto: the company that drives you away.\n\nMust place on driveway.",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139146518,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your kid failed his math test.  You caught your teenager sneaking out.  The neighbors are screaming because someone stole their gnome.  Your father claims he was abducted by aliens again.  Your bills are overdue.  If you're late to work one more time, you'll lose your job.  Life moves fast.  You need to have a car that can keep up.  The Evasion is your quiet escape in this crazy world.  Sensible styling, affordable elegance, and a steering wheel to control the vehicle's direction.  From Yomoshoto: the company that drives you away.\n\nMust place on driveway.",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141405793,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Landwhale by Heaveola",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141405793,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Landwhale by Heaveola",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141405793,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Whether you're a soccer mom, a carpool dad, or just someone who really enjoys picking people up from the airport, you'll appreciate the Landwhale's comfortable seating for eight.  Designed with your passengers' safety in mind, the Landwhale's Steel Blubber Response System is truly state of the art.  The new Sippy Cup Stability feature tracks your toddler's movements to ensure nothing gets spilled on the upholstery.  If only you could get that in your living room.  Heaveola: the not-so-mini van.\n\nMust place on driveway.",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141405793,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Whether you're a soccer mom, a carpool dad, or just someone who really enjoys picking people up from the airport, you'll appreciate the Landwhale's comfortable seating for eight.  Designed with your passengers' safety in mind, the Landwhale's Steel Blubber Response System is truly state of the art.  The new Sippy Cup Stability feature tracks your toddler's movements to ensure nothing gets spilled on the upholstery.  If only you could get that in your living room.  Heaveola: the not-so-mini van.\n\nMust place on driveway.",
+    "description": "The Sims2EP2- NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife ownable-car system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Seated",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pay Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Under Construction",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skip Out on Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Seated",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Seated At Counter",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Seated",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pay Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Under Construction",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skip Out on Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Seated At Counter",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Populate Tables",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Coupon",
+    "description": "",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Menu Prices",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Menu",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Populate Tables",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132778515,
+      1,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Plan Menu",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Seated",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pay Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Under Construction",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skip Out on Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Seated",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Seated At Counter",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Seated",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pay Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Under Construction",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skip Out on Bill",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Seated At Counter",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Populate Tables",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use Coupon",
+    "description": "",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Menu Prices",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Plan Menu",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134420181,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Populate Tables",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pay Bill $$Local:1",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Give Up Seat",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pay Bill $$Local:1",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Give Up Seat",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Host.../$NameLocal:1",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Server.../$NameLocal:1",
+    "description": "The Sims2EP3 - Batch 5",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Prices ( $Local:2% ).../:: $Local:1% ::",
+    "description": "!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "unused",
+    "description": "!!!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "unused",
+    "description": "!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "unused",
+    "description": "!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pay Bill $$Local:1",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Give Up Seat",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pay Bill $$Local:1",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Give Up Seat",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Host.../$NameLocal:1",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Server.../$NameLocal:1",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Prices ( $Local:2% ).../:: $Local:1% ::",
+    "description": "!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "unused",
+    "description": "!!!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "unused",
+    "description": "!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "unused",
+    "description": "!!!!!!!",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "You don't have any tables for people to sit at.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Every Restaurant needs an industrial stove and professional chef. You should think about getting one for yours.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "You don't have any tables for people to sit at.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132778515,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Every Restaurant needs an industrial stove and professional chef. You should think about getting one for yours.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "You don't have any tables for people to sit at.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Every Restaurant needs an industrial stove and professional chef. You should think about getting one for yours.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "You don't have any tables for people to sit at.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134420181,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Every Restaurant needs an industrial stove and professional chef. You should think about getting one for yours.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134420181,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Gastronomique\" Restaurant Podium",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134420181,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Famous Restaurateur Charles Gast once said, \"The surest way to enjoy a meal is to start it.\"  With those timeless words in mind, he created this classic restaurant podium.  Whether placed in a high-class bistro or a family-style diner, it is the unavoidable starting point for your dining experience.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132778515,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Podium of Bonnappitizon",
+    "description": "TheSims2EP3 - Batch 1",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132778515,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Podiums were invented in Ancient Rome to counteract the randomly wandering restaurant guests known as the Restagoths. Shaped in the form of Bonnappitizon, the Restagoth god of hospitality, this podium caused the rampaging hordes to queue up politely and wait for a table, thus bringing a quick end to their civilization. All praise Bonnappitizon!",
+    "description": "TheSims2EP3 - Batch 1",
+    "reason": "Nightlife/Open for Business restaurant podium system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sing Solo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sing Duet",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sing Duet",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sing Duet",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dance Solo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sing Solo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sing Duet",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sing Duet",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sing Duet",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dance Solo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143484556,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Howl At Singer",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sing Solo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sing with.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin.../High",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sing Solo",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sing with.../$Object",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin.../High",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, I have no intention of making a fool of myself with you. Don't take it too personal though.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, I have no intention of making a fool of myself with you. Don't take it too personal though.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143484556,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sounding Good! $NameLocal:0 just gained a point of Creativity using the $NameLocal:1",
+    "description": "",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143484556,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "VocoPhonicSim Karaoke Machine",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143484556,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Everything you need for singing your heart out is built into the VocoPhonicSim Karaoke Machine. It is perfect for small clubs, house parties or any time when you just feel like annoying your friends. Whether you are practicing for your next concert, romancing another Sim with sweet melodies, or impressing the crowd, the VocoPhonicSim Karaoke Machine will bring out the rockstar in you!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146575869,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Accessory - Karaoke Mic",
+    "description": "!",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146575869,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Accessory - Karaoke Mic - description",
+    "description": "!",
+    "reason": "Nightlife karaoke object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try For Baby",
+    "description": "The Sims 2 - Needs Translation - Batch12\nFixed for consistency to \"Try for Baby\" instead of \"Try to Have a Baby\"",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19\nWooHoo is the new word for Play In.",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try For Baby",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "React To WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19\nWooHoo is the new word for Play In.",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Picture",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try For Baby",
+    "description": "The Sims 2 - Needs Translation - Batch12\nFixed for consistency to \"Try for Baby\" instead of \"Try to Have a Baby\"",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19\nWooHoo is the new word for Play In.",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try For Baby",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "React To WooHoo",
+    "description": "The Sims 2 - Needs Translation - Batch19\nWooHoo is the new word for Play In.",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take Picture",
+    "description": "! if you change 8, change 7  :)",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135123276,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Take Picture",
+    "description": "! if you change 8, change 7  :)",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130719313,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Photobooth Pix",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130719313,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "4 pictures in one... what a deal!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130719313,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Photobooth Pix",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-5",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135123276,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Sit 'n'Grin\" Photo Booth from iBurn Commerical Imagery",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135123276,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nearly everyone loves to have their pictures taken, and with the Sit'n'Grin Photo Booth, patrons can get a lovely set of four photos for the cost of a few coins. The legendary iBurn Optical System sits at the heart of this beauty, assuring a clear image every time, provided you hold very still at just the right distance and sit in the correct position while aligning your head precisely with the guides. From a style perspective, the suave exterior lends any space the elegance and sophistication of a fairground or even a bus station! iBurn is not responsible for any incidents resulting from abuse of this object.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135123276,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Resetting Photo Booth",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135123276,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Resetting Photo Booth",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Nightlife photo-booth object/system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Show Object",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Change Breed for Sale",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Show Object",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Change Breed for Sale",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spawn Pet Inside",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch11",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spawn Pet Inside",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch11",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141105344,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cat-Crazy Pet Display",
+    "description": "TheSims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141105344,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Going to the pet store to pick out a new pet is a great experience! The excitement of the animal and the look on the recipient's face are two of life's greatest joys. If the pet could say \"freedom\" it certainly would. Instead, it'll just jump around in front of you or lovingly scratch your new chair. Dispense that joy with Cat-Crazy Shelves, the finest in pet displays!",
+    "description": "TheSims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141105344,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cat-Crazy Pet Display",
+    "description": "TheSims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141105344,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Going to the pet store to pick out a new pet is a great experience! The excitement of the animal and the look on the recipient's face are two of life's greatest joys. If the pet could say \"freedom\" it certainly would. Instead, it'll just jump around in front of you or lovingly scratch your new chair. Dispense that joy with Cat-Crazy Shelves, the finest in pet displays!",
+    "description": "TheSims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141105344,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Select the breed you want to be displayed in the case.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141105344,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Select the breed you want to be displayed in the case.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141105344,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "nID $Local:5 passed to Create Pet dialog",
+    "description": "",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141105344,
+      2,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/Open for Business pet-shop display system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "My services aren't free. How much are you willing to pay to find the perfect match?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "That's it? Humpf! Well, I guess you're going to get exactly what you've paid for... Don't say I didn't warn you.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Well, when it comes to a good match, I've seen better and I've seen worse. Maybe you will have a chance...",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Now that's what I call making a commitment! I can sense that you two are nearly perfect for each other!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Male",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Female",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "I want my date to be...",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "My services aren't free. How much are you willing to pay to find the perfect match?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "That's it? Humpf! Well, I guess you're going to get exactly what you've paid for... Don't say I didn't warn you.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Well, when it comes to a good match, I've seen better and I've seen worse. Maybe you will have a chance...",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Now that's what I call making a commitment! I can sense that you two are nearly perfect for each other!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Male",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Female",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "I want my date to be...",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "The score of the chosen Sims attraction is $local:4",
+    "description": "!",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146878920,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "The score of the chosen Sims attraction is $local:4",
+    "description": "!",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146878920,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask for Blind Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146878920,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Asked for Blind Date",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146878920,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Will not Be Seen - Do Not Translate",
+    "description": "!",
+    "reason": "Nightlife gypsy matchmaker social is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to go on a date Downtown?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Downtown",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to go on an Outing Downtown?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "A Taxi will be by shortly to pick you up.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey, the $GroupName:1 group is getting together at $NeighborhoodLocal:0.  Care to join us?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm getting the $GroupName:1 group together.  We're meeting at $NeighborhoodLocal:0.  Are you coming?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey, I hear $NeighborhoodLocal:0 is a swanky hotspot.  The $GroupName:1 group is heading on over.  Want to join?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm getting together with a bunch of pals at $NeighborhoodLocal:0.  Do you want to come?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Great, see you soon!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Great!  I'll send a taxi to pick you up.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "I had a wonderful time on our last date.  Want to go on a date with me to $NeighborhoodLocal:0?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out on a date",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Our last date was terrific; let's do it again.  Let's go out to $NeighborhoodLocal:0... are you free?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out on a date",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Our date was rockin!  Let's have another... I hear $NeighborhoodLocal:0 is a fun place.  Wanna go?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out on a date",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey, I found some new places to hang out at $NeighborhoodLocal:0!  Do you want to meet me there?",
+    "description": "The Sims2EP2 - Needs Translation",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Go Downtown",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to go on an Outing Downtown?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "A Taxi will be by shortly to pick you up.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey, the $GroupName:1 group is getting together at $NeighborhoodLocal:0.  Care to join us?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm getting the $GroupName:1 group together.  We're meeting at $NeighborhoodLocal:0.  Are you coming?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey, I hear $NeighborhoodLocal:0 is a swanky hotspot.  The $GroupName:1 group is heading on over.  Want to join?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm getting together with a bunch of pals at $NeighborhoodLocal:0.  Do you want to come?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out as a group",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Great, see you soon!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Great!  I'll send a taxi to pick you up.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "I had a wonderful time on our last date.  Want to go on a date with me to $NeighborhoodLocal:0?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out on a date",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Our last date was terrific; let's do it again.  Let's go out to $NeighborhoodLocal:0... are you free?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out on a date",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "Our date was rockin!  Let's have another... I hear $NeighborhoodLocal:0 is a fun place.  Wanna go?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-7\nTNS Message when a Sim calls up another Sim to ask them to go out on a date",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey, I found some new places to hang out at $NeighborhoodLocal:0!  Do you want to meet me there?",
+    "description": "The Sims2EP2 - Needs Translation",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stay Here",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stay Here",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141464545,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "This is a test incoming phone call object.  If this were a real phone object, something would have happened here.  Unfortunatly, nothing cool happens in a test object. Sorry.",
+    "description": "!",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141464545,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fire Station",
+    "description": "The Sims 2 - Needs Translation",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141464545,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Police Station",
+    "description": "The Sims 2 - Needs Translation",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141464545,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "!",
+    "reason": "Nightlife Downtown outing/date call system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Ramen ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Chirashi ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Steamed Rice Bowl ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Chicken Pot Pie ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Flapjacks ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Char-broiled Catfish ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Grilled Salmon ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Pineapple Surprise! ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Teriyaki Mahi-Mahi ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Order Food.../Luau Ribs ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Ramen ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Chirashi ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Steamed Rice Bowl ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Chicken Pot Pie ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Flapjacks ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Char-broiled Catfish ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Grilled Salmon ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Pineapple Surprise! ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Teriyaki Mahi-Mahi ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136713103,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Order Food.../Luau Ribs ($$Local:0)",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136713103,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Ramen",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136713103,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136713103,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Change Price",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136713103,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Ramen",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136713103,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136713103,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Change Price",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136713103,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nutritious Noodles Food Stand",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136713103,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Our professional food finders have traveled around the world to find the most authentic and appetizing dishes and make them accessible to everyone in a unique, cost-effective, environment.  Our specialy trained chefs use only the finest imitation ingredients to capture the \"true\" essence of local cuisine.",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136713103,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Nutritious Noodles Food Stand",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136713103,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Our professional food finders have traveled around the world to find the most authentic and appetizing dishes and make them accessible to everyone in a unique, cost-effective, environment.  Our specialy trained chefs use only the finest imitation ingredients to capture the \"true\" essence of local cuisine.",
+    "description": "Sims 2 EP10: Needs Translation",
+    "reason": "expansion food-stand system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, but all of our tables are currently full or reserved by another group. Feel free to come back later.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneed retranslation from batch 3",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry, but all of our tables are currently full or reserved by another group. Feel free to come back later.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nneed retranslation from batch 3",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Select asynchronus greet for $Me",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cold",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nod",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wave",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Select greet.",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Asynchronus",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shake Hands",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Other social Greet(s)",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hug Friendly",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Kiss Romantic",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Secret Handshake",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "EuroKiss",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Select asynchronus greet for $Me",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cold",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Nod",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wave",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Select greet.",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Asynchronus",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shake Hands",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Other social Greet(s)",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hug Friendly",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Kiss Romantic",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Secret Handshake",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133216947,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "EuroKiss",
+    "description": "!",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133216947,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greet",
+    "description": "The Sims 2 - Needs Translation - Batch13\r\n\r\nInteraction queue text for A Sim.",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133216947,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Greeted",
+    "description": "The Sims 2 - Needs Translation - Batch13\r\n\r\n",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133216947,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Greeted",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife restaurant dining social system is inherited expansion content and is outside Castaway Stories runtime scope."
+  }
+]
