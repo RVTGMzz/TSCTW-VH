@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of Charisma skill from the $NameLocal:1.",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "dialog",
+    "vi": "$NameLocal:0 đã nhận thêm 1 điểm kỹ năng Khéo ăn nói từ $NameLocal:1.",
+    "reason": "Player-facing mirror skill-gain notification; placeholders preserved exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139400692,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of Charisma skill from the $NameLocal:1.",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "category": "dialog",
+    "vi": "$NameLocal:0 đã nhận thêm 1 điểm kỹ năng Khéo ăn nói từ $NameLocal:1.",
+    "reason": "Player-facing mirror skill-gain notification; placeholders preserved exactly."
+  }
+]
