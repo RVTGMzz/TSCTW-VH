@@ -1,0 +1,662 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Appreciate.../Admire",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nNote: All of these Batch15 interactions spot-checked in DB and they are there.\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied into this table for the languages involved",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Appreciate.../Backrub",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Call Over",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Entertain.../Dirty Joke",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Entertain.../Joke",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Fight.../Attack",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Fight.../Poke",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Fight.../Shove",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Fight.../Slap",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Hug.../Friendly",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Irritate.../Insult",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Irritate.../Annoy",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 1,
+    "en": "Kiss.../Family Kiss",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Punch U - Punch Me",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Tag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Brag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n7/20 change - this string was \"Talk.../Gossip\" and is now Talk.../Brag.\ntranslations copied in from string 145 of PersonGlobals. \r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 1,
+    "en": "Irritate.../Nag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Chat",
+    "description": "The Sims 2 - Needs Translation - Batch15\n7/20 - fixed Talk.../Chat for consistency with rest of game. Was Talk.../Talk here.\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Together",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Dismissed",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSocial bunny being dismissed",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 1,
+    "en": "Shoo",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 38,
+    "category": "menu",
+    "language": 2,
+    "en": "Appreciate.../Admire",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nNote: All of these Batch15 interactions spot-checked in DB and they are there.\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied into this table for the languages involved",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Appreciate.../Backrub",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 40,
+    "category": "menu",
+    "language": 2,
+    "en": "Call Over",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Entertain.../Dirty Joke",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Entertain.../Joke",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 2,
+    "en": "Fight.../Attack",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 2,
+    "en": "Fight.../Poke",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 46,
+    "category": "menu",
+    "language": 2,
+    "en": "Fight.../Shove",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 2,
+    "en": "Fight.../Slap",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 2,
+    "en": "Hug.../Friendly",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 53,
+    "category": "menu",
+    "language": 2,
+    "en": "Irritate.../Insult",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 54,
+    "category": "menu",
+    "language": 2,
+    "en": "Irritate.../Annoy",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 55,
+    "category": "menu",
+    "language": 2,
+    "en": "Kiss.../Family Kiss",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 59,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Punch U - Punch Me",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Tag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Talk.../Brag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n7/20 change - this string was \"Talk.../Gossip\" and is now Talk.../Brag.\ntranslations copied in from string 145 of PersonGlobals. \r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Irritate.../Nag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Talk.../Chat",
+    "description": "The Sims 2 - Needs Translation - Batch15\n7/20 - fixed Talk.../Chat for consistency with rest of game. Was Talk.../Talk here.\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 66,
+    "category": "menu",
+    "language": 2,
+    "en": "Dance Together",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nThese strings were translated originally in Batch13 in the Objects/Global/PersonGlobals.stx file. The strings just need to be copied over here. ",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 73,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Dismissed",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nSocial bunny being dismissed",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 74,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 75,
+    "category": "menu",
+    "language": 2,
+    "en": "Shoo",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing Social Bunny interaction copied from PersonGlobals; reuse approved Vietnamese menu mapping."
+  }
+]
