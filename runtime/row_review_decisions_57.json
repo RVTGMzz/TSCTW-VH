@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bat Fly",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Cat-specific Sims 2 Pets behavior residue; not part of Castaway animal interaction scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bat Fly",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "UK-English duplicate of cat-specific Sims 2 Pets behavior residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet.../Sit",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Translation",
+    "reason": "Standard Sims 2 Pets command submenu residue; no evidence Castaway exposes the Pets Sit command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet.../Down",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Translation",
+    "reason": "Standard Sims 2 Pets command submenu residue; no evidence Castaway exposes the Pets Down command."
+  }
+]
