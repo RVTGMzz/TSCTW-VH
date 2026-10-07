@@ -1,0 +1,827 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:0 is at work. Try again later.",
+    "description": "!! Not being used Sims2 - Needs Translation - batch12",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "No one is available in your group.  Some might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Everyone will make it to the outing. See you there.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0 is the only group member who could make it to the outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0 and $neighborlocal:1 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0, $neighborlocal:1, and $neighborlocal:2 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2, and $neighborlocal:3 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, and $neighborlocal:4 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, $neighborlocal:4, and $neighborlocal:5 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, $neighborlocal:4, $neighborlocal:5, and $neighborlocal:6 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, $neighborlocal:4, $neighborlocal:5, $neighborlocal:6, and $neighborlocal:7 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey there! Just wanted to call to say thanks for the fun time we had. By the way, I pulled a few strings at work, and guess what... You're getting a promotion! Congrats!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for getting a promotion",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ack! It's too sunny... I'm burning up! Sorry, but I can't hang out right now.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nReject TNS for inviting a vampire Sim over during the day",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey there! I heard from $Object that you're really a lot of fun! I'm getting some people together at $LotName and was wondering if you'd like to join us?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "What's up?  $Object gave me your name and said you were really cool.  Some friends and I are heading over to $LotName.  Want to go?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi, $Object said I should call you because you're fun.  Want to meet me and my friends at $LotName?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 1,
+    "en": "Aw, too bad, but hopefully we'll get together soon!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you want to take a taxi or your car?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 1,
+    "en": "Taxi",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 1,
+    "en": "Car",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Taxi will swing by shortly to pick you up.",
+    "description": "The Sims2EP2 - Needs Translation",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry to hear $NeighborLocal:0 has run away!  Losing a pet is terrible.  Hopefully $NeighborLocal:0 heads back home soon, but we'll give you a call if we find $NeighborLocal:0.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets runaway-pet phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thanks for letting me know you have $NeighborLocal:0!  I'll be right over!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets runaway-pet phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:0 is at work. Try again later.",
+    "description": "!! Not being used Sims2 - Needs Translation - batch12",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 82,
+    "status": "excluded",
+    "language": 2,
+    "en": "No one is available in your group.  Some might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "Everyone will make it to the outing. See you there.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0 is the only group member who could make it to the outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0 and $neighborlocal:1 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 87,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0, $neighborlocal:1, and $neighborlocal:2 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2, and $neighborlocal:3 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 89,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, and $neighborlocal:4 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, $neighborlocal:4, and $neighborlocal:5 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 91,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, $neighborlocal:4, $neighborlocal:5, and $neighborlocal:6 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 92,
+    "status": "excluded",
+    "language": 2,
+    "en": "$neighborlocal:0, $neighborlocal:1, $neighborlocal:2,  $neighborlocal:3, $neighborlocal:4, $neighborlocal:5, $neighborlocal:6, and $neighborlocal:7 will come to your outing.  The others might not like you enough, were out already, don't have phones or were asleep. ",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 94,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey there! Just wanted to call to say thanks for the fun time we had. By the way, I pulled a few strings at work, and guess what... You're getting a promotion! Congrats!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for getting a promotion",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 96,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ack! It's too sunny... I'm burning up! Sorry, but I can't hang out right now.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nReject TNS for inviting a vampire Sim over during the day",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 98,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey there! I heard from $Object that you're really a lot of fun! I'm getting some people together at $LotName and was wondering if you'd like to join us?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 99,
+    "status": "excluded",
+    "language": 2,
+    "en": "What's up?  $Object gave me your name and said you were really cool.  Some friends and I are heading over to $LotName.  Want to go?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 100,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi, $Object said I should call you because you're fun.  Want to meet me and my friends at $LotName?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 101,
+    "status": "excluded",
+    "language": 2,
+    "en": "Aw, too bad, but hopefully we'll get together soon!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7\nTNS for having a Contact call ",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 102,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you want to take a taxi or your car?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 103,
+    "status": "excluded",
+    "language": 2,
+    "en": "Taxi",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 104,
+    "status": "excluded",
+    "language": 2,
+    "en": "Car",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 105,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Taxi will swing by shortly to pick you up.",
+    "description": "The Sims2EP2 - Needs Translation",
+    "reason": "Explicit Sims 2 EP2/Nightlife outing/contact/taxi phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 106,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry to hear $NeighborLocal:0 has run away!  Losing a pet is terrible.  Hopefully $NeighborLocal:0 heads back home soon, but we'll give you a call if we find $NeighborLocal:0.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets runaway-pet phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 107,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thanks for letting me know you have $NeighborLocal:0!  I'll be right over!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets runaway-pet phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:1 is at work. Try again later.",
+    "description": "!!",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Not all group members will come over, Some might not like you enough, or were out, or did not have phones, or were asleep.",
+    "description": "!",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hey not all your group is showing up on the community lot. Some might not like you enough, or were out, or did not have phones, or were asleep.",
+    "description": "!",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:1 is at work. Try again later.",
+    "description": "!!",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 81,
+    "status": "excluded",
+    "language": 2,
+    "en": "Not all group members will come over, Some Might Not Like you Enough, or were out, or did not have phones, or were asleep  Producer Fix this, please :)",
+    "description": "!",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hey not all your group is showing up on the community lot. Some Might Not Like you Enough, or were out, or did not have phones, or were asleep  Producer Fix this",
+    "description": "!",
+    "reason": "Source marks this row as unused, placeholder, producer/debug text, or internal helper; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Invite Group Over",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife group-outing phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Out with Group",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-7",
+    "reason": "Explicit Sims 2 EP2/Nightlife group-outing phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143107331,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Out of World Conversation",
+    "description": "!",
+    "reason": "Internal Out of World Conversation helper; not player-facing Castaway text."
+  }
+]
