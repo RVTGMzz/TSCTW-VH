@@ -1,0 +1,18 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146303510,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you want to quit your career as a $Object?",
+    "description": "",
+    "vi": "Bạn có muốn nghỉ công việc $Object không?",
+    "reason": "TemplatePerson career-quit confirmation is player-facing and Castaway retains career gameplay; exact-row translation preserves the $Object placeholder."
+  }
+]
