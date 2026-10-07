@@ -1,0 +1,386 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch22\nqueue tooltips for children interacting with social worker car",
+    "vi": "Lên xe",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch22\nqueue tooltips for children interacting with social worker car",
+    "vi": "Xuống xe",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Walk to Door",
+    "description": "The Sims 2 - Needs Translation - Batch22\nchildren walk to front door after being dropped off by social worker.",
+    "vi": "Đi tới cửa",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Held",
+    "description": "The Sims 2 - Needs Translation - Batch22\nToddller/baby action queue as part of being handed to parents.",
+    "vi": "Được bế",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Cry for Lost Child",
+    "description": "The Sims 2 - Needs Translation - Batch22\naction queue for parent crying when child is taken away.\nWas Lost Child.",
+    "vi": "Khóc vì mất con",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch22\nqueue tooltips for children interacting with social worker car",
+    "vi": "Lên xe",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch22\nqueue tooltips for children interacting with social worker car",
+    "vi": "Xuống xe",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Walk to Door",
+    "description": "The Sims 2 - Needs Translation - Batch22\nchildren walk to front door after being dropped off by social worker.",
+    "vi": "Đi tới cửa",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Held",
+    "description": "The Sims 2 - Needs Translation - Batch22\nToddller/baby action queue as part of being handed to parents.",
+    "vi": "Được bế",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141584135,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Cry for Lost Child",
+    "description": "The Sims 2 - Needs Translation - Batch22\naction queue for parent crying when child is taken away.\nWas Lost Child.",
+    "vi": "Khóc vì mất con",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "That special day has arrived. Please select your adoption preference:",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child)",
+    "vi": "Ngày đặc biệt đã tới rồi. Bạn muốn nhận nuôi trẻ ở độ tuổi nào?",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "Baby",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child)  button #1",
+    "vi": "Em bé",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Toddler",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child) - button #2",
+    "vi": "Trẻ tập đi",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Child",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child) - button #3",
+    "vi": "Trẻ em",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "Children are really very sturdy folk. Just read any Dickens' novel and the thought of children being taken to an orphanage should really warm your heart. Of course, they'll have to endure the strife and hard knock life at first, but they'll inevitably be adopted by some wealthy benefactor, right?",
+    "description": "Sims2 - Needs Translation - Batch 23\nLast Sim Removed body text",
+    "vi": "Trẻ con vốn kiên cường lắm. Cứ đọc thử một cuốn tiểu thuyết của Dickens mà xem, ý nghĩ chúng được đưa tới trại trẻ mồ côi hẳn sẽ khiến bạn thấy ấm lòng. Dĩ nhiên ban đầu chúng sẽ phải nếm chút gian nan và cuộc đời khắc nghiệt, nhưng rồi thế nào cũng có một nhà hảo tâm giàu có nhận nuôi thôi, đúng không?",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "The Orphanage Awaits",
+    "description": "Sims2 - Needs Translation - Batch 23\nLast Sim removed title of dialogue",
+    "vi": "Trại trẻ mồ côi đang chờ",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 10,
+    "category": "dialog",
+    "language": 1,
+    "en": "The SimCity Home for Orphaned Youth has really come a long way in the last few decades, so there's no reason to worry about these little ones. Why it was merely 10 years ago that they were serving reconstituted gruel cooked over tire fires, and look at them now! The gruel and the smell of burnt rubber remains strong, but the average managerial wages have risen 30%, and their first initial public offering looks to be strong!",
+    "description": "Sims2 - Needs Translation - Batch 23",
+    "vi": "Mái ấm Trẻ mồ côi SimCity đã tiến bộ vượt bậc trong vài thập kỷ qua, nên chẳng có lý do gì phải lo cho mấy đứa nhỏ cả. Mới mười năm trước họ còn phục vụ cháo hoàn nguyên nấu trên lửa đốt lốp xe, mà nhìn xem bây giờ khá hơn biết bao! Cháo và mùi cao su cháy vẫn còn đậm đà như cũ, nhưng lương trung bình của ban quản lý đã tăng 30%, còn đợt phát hành cổ phiếu lần đầu nghe cũng đầy triển vọng!",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "Death is always tragic, especially when its direct effects touch ones as young as these. However, even more tragic, is the fact that the SimCity Orphan Tax Collection Agency will be placing this estate up for sale in order to cover the cost of orphan care going forward. There go those dreams of growing up and discovering a huge and unknown inheritance for yet another orphan . . .",
+    "description": "Sims2 - Needs Translation - Batch 23",
+    "vi": "Cái chết lúc nào cũng là bi kịch, nhất là khi hậu quả của nó rơi xuống những đứa trẻ còn quá nhỏ. Nhưng bi kịch hơn nữa là Cơ quan Thu thuế Trẻ mồ côi SimCity sẽ đem bất động sản này ra bán để trang trải chi phí chăm sóc các em về sau. Thế là lại thêm một đứa trẻ phải tạm biệt giấc mơ lớn lên rồi bất ngờ phát hiện mình thừa kế cả một gia tài khổng lồ...",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 2,
+    "en": "That special day has arrived. Please select your adoption preference:",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child)",
+    "vi": "Ngày đặc biệt đã tới rồi. Bạn muốn nhận nuôi trẻ ở độ tuổi nào?",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 2,
+    "en": "Baby",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child)  button #1",
+    "vi": "Em bé",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 2,
+    "en": "Toddler",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child) - button #2",
+    "vi": "Trẻ tập đi",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 2,
+    "en": "Child",
+    "description": "Sims 2 - Needs Translation - Batch22\nDialog preceeding adoption delivery (asking you to choose a baby/toddler/child) - button #3",
+    "vi": "Trẻ em",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 2,
+    "en": "Children are really very sturdy folk. Just read any Dickens' novel and the thought of children being taken to an orphanage should really warm your heart. Of course, they'll have to endure the strife and hard knock life at first, but they'll inevitably be adopted by some wealthy benefactor, right?",
+    "description": "Sims2 - Needs Translation - Batch 23\nLast Sim Removed body text",
+    "vi": "Trẻ con vốn kiên cường lắm. Cứ đọc thử một cuốn tiểu thuyết của Dickens mà xem, ý nghĩ chúng được đưa tới trại trẻ mồ côi hẳn sẽ khiến bạn thấy ấm lòng. Dĩ nhiên ban đầu chúng sẽ phải nếm chút gian nan và cuộc đời khắc nghiệt, nhưng rồi thế nào cũng có một nhà hảo tâm giàu có nhận nuôi thôi, đúng không?",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141584135,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 2,
+    "en": "Death is always tragic, especially when its direct effects touch ones as young as these. However, even more tragic, is the fact that the SimCity Orphan Tax Collection Agency will be placing this estate up for sale in order to cover the cost of orphan care going forward. There go those dreams of growing up and discovering a huge and unknown inheritance for yet another orphan . . .",
+    "description": "Sims2 - Needs Translation - Batch 23",
+    "vi": "Cái chết lúc nào cũng là bi kịch, nhất là khi hậu quả của nó rơi xuống những đứa trẻ còn quá nhỏ. Nhưng bi kịch hơn nữa là Cơ quan Thu thuế Trẻ mồ côi SimCity sẽ đem bất động sản này ra bán để trang trải chi phí chăm sóc các em về sau. Thế là lại thêm một đứa trẻ phải tạm biệt giấc mơ lớn lên rồi bất ngờ phát hiện mình thừa kế cả một gia tài khổng lồ...",
+    "reason": "Social-worker/adoption text is potentially player-visible in Free Play; exact-row translation keeps the inherited system localized without promoting hidden helper rows."
+  }
+]
