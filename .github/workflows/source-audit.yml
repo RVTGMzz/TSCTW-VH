@@ -148,3 +148,8 @@ jobs:
           python src/builder/triage_review_queue.py --object-contains "Controller - Inheritance" --groups 30 --samples 360
           python src/builder/triage_review_queue.py --object-contains "Destination - For" --groups 30 --samples 420
           python src/builder/triage_review_queue.py --object-contains "NPC - Template - Social Worker" --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --instance-id 2144931547 --groups 20 --samples 320
+          python src/builder/triage_review_queue.py --instance-id 2140408621 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --instance-id 2145375815 --groups 20 --samples 160
+          python src/builder/triage_review_queue.py --instance-id 2144394938 --groups 20 --samples 120
+          python src/builder/triage_review_queue.py --instance-id 2136745598 --groups 20 --samples 120
