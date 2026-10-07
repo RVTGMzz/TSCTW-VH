@@ -1,0 +1,674 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Would you like to invite this Sim over, or just talk?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Bạn muốn mời Sim này qua chơi hay chỉ nói chuyện thôi?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Invite Over",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Mời qua chơi",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Talk",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Nói chuyện",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Who is this? $Neighbor isn't home now! Leave me alone!",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Ai vậy? $Neighbor giờ không có nhà! Để tôi yên!",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "I don't really feel like coming over right now. Maybe once I get to know you a little better.",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Giờ mình chưa muốn qua đâu. Có lẽ khi tụi mình thân nhau hơn một chút nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Gee, I thought you'd never ask! I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "category": "dialog",
+    "vi": "Trời, tưởng bạn chẳng bao giờ rủ chứ! Mình qua ngay đây.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Hey $Me! Would you like to join our conversation?",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "dialog",
+    "vi": "$Me này! Muốn tham gia nói chuyện cùng tụi mình không?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "$Me, do you wanna sneak out with me tonight?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "category": "dialog",
+    "vi": "$Me, tối nay muốn lẻn ra ngoài với mình không?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Cool! I'll come pick you up at 1:00 AM.",
+    "description": "Sims2 - Needs Translation - batch18\r\nAccept",
+    "category": "dialog",
+    "vi": "Được đó! 1 giờ sáng mình qua đón nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "I don't really feel like hanging out right now. Maybe some other time.",
+    "description": "Sims2 - Needs Translation - batch18\r\nReject",
+    "category": "dialog",
+    "vi": "Giờ mình chưa muốn đi chơi lắm. Để dịp khác nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Sorry. I've got OTHER plans.",
+    "description": "Sims2 - Needs Translation - batch18\r\nReject",
+    "category": "dialog",
+    "vi": "Xin lỗi nha. Mình có KẾ HOẠCH KHÁC rồi.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Can my friend come over, too?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSim invites one Sim over by phone, phone gives this dialog asking if friend can come.",
+    "category": "dialog",
+    "vi": "Bạn mình qua cùng được không?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Sneak Out with %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nFor Phone UI, dialog, variable is name of Sim clicked on in the name list. Appears for teen Sims after 9 pm if they know another teen.",
+    "category": "dialog",
+    "vi": "Lẻn ra ngoài với %s",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Call %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nFor Phone UI, dialog, variable is name of Sim clicked on in the name list.",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 18,
+    "language": 1,
+    "en": "Crank Call %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: feature may or not be cut - this is ability to do Crank Calls on the phone. Cut per FP 5/27 but was still in game.",
+    "category": "dialog",
+    "vi": "Gọi chọc phá %s",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 19,
+    "language": 1,
+    "en": "Cool! I'll come pick you up at 8:00 PM.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: Dialog for Sim accepting invitation to Go Out.",
+    "category": "dialog",
+    "vi": "Được đó! 8 giờ tối mình qua đón nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "Personal Phonebook",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "category": "dialog",
+    "vi": "Danh bạ cá nhân",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 44,
+    "language": 2,
+    "en": "Would you like to invite this Sim over, or just talk?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Bạn muốn mời Sim này qua chơi hay chỉ nói chuyện thôi?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 45,
+    "language": 2,
+    "en": "Invite Over",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Mời qua chơi",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 46,
+    "language": 2,
+    "en": "Talk",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Nói chuyện",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 47,
+    "language": 2,
+    "en": "Who is this? $Neighbor isn't home now! Leave me alone!",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Ai vậy? $Neighbor giờ không có nhà! Để tôi yên!",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 48,
+    "language": 2,
+    "en": "I don't really feel like coming over right now. Maybe once I get to know you a little better.",
+    "description": "Sims2 - Needs Translation - batch12",
+    "category": "dialog",
+    "vi": "Giờ mình chưa muốn qua đâu. Có lẽ khi tụi mình thân nhau hơn một chút nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 50,
+    "language": 2,
+    "en": "Gee, I thought you'd never ask! I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "category": "dialog",
+    "vi": "Trời, tưởng bạn chẳng bao giờ rủ chứ! Mình qua ngay đây.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 52,
+    "language": 2,
+    "en": "Hey $Me! Would you like to join our conversation?",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "category": "dialog",
+    "vi": "$Me này! Muốn tham gia nói chuyện cùng tụi mình không?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 53,
+    "language": 2,
+    "en": "$Me, do you wanna sneak out with me tonight?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "category": "dialog",
+    "vi": "$Me, tối nay muốn lẻn ra ngoài với mình không?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 54,
+    "language": 2,
+    "en": "Cool! I'll come pick you up at 1:00 AM.",
+    "description": "Sims2 - Needs Translation - batch18\r\nAccept",
+    "category": "dialog",
+    "vi": "Được đó! 1 giờ sáng mình qua đón nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 55,
+    "language": 2,
+    "en": "I don't really feel like hanging out right now. Maybe some other time.",
+    "description": "Sims2 - Needs Translation - batch18\r\nReject",
+    "category": "dialog",
+    "vi": "Giờ mình chưa muốn đi chơi lắm. Để dịp khác nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 56,
+    "language": 2,
+    "en": "Sorry. I've got OTHER plans.",
+    "description": "Sims2 - Needs Translation - batch18\r\nReject",
+    "category": "dialog",
+    "vi": "Xin lỗi nha. Mình có KẾ HOẠCH KHÁC rồi.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 57,
+    "language": 2,
+    "en": "Can my friend come over, too?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSim invites one Sim over by phone, phone gives this dialog asking if friend can come.",
+    "category": "dialog",
+    "vi": "Bạn mình qua cùng được không?",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 58,
+    "language": 2,
+    "en": "Sneak Out with %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nFor Phone UI, dialog, variable is name of Sim clicked on in the name list. Appears for teen Sims after 9 pm if they know another teen.",
+    "category": "dialog",
+    "vi": "Lẻn ra ngoài với %s",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 59,
+    "language": 2,
+    "en": "Call %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nFor Phone UI, dialog, variable is name of Sim clicked on in the name list.",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 60,
+    "language": 2,
+    "en": "Crank Call %s",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: feature may or not be cut - this is ability to do Crank Calls on the phone. Cut per FP 5/27 but was still in game.",
+    "category": "dialog",
+    "vi": "Gọi chọc phá %s",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 61,
+    "language": 2,
+    "en": "Cool! I'll come pick you up at 8:00 PM.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: Dialog for Sim accepting invitation to Go Out.",
+    "category": "dialog",
+    "vi": "Được đó! 8 giờ tối mình qua đón nhé.",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      301,
+      0
+    ],
+    "row": 62,
+    "language": 2,
+    "en": "Personal Phonebook",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "category": "dialog",
+    "vi": "Danh bạ cá nhân",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Call.../Sim",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on phone to call another Sim.",
+    "category": "menu",
+    "vi": "Gọi.../Sim",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Call.../Sneak Out",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on phone to Sneak out - appears on phone after 9 pm for teen sim if knows another teen Sim.",
+    "category": "menu",
+    "vi": "Gọi.../Lẻn ra ngoài",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Call.../Crank Call",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: feature may or not be cut - this is interaction on phone for Crank Call.",
+    "category": "menu",
+    "vi": "Gọi.../Chọc phá",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Call.../Go Out",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSim calls another Sim to go out.",
+    "category": "menu",
+    "vi": "Gọi.../Rủ đi chơi",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Call.../Sim",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on phone to call another Sim.",
+    "category": "menu",
+    "vi": "Gọi.../Sim",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Call.../Sneak Out",
+    "description": "The Sims 2 - Needs Translation - Batch19\nInteraction on phone to Sneak out - appears on phone after 9 pm for teen sim if knows another teen Sim.",
+    "category": "menu",
+    "vi": "Gọi.../Lẻn ra ngoài",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Call.../Crank Call",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: feature may or not be cut - this is interaction on phone for Crank Call.",
+    "category": "menu",
+    "vi": "Gọi.../Chọc phá",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145525850,
+      302,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Call.../Go Out",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSim calls another Sim to go out.",
+    "category": "menu",
+    "vi": "Gọi.../Rủ đi chơi",
+    "reason": "Player-facing base-game Sim-to-Sim phone interaction/dialog; exact-row translation preserves placeholders and separates expansion branches."
+  }
+]
