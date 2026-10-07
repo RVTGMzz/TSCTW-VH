@@ -1,0 +1,257 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132626904,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "puddle",
+    "description": "The Sims 2 - Needs Translation - Batch24\nPlease keep in lower case - this word is used in the TNS for gaining cleaning skill.",
+    "category": "catalog",
+    "reason": "Base-game puddle display name used by notifications; source metadata explicitly says to keep the word lower-case."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Mop Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game Puddle player-facing Mop Up/Splash interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game Puddle player-facing Mop Up/Splash interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Mop Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game Puddle player-facing Mop Up/Splash interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game Puddle player-facing Mop Up/Splash interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Spray",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Stomp On",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Spray",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Stomp On",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Spray",
+    "description": "The Sims2 - Needs Translation - Batch23",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Stomp On",
+    "description": "The Sims2 - Needs Translation - Batch23",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims2 - Needs Translation - Batch23",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Spray",
+    "description": "The Sims2 - Needs Translation - Batch23",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Stomp On",
+    "description": "The Sims2 - Needs Translation - Batch23",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims2 - Needs Translation - Batch23",
+    "category": "menu",
+    "reason": "Base-game Roaches player-facing Spray/Stomp On/Dispose interaction; reuse approved Vietnamese menu mapping on this exact row."
+  }
+]

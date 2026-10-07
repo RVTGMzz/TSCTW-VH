@@ -1259,5 +1259,7 @@
   "Police Station": "Đồn cảnh sát",
   "Pay Bills": "Thanh toán hóa đơn",
   "Pay Bills: $ $Local:0": "Thanh toán hóa đơn: $ $Local:0",
-  "Fill $Object's food dish $$Local:0": "Đổ thức ăn cho $Object $$Local:0"
+  "Fill $Object's food dish $$Local:0": "Đổ thức ăn cho $Object $$Local:0",
+  "Mop Up": "Lau sạch",
+  "Spray": "Xịt thuốc"
 }

@@ -1,0 +1,1592 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146392492,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scientifically Superior Pet Dish",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146392492,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pet owners everywhere wonder how to determine which is the finest pet dish on the market, and a scientific study conducted by our labs has finally put the matter to rest. 8 out of 10 pets surveyed seemed to prefer eating pet food out of our dish to eating pine cones out of our leading competitor's dish. Wonder no more!",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146392492,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scientifically Superior Pet Dish",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146392492,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet owners everywhere wonder how to determine which is the finest pet dish on the market, and a scientific study conducted by our labs has finally put the matter to rest. 8 out of 10 pets surveyed seemed to prefer eating pet food out of our dish to eating pine cones out of our leading competitor's dish. Wonder no more!",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146812259,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Affluent Animal Dinner Dish",
+    "description": "The Sims 2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146812259,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Well-heeled pets demand nothing but the best, from their manicured claws to their personal chef. Keep your treasured companion living in the style to which it has become accustomed with this classy container.",
+    "description": "The Sims 2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146812259,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Affluent Animal Dinner Dish",
+    "description": "The Sims 2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146812259,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Well-heeled pets demand nothing but the best, from their manicured claws to their personal chef. Keep your treasured companion living in the style to which it has become accustomed with this classy container.",
+    "description": "The Sims 2 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132626904,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll in Puddle",
+    "description": "",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132626904,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Roll in Puddle",
+    "description": "",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      147,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark/Hiss",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      147,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl/Hiss",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      147,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ignore",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      147,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Run Away",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      147,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fight",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Select Desired Result",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark/Hiss",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Other",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl/Hiss",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cower",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fight",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ignore",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Select the Outcome of Social",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bark/Hiss",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Other",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Growl/Hiss",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cower",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fight",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ignore",
+    "description": "",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hiss At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Hissed At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Growled At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hiss At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Growl At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Hissed At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136134055,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Growled At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Select Desired Result",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ignore",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Yell At",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cower",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Other",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Select the Outcome of Social",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bark/Hiss",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Other",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Growl/Hiss",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Other",
+    "description": "!",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hiss At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Hissed At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Growled At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hiss At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Growl At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Hissed At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140390182,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Growled At",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spread",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Splash",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Lick",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test Lua Scripts",
+    "description": "!!!!!!Sims 2 EP7: Needs Text",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spread",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132626904,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Splash",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Puddle pet/debug/internal helper row (Spread, pet Roll/Lick, duplicate helper Splash, Lua test, or Roll in Puddle); not selected as Castaway player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "-Exterminate",
+    "description": "",
+    "reason": "Roaches '-Exterminate' helper action with empty metadata; internal helper rather than a player-facing pie-menu label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "-Exterminate",
+    "description": "",
+    "reason": "Roaches '-Exterminate' helper action with empty metadata; internal helper rather than a player-facing pie-menu label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "-Exterminate",
+    "description": "",
+    "reason": "Roaches '-Exterminate' helper action with empty metadata; internal helper rather than a player-facing pie-menu label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132771612,
+      2,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "-Exterminate",
+    "description": "",
+    "reason": "Roaches '-Exterminate' helper action with empty metadata; internal helper rather than a player-facing pie-menu label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark At",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Barked At",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Growled At",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hiss At",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Hissed At",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ghost Version (Text Never Seen)",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ghost Version (Text Never Seen)",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bark At",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136134055,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Barked At",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Barked At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Growled At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Hissed At",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ghost Version",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ghost Version",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bark At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Barked At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Bark At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Barked At",
+    "description": "Sims2EP4 - Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hiss",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140390182,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Hissed At",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic dog/cat Pets social resource (bark/growl/hiss/ghost/outcome helpers) from EP4/EP6; Castaway retains the talking-bird system separately, not this pet-social subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fill Bowl",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation\n",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call To Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fill Bowl",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation\n",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392492,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call To Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fill Bowl",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call To Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fill Bowl",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146812259,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call To Eat",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Generic Pet Food Dish resource for the Pets subsystem; Castaway's retained companion feeding is handled by the talking-bird cage resource, not these dog/cat food bowls."
+  }
+]
