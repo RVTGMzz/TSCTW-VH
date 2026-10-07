@@ -1,0 +1,674 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132660664,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "The Glassic Chair",
+    "description": "SIMS2 - Needs Translation - Batch4  b(5)",
+    "vi": "Ghế Glassic",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132660664,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "This remarkable piece of furniture is a design dream turned reality. Inspired by the familiar shape of a wine glass, the Glassic chair envelopes the sitter, swirling them in a cozy cavern of comfort. \"The Glassic Chair\"–born from the form of a glass and shaped into an intoxicating classic.",
+    "description": "SIMS2 - Needs Translation - Batch4  b(5)",
+    "vi": "Món nội thất đặc biệt này là giấc mơ thiết kế thành hiện thực. Lấy cảm hứng từ dáng ly rượu quen thuộc, ghế Glassic ôm trọn người ngồi trong một khoảng không êm ái, dễ chịu. Sinh ra từ hình dáng chiếc ly và được uốn thành một món kinh điển đầy mê hoặc.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132660664,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "The Glassic Chair",
+    "description": "SIMS2 - Needs Translation - Batch4  b(5)",
+    "vi": "Ghế Glassic",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132660664,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "This remarkable piece of furniture is a design dream turned reality. Inspired by the familiar shape of a wine glass, the Glassic chair envelopes the sitter, swirling them in a cozy cavern of comfort. \"The Glassic Chair\"–born from the form of a glass and shaped into an intoxicating classic.",
+    "description": "SIMS2 - Needs Translation - Batch4  b(5)",
+    "vi": "Món nội thất đặc biệt này là giấc mơ thiết kế thành hiện thực. Lấy cảm hứng từ dáng ly rượu quen thuộc, ghế Glassic ôm trọn người ngồi trong một khoảng không êm ái, dễ chịu. Sinh ra từ hình dáng chiếc ly và được uốn thành một món kinh điển đầy mê hoặc.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133437151,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Studio Bakonmi Deluxe Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế Studio Bakonmi Deluxe",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133437151,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Your guests won't know their bottoms from their tops once they've had a sit on a Studio Bakonmi Deluxe Chair. With its overstuffed rests and smooth-flop cushions, guests will find themselves wondering whether it's a chair, a sculpture, or possibly a hovercraft.  It's a great conversation piece as well.",
+    "description": "Sims2 - Needs Translation - batch1\r\nEnglish edit - corrected run-on sentence",
+    "vi": "Khách nhà bạn có khi ngồi xuống Ghế Studio Bakonmi Deluxe rồi chẳng còn biết đâu là trên đâu là dưới. Tay vịn căng phồng và đệm mềm oặt khiến người ta phải tự hỏi đây là ghế, tác phẩm điêu khắc hay... tàu đệm khí. Ít nhất thì nó cực kỳ hợp để mở đầu câu chuyện.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133437151,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Studio Bakonmi Deluxe Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế Studio Bakonmi Deluxe",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133437151,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Your guests won't know their bottoms from their tops once they've had a sit on a Studio Bakonmi Deluxe Chair. With its overstuffed rests and smooth-flop cushions, guests will find themselves wondering whether it's a chair, a sculpture, or possibly a hovercraft.  It's a great conversation piece as well.",
+    "description": "Sims2 - Needs Translation - batch1\r\nEnglish edit - corrected run-on sentence",
+    "vi": "Khách nhà bạn có khi ngồi xuống Ghế Studio Bakonmi Deluxe rồi chẳng còn biết đâu là trên đâu là dưới. Tay vịn căng phồng và đệm mềm oặt khiến người ta phải tự hỏi đây là ghế, tác phẩm điêu khắc hay... tàu đệm khí. Ít nhất thì nó cực kỳ hợp để mở đầu câu chuyện.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133847924,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Studio Bakonmi Deluxe Lounge",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế thư giãn Studio Bakonmi Deluxe",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133847924,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Studio Bakonmi's Simon Tart was sitting on a Bakonmi Deluxe Chair enjoying a slice of his namesake when the inspiration for the Deluxe Lounge hit him like a pie in the face. According to Simon, its smooth-flop cushions reflect \"the collapse of life, like pie\" while its curved spine suggests rhubarb à la mode.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Simon Tart của Studio Bakonmi đang ngồi trên ghế Bakonmi Deluxe, thưởng thức một miếng bánh trùng tên mình thì ý tưởng về Deluxe Lounge ập tới như cái bánh úp thẳng vào mặt. Theo Simon, lớp đệm mềm oặt tượng trưng cho “sự sụp đổ của cuộc đời, giống như bánh”, còn phần lưng cong gợi nhớ món đại hoàng ăn cùng kem.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133847924,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Studio Bakonmi Deluxe Lounge",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế thư giãn Studio Bakonmi Deluxe",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133847924,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Studio Bakonmi's Simon Tart was sitting on a Bakonmi Deluxe Chair enjoying a slice of his namesake when the inspiration for the Deluxe Lounge hit him like a pie in the face. According to Simon, its smooth-flop cushions reflect \"the collapse of life, like pie\" while its curved spine suggests rhubarb à la mode.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Simon Tart của Studio Bakonmi đang ngồi trên ghế Bakonmi Deluxe, thưởng thức một miếng bánh trùng tên mình thì ý tưởng về Deluxe Lounge ập tới như cái bánh úp thẳng vào mặt. Theo Simon, lớp đệm mềm oặt tượng trưng cho “sự sụp đổ của cuộc đời, giống như bánh”, còn phần lưng cong gợi nhớ món đại hoàng ăn cùng kem.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140081576,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "E-to-the-Z Chair",
+    "description": "The Sims2 - Needs Translation",
+    "vi": "Ghế E-to-the-Z",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140081576,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Looking to relax after a long, exhausting day?  Once seated in this armchair, you'll always be chillin', never illin'!  Gently sink into the soft curves of this chair and you can veg to your heart's content.  The E-to-the-Z Chair does nothing but keep you blissfully serene, so that even the worst happenings don't kill your vibe.",
+    "description": "The Sims2 - Needs Translation",
+    "vi": "Mệt rã rời sau một ngày dài hả? Ngồi vào chiếc ghế này là chỉ có chill, khỏi có quạu! Thả người vào những đường cong mềm mại và cứ việc ngồi ườn tới khi đã đời. Ghế E-to-the-Z sinh ra để giữ bạn thư thái tới mức chuyện tệ cỡ nào cũng khó phá mood.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140081576,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "E-to-the-Z Chair",
+    "description": "The Sims2 - Needs Translation",
+    "vi": "Ghế E-to-the-Z",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140081576,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Looking to relax after a long, exhausting day?  Once seated in this armchair, you'll always be chillin', never illin'!  Gently sink into the soft curves of this chair and you can veg to your heart's content.  The E-to-the-Z Chair does nothing but keep you blissfully serene, so that even the worst happenings don't kill your vibe.",
+    "description": "The Sims2 - Needs Translation",
+    "vi": "Mệt rã rời sau một ngày dài hả? Ngồi vào chiếc ghế này là chỉ có chill, khỏi có quạu! Thả người vào những đường cong mềm mại và cứ việc ngồi ườn tới khi đã đời. Ghế E-to-the-Z sinh ra để giữ bạn thư thái tới mức chuyện tệ cỡ nào cũng khó phá mood.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140520414,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Luxiary King Armchair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế bành Luxiary King",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140520414,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "The Luxiary King's patented, overstuffed, \"presidential\" no-pleat padding provides the precise level of comfort prescribed by plenty of Sims, who when polled seemed to really like comfort, support, and foam. So relax, and sink back into a Luxiary King Armchair.",
+    "description": "Sims2 - Needs Translation - batch1\r\nEnglish Edit - \"Armchair\" should be one word. ",
+    "vi": "Lớp đệm “tổng thống” căng phồng, không nếp gấp đã được cấp bằng sáng chế của Luxiary King mang lại đúng mức êm ái mà vô số Sim yêu cầu — hóa ra ai cũng thích thoải mái, được nâng đỡ và thật nhiều mút. Cứ thư giãn rồi chìm vào Ghế bành Luxiary King thôi.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140520414,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Luxiary King Armchair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế bành Luxiary King",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140520414,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "The Luxiary King's patented, overstuffed, \"presidential\" no-pleat padding provides the precise level of comfort prescribed by plenty of Sims, who when polled seemed to really like comfort, support, and foam. So relax, and sink back into a Luxiary King Armchair.",
+    "description": "Sims2 - Needs Translation - batch1\r\nEnglish Edit - \"Armchair\" should be one word. ",
+    "vi": "Lớp đệm “tổng thống” căng phồng, không nếp gấp đã được cấp bằng sáng chế của Luxiary King mang lại đúng mức êm ái mà vô số Sim yêu cầu — hóa ra ai cũng thích thoải mái, được nâng đỡ và thật nhiều mút. Cứ thư giãn rồi chìm vào Ghế bành Luxiary King thôi.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141430341,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Contempto Adirondack Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế Adirondack Contempto",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141430341,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Go \"country\" right in your living room with this almost genuine Adirondack chair from Contempto. Invite your brothers, and their brothers, and anyone at all who enjoys a leisurely sit in the great outdoors on clean slats of unfinished wood.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Mang chất “đồng quê” thẳng vào phòng khách với chiếc ghế Adirondack gần như hàng thật của Contempto. Mời anh em, bạn bè và bất kỳ ai mê cảm giác thong thả ngoài trời tới ngồi trên những thanh gỗ mộc sạch sẽ này.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141430341,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Contempto Adirondack Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế Adirondack Contempto",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141430341,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Go \"country\" right in your living room with this almost genuine Adirondack chair from Contempto. Invite your brothers, and their brothers, and anyone at all who enjoys a leisurely sit in the great outdoors on clean slats of unfinished wood.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Mang chất “đồng quê” thẳng vào phòng khách với chiếc ghế Adirondack gần như hàng thật của Contempto. Mời anh em, bạn bè và bất kỳ ai mê cảm giác thong thả ngoài trời tới ngồi trên những thanh gỗ mộc sạch sẽ này.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143651433,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "The Nofowle Armchair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế bành Nofowle",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143651433,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "The Nofowle Armchair by Foam-4-Less adequately supports nearly anything capable of sitting, thanks to its high-tensile, cast-iron springs and highly oxygenated foam rubber. Get the chair that's good for the goose AND for the gander: get a cloth-covered foam-rubber armchair from Foam-4-Less. Armrests included.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế bành Nofowle của Foam-4-Less nâng đỡ gần như mọi thứ biết ngồi nhờ lò xo gang chịu lực cao và mút cao su giàu khí. Một chiếc ghế hợp với tất cả mọi người: bọc vải, đầy mút, tới từ Foam-4-Less. Có cả tay vịn, khỏi lo.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143651433,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "The Nofowle Armchair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế bành Nofowle",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143651433,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "The Nofowle Armchair by Foam-4-Less adequately supports nearly anything capable of sitting, thanks to its high-tensile, cast-iron springs and highly oxygenated foam rubber. Get the chair that's good for the goose AND for the gander: get a cloth-covered foam-rubber armchair from Foam-4-Less. Armrests included.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế bành Nofowle của Foam-4-Less nâng đỡ gần như mọi thứ biết ngồi nhờ lò xo gang chịu lực cao và mút cao su giàu khí. Một chiếc ghế hợp với tất cả mọi người: bọc vải, đầy mút, tới từ Foam-4-Less. Có cả tay vịn, khỏi lo.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147002857,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Mr. Bearlybutts",
+    "description": "Sims2 - Needs Translation - Batch6",
+    "vi": "Ngài Bearlybutts",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147002857,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "In Happy Land there is a bear\rThat loves to hug a derriere.\rMr. Bearlybutts is your true friend.\rSit on him with your rear end!",
+    "description": "Sims2 - Needs Translation - Batch6",
+    "vi": "Ở Xứ Sở Vui Vẻ có chú gấu,\rMê ôm lấy những chiếc mông.\rNgài Bearlybutts là bạn tốt,\rCứ ngồi xuống nhé, ngại gì không!",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147002857,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Mr. Bearlybutts",
+    "description": "Sims2 - Needs Translation - Batch6",
+    "vi": "Ngài Bearlybutts",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147002857,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "In Happy Land there is a bear\rThat loves to hug a derriere.\rMr. Bearlybutts is your true friend.\rSit on him with your rear end!",
+    "description": "Sims2 - Needs Translation - Batch6",
+    "vi": "Ở Xứ Sở Vui Vẻ có chú gấu,\rMê ôm lấy những chiếc mông.\rNgài Bearlybutts là bạn tốt,\rCứ ngồi xuống nhé, ngại gì không!",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137680798,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Recycled Relaxer",
+    "description": "the sims 2 - needs translation - batch3",
+    "vi": "Ghế thư giãn Recycled Relaxer",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137680798,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Everything old is new again! This Recycled Relaxer is an armchair better than any old garage-sale find.  It comes with new stuffing, some new stitching, and a touch of deodorizer. Already broken in, the Recycled Relaxer will be well on its way to being the best seat in the house. ",
+    "description": "the sims 2 - needs translation - batch3",
+    "vi": "Đồ cũ rồi cũng thành mới! Recycled Relaxer ngon lành hơn mọi món bạn đào được ở garage sale: ruột đệm mới, vài đường may mới và thêm chút khử mùi. Ghế đã được “ngồi mềm” sẵn, chỉ còn chờ trở thành chỗ êm nhất nhà.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138940806,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Serenity Sitter",
+    "description": "the sims 2 - needs translation - batch3",
+    "vi": "Ghế Serenity Sitter",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138940806,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Renew yourself after a hard day's work. Sink into this sumptuous chair and feel refreshed. The plush patterned cushions and wide wood armrests alleviate the worries of the world, sending solace and serenity to the sitter.",
+    "description": "the sims 2 - needs translation - batch3",
+    "vi": "Nạp lại năng lượng sau một ngày làm việc mệt mỏi. Chìm vào chiếc ghế sang trọng này và cảm thấy mình tươi tỉnh trở lại. Đệm họa tiết mềm mại cùng tay vịn gỗ rộng sẽ xoa dịu mọi nỗi lo, đem tới cảm giác yên bình đúng như tên gọi.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140196372,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Armchair by Club Design",
+    "description": "The Sims 2 - Needs translation - Batch12",
+    "vi": "Ghế bành của Club Design",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140196372,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Plush cushions and pleasant curves make this chair a delight to Sims in need of a little time off their feet. Perfect for sitting around the fire visiting with friends or cozying up in and reading a good book. This chair can look casual or sophisticated and is sure to mesh with any design scheme.",
+    "description": "The Sims 2 - Needs translation - Batch12",
+    "vi": "Đệm êm và những đường cong dễ chịu biến chiếc ghế này thành niềm vui cho Sim đang cần nghỉ chân. Hoàn hảo để quây quần bên lửa cùng bạn bè hoặc cuộn mình đọc một cuốn sách hay. Dù căn phòng theo kiểu thoải mái hay sang trọng, chiếc ghế này vẫn hòa hợp ngon lành.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140201427,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Blue Suede Chair",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Ghế da lộn xanh",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140201427,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "With classy lines and smart white piping, this luxurious piece would feel equally at home in a suburban den or a rock star's boudoir. (Parents, please don't let kids step on the Blue Suede Chair.) If blue just isn't your thing, alternative colors are available.",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nEdited description to include design mode references.",
+    "vi": "Đường nét thanh lịch và viền trắng sắc sảo giúp món đồ xa xỉ này hợp cả phòng sinh hoạt ngoại ô lẫn phòng ngủ của ngôi sao rock. (Phụ huynh nhớ đừng để trẻ con giẫm lên Ghế da lộn xanh nhé.) Không mê màu xanh? Vẫn còn các màu khác.",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140960044,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Contempto Good Livin' Chair",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Ghế Contempto Good Livin'",
+    "reason": "Player-facing base-game chair catalog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140960044,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Today's Contempto living chairs are the product of over 50 years of waiting for the original chairs to come back into style. Classic design, exceptional comfort, retro style, and 50 year old construction, all combine for a truly vintage look. Live the life that others wish they could, with Contempto.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Những chiếc ghế phòng khách Contempto hôm nay là thành quả của hơn 50 năm chờ mẫu nguyên bản quay lại đúng mốt. Thiết kế cổ điển, độ êm tuyệt vời, phong cách retro và kết cấu có tuổi đời nửa thế kỷ hòa vào nhau thành vẻ vintage chính hiệu. Sống cuộc đời người khác chỉ biết ước ao — cùng Contempto.",
+    "reason": "Player-facing base-game chair catalog copy."
+  }
+]
