@@ -1,0 +1,257 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Put To Bed",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nrefers to putting toddler in crib",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Put To Bed",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nrefers to putting toddler in crib",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Get Sleeper Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Put In Crib",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "In Crib",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote - Was \"Sleep\" - changed to \"In Crib\" to take into account other activities of toddler while in crib (awake or asleep).",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Tuck In...",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Let Sleeper Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Let Sleeper Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Chew or Scratch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Put To Bed",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nrefers to putting toddler in crib",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Put To Bed",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nrefers to putting toddler in crib",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Get Sleeper Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Put In Crib",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "In Crib",
+    "description": "The Sims 2 - Needs Translation - Batch24\nNote - Was \"Sleep\" - changed to \"In Crib\" to take into account other activities of toddler while in crib (awake or asleep).",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Tuck In...",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Let Sleeper Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Let Sleeper Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing crib/toddler interaction; exact label has an approved Vietnamese menu mapping."
+  }
+]
