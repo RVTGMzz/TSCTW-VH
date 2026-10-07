@@ -1,0 +1,212 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137671548,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Vanity Dialog",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Technical mirror vanity dialog label with debug metadata; not player-facing prose."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137671548,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Vanity Dialog",
+    "description": "!",
+    "status": "excluded",
+    "reason": "Technical mirror vanity dialog label with debug metadata; not player-facing prose."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 475,
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 476,
+    "language": 2,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 498,
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136511026,
+      128,
+      0
+    ],
+    "row": 499,
+    "language": 1,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 39,
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133296635,
+      128,
+      0
+    ],
+    "row": 40,
+    "language": 2,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135171317,
+      128,
+      0
+    ],
+    "row": 38,
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441446,
+      128,
+      0
+    ],
+    "row": 38,
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Television maintenance/repair level setter with debug-style metadata; internal tuning action rather than a normal player-facing command."
+  }
+]
