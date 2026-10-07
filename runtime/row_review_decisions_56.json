@@ -1,0 +1,77 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144931547,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "[F]",
+    "description": "!",
+    "reason": "Technical gender/variant marker rather than player-facing dialog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144931547,
+      301,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "[F]",
+    "description": "!",
+    "reason": "Technical gender/variant marker rather than player-facing dialog copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144931547,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Gotta run, have a lot of stops to make.",
+    "description": "!Pizza: ",
+    "reason": "UK-English duplicate of the base-game pizza-delivery service dialog residue already excluded in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Route Near Stray",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Route Near helper action; internal routing label, not player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "run off lot debug text",
+    "description": "",
+    "reason": "Label explicitly identifies itself as debug text; internal routing/test interaction."
+  }
+]
