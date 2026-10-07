@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Tested",
+    "description": "!!!!!!!!!!!!!!!!!!",
+    "reason": "Crib test/cancel-test helper interaction with explicit debug-style metadata; not player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Tested",
+    "description": "!!!!!!!!!!!!!!!!!!",
+    "reason": "Crib test/cancel-test helper interaction with explicit debug-style metadata; not player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test Cancel Interaction",
+    "description": "!!!!!!!!!!!!!!!!!!",
+    "reason": "Crib test/cancel-test helper interaction with explicit debug-style metadata; not player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139688108,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Test Cancel Interaction",
+    "description": "!!!!!!!!!!!!!!!!!!",
+    "reason": "Crib test/cancel-test helper interaction with explicit debug-style metadata; not player-facing gameplay."
+  }
+]
