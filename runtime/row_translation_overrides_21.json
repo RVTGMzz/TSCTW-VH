@@ -1,0 +1,530 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Send Email",
+    "description": "The Sims 2 - Needs Translation - Batch16\rNote: Not marked previously for translation but is in game.",
+    "vi": "Gửi email",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Write Novel",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nmarked 4/1/04 smp",
+    "vi": "Viết tiểu thuyết",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Send Email",
+    "description": "The Sims 2 - Needs Translation - Batch16\rNote: Not marked previously for translation but is in game.",
+    "vi": "Gửi email",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Write Novel",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nmarked 4/1/04 smp",
+    "vi": "Viết tiểu thuyết",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Find A Job",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Tìm việc",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Shop",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Mua sắm",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Check Email",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Kiểm tra email",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Find Own Place",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Tìm chỗ ở riêng",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Find A Job",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Tìm việc",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Shop",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Mua sắm",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 39,
+    "category": "menu",
+    "language": 2,
+    "en": "Check Email",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Kiểm tra email",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 2,
+    "en": "Find Own Place",
+    "description": "The Sims 2 - BatchMTF",
+    "vi": "Tìm chỗ ở riêng",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Send Email",
+    "description": "The Sims 2 - Needs Translation - Batch16\r",
+    "vi": "Gửi email",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Send Email",
+    "description": "The Sims 2 - Needs Translation - Batch16\r",
+    "vi": "Gửi email",
+    "reason": "Player-facing computer text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Do $Object's Homework ($Local:0%)",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Làm bài tập của $Object ($Local:0%)",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Do Homework ($Local:0%)",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Làm bài tập ($Local:0%)",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Help with Homework.../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Giúp làm bài tập.../$Object",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Help $Object with Homework",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Giúp $Object làm bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask for Homework Help.../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Nhờ giúp bài tập.../$Object",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask $Object for Homework Help",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Nhờ $Object giúp bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Do $Object's Homework ($Local:0%)",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Làm bài tập của $Object ($Local:0%)",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Do Homework ($Local:0%)",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Làm bài tập ($Local:0%)",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Help with Homework.../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Giúp làm bài tập.../$Object",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Help $Object with Homework",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Giúp $Object làm bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask for Homework Help.../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Nhờ giúp bài tập.../$Object",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask $Object for Homework Help",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "vi": "Nhờ $Object giúp bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146753730,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Do Homework",
+    "description": "The Sims 2 - This should be the same as the other two \"Do Homework\" strings in the other string table. Adding this here in case it's needed by the OE so I can get the translations copied.",
+    "vi": "Làm bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Do Homework",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Làm bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Do Homework",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Làm bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask to be Taught to Study.../",
+    "description": "The Sims 2 - Needs translation - Batch22\r\nDoes this interaction work without a variable? smp 5/11",
+    "vi": "Nhờ dạy cách học.../",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Do Homework",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Làm bài tập",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask to Teach.../",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nDoes this interaction work without a variable? smp 5/11",
+    "vi": "Dạy cách học.../",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146753730,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Homework",
+    "description": "The Sims 2 - Needs Translation - Batch23",
+    "vi": "Bài tập về nhà",
+    "reason": "Player-facing homework text with clear local context; exact-row translation preserves source placeholders and avoids global ambiguity."
+  }
+]
