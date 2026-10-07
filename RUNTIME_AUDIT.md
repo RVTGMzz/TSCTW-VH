@@ -2,6 +2,23 @@
 
 Checkpoint: 2026-10-05.
 
+## Latest source checkpoint — 2026-10-08
+
+Authoritative source state: commit `ad9adc7`, Source Audit run **351 PASS**.
+
+- translation map entries: **6,294**
+- context-specific exact-row translations: **1,339**
+- effective candidate rows: **13,685**
+- untranslated/review candidate rows: **0**
+- unresolved inherited review rows: **22,322**
+- automatic inherited exclusions: **1,349**
+- parse errors: **0**
+- selector runtime source: **NOT VERIFIED**
+- package QA: **STALE**, 7,502 verified candidates vs 13,685 current candidates (gap **6,183**)
+- v0.8 TEST: **NOT RELEASED**
+
+Recent broad-sweep completion: Trash Compactor base actions; EP7 Juice Cup; EP2 Block - Stacking; EP7 Wish/Drink/Fall From Heaven; Bills split base vs Nightlife/debug; shared emergency/Missing-Sim phone flow; full EP7 Juicer/Main Squeezer residue. Exact layers now extend through `row_scope_overrides_68.json` and `row_review_decisions_111.json`; `row_translation_overrides_49.json` remains the latest translation-override shard. Source Audit workflow has targeted `--instance-id` diagnostics for the active mixed families.
+
 Repo này vẫn là **source-only**. Không commit package game gốc hoặc package đã patch.
 
 ## Vì sao cần runtime sweep

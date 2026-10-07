@@ -1,4 +1,4 @@
-> **Newest handoff (2026-10-08):** read `RUNTIME_HANDOFF_2026-10-08.md` FIRST. It supersedes all older numerical checkpoints below. Latest source checkpoint before handoff docs: `8f3d10c`; Source Audit run 344 PASS with **6,278 translation entries / 1,339 exact-row translations, 13,604 candidates, 0 missing/review candidates, 22,498 unresolved inherited rows, 1,349 auto-exclusions, 0 parse errors**. Package QA is stale at 7,502 verified candidates (gap 6,102); selector runtime source is still unverified; no completed v0.8 TEST release exists.
+> **Newest handoff (2026-10-08):** read `RUNTIME_HANDOFF_2026-10-08.md` FIRST. It supersedes all older numerical checkpoints below. Latest verified source checkpoint: `ad9adc7`; Source Audit run 351 PASS with **6,294 translation entries / 1,339 exact-row translations, 13,685 candidates, 0 missing/review candidates, 22,322 unresolved inherited rows, 1,349 auto-exclusions, 0 parse errors**. Package QA is stale at 7,502 verified candidates (gap 6,183); selector runtime source is still unverified; no completed v0.8 TEST release exists.
 
 # Prompt mở phiên tiếp theo
 
@@ -10,12 +10,16 @@ Tiếp tục dự án Việt hóa **The Sims Castaway Stories PC** trong repo:
 https://github.com/RVTGMzz/TSCTW-VH
 
 Hãy dùng GitHub connector đúng repo `RVTGMzz/TSCTW-VH`, đọc kỹ theo thứ tự:
-1. `CONTINUE_WITH_MODEL.md`
-2. `RUNTIME_AUDIT.md`
-3. `TRANSLATION_STYLE.md`
-4. `BUILD.md`
-5. `README.md`
-6. các bảng dịch hiện có trong `translations/`
+1. `RUNTIME_HANDOFF_2026-10-08.md`
+2. `NEXT_SESSION_PROMPT.md`
+3. `CONTINUE_WITH_MODEL.md`
+4. `RUNTIME_AUDIT.md`
+5. `TRANSLATION_STYLE.md`
+6. `BUILD.md`
+7. `runtime/README.md`
+8. Source Audit mới nhất
+
+Tiếp tục từ checkpoint source `ad9adc7` hoặc mới hơn. Source Audit hiện tại: **6,294 translation entries, 1,339 exact-row translations, 13,685 candidate rows, 0 missing/review candidate, 22,322 inherited unresolved, 1,349 auto-exclusions, 0 parse error**.
 
 Mục tiêu đợt này KHÔNG phải vá từng câu tôi chụp. Tôi muốn làm một **runtime sweep toàn diện** cho mọi text người chơi thật sự nhìn thấy trong Castaway: pie menu/interaction, tên+mô tả item, Story/Career/Aspiration rewards, Wants/Goals/hints, story/neighborhood metadata, gameplay popup/UI/tutorial và story/dialog runtime.
 

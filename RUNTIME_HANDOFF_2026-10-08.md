@@ -4,17 +4,17 @@ This file supersedes all older numerical checkpoints in `CONTINUE_WITH_MODEL.md`
 
 ## Authoritative checkpoint
 
-Continue from commit `8f3d10c2ba3cdc7d43b4dcc344a2e0a54362fd65` or newer.
+Continue from commit `ad9adc75ee3f93f198a82429029e4296bc3329ca` or newer.
 
 Latest verified Source Audit:
-- workflow run **344**
-- commit **8f3d10c**
+- workflow run **351**
+- commit **ad9adc7**
 - conclusion **PASS**
-- **6,278 translation map entries**
+- **6,294 translation map entries**
 - **1,339 context-specific exact-row translations**
-- **13,604 effective candidate rows**
+- **13,685 effective candidate rows**
 - **0 untranslated/review candidate rows**
-- **22,498 unresolved inherited review rows**
+- **22,322 unresolved inherited review rows**
 - **1,349 automatic inherited-row exclusions**
 - **0 parse errors**
 - selector runtime source: **NOT VERIFIED**
@@ -22,9 +22,9 @@ Latest verified Source Audit:
 - current in-game validation: **NOT COMPLETED**
 
 Current translated category highlights from Source Audit:
-- catalog: **1,046 translated**, 7 excluded, 5 retained
-- menu: **1,472 translated**, 6 excluded
-- dialog: **357 translated**
+- catalog: **1,047 translated**, 7 excluded, 5 retained
+- menu: **1,477 translated**, 6 excluded
+- dialog: **361 translated**
 - story: **1,552 translated**
 - tutorial: **150 translated**
 - UI: **235 translated**, 15 excluded
@@ -38,16 +38,16 @@ Current translated category highlights from Source Audit:
 
 `runtime/coverage.json` is an older generated snapshot (5,325 entries / 9,085 candidates / 30,862 unresolved) and is NOT authoritative for current source state.
 
-`runtime/package_qa.json` is also stale. Its last structurally verified package snapshot covers **7,502 candidate rows**. Current Source Audit has **13,604 candidate rows**, so package-writer QA is behind by **6,102 rows**.
+`runtime/package_qa.json` is also stale. Its last structurally verified package snapshot covers **7,502 candidate rows**. Current Source Audit has **13,685 candidate rows**, so package-writer QA is behind by **6,183 rows**.
 
 Do not rewrite package-QA provenance by hand. Before any release claim, rerun the package writer/round-trip/idempotence/unrelated-resource checks against Ron's already supplied baseline packages.
 
 ## Exact-row architecture — do not flatten it
 
 Current numbered exact layers are continuous:
-- `runtime/row_scope_overrides_02.json` through `row_scope_overrides_65.json`
+- `runtime/row_scope_overrides_02.json` through `row_scope_overrides_68.json`
 - `runtime/row_translation_overrides_01.json` through `row_translation_overrides_49.json`
-- `runtime/row_review_decisions_01.json` through `row_review_decisions_107.json`
+- `runtime/row_review_decisions_01.json` through `row_review_decisions_111.json`
 
 Use them correctly:
 1. **row_scope_overrides** = promote an inherited exact row when it can reuse an approved category English→Vietnamese mapping.
@@ -94,6 +94,18 @@ Completed or substantially expanded player-facing coverage includes:
 Recent evidence-backed classifications/exclusions include broad University, Nightlife, Pets, Seasons and Open for Business residue; phone expansion branches; owned-car/Nightlife travel; retail/debug helpers; Garden Club residue; Pets mammal cage; Seasons juice interactions; police-car University/helper residue; television tuning/mirror helpers; expansion transport; expansion television/fireplace/living-chair/mirror catalog content.
 
 Do not redo these families from scratch. Read recent commit history when in doubt.
+
+
+### Continuation completed after run 344
+
+Source Audit run **351** is the current clean checkpoint. New completed/split families since the earlier run-344 queue include:
+- **Trash Compactor** base player-facing interactions promoted via approved menu mappings.
+- **Accessory - Juice Cup**, **Wish/Drink/Fall From Heaven**, **Block - Stacking**, and the full **Juicer/Main Squeezer** family classified as evidence-backed EP2/EP7 residue.
+- **Emergency phone / Missing Sim** flow translated across shared controller copies; obsolete ambulance-delivery rows were excluded exactly.
+- **Bills** split row-by-row: base overdue/no-funds/pay-bills text translated; Nightlife dining-bill rows and Repo Man/debug helpers excluded.
+- Source Audit diagnostics now include targeted `--instance-id` output for high-value mixed families so sample caps do not force ordinal guessing.
+
+Do **not** redo those families. **LawnTacky** remains intentionally partial: EP7 statue-theft rows are excluded, while base Kick/Stand Up/View/Talk/Play, base catalog copy, and `!!!` helper rows still need runtime-reachability judgment. **Contained Pet - Bird Cage**, mixed retail racks/booths, ownerless social blocks, career vehicles, puddle/plant/roaches, and other inherited families remain active broad-sweep work.
 
 ## Broad inherited triage is now the main path
 
