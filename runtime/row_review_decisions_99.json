@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bust Counterfeiter",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the action queue text for the Cop coming to bust the Counterfeiter. Should not see this unless the cop is controllable for some reason.",
+    "reason": "Explicit Sims 2 EP1/University counterfeiter/hacker arrest residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bust Hacker",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the action queue text for the Cop coming to bust the Hacker. Should not see this unless the cop is controllable for some reason, but translated in case.",
+    "reason": "Explicit Sims 2 EP1/University counterfeiter/hacker arrest residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be in Car",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cop - Wait to Get Out",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Dropped Off",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Open Rear Door",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cop's Reaction to Burglar Free",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be in Car",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cop - Wait to Get Out",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Dropped Off",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Open Rear Door",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133013560,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cop's Reaction to Burglar Free",
+    "description": "!",
+    "reason": "Internal police-car routing/behavior helper with bang metadata; not player-facing runtime text."
+  }
+]
