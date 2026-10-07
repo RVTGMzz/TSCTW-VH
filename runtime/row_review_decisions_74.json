@@ -1,0 +1,4022 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, you can't adopt a Pet because there are already too many Sims or pets living on the lot.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'll come by right away to drop off your new pet!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send pets to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a pet!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had pets taken away recently!  Prove that you are responsible and we will reconsider you for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations, your request to adopt a pet has been approved! We are all confident that you'll make a great owner!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, there are no pets currently available for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want to adopt this pet?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want to adopt  $Neighbor?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity Pet Adoption Center strive to provide the most loving environment possible for all of our adoptees. And seeing that there are already too many family members in your household, we couldn't possibly place one with you.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pets come at a price -- one that looks a bit steep for you. You don't have enough Simoleons to adopt this pet!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 75,
+    "status": "excluded",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 76,
+    "status": "excluded",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 77,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 78,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 80,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry, you can't adopt a Pet because there are already too many Sims or pets living on the lot.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 81,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'll come by right away to drop off your new pet!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send pets to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a pet!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had pets taken away recently!  Prove that you are responsible and we will reconsider you for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations, your request to adopt a pet has been approved! We are all confident that you'll make a great owner!",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, there are no pets currently available for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you want to adopt  $Neighbor?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pets come at a price -- one that looks a bit steep for you. You don't have enough Simoleons to adopt this $Neighbor!",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135811707,
+      301,
+      0
+    ],
+    "row": 82,
+    "status": "excluded",
+    "language": 2,
+    "en": "$FullName (nID $Local:0) given up for adoption",
+    "description": "! Test only, should never reach final build",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry but you don't have any pets in your family to give up for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'll come by right away to remove the pets that are to be put up for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry but you don't have any pets in your family to give up for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'll come by right away to remove the pets that are to be put up for adoption.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want to give up the selected pets for adoption?",
+    "description": "The Sims 2 EP6 - Needs Text",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 75,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you want to give up the selected pets for adoption?",
+    "description": "The Sims 2 EP6 - Needs Text",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144674258,
+      301,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "$FullName (nID $Local:0) given up for adoption",
+    "description": "! Test only, should never reach final build",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "I would be happy to come over to help you train your pets. I also sell potions that cure Lycanthropy, just in case that might be of interest to you. I charge $$Local:2 for showing up, and then $$Local:3 per hour. How does that sound?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 68,
+    "status": "excluded",
+    "language": 2,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "I would be happy to come over to help you train your pets. I also sell potions that cure Lycanthropy, just in case that might be of interest to you. I charge $$Local:2 for showing up, and then $$Local:3 per hour. How does that sound?",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146571949,
+      301,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 48,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 49,
+    "status": "excluded",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 57,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 58,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 60,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 61,
+    "status": "excluded",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 62,
+    "status": "excluded",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 63,
+    "status": "excluded",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 64,
+    "status": "excluded",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can sense you are looking for someone to spend the rest of your days with. Do you require my matchmaking services?",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 67,
+    "status": "excluded",
+    "language": 2,
+    "en": "I will be over shortly then. Your future is rapidly approaching.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION -  BatchEP2-6",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 50,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 51,
+    "status": "excluded",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140282708,
+      301,
+      0
+    ],
+    "row": 54,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135571075,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Garden Club",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135571075,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Garden Club",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pet Adoption Service",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet Adoption Service",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pet Adoption Service - Give Up Pet",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet Adoption Service - Give Up Pet",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135571075,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "You've reached the Garden Club, if you want we'll send a representative over right away!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135571075,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "You've reached the Garden Club, if you want we'll send a representative over right away!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2006,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135811707,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Matchmaking Service",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2006,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140282708,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Matchmaking Service",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2006,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144674258,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Matchmaking Service",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2006,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Matchmaking Service",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2008,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Obedience Trainer",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146571949,
+      2008,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Obedience Trainer",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "This phone-service resource is owned by an expansion-only Pet/Gypsy/Garden Club service; inherited base service strings inside it are unreachable residue."
+  }
+]
