@@ -1,0 +1,932 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Finger Wiggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Sniff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Love.../Feed Treat",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Scold",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Praise",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Adopt",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 1,
+    "en": "Fight!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 1,
+    "en": "Pick Up",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Set Down",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Nuzzle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Love.../Stroke",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 1,
+    "en": "Yell At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Love.../Snuggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Play With",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 40,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 41,
+    "category": "menu",
+    "language": 1,
+    "en": "Greet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../Toss In Air",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 1,
+    "en": "Pounce",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 1,
+    "en": "Shoo Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 48,
+    "category": "menu",
+    "language": 1,
+    "en": "Cuddle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 50,
+    "category": "menu",
+    "language": 1,
+    "en": "Shoo Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 57,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Finger Wiggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 58,
+    "category": "menu",
+    "language": 2,
+    "en": "Sniff",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 59,
+    "category": "menu",
+    "language": 2,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Command",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Growl At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 65,
+    "category": "menu",
+    "language": 2,
+    "en": "Chase Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 66,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Love.../Feed Treat",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 68,
+    "category": "menu",
+    "language": 2,
+    "en": "Scold",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 69,
+    "category": "menu",
+    "language": 2,
+    "en": "Praise",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 70,
+    "category": "menu",
+    "language": 2,
+    "en": "Adopt",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 75,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 76,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 77,
+    "category": "menu",
+    "language": 2,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 79,
+    "category": "menu",
+    "language": 2,
+    "en": "Fight!",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 80,
+    "category": "menu",
+    "language": 2,
+    "en": "Pick Up",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 81,
+    "category": "menu",
+    "language": 2,
+    "en": "Set Down",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 83,
+    "category": "menu",
+    "language": 2,
+    "en": "Nuzzle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 85,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Love.../Stroke",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 87,
+    "category": "menu",
+    "language": 2,
+    "en": "Yell At",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 88,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Love.../Snuggle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 89,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Play With",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 95,
+    "category": "menu",
+    "language": 2,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 96,
+    "category": "menu",
+    "language": 2,
+    "en": "Greet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 99,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../Toss In Air",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 100,
+    "category": "menu",
+    "language": 2,
+    "en": "Pounce",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 102,
+    "category": "menu",
+    "language": 2,
+    "en": "Shoo Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 103,
+    "category": "menu",
+    "language": 2,
+    "en": "Cuddle",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 104,
+    "category": "menu",
+    "language": 2,
+    "en": "Shooed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 105,
+    "category": "menu",
+    "language": 2,
+    "en": "Shoo Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Challenge!",
+    "description": "",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137513243,
+      2,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Challenge!",
+    "description": "",
+    "reason": "Inherited animal interaction remains after explicit Pets-only exclusions, shares selected Castaway text, and its exact label already has an approved Vietnamese menu mapping; promote exact row without introducing a new global translation."
+  }
+]
