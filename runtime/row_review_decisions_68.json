@@ -1,0 +1,992 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Set Mode.../-->$Local:1<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Set Mode.../$Local:1",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Random Timing.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Configure.../Block Fading.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Set Mode.../-->$Local:1<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Set Mode.../$Local:1",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../Off",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../On",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Random Timing.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../-->Off<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Configure.../Block Fading.../-->On<--",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mode.../Rainbow Fade",
+    "description": "!",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mode.../-->Pastels<--",
+    "description": "!",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mode.../-->Main Colors<--",
+    "description": "!",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mode.../-->Rainbow Fade<--",
+    "description": "!",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mode.../-->Purple & Blue<--",
+    "description": "!",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140141139,
+      302,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mode.../Purple & Blue",
+    "description": "!",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140141139,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chazz Gassed Incandescent Floor Tile",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140141139,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Beneath each of these industrial-strength frosted glass tiles, there is a jubilant chemical reaction between various non-toxic phosphorescent gasses.  The result is a whimsical display of color that illuminates anyone who is lucky enough to walk (or dance) over this flooring.  Spinkle a few of these on a dance floor, toggle a few options to customize the color scheme, and watch as the chromatic chemistry of the floor sparks some chemistry between your patrons.",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140141139,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Mode",
+    "description": "",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140141139,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fade",
+    "description": "",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140141139,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sync",
+    "description": "",
+    "reason": "Nightlife dance-floor configuration/resource residue; this instance is the EP2 dance-floor controller/config menu, not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Request.../Fast",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Request.../Medium",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Request.../Slow",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Change Style.../Fast",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Change Style.../Medium",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Change Style.../Slow",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be the DJ!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Work as the DJ!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Request.../House Mix",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Change Style.../House Mix",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request.../Fast",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request.../Medium",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request.../Slow",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Change Style.../Fast",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Change Style.../Medium",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Change Style.../Slow",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be the DJ!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Work as the DJ!",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Request.../House Mix",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Change Style.../House Mix",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-4",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign DJ.../$Object",
+    "description": "The Sims 2 EP3 - Batch 9",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Assign DJ.../$Object",
+    "description": "The Sims 2 EP3 - Batch 9",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Materials",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "DJ Booth internal/test/assignment label; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign Job",
+    "description": "",
+    "reason": "DJ Booth internal/test/assignment label; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Materials",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "DJ Booth internal/test/assignment label; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Test All Anims",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "DJ Booth internal/test/assignment label; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133259830,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Test All Anims",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "DJ Booth internal/test/assignment label; not normal player-facing Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133259830,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The GrooveLayer 9000 Professional DJ Booth by HotBeets",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133259830,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Whether you're designing your very own nightclub or just hosting a wild party at home, the GrooveLayer 9000 fulfills a very important need: the need for some hot dance beats.  The folks at HotBeets note that the vinyl technology used by the GrooveLayer produces sound that is 9000 times crisper than a compact disc.  We'll leave you to be the judge.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133259830,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The GrooveLayer 9000 Professional DJ Booth by HotBeets",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133259830,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Whether you're designing your very own nightclub or just hosting a wild party at home, the GrooveLayer 9000 fulfills a very important need: the need for some hot dance beats.  The folks at HotBeets note that the vinyl technology used by the GrooveLayer produces sound that is 9000 times crisper than a compact disc.  We'll leave you to be the judge.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-2",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sounding hot! $NameLocal:0 has gained a point of Creativity skill from jammin on $NameLocal:1.",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133259830,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sounding hot! $NameLocal:0 has gained a point of Creativity skill from jammin on $NameLocal:1.",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Explicit Nightlife/Open for Business DJ Booth residue outside Castaway Stories."
+  }
+]
