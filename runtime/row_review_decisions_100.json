@@ -1,0 +1,1592 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Alas, it looks as though the great equalizer has taken its toll, as all controllable Sims on this lot appear to have died. But there's no reason to allow this lot to stay this way.  You can bring in some new Sims. That's the way your Sims would have wanted it, don't you think?",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.\nLTEDIT - edited this dialog so that it was not so specifically referencing families and household lots, so it makes more sense when the Cow Plant is on a secret society or community lot.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Finale",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "If the point of playing The Sims 2 was to kill off all of your Sims, then you would be the world champion! But, unfortunately, the way things stand now, The Sims 2 is still a LIFE simulator. You could actually exit the lot without saving and maybe try this household again. Or, if you were trying to kill your Sims, and we aren't saying that you were, then feel free to move another household into this lot.",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.\nLTEDIT -  changed \"family\" to \"household\" in the last line.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, but if you want to feed the Laganaphyllis Simnovorii, you must be able to afford a leg of lamb, which costs $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nDialog appears when Sim tries to \"Feed\" the man-eating cow plant but can't because they have no money.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "I feel rejuvenated!  I believe I've added valuable days to my life!",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Alas, it looks as though the great equalizer has taken its toll, as all controllable Sims on this lot appear to have died. But there's no reason to allow this lot to stay this way.  You can bring in some new Sims. That's the way your Sims would have wanted it, don't you think?",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.\nLTEDIT - edited this dialog so that it was not so specifically referencing families and household lots, so it makes more sense when the Cow Plant is on a secret society or community lot.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Finale",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "If the point of playing The Sims 2 was to kill off all of your Sims, then you would be the world champion! But, unfortunately, the way things stand now, The Sims 2 is still a LIFE simulator. You could actually exit the lot without saving and maybe try this household again. Or, if you were trying to kill your Sims, and we aren't saying that you were, then feel free to move another household into this lot.",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.\nLTEDIT -  changed \"family\" to \"household\" in the last line.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, but if you want to feed the Laganaphyllis Simnovorii, you must be able to afford a leg of lamb, which costs $$Local:0.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nDialog appears when Sim tries to \"Feed\" the man-eating cow plant but can't because they have no money.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "I feel rejuvenated!  I believe I've added valuable days to my life!",
+    "description": "The Sims2EP1 - Copy Translation - this is a death dialog that was translated in the base game.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "I feel rejuvenated!",
+    "description": "The Sims2 EP3 - Batch 8",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "I feel rejuvenated!",
+    "description": "The Sims2 EP3 - Batch 8",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141183477,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Feed",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction for Sim feeding a Leg o' Lamb to the Sim-eating Cow Plant. This must be done if the player wants to keep the Plant full so that it doesn't lure Sims over with Cake and eat them. The \"Grab Cake\" interaction is autonomous for visiting Sims, so if the plant is not kept full, it will try to eat visitors.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141183477,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Grab Cake",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction for Sim grabbing for the piece of cake \"bait\" offered by the Sim-eating Cake Plant.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141183477,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Milk",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nSim milks Cake Plant after it has fed on a Sim and gets \"nectar of life\" ",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141183477,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tease",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nI believe this is an interaction for ghosts to tease the plant.",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141183477,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wander",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141183477,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Save $Object",
+    "description": "!!!!!",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141183477,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Laganaphyllis Simnovorii",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141183477,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Laganaphyllis Simnovorii",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Save $Object",
+    "description": "!!!!!",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141183477,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Save $Object",
+    "description": "!!!!!",
+    "reason": "University Cow Plant career-reward resource; inherited EP1/EP3 content is not part of Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Follow",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Follow",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase Off",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chase",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Leave",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147254133,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tug O War",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147254133,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stinky",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147254133,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Skunk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147254133,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stinky",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147254133,
+      2000,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Skunk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147254133,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "CatTemplate",
+    "description": "TheSims2 EPX - NEEDS TEXT",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147254133,
+      2000,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "CatTemplate",
+    "description": "TheSims2 EPX - NEEDS TEXT",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../North",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../NorthEast",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../East",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../SouthEast",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../South",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../SouthWest",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../West",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../NorthWest",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../North",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../NorthEast",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../East",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../SouthEast",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../South",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../SouthWest",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../West",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147254133,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../NorthWest",
+    "description": "",
+    "reason": "Sims 2 Pets unique skunk NPC resource; standard EP6 skunk interactions/catalog text are outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Source metadata explicitly says the ambulance no longer comes to deliver babies; obsolete dialog is not reachable player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145147109,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hang on! We're on our way!  Delivering a baby should be left to professionals, so please ...don't do anything stupid!",
+    "description": "!!!! ambulance no longer comes to deliver baby.",
+    "reason": "Source metadata explicitly says the ambulance no longer comes to deliver babies; obsolete dialog is not reachable player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fulfill Bladder - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fulfill Hunger - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fulfill Energy - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fulfill Hygiene - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Water Desperation",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Sims 2 EP7/Seasons water-motive desperation residue; PlantSim water motive is outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fulfill Bladder - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fulfill Hunger - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fulfill Energy - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fulfill Hygiene - RI",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Water Desperation",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit Sims 2 EP7/Seasons water-motive desperation residue; PlantSim water motive is outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just created a Fulfill Bladder Object for $Object whose Bladder is at $Local:0.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just created a Fulfill Hunger Object for $Object whose Hunger is at $Local:0.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just created a Fulfill Energy Object for $Object whose Energy is at $Local:0.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Just created a Fulfill Hygeine Object for $Object whose Hygeine is at $Local:0.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fulfill object ran, and did an Interaction on $Local:2 ($NameLocal:2) onto $object ",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Deleted $Me Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Deleted Energy Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Deleted Hunger Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Deleted Hygeine Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "FBA Failed.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's $Me Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's $Me Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Queue is empty for $Object. No more interactions. ",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's Energy Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's Energy Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's Hunger Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's Hunger Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's Hygeine Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object's Hygeine Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just created a Fulfill Hunger Object for $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just created a Fulfill Hunger Object for $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just created a Fulfill Energy Object for $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Just created a Fulfill Hygeine Object for $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fulfill object pushed Interaction from $Local:2 onto $object using FBA.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Deleted Bladder Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Deleted Energy Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Deleted Hunger Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Deleted Hygeine Helper Object from $Object.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "FBA Failed.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Bladder Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Bladder Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Queue is empty for $Me. No more interaction. ",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Energy Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Energy Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Hunger Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Hunger Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Hygeine Object is Running.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147196186,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object's Hygeine Object is Next.",
+    "description": "!",
+    "reason": "Invisible Motive Helper internal RI/diagnostic text; helper-controller implementation detail rather than player-facing localization."
+  }
+]
