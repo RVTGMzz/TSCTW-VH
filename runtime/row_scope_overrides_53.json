@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Get Mail",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing mailbox interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 53,
+    "language": 2,
+    "en": "Get Mail",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Player-facing mailbox interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 46,
+    "language": 1,
+    "en": "Pay All Bills",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Player-facing mailbox interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145694772,
+      129,
+      0
+    ],
+    "row": 98,
+    "language": 2,
+    "en": "Pay All Bills",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Player-facing mailbox interaction with an approved Vietnamese mapping."
+  }
+]
