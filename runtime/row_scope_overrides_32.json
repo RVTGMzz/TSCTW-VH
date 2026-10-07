@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "Same instance as the confirmed Castaway Chapter 1 story-title resource and shares selected Cast text; approved menu mapping already exists as 'Dùng kính thiên văn'."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Use Telescope",
+    "description": "",
+    "reason": "UK-English duplicate in the same confirmed Chapter 1 Castaway instance; reuse approved 'Dùng kính thiên văn' menu mapping."
+  }
+]
