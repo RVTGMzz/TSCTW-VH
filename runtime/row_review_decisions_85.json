@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "POSE",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Technical/unused reading helper label; not player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - fyi - Copied Translations from the Bookcases. Finally found this - it was not coming up when searching the DB, but was in the DB. ",
+    "status": "excluded",
+    "reason": "Explicit University college-research residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 18,
+    "language": 1,
+    "en": "Join( Not Used )",
+    "description": "",
+    "status": "excluded",
+    "reason": "Technical/unused reading helper label; not player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 40,
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - fyi - Copied Translations from the Bookcases. Finally found this - it was not coming up when searching the DB, but was in the DB. ",
+    "status": "excluded",
+    "reason": "Explicit University college-research residue outside Castaway Stories."
+  }
+]
