@@ -1,0 +1,2252 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Relax",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "React to Pet WooHoo",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "React to Pet WooHoo",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145537979,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145537979,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pets' Desires House",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145537979,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pets, like children, want so many things in life, many of which you must provide.  Always whining! Dogs must be bathed and cats must be served -- no matter the species, pets have demands and needs.  Easily give them what they want by purchasing the Pets' Desires House. This simple, yet relaxing and affordable bed comforts your pets with minimal effort on your part. What a deal!",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145537979,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pets' Desires House",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145537979,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pets, like children, want so many things in life, many of which you must provide.  Always whining! Dogs must be bathed and cats must be served -- no matter the species, pets have demands and needs.  Easily give them what they want by purchasing the Pets' Desires House. This simple, yet relaxing and affordable bed comforts your pets with minimal effort on your part. What a deal!",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145537979,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation\n",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145537979,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation\n",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Relax",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "React to Pet WooHoo",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sleep",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "React to Pet WooHoo",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Dirty State.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145741032,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Dirty State.../Clean",
+    "description": "!!!!!!!!!!!!!!!!Sims 2 EP6: Needs Text",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145741032,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Galactix Animal Home",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145741032,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Pets have always been the last to benefit from the wonders of modern technology. The Galactix Animal Home rectifies that slightly by providing a simulated space-aged sleep habitation unit that combines modern comfort with tomorrow's whiz-bang technology. One small step for pet homes, one giant step for furred kind.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145741032,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Galactix Animal Home",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145741032,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Pets have always been the last to benefit from the wonders of modern technology. The Galactix Animal Home rectifies that slightly by providing a simulated space-aged sleep habitation unit that combines modern comfort with tomorrow's whiz-bang technology. One small step for pet homes, one giant step for furred kind.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145741032,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2145741032,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sleep",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Collar",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "Sims2 EP3 Batch 10 review",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Purchase",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Show Object",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price",
+    "description": "Sims2 EP3 Batch 10 review",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Restock",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Purchase",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Show Object",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Price of Type",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      2,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Browse",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133602225,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Collar Connection Display",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133602225,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "It's time to dress up for a night out of the pound! Limited for hundreds of dog and cat years by genetics and pre-ordained fur, cats and dogs can now revel in the elegant styling of the Collar Connection Display's offerings. With enough collar variety to appeal to each and every four-legged sophisticate, one visit to a store with a Collar Connection Display can transform the scruffiest domesticated into the most chic companion.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133602225,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Collar Connection Display",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133602225,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "It's time to dress up for a night out of the pound! Limited for hundreds of dog and cat years by genetics and pre-ordained fur, cats and dogs can now revel in the elegant styling of the Collar Connection Display's offerings. With enough collar variety to appeal to each and every four-legged sophisticate, one visit to a store with a Collar Connection Display can transform the scruffiest domesticated into the most chic companion.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133602225,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133602225,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Placeholder for Collar Dialog",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133602225,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Placeholder for Collar Dialog",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Munch",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Use",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Munch",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dirty Level.../Super Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dirty Level.../Dirty",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dirty Level.../Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Throw Up",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134329178,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unclog",
+    "description": "!!!!!!!!!!!!!!!!!!!!",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134329178,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Mentionable\" Plastic Litter Box",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134329178,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "A striking example of what feline toilet facilities are meant to be! Brought to you by the creators of the \"Mentionable\" Porcelain Toilet, the \"Mentionable\" Plastic Litter Box will be the clear choice of felines everywhere by once again making the unmentionables…mentionable. Streamlined, smooth plastic and vivid colors make this something that every cat owner - and cat - must have!",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134329178,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "\"Mentionable\" Plastic Litter Box",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134329178,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "A striking example of what feline toilet facilities are meant to be! Brought to you by the creators of the \"Mentionable\" Porcelain Toilet, the \"Mentionable\" Plastic Litter Box will be the clear choice of felines everywhere by once again making the unmentionables…mentionable. Streamlined, smooth plastic and vivid colors make this something that every cat owner - and cat - must have!",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scratch Ear",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Jump Up",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sniff Butt",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scratch Ear",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Jump Up",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sniff Butt",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn to Face",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Tug of War",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sniff Butt - 90 Degree",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Turn to Face",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147022305,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Tug of War",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../North",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../NorthEast",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../East",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../SouthEast",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../South",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../SouthWest",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../West",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Face.../NorthWest",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../North",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../NorthEast",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../East",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../SouthEast",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../South",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../SouthWest",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../West",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147022305,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Face.../NorthWest",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147022305,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "DogTemplate",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147022305,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "DogTemplate",
+    "description": "TheSims2 EPX - NEEDS TEXT",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Report $NameLocal:2 Missing",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Report A Missing Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call $NameLocal:2's Owner",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call A Runaway Pet's Owner",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Report $NameLocal:2 Missing",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Report A Missing Pet",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call $NameLocal:2's Owner",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call A Runaway Pet's Owner",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Emergency",
+    "description": "",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm sorry to hear $NeighborLocal:0 is missing.  It can be very traumatizing to lose a pet.  We'll give you a call if we find it.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138158683,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm sorry to hear $NeighborLocal:0 is missing.  It can be very traumatizing to lose a pet.  We'll give you a call if we find it.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Hiss At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Hiss At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Bark At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Bark At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Hiss At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Hiss At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Bark At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132882642,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Bark At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132882642,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark or Hiss At",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132882642,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Bark or Hiss At",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132882642,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Bark or Hiss At",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Praise for.../Howling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scold for.../Howling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Praise for.../Yowling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scold for.../Yowling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Praise for.../Howling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scold for.../Howling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Praise for.../Yowling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136665828,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scold for.../Yowling",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Growl At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Growl At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Bark At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Bark At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Growl At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Growl At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Bark At.../$Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144767718,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Bark At $Object",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144767718,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144767718,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Growl At",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144767718,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Growl At",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "The Sims 2 Pets-specific inherited resource (standard pet bed/collar/litter/runaway/wolf/learned-behavior system); outside Castaway Stories animal gameplay."
+  }
+]
