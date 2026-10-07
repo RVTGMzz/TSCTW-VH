@@ -1,0 +1,1826 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "vi": "Danh bạ công việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Call to %s",
+    "description": "Sims2 - Needs Translation - batch19 :: - Work Phone Call Message",
+    "vi": "Gọi tới %s",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 33,
+    "category": "dialog",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "menu",
+    "language": 2,
+    "en": "Work Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "vi": "Danh bạ công việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Call to %s",
+    "description": "Sims2 - Needs Translation - batch19 :: - Work Phone Call Message",
+    "vi": "Gọi tới %s",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "dialog",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131135036,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "dialog",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132718949,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in sick?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn gọi xin nghỉ ốm?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 2,
+    "en": "Want to call in \"sick\" and play hooky today?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nNote: prompting dialog from the phone to prompt Sims to call in sick.",
+    "vi": "Muốn giả vờ \"ốm\" để trốn việc hôm nay hả?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "The Sims2 - Needs Translation - batch19\nAnswer to question - would you like to call in sick or would you like to retire?",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to retire?",
+    "description": "The Sims2 - Needs Translation - batch19\nDialog from the phone, appears when you're an elder.",
+    "vi": "Bạn có muốn nghỉ hưu không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 2,
+    "en": "Would you like to quit your job?",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone, not sure of the context.",
+    "vi": "Bạn có muốn nghỉ việc không?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wow, you sure don't sound healthy, did you need to take a day off?",
+    "description": "The Sims 2 - Needs Translation - Batch19\n",
+    "vi": "Chà, nghe bạn đúng là không khỏe thật. Bạn cần nghỉ một ngày à?",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "dialog",
+    "language": 2,
+    "en": "It sounds like you're in pretty bad shape.  Take the day off and you can keep your vacation time. Just get better!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nDialog from the phone - after calling in sick.",
+    "vi": "Nghe có vẻ bạn đang mệt lắm. Nghỉ hôm nay đi, bạn vẫn được giữ ngày phép. Mau khỏe nhé!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Just for wasting my time, you've been demoted!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Chỉ vì làm mất thời gian của tôi thôi là bạn bị giáng chức rồi!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 2,
+    "en": "Did you really think you could fool me with that fake coughing?  Go try your stunts at some other company!  You're fired!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Tưởng ho giả là lừa được tôi hả? Mang mấy trò đó sang công ty khác đi! Bạn bị sa thải!",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146784658,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I understand.  Take the day off and I'll subtract a vacation day from you.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nResponse dialog off of the phone, after calling in sick.",
+    "vi": "Được rồi, tôi hiểu. Nghỉ hôm nay đi, tôi sẽ trừ một ngày phép của bạn.",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2001,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2004,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2001,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2004,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2001,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2004,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2001,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Fake Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Giả vờ gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2004,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Retire from Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ hưu",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch19\n (was: Call.../Other , The Sims 2 - Needs Translation - Batch15) changed due to FP renaming to WORK instead of OTHER",
+    "vi": "Gọi.../Công việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135561673,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch19\n (was: Call.../Other , The Sims 2 - Needs Translation - Batch15) changed due to FP renaming to WORK instead of OTHER",
+    "vi": "Gọi.../Công việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nhận con nuôi",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131135036,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nhận con nuôi",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132718949,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nhận con nuôi",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135561673,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nhận con nuôi",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call In Sick",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Gọi xin nghỉ ốm",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146784658,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "vi": "Nghỉ việc",
+    "reason": "Base-game work-phone text can remain reachable in Free Play; exact-row translation preserves duplicated work-call resources while Pet-career owners are excluded separately."
+  }
+]
