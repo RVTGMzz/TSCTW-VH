@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135839361,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "reason": "Obsolete base-game ambulance/medical-service choice; source metadata states Sims no longer call for an ambulance, and no Castaway medical-service reachability is verified."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141256242,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "reason": "Obsolete base-game ambulance/medical-service choice; source metadata states Sims no longer call for an ambulance, and no Castaway medical-service reachability is verified."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142527278,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "reason": "Obsolete base-game ambulance/medical-service choice; source metadata states Sims no longer call for an ambulance, and no Castaway medical-service reachability is verified."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146781225,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "The Sims 2 - Needs Translation - Batch19\nChoice on the phone book menu. Although Sims no longer call for an ambulance.",
+    "reason": "Obsolete base-game ambulance/medical-service choice; source metadata states Sims no longer call for an ambulance, and no Castaway medical-service reachability is verified."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138732373,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Main Squeezer 235X",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) Main Squeezer juicer catalog residue; outside Castaway Stories catalog scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138732373,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "If it can be picked, plucked, harvested, or grown, we want to juice it. Nothing is safe. The Main Squeezer 235X is devastating to fruit and vegetables, yet wondrous for your body. With a wide assortment of potential juices to create, and the added bonus of special nutrients, the 235X is an awesome device every kitchen needs -- but few Sims have the guts to try.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) Main Squeezer juicer catalog residue; outside Castaway Stories catalog scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138732373,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Main Squeezer 235X",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) Main Squeezer juicer catalog residue; outside Castaway Stories catalog scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138732373,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "If it can be picked, plucked, harvested, or grown, we want to juice it. Nothing is safe. The Main Squeezer 235X is devastating to fruit and vegetables, yet wondrous for your body. With a wide assortment of potential juices to create, and the added bonus of special nutrients, the 235X is an awesome device every kitchen needs -- but few Sims have the guts to try.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit Seasons (EP7) Main Squeezer juicer catalog residue; outside Castaway Stories catalog scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138732373,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sims can only stock The Main Squeezer 235X with produce stored in their inventory.  ",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer inventory/status dialog residue; outside Castaway Stories gameplay scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138732373,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sims can only stock The Main Squeezer 235X with produce stored in their inventory.  ",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Seasons (EP7) juicer inventory/status dialog residue; outside Castaway Stories gameplay scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138732373,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Main Squeezer 235X is fully stocked.  ",
+    "description": "The Sims 2 EP7: Re-Translate",
+    "reason": "Explicit Seasons (EP7) juicer inventory/status dialog residue; outside Castaway Stories gameplay scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138732373,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Main Squeezer 235X is fully stocked.  ",
+    "description": "The Sims 2 EP7: Re-Translate",
+    "reason": "Explicit Seasons (EP7) juicer inventory/status dialog residue; outside Castaway Stories gameplay scope."
+  }
+]
