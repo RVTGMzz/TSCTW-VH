@@ -1,0 +1,98 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "NOTE - this dialog is already translated in the base game and is being pulled from there in EP1. This string does not need to be translated. Verified 1/27/05.  The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "Bạn có muốn gọi pizza không? Sẽ tốn $$Local:0.",
+    "reason": "Base-game pizza/delivery dialog embedded in the mixed University phone resource; translate exact row and preserve $$Local placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "NOTE - this dialog is already translated in the base game and is being pulled from there in EP1. This string does not need to be translated  in PhoneCallCollege.   Verified 1/27/05.\nThe Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "category": "dialog",
+    "vi": "Cảm ơn bạn đã đặt hàng! Xe giao hàng sẽ sớm mang đồ tới!",
+    "reason": "Base-game pizza/delivery dialog embedded in the mixed University phone resource; translate exact row and preserve $$Local placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Your pizza is on its way!",
+    "description": "NOTE - this dialog is already translated in the base game and is being pulled from there in EP1. This string does not need to be translated. Verified 1/27/05.\nThe Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "category": "dialog",
+    "vi": "Pizza của bạn đang trên đường tới!",
+    "reason": "Base-game pizza/delivery dialog embedded in the mixed University phone resource; translate exact row and preserve $$Local placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 21,
+    "language": 2,
+    "en": "Would you like to order a pizza?  It will cost you $$Local:0.",
+    "description": "NOTE - this dialog is already translated in the base game and is being pulled from there in EP1. This string does not need to be translated. Verified 1/27/05.  The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "Bạn có muốn gọi pizza không? Sẽ tốn $$Local:0.",
+    "reason": "Base-game pizza/delivery dialog embedded in the mixed University phone resource; translate exact row and preserve $$Local placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 25,
+    "language": 2,
+    "en": "Thank you for your order!  A truck will be by shortly with your items!",
+    "description": "NOTE - this dialog is already translated in the base game and is being pulled from there in EP1. This string does not need to be translated  in PhoneCallCollege.   Verified 1/27/05.\nThe Sims 2 - Needs Translation - Batch18\r\nAdded for confimation of delivery items. (appears after Sim orders pizza via phone or food via computer)\r\nmarked for translation sp 5/16.",
+    "category": "dialog",
+    "vi": "Cảm ơn bạn đã đặt hàng! Xe giao hàng sẽ sớm mang đồ tới!",
+    "reason": "Base-game pizza/delivery dialog embedded in the mixed University phone resource; translate exact row and preserve $$Local placeholder."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 26,
+    "language": 2,
+    "en": "Your pizza is on its way!",
+    "description": "NOTE - this dialog is already translated in the base game and is being pulled from there in EP1. This string does not need to be translated. Verified 1/27/05.\nThe Sims 2 - Needs Translation - Batch18\r\nNote: confirmation of pizza delivery\r\nSP marked 5/16. Had misspelled \"it's\" instead of \"its way\"",
+    "category": "dialog",
+    "vi": "Pizza của bạn đang trên đường tới!",
+    "reason": "Base-game pizza/delivery dialog embedded in the mixed University phone resource; translate exact row and preserve $$Local placeholder."
+  }
+]
