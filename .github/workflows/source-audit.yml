@@ -63,6 +63,22 @@ jobs:
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2145996067 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2135789311 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2139632840 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132526529 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143764237 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134917614 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131457406 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142033170 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144598031 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142366151 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131189802 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134175257 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140349289 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140773686 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141511587 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141589314 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142199802 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143117373 --groups 20 --samples 260
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143160751 --groups 20 --samples 260
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Chair - Living" --groups 120 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Mirror -" --groups 120 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Television -" --groups 120 --samples 240
