@@ -52,6 +52,19 @@ jobs:
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Bed - Double" --groups 80 --samples 120
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Tub -" --groups 80 --samples 120
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Television -" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Bookcase" --groups 100 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Toilet -" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Stereo -" --groups 100 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Fridge -" --groups 100 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Newspaper" --groups 60 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Bed - Single" --groups 100 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Sofa -" --groups 100 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Bar -" --groups 120 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "ShowerTub" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Piano" --groups 80 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Gnome" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Toy Box" --groups 40 --samples 120
+          python src/builder/triage_review_queue.py --include-unowned --object-contains "Lemonade Stand" --groups 40 --samples 120
           python src/builder/triage_review_queue.py --object-contains "CS - Food - Lomi Lomi Salmon" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Toilet - Outdoor Hut" --groups 4 --samples 100
           python src/builder/triage_review_queue.py --object-contains "CS - Birthday Cake" --groups 4 --samples 100
