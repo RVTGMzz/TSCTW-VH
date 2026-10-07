@@ -1,0 +1,212 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Chat",
+    "description": "The Sims 2 - Needs Translation - Batch16\rdescription field was wiped. Marking in case this gets missed.",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 2,
+    "en": "Chat",
+    "description": "The Sims 2 - Needs Translation - Batch16\rdescription field was wiped. Marking in case this gets missed.",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - BatchMTF",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - BatchMTF",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 36,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - BatchMTF",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 38,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - BatchMTF",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Chat",
+    "description": "The Sims 2 - Needs Translation - Batch16\rNote: Chat With is in Computer Globals. \"Chat\" used alone not currently in game 3/3/04 but marking in case.",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 32,
+    "category": "menu",
+    "language": 2,
+    "en": "Chat",
+    "description": "The Sims 2 - Needs Translation - Batch16\rNote: Chat With is in Computer Globals. \"Chat\" used alone not currently in game 3/3/04 but marking in case.",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Turn On and Turn Off are in Computer Globals, table 302 and translated there. smp.",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing inherited computer/homework interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  }
+]
