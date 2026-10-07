@@ -1,0 +1,194 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$FullName is no longer a family friend. A little interest and contact goes a long way. Maybe it's not too late to repair the relationship and get it back to friend status.",
+    "description": "Sims2 - Needs translation - batch15\r\nNote 7/15 - chagned variable for bug.\r\n0Changed Social: Lost Friend03: Dialog: Text\r\n\r\nNotes: Appears when a friendship is lost between a member of the household and a neighbor who is not currently at house. The Sim has neglected the family friend so long that the relationship score has dropped below friendship level (relationship points decrease 2 per day). To save the friendship time should be spent interacting with the Sim.\r\n\r\n0Changed: Text can now work if the relationship score for either Sim drops below 50.  The old text made it seem that it was only the neighbors who were exited out of the friendship.",
+    "category": "dialog",
+    "vi": "$FullName không còn là bạn thân của gia đình nữa. Một chút quan tâm và giữ liên lạc sẽ giúp ích rất nhiều. Có lẽ vẫn chưa muộn để hàn gắn mối quan hệ và trở lại làm bạn.",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Lost Friend",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nSocial: Lost Friend03: Dialog:  Title\r\n\r\nNotes: Appears when a friendship is lost between a member of the household and a neighbor who is not currently at house. The Sim has neglected the family friend so long that the relationship score has dropped below friendship level (relationship points decrease 2 per day). To save the friendship time should be spent interacting with the Sim.",
+    "category": "dialog",
+    "vi": "Mất một người bạn",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Friendships are like plants: if you don't care for them, they wilt and die. Maybe you should spend some time with $FullName if you don't want your friendship to languish.",
+    "description": "Sims2 - Needs translation - batch15\n7/14 edited variable $Neighbor $Family to be $FullName.\r\n\r\nSocial: Lost Friend01: Dialog: Text\r\n\r\nNotes: This is a warning that appears indicating that a family friendship is near the point where relationship will drop below friendship level (relationship points decrease 2 per day). To keep the friendship going some time should be spent interacting with the Sim.",
+    "category": "dialog",
+    "vi": "Tình bạn cũng như cây cối: không chăm thì sẽ héo tàn. Có lẽ bạn nên dành chút thời gian cho $FullName nếu không muốn tình bạn này phai nhạt.",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Losing a Friend",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nSocial: Lost Friend01: Dialog:  Title\r\n\r\nNotes: This is a warning that appears indicating that a family friendship is near the point where relationship will drop below friendship level (relationship points decrease 2 per day). To keep the friendship going some time should be spent interacting with the Sim.",
+    "category": "dialog",
+    "vi": "Sắp mất một người bạn",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nBaby: Adoption: Dialog: Title\r\n\r\nNotes: Can appear in a household where too members of the same sex are romantically linked.",
+    "category": "dialog",
+    "vi": "Dịch vụ nhận con nuôi",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Would you like to adopt a baby?",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nBaby: Adoption: Dialog: Text\r\n\r\nNotes: Can appear in a household where two members of the same sex are romantically linked. If accepted a baby will appear in the household.",
+    "category": "dialog",
+    "vi": "Bạn có muốn nhận nuôi một em bé không?",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "$FullName is no longer a family friend. A little interest and contact goes a long way. Maybe it's not too late to repair the relationship and get it back to friend status.",
+    "description": "Sims2 - Needs translation - batch15\r\nNote 7/15 - chagned variable for bug.\r\n0Changed Social: Lost Friend03: Dialog: Text\r\n\r\nNotes: Appears when a friendship is lost between a member of the household and a neighbor who is not currently at house. The Sim has neglected the family friend so long that the relationship score has dropped below friendship level (relationship points decrease 2 per day). To save the friendship time should be spent interacting with the Sim.\r\n\r\n0Changed: Text can now work if the relationship score for either Sim drops below 50.  The old text made it seem that it was only the neighbors who were exited out of the friendship.",
+    "category": "dialog",
+    "vi": "$FullName không còn là bạn thân của gia đình nữa. Một chút quan tâm và giữ liên lạc sẽ giúp ích rất nhiều. Có lẽ vẫn chưa muộn để hàn gắn mối quan hệ và trở lại làm bạn.",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Lost Friend",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nSocial: Lost Friend03: Dialog:  Title\r\n\r\nNotes: Appears when a friendship is lost between a member of the household and a neighbor who is not currently at house. The Sim has neglected the family friend so long that the relationship score has dropped below friendship level (relationship points decrease 2 per day). To save the friendship time should be spent interacting with the Sim.",
+    "category": "dialog",
+    "vi": "Mất một người bạn",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Friendships are like plants: if you don't care for them, they wilt and die. Maybe you should spend some time with $FullName if you don't want your friendship to languish.",
+    "description": "Sims2 - Needs translation - batch15\n7/14 edited variable $Neighbor $Family to be $FullName.\r\n\r\nSocial: Lost Friend01: Dialog: Text\r\n\r\nNotes: This is a warning that appears indicating that a family friendship is near the point where relationship will drop below friendship level (relationship points decrease 2 per day). To keep the friendship going some time should be spent interacting with the Sim.",
+    "category": "dialog",
+    "vi": "Tình bạn cũng như cây cối: không chăm thì sẽ héo tàn. Có lẽ bạn nên dành chút thời gian cho $FullName nếu không muốn tình bạn này phai nhạt.",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 12,
+    "language": 2,
+    "en": "Losing a Friend",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nSocial: Lost Friend01: Dialog:  Title\r\n\r\nNotes: This is a warning that appears indicating that a family friendship is near the point where relationship will drop below friendship level (relationship points decrease 2 per day). To keep the friendship going some time should be spent interacting with the Sim.",
+    "category": "dialog",
+    "vi": "Sắp mất một người bạn",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nBaby: Adoption: Dialog: Title\r\n\r\nNotes: Can appear in a household where too members of the same sex are romantically linked.",
+    "category": "dialog",
+    "vi": "Dịch vụ nhận con nuôi",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132220028,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "Would you like to adopt a baby?",
+    "description": "Sims2 - Needs translation - batch15\r\n\r\nBaby: Adoption: Dialog: Text\r\n\r\nNotes: Can appear in a household where two members of the same sex are romantically linked. If accepted a baby will appear in the household.",
+    "category": "dialog",
+    "vi": "Bạn có muốn nhận nuôi một em bé không?",
+    "reason": "Player-facing base-game friendship/adoption notification; exact-row translation preserves $FullName and separates Seasons/debug residue."
+  }
+]
