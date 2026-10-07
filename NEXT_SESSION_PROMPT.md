@@ -1,4 +1,4 @@
-> **Newest handoff (2026-10-07):** read `RUNTIME_HANDOFF_2026-10-07.md` first. It supersedes older numerical checkpoints below. Source commit `2beb010` passed Source Audit with 5,374 translation entries / 640 exact-row translations, 9,156 candidates, 0 missing/review candidates, 30,606 unresolved inherited rows, 1,349 auto-exclusions and 0 parse errors. Selector source and package QA are still unresolved.
+> **Newest handoff (2026-10-08):** read `RUNTIME_HANDOFF_2026-10-08.md` FIRST. It supersedes all older numerical checkpoints below. Latest source checkpoint before handoff docs: `8f3d10c`; Source Audit run 344 PASS with **6,278 translation entries / 1,339 exact-row translations, 13,604 candidates, 0 missing/review candidates, 22,498 unresolved inherited rows, 1,349 auto-exclusions, 0 parse errors**. Package QA is stale at 7,502 verified candidates (gap 6,102); selector runtime source is still unverified; no completed v0.8 TEST release exists.
 
 # Prompt mở phiên tiếp theo
 
