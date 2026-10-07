@@ -1,0 +1,130 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bladder Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Cuống vì mắc vệ sinh",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Hunger Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Đói lả",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Energy Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Kiệt sức",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Hygiene Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Bẩn quá rồi",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Bladder Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Cuống vì mắc vệ sinh",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Hunger Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Đói lả",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Energy Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Kiệt sức",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147196186,
+      1,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Hygiene Desperation",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Bẩn quá rồi",
+    "reason": "Motive-desperation action-queue label may be visible to the player; translate exact row while keeping invisible helper diagnostics excluded."
+  }
+]
