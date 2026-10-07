@@ -1,0 +1,1517 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132585963,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nStudy for college interaction on bookcases - named Research to not conflict with Study for skill points.",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132585963,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nStudy for college interaction on bookcases - named Research to not conflict with Study for skill points.",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137663708,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137663708,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138370444,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138370444,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140500541,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140500541,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141791435,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141791435,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142883847,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142883847,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141853043,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Research",
+    "description": "LTEDIT - Please check - this should be the same translation for all instances of \"College.../Research\" which was originally translated in Batch5 for \"Bookcase_ArtNouveau\"",
+    "reason": "Explicit University/college bookcase interaction residue; not Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Repair Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Stereo debug/maintenance-level setter; internal test label, not player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134637839,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134637839,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139984030,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139984030,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138509205,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138509205,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138509205,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "test",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Fridge internal dynamic-menu/test label; not player-facing localization scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Check Weather Forecast",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Check Weather Forecast",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Job Level",
+    "description": "!!!!!!!!!!!!!!!!",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Any Job",
+    "description": "!!!!!!!!!!!!!!!!",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Career Rewards",
+    "description": "!!!!!!!!!!!",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find Pet Job",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Job Level",
+    "description": "!!!!!!!!!!!!!!!!",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Any Job",
+    "description": "!!!!!!!!!!!!!!!!",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Career Rewards",
+    "description": "!!!!!!!!!!!",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131288636,
+      129,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Find Pet Job",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Newspaper expansion/debug career-weather helper outside normal Castaway player-facing scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136804242,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139355130,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Scratch/Chew",
+    "description": "",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134144859,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134440451,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142148265,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144798168,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145273373,
+      129,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hold Bladder",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Sofa internal state/technical interaction label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Bar internal assignment helper label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Bar internal assignment helper label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Bar internal assignment helper label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 307,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Bar internal assignment helper label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Bar internal assignment helper label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "assign",
+    "description": "",
+    "reason": "Bar internal assignment helper label; not normal player-facing menu copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Piano debug/test mutation action; not normal player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Untune",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Piano debug/test mutation action; not normal player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Piano debug/test mutation action; not normal player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Untune",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Piano debug/test mutation action; not normal player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Fresh Lemonade",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make More Fresh Lemonade",
+    "description": "Sims 2 EP7: Need Translation",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Fresh Lemonade",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make More Fresh Lemonade",
+    "description": "Sims 2 EP7: Need Translation",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make & Sell Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make More Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sell Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Smash!",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Lemonade Price",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dispose",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Lemonade Price ",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make & Sell Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make More Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sell Lemonade",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 2,
+    "en": "Smash!",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Assign to Sell Lemonade.../$Object",
+    "description": "The Sims 2 EP3 - Batch 9",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Assign to Sell Lemonade.../$Object",
+    "description": "The Sims 2 EP3 - Batch 9",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me can't afford to buy a cup of lemonade.",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me can't afford the supplies to make lemonade.",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Lemonade Price",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object has gained a point of cooking skill from the lemonade stand.",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me doesn't have enough lemons to make fresh lemonade. ",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me can't afford to buy a cup of lemonade.",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me can't afford the supplies to make lemonade.",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Set Lemonade Price",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object has gained a point of cooking skill from the lemonade stand.",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140935073,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me doesn't have enough lemons to make fresh lemonade. ",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131086825,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sculpture - RakuVaseSet**** Catalog Entry Needed ****Mimiced From -> Museé Public \"Collection Sculpture\"",
+    "description": "The Sims2EP3 - Needs Text",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131086825,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sculpture - RakuVaseSet++++ Catalog Description Needed ++++Mimiced From -> It took a generation of artists living at Museé Public, focusing for four decades on the complexities of life to come up with this three vessel piece, and now replicas of the original work have been manufactured for public consumption. The primordial shape, the progressive color, the open vessel, the closed flower, and the contradiction exemplified by \"Collection Sculpture\" can now be yours.",
+    "description": "The Sims2EP3 - Needs Text",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131086825,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sculpture - RakuVaseSet**** Catalog Entry Needed ****Mimiced From -> Museé Public \"Collection Sculpture\"",
+    "description": "The Sims2EP3 - Needs Text",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131086825,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sculpture - RakuVaseSet++++ Catalog Description Needed ++++Mimiced From -> It took a generation of artists living at Museé Public, focusing for four decades on the complexities of life to come up with this three vessel piece, and now replicas of the original work have been manufactured for public consumption. The primordial shape, the progressive color, the open vessel, the closed flower, and the contradiction exemplified by \"Collection Sculpture\" can now be yours.",
+    "description": "The Sims2EP3 - Needs Text",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140935073,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"Squeezin' It\" Lemonade Stand",
+    "description": "TheSims2EP3 - Batch 1",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140935073,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Is it lemonade time?  Are your neighbors parched? Are they screaming for someone with that magical lemony touch?   With the \"Squeezin' It\" Lemonade Stand you can be their sour savior. Brought to you by Ripco, makers of haphazard structures for all ages.",
+    "description": "TheSims2EP3 - Batch 1",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140935073,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "\"Squeezin' It\" Lemonade Stand",
+    "description": "TheSims2EP3 - Batch 1",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140935073,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Is it lemonade time?  Are your neighbors parched? Are they screaming for someone with that magical lemony touch?   With the \"Squeezin' It\" Lemonade Stand you can be their sour savior. Brought to you by Ripco, makers of haphazard structures for all ages.",
+    "description": "TheSims2EP3 - Batch 1",
+    "reason": "Explicit expansion-specific lemonade-stand interaction residue outside Castaway Stories."
+  }
+]
