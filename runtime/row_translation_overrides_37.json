@@ -1,0 +1,82 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Kick Can",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "vi": "Đá thùng rác",
+    "reason": "Player-facing outdoor trash-can interaction; exact-row wording avoids generic 'Can' ambiguity."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 19,
+    "language": 2,
+    "en": "Kick Can",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "vi": "Đá thùng rác",
+    "reason": "UK-English duplicate of outdoor trash-can interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Pick Up Can",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "vi": "Dựng thùng rác",
+    "reason": "Player-facing interaction for righting the outdoor trash can; exact-row wording preserves object context."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144417467,
+      128,
+      0
+    ],
+    "row": 20,
+    "language": 2,
+    "en": "Pick Up Can",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "vi": "Dựng thùng rác",
+    "reason": "UK-English duplicate of outdoor trash-can interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144417467,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Great Outdoors Great Big Trash Can",
+    "description": "sims2 - needs translation - batch16",
+    "category": "catalog",
+    "vi": "Thùng rác khổng lồ Great Outdoors",
+    "reason": "Player-facing catalog name for the outdoor trash can."
+  }
+]
