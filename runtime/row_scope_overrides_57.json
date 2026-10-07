@@ -1,0 +1,272 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Chat With.../ $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Chat With $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Send Email.../ $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Send Email $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Play.../ $Object",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Play $Object",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Groceries",
+    "description": "The Sims 2 - Needs Translation - Batch22\nUpdated from Restock Groceries per Bug.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Chat With.../ $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Chat With $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Send Email.../ $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Send Email $Neighbor",
+    "description": "The Sims 2 - Needs Translation - Batch12\nLTEDIT - if your territory translates \"Prof. David Song\" as \"Prof. Song\" with no first name - you can change this variable to $FullName and it will show the full name \"Prof. Song\" instead of just \"Prof.\"\nFor example, Finnish.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Play.../ $Object",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Play $Object",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 2,
+    "en": "Order Groceries",
+    "description": "The Sims 2 - Needs Translation - Batch22\nUpdated from Restock Groceries per Bug.",
+    "reason": "Base-game player-facing computer interaction; reuse approved Vietnamese mapping and keep University/Pets/Business branches separate."
+  }
+]
