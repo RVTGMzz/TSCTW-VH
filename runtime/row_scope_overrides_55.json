@@ -1,0 +1,212 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go to School",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Go to Community Lot",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Sneak Out",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Home",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Out",
+    "description": "The Sims 2 - Needs Translation - Batch23\nPie Menu and action queue option for teen Sims going out with friend in car (same as sneak out but they have asked permission)",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 44,
+    "category": "menu",
+    "language": 2,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 45,
+    "category": "menu",
+    "language": 2,
+    "en": "Go to School",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 46,
+    "category": "menu",
+    "language": 2,
+    "en": "Go to Community Lot",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 47,
+    "category": "menu",
+    "language": 2,
+    "en": "Sneak Out",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 48,
+    "category": "menu",
+    "language": 2,
+    "en": "Go Home",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 49,
+    "category": "menu",
+    "language": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      302,
+      0
+    ],
+    "row": 50,
+    "category": "menu",
+    "language": 2,
+    "en": "Go Out",
+    "description": "The Sims 2 - Needs Translation - Batch23\nPie Menu and action queue option for teen Sims going out with friend in car (same as sneak out but they have asked permission)",
+    "reason": "Base-game player-facing travel/car action retained independently from the Nightlife owned-car branch; reuse approved Vietnamese menu mapping."
+  }
+]
