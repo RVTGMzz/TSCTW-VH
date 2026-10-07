@@ -1,0 +1,227 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Service",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Emergency",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch19\n (was: Call.../Other , The Sims 2 - Needs Translation - Batch15) changed due to FP renaming to WORK instead of OTHER",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Delivery",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Transportation",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Service",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Emergency",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch19\n (was: Call.../Other , The Sims 2 - Needs Translation - Batch15) changed due to FP renaming to WORK instead of OTHER",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Delivery",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      302,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Transportation",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Answer",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Handset Away",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Hang Up",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      2,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Answer",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142374138,
+      2,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Hang Up",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game player-facing phone action with an approved Vietnamese mapping; exact promotion excludes College/Nightlife/Business branches."
+  }
+]
