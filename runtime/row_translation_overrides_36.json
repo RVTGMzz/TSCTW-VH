@@ -1,0 +1,498 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1179,
+    "language": 2,
+    "en": "$Neighbor is on the line. Would you like to join the conversation?",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "$Neighbor đang ở đầu dây. Bạn có muốn tham gia cuộc trò chuyện không?",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1180,
+    "language": 2,
+    "en": "Join?",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Tham gia?",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1181,
+    "language": 2,
+    "en": "No, thanks.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1182,
+    "language": 2,
+    "en": "Hey $NeighborLocal:1, is $NeighborLocal:0 available to talk?",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Này $NeighborLocal:1, $NeighborLocal:0 có rảnh nói chuyện không?",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1183,
+    "language": 2,
+    "en": "Yes",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Có",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1184,
+    "language": 2,
+    "en": "No",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Không",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1186,
+    "language": 2,
+    "en": "Service Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ dịch vụ",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1187,
+    "language": 2,
+    "en": "Work Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ công việc",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1188,
+    "language": 2,
+    "en": "Transportation Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ phương tiện",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1189,
+    "language": 2,
+    "en": "Delivery Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ giao hàng",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1196,
+    "language": 2,
+    "en": "Call the %s",
+    "description": "Sims2 - Needs Translation - batch19 :: Old description -  Emergency Phone Call Message in selection dialog",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1197,
+    "language": 2,
+    "en": "Order %s for Delivery",
+    "description": "Sims2 - Needs Translation - batch19 :: -Delivery Phone Call Message in selection dialog",
+    "category": "dialog",
+    "vi": "Đặt %s giao tận nơi",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1198,
+    "language": 2,
+    "en": "Call %s",
+    "description": "Sims2 - Needs Translation - batch19 ::- Service Phone Call Message",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1200,
+    "language": 2,
+    "en": "Call to %s",
+    "description": "Sims2 - Needs Translation - batch19 :: - Work Phone Call Message",
+    "category": "dialog",
+    "vi": "Gọi đến %s",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1201,
+    "language": 2,
+    "en": "$NeighborLocal:0 isn't home? Okay thanks, I'll call back later.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "category": "dialog",
+    "vi": "$NeighborLocal:0 không có nhà à? Được rồi, cảm ơn. Tôi sẽ gọi lại sau.",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1204,
+    "language": 1,
+    "en": "Emergency Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ khẩn cấp",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1207,
+    "language": 1,
+    "en": "$Neighbor is on the line. Would you like to join the conversation?",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "$Neighbor đang ở đầu dây. Bạn có muốn tham gia cuộc trò chuyện không?",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1208,
+    "language": 1,
+    "en": "Join?",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Tham gia?",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1209,
+    "language": 1,
+    "en": "No, thanks.",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Không, cảm ơn.",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1210,
+    "language": 1,
+    "en": "Hey $NeighborLocal:1, is $NeighborLocal:0 available to talk?",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Này $NeighborLocal:1, $NeighborLocal:0 có rảnh nói chuyện không?",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1211,
+    "language": 1,
+    "en": "Yes",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Có",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1212,
+    "language": 1,
+    "en": "No",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Không",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1214,
+    "language": 1,
+    "en": "Service Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ dịch vụ",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1215,
+    "language": 1,
+    "en": "Work Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ công việc",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1216,
+    "language": 1,
+    "en": "Transportation Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ phương tiện",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1217,
+    "language": 1,
+    "en": "Delivery Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Danh bạ giao hàng",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1224,
+    "language": 1,
+    "en": "Call the %s",
+    "description": "Sims2 - Needs Translation - batch19 :: Old description -  Emergency Phone Call Message in selection dialog",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1225,
+    "language": 1,
+    "en": "Order %s for Delivery",
+    "description": "Sims2 - Needs Translation - batch19 :: -Delivery Phone Call Message in selection dialog",
+    "category": "dialog",
+    "vi": "Đặt %s giao tận nơi",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1226,
+    "language": 1,
+    "en": "Call %s",
+    "description": "Sims2 - Needs Translation - batch19 ::- Service Phone Call Message",
+    "category": "dialog",
+    "vi": "Gọi %s",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1228,
+    "language": 1,
+    "en": "Call to %s",
+    "description": "Sims2 - Needs Translation - batch19 :: - Work Phone Call Message",
+    "category": "dialog",
+    "vi": "Gọi đến %s",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142374138,
+      301,
+      0
+    ],
+    "row": 1229,
+    "language": 1,
+    "en": "$NeighborLocal:0 isn't home? Okay thanks, I'll call back later.",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "category": "dialog",
+    "vi": "$NeighborLocal:0 không có nhà à? Được rồi, cảm ơn. Tôi sẽ gọi lại sau.",
+    "reason": "Base-game player-facing phonebook/conversation dialog; exact-row translation preserves placeholders and separates College expansion rows."
+  }
+]
