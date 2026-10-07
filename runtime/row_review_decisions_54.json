@@ -1,0 +1,167 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136745598,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Paid",
+    "description": "",
+    "reason": "TTAs row belongs directly to invisible CS - Controller - Food Resource and does not share a selected Castaway text group; controller command is not a player-facing object menu."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136745598,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Take",
+    "description": "",
+    "reason": "TTAs row belongs directly to invisible CS - Controller - Food Resource and does not share a selected Castaway text group; controller command is not a player-facing object menu."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144394938,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dynamic Menu",
+    "description": "!",
+    "reason": "Technical dynamic-menu label rather than player-facing interaction copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140408621,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145375815,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 2,
+    "en": "Idle",
+    "description": "",
+    "reason": "Idle-state TTAs label used as internal behavior state; not a player-facing pie-menu action."
+  }
+]
