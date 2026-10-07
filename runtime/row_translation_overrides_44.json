@@ -1,0 +1,642 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Who needs a ride?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Ai cần đi nhờ?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Multiple Sims",
+    "description": "Sims2 - Needs Translation - batch23\nChanged from \"Whole Family\" because you can't bring babies and toddlers.",
+    "vi": "Nhiều Sim",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 3,
+    "category": "dialog",
+    "language": 1,
+    "en": "Never mind",
+    "description": "Sims2 - Needs Translation - batch12\rAdded space between words in English. Don't batch again, don't scrub.",
+    "vi": "Thôi, khỏi",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 1,
+    "en": "Home",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Về nhà",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 1,
+    "en": "Another Lot",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Lô đất khác",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "You need a babysitter",
+    "description": "Sims2 - Needs Translation - batch19\nHeader for dialog that appears if teen, adult, or elder Sim with a baby or toddler tries to go to community lot and there's no other TAE on lot.",
+    "vi": "Bạn cần người trông trẻ",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "There's no one to babysit! Hire a nanny and call again.",
+    "description": "Sims2 - Needs Translation - batch22\nThis used to refer specifically to a baby, and then was changed to refer to children, but \"There's no one to babysit\" works for the case when a single parent with baby or toddler or child tries to go to community lot. ",
+    "vi": "Không có ai trông trẻ! Hãy thuê bảo mẫu rồi gọi lại.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "Choose a babysitter...",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Chọn người trông trẻ...",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Where to?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Đi đâu?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "No thanks.  Maybe another time, when we're getting along better?",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Thôi, cảm ơn. Để dịp khác nhé, khi tụi mình thân hơn chút?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 12,
+    "category": "dialog",
+    "language": 1,
+    "en": "That sounds great!  I'll see you soon!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Nghe tuyệt đó! Hẹn gặp sớm nhé!",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 13,
+    "category": "dialog",
+    "language": 1,
+    "en": "Now",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Ngay bây giờ",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Later",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Lát nữa",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "Let %s babysit.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Để %s trông trẻ.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 16,
+    "category": "dialog",
+    "language": 1,
+    "en": "The Taxi will swing by shortly to pick you up!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Taxi sẽ ghé đón bạn ngay!",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 17,
+    "category": "dialog",
+    "language": 1,
+    "en": "Personal Phonebook",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Danh bạ cá nhân",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "There's no one here to babysit! Would you like to hire a Nanny for $$Local:0 plus $$Local:1 per hour while you're away?",
+    "description": "The Sims 2 - Needs Translation - Batch23\nWhen Sims choose to leave the lot without a babysitter.",
+    "vi": "Ở đây không có ai trông trẻ! Bạn có muốn thuê Bảo mẫu với phí $$Local:0, cộng thêm $$Local:1 mỗi giờ trong lúc bạn vắng nhà không?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "You don't have a babysitter! Choose who you'd like to stay behind, or you can hire a Nanny for $$Local:0 plus $$Local:1 per hour.",
+    "description": "The Sims 2 - Needs Translation - Batch23- Displayed before the list of babysitters pops up.",
+    "vi": "Bạn chưa có người trông trẻ! Hãy chọn ai sẽ ở lại, hoặc thuê Bảo mẫu với phí $$Local:0 cộng $$Local:1 mỗi giờ.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "dialog",
+    "language": 2,
+    "en": "Multiple Sims",
+    "description": "Sims2 - Needs Translation - batch23\nChanged from \"Whole Family\" because you can't bring babies and toddlers.",
+    "vi": "Nhiều Sim",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "dialog",
+    "language": 2,
+    "en": "Never mind",
+    "description": "Sims2 - Needs Translation - batch12\rAdded space between words in English. Don't batch again, don't scrub.",
+    "vi": "Thôi, khỏi",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 2,
+    "en": "Home",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Về nhà",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 2,
+    "en": "Another Lot",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Lô đất khác",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 32,
+    "category": "dialog",
+    "language": 2,
+    "en": "You need a babysitter",
+    "description": "Sims2 - Needs Translation - batch19\nHeader for dialog that appears if teen, adult, or elder Sim with a baby or toddler tries to go to community lot and there's no other TAE on lot.",
+    "vi": "Bạn cần người trông trẻ",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 33,
+    "category": "dialog",
+    "language": 2,
+    "en": "There's no one to babysit! Hire a nanny and call again.",
+    "description": "Sims2 - Needs Translation - batch22\nThis used to refer specifically to a baby, and then was changed to refer to children, but \"There's no one to babysit\" works for the case when a single parent with baby or toddler or child tries to go to community lot. ",
+    "vi": "Không có ai trông trẻ! Hãy thuê bảo mẫu rồi gọi lại.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 2,
+    "en": "Choose a babysitter...",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Chọn người trông trẻ...",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Where to?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Đi đâu?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "dialog",
+    "language": 2,
+    "en": "No thanks.  Maybe another time, when we're getting along better?",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Thôi, cảm ơn. Để dịp khác nhé, khi tụi mình thân hơn chút?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 38,
+    "category": "dialog",
+    "language": 2,
+    "en": "That sounds great!  I'll see you soon!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Nghe tuyệt đó! Hẹn gặp sớm nhé!",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 39,
+    "category": "dialog",
+    "language": 2,
+    "en": "Now",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Ngay bây giờ",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Later",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Lát nữa",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Let %s babysit.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Để %s trông trẻ.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "The Taxi will swing by shortly to pick you up!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Taxi sẽ ghé đón bạn ngay!",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Personal Phonebook",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "vi": "Danh bạ cá nhân",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 44,
+    "category": "dialog",
+    "language": 2,
+    "en": "There's no one here to babysit! Would you like to hire a Nanny for $$Local:0 plus $$Local:1 per hour while you're away?",
+    "description": "The Sims 2 - Needs Translation - Batch23\nWhen Sims choose to leave the lot without a babysitter.",
+    "vi": "Ở đây không có ai trông trẻ! Bạn có muốn thuê Bảo mẫu với phí $$Local:0, cộng thêm $$Local:1 mỗi giờ trong lúc bạn vắng nhà không?",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "You don't have a babysitter! Choose who you'd like to stay behind, or you can hire a Nanny for $$Local:0 plus $$Local:1 per hour.",
+    "description": "The Sims 2 - Needs Translation - Batch23- Displayed before the list of babysitters pops up.",
+    "vi": "Bạn chưa có người trông trẻ! Hãy chọn ai sẽ ở lại, hoặc thuê Bảo mẫu với phí $$Local:0 cộng $$Local:1 mỗi giờ.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "You know, someone as pregnant as I am should probably stay home and get some rest. I think I'll pass this time and stay home.",
+    "description": "The Sims 2 - Batch - Needs to be copied from CarGlobals after Batch23 returns.",
+    "vi": "Mình đang mang thai thế này thì nên ở nhà nghỉ ngơi thì hơn. Lần này mình xin ở nhà nhé.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139118177,
+      301,
+      0
+    ],
+    "row": 46,
+    "category": "dialog",
+    "language": 2,
+    "en": "You know, someone as pregnant as I am should probably stay home and get some rest. I think I'll pass this time and stay home.",
+    "description": "The Sims 2 - Batch - Needs to be copied from CarGlobals after Batch23 returns.",
+    "vi": "Mình đang mang thai thế này thì nên ở nhà nghỉ ngơi thì hơn. Lần này mình xin ở nhà nhé.",
+    "reason": "Base phone transport/community-lot dialog retained independently from expansion-specific transport branches."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Invite a Sim to a Community Lot",
+    "description": "The Sims 2 - Needs Translation - Batch19\nThis appears as a choice on the phone dialog for Call.../Transport.\n",
+    "vi": "Mời một Sim tới Lô cộng đồng",
+    "reason": "Base phone transport choice; player-facing community-lot invitation label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2001,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Invite a Sim to a Community Lot",
+    "description": "The Sims 2 - Needs Translation - Batch19\nThis appears as a choice on the phone dialog for Call.../Transport.\n",
+    "vi": "Mời một Sim tới Lô cộng đồng",
+    "reason": "Base phone transport choice; player-facing community-lot invitation label."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139118177,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Taxi",
+    "description": "The Sims 2 - Needs Translation - Batch16\rNote: This is for the Phone dialog where the Player calls for Transport and then chooses between calling a Taxi or calling to meet another Sim on the community Lot.",
+    "vi": "Taxi",
+    "reason": "Base phone transport choice; player-facing taxi label."
+  }
+]
