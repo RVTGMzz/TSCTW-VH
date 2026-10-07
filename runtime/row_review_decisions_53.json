@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135177202,
+      129,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Interaction - Cuddle",
+    "description": "",
+    "reason": "Technical interaction-name label prefixed with 'Interaction -'; not the actual player-facing Cuddle menu text, which is translated separately."
+  }
+]
