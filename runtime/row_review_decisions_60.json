@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 328,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Furious with this Sim",
+    "description": "",
+    "reason": "Relationship/debug-style state setter wording rather than a normal player-facing social interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 328,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Furious with this Sim",
+    "description": "",
+    "reason": "Relationship/debug-style state setter wording rather than a normal player-facing social interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 583,
+    "status": "excluded",
+    "language": 2,
+    "en": "Toddler Walk/Crawl",
+    "description": "",
+    "reason": "Internal toddler locomotion-mode/state label, not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 550,
+    "status": "excluded",
+    "language": 2,
+    "en": "Toddler Walk/Crawl",
+    "description": "",
+    "reason": "Internal toddler locomotion-mode/state label, not a player-facing pie-menu action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 749,
+    "status": "excluded",
+    "language": 2,
+    "en": "Conversation",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!1",
+    "reason": "Generic interaction-state label used by social routing/behavior rather than a selectable player-facing command."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 716,
+    "status": "excluded",
+    "language": 2,
+    "en": "Conversation",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!1",
+    "reason": "Generic interaction-state label used by social routing/behavior rather than a selectable player-facing command."
+  }
+]
