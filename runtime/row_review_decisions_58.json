@@ -1,0 +1,152 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 311,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep On Floor",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nSelf click interaction on Sim to Sleep on Floor. Can do this when visiting a Simgreek house.",
+    "reason": "Explicit University/Simgreek-house interaction residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 316,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dance For",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nInteraction while Streaking that lets you dance in front of a person.",
+    "reason": "Explicit University streaking interaction residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 319,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../To Form Casual Group.../Just for Fun",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife casual-group system residue; not a Castaway Stories gameplay system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 334,
+    "status": "excluded",
+    "language": 1,
+    "en": "Displeasured",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nNew Desperation Behavior for the Pleasure Seeker Aspiration",
+    "reason": "Nightlife Pleasure Seeker aspiration desperation-state residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 311,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep On Floor",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nSelf click interaction on Sim to Sleep on Floor. Can do this when visiting a Simgreek house.",
+    "reason": "Explicit University/Simgreek-house interaction residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 316,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dance For",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-6\nInteraction while Streaking that lets you dance in front of a person.",
+    "reason": "Explicit University streaking interaction residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 319,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask.../To Form Casual Group.../Just for Fun",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-9",
+    "reason": "Nightlife casual-group system residue; not a Castaway Stories gameplay system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 334,
+    "status": "excluded",
+    "language": 1,
+    "en": "Displeasured",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6\n\nNew Desperation Behavior for the Pleasure Seeker Aspiration",
+    "reason": "Nightlife Pleasure Seeker aspiration desperation-state residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130832425,
+      129,
+      0
+    ],
+    "row": 957,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mind The Store",
+    "description": "",
+    "reason": "Open for Business store-management interaction residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141025447,
+      129,
+      0
+    ],
+    "row": 924,
+    "status": "excluded",
+    "language": 2,
+    "en": "Mind The Store",
+    "description": "",
+    "reason": "Open for Business store-management interaction residue."
+  }
+]
