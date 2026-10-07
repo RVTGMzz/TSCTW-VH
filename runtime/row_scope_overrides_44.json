@@ -1,0 +1,1367 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 1,
+    "en": "Wash...",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Washed",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Give Toddler a Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Bathed",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 33,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 2,
+    "en": "Bathe Toddler",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 37,
+    "category": "menu",
+    "language": 2,
+    "en": "Take Bubble Bath",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 38,
+    "category": "menu",
+    "language": 2,
+    "en": "Ultra Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132946305,
+      128,
+      0
+    ],
+    "row": 43,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "View",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "View",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134150860,
+      1,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch19\ncorrected typo in English",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch19\ncorrected typo in English",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139293836,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Chew/Scratch",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch19\nCorrected typo in English.",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask To Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch19\nCorrected typo in English.",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146467710,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Chew/Scratch",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134054905,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Chew/Scratch",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144029082,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Chew/Scratch",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136542602,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With Toys",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136542602,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Toys Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136542602,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join $Object",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136542602,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Get Toy Out",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\ntoddler/child gets toy out of toy box.",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139978692,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With Toys",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139978692,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Toys Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139978692,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join $Object",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139978692,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Get Toy Out",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\ntoddler/child gets toy out of toy box.",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145445823,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With Toys",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145445823,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Toys Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145445823,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join $Object",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145445823,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Get Toy Out",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\ntoddler/child gets toy out of toy box.",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146320523,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play With Toys",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146320523,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Toys Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146320523,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Join $Object",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146320523,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Get Toy Out",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\ntoddler/child gets toy out of toy box.",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Assign",
+    "description": "",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140935073,
+      1,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "Sims2EP3 - Batch5",
+    "reason": "Player-facing inherited object interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  }
+]
