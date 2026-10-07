@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135096307,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I feel rejuvenated!  I believe I've added valuable days to my life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a positive result (they have days added to their lifetime).",
+    "reason": "AspirationsReward - Kibble Of Life belongs to the Pets-specific life-extension reward path; copied Elixir text here does not make the Pets reward part of Castaway's retained player-facing reward set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135096307,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "It feels like the end may be closer than I thought.  Valuable days have been taken from my short life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a negative result (the next age transition will come quicker).",
+    "reason": "AspirationsReward - Kibble Of Life belongs to the Pets-specific life-extension reward path; copied Elixir text here does not make the Pets reward part of Castaway's retained player-facing reward set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135096307,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "I feel rejuvenated!",
+    "description": "The Sims2 EP3 - Batch 8",
+    "reason": "AspirationsReward - Kibble Of Life belongs to the Pets-specific life-extension reward path; copied Elixir text here does not make the Pets reward part of Castaway's retained player-facing reward set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135096307,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Maybe drinking that was a bad idea.  I feel drained...",
+    "description": "The Sims2 EP3 - Batch 8",
+    "reason": "AspirationsReward - Kibble Of Life belongs to the Pets-specific life-extension reward path; copied Elixir text here does not make the Pets reward part of Castaway's retained player-facing reward set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135096307,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "I feel rejuvenated!  I believe I've added valuable days to my life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a positive result (they have days added to their lifetime).",
+    "reason": "AspirationsReward - Kibble Of Life belongs to the Pets-specific life-extension reward path; copied Elixir text here does not make the Pets reward part of Castaway's retained player-facing reward set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135096307,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "It feels like the end may be closer than I thought.  Valuable days have been taken from my short life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a negative result (the next age transition will come quicker).",
+    "reason": "AspirationsReward - Kibble Of Life belongs to the Pets-specific life-extension reward path; copied Elixir text here does not make the Pets reward part of Castaway's retained player-facing reward set."
+  }
+]
