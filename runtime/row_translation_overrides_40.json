@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135247918,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Black Lacquer Bar Counter",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Quầy bar sơn mài đen",
+    "reason": "Player-facing catalog title for the base-game bar counter."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135247918,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "The centerpiece of a living room or fine establishment, the Black Lacquer Bar Counter from the showroom floors of Club Distress provides a friendly gathering place to share good times and delicious beverages. Its granite countertop offers a welcoming surface for Sims to pour libations, and a small refrigeration unit behind the counter keeps top-shelf stuff on the down low and away from grabbing hands.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Là tâm điểm của phòng khách hay một nơi tụ họp sang trọng, Quầy bar sơn mài đen từ showroom của Club Distress mang đến chỗ quây quần lý tưởng để chia sẻ những khoảnh khắc vui vẻ và đồ uống ngon lành. Mặt quầy đá granite rộng rãi cho Sim thoải mái pha rót, còn tủ lạnh nhỏ phía sau giữ những món hảo hạng luôn mát lạnh và tránh xa những bàn tay tò mò.",
+    "reason": "Player-facing catalog description for the base-game bar counter."
+  }
+]
