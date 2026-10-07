@@ -1,0 +1,662 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147141396,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Tropico Avian Sanctuary",
+    "description": "TheSims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147141396,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Naturalist Steven Crest discovered a species of brightly colored birds while exploring the jungle. He quickly noticed that the birds were talking! Realizing he could socialize with birds instead of Sims, Crest devised the Tropico Avian Sanctuary and brought them home. Whether you're lonely and need a companion or just wish to add some colorful plumage to your home, Crest's birds are the answer!",
+    "description": "TheSims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "I don't have enough Simoleons to buy food for my bird!",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "dialog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "$NameLocal:1 has learned to talk!",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "dialog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of Charisma skill from talking to $NameLocal:1.",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "dialog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I don't have enough Simoleons to buy food for my bird!",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "dialog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "$NameLocal:1 has learned to talk!",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "dialog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of Charisma skill from talking to $NameLocal:1.",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "dialog",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fill $Object's food dish $$Local:0",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Play With $Object",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Teach $Object To Talk",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Talk With $Object",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Carry $Object",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Put $Object Away",
+    "description": "the Sims 2 EP6 - needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Fill $Object's food dish $$Local:0",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Play With $Object",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 2,
+    "en": "Teach $Object To Talk",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Talk With $Object",
+    "description": "The Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Carry $Object",
+    "description": "The sims 2 EP6 - Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147141396,
+      302,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Put $Object Away",
+    "description": "the Sims 2 EP6 - needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Stock",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Open Cage",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Close Cage",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Fill Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Clean Cage",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Play",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Teach To Talk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Talk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Watch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Watch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Mourn",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Carry Bird",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Put Bird Away",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "Stock",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Open Cage",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 16,
+    "language": 2,
+    "en": "Close Cage",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Fill Food",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 18,
+    "language": 2,
+    "en": "Clean Cage",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 20,
+    "language": 2,
+    "en": "Play",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 21,
+    "language": 2,
+    "en": "Teach To Talk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 22,
+    "language": 2,
+    "en": "Talk",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 23,
+    "language": 2,
+    "en": "Watch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 24,
+    "language": 2,
+    "en": "Watch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147141396,
+      1,
+      0
+    ],
+    "row": 25,
+    "language": 2,
+    "en": "Mourn",
+    "description": "Sims 2 EP6: Needs Translation",
+    "category": "menu",
+    "reason": "Contained Pet - Bird Cage / Tropico Avian Sanctuary rows match Castaway's retained talking-bird gameplay; promote this exact player-facing row and reuse the approved category translation."
+  }
+]
