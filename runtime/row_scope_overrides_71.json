@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138487677,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Chickenfeed Charlie Sculpture of Fun",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Base-game LawnTacky / Chickenfeed Charlie catalog title or description; player-facing Buy Mode copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138487677,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Sick of gnomes? Of course you are. While your gnome-sporting neighbors are basking in the sun, you will be bringing the new, exciting realm of garden chickens to your neighborhood, if not the world! Chickenfeed Charlie is not only a chicken but he wears overalls and if that’s not enough, the shovel and shoes certainly are.",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Base-game LawnTacky / Chickenfeed Charlie catalog title or description; player-facing Buy Mode copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138487677,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Chickenfeed Charlie Sculpture of Fun",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Base-game LawnTacky / Chickenfeed Charlie catalog title or description; player-facing Buy Mode copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138487677,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Sick of gnomes? Of course you are. While your gnome-sporting neighbors are basking in the sun, you will be bringing the new, exciting realm of garden chickens to your neighborhood, if not the world! Chickenfeed Charlie is not only a chicken but he wears overalls and if that's not enough, the shovel and shoes certainly are.",
+    "description": "The Sims2 - Needs Translation",
+    "category": "catalog",
+    "reason": "Base-game LawnTacky / Chickenfeed Charlie catalog title or description; player-facing Buy Mode copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "View",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "View",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138487677,
+      1,
+      0
+    ],
+    "row": 17,
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "LawnTacky base-game player-facing interaction retained separately from the already excluded EP7 statue-theft rows."
+  }
+]
