@@ -1,0 +1,4877 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "menu",
+    "language": 1,
+    "en": "Service Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "menu",
+    "language": 1,
+    "en": "Call %s",
+    "description": "Sims2 - Needs Translation - batch19 ::- Service Phone Call Message",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 37,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 44,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 47,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 55,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "menu",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 66,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 67,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 70,
+    "category": "menu",
+    "language": 2,
+    "en": "Service Phonebook",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 71,
+    "category": "menu",
+    "language": 2,
+    "en": "Call %s",
+    "description": "Sims2 - Needs Translation - batch19 ::- Service Phone Call Message",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 34,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already too many family members in your household, we couldn't possibly place a youngster with you.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 36,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 44,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 46,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "menu",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 66,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139316182,
+      301,
+      0
+    ],
+    "row": 55,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132520486,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2132551270,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137184809,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Roaches don't stand a chance against us.  We charge $$Local:2 initially and then $$Local:3 per hour. You okay with that?",
+    "description": "Sims2 - Needs Translation - batch16",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 6,
+    "category": "dialog",
+    "language": 1,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 7,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 8,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 11,
+    "category": "dialog",
+    "language": 1,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 14,
+    "category": "dialog",
+    "language": 1,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 15,
+    "category": "dialog",
+    "language": 1,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 18,
+    "category": "dialog",
+    "language": 1,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 19,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 21,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'll come by tomorrow at $Local:1 to drop off your new family member!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 22,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 23,
+    "category": "dialog",
+    "language": 1,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 24,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 25,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 1,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 27,
+    "category": "menu",
+    "language": 1,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 1,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 1,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 30,
+    "category": "dialog",
+    "language": 1,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 31,
+    "category": "dialog",
+    "language": 1,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 35,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you need help keeping your home spic and span? I'll come clean your home every day. I charge a base fee of $$Local:2 plus $$Local:3 per hour. Is that okay?",
+    "description": "Sims2 - Needs Translation - batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 40,
+    "category": "dialog",
+    "language": 2,
+    "en": "Do you require assistance with your gardening?  I'll come three times a week to maintain your flowerbeds and shrubs. I charge $$Local:2 initially, and $$Local:3 per hour.  Is that okay?",
+    "description": "Sims2 - Needs Translation - Batch17 - was batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 41,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sure, I'll help out with your party, if you provide the drinks. It'll also cost you $$Local:2 initially, and $$Local:3 per hour. Deal?",
+    "description": "!Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 42,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. I charge $$Local:2 initially and $$Local:3 per hour, shall I come over now?",
+    "description": "Sims2 - Needs Translation - batch12",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 43,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, I'll be right over.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 45,
+    "category": "dialog",
+    "language": 2,
+    "en": "We're closed right now. Please call back after $Local:0, we'll be open by then. And thanks for choosing us!",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\n - changed the context to be that the shop is closed and you have to call back in the morning.  Used to be that the NPC would show up the next day at the earliest time (Morning string)",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 48,
+    "category": "dialog",
+    "language": 2,
+    "en": "Wait just a second! You want me to come over there even though you couldn't pay me last time?  I don't think so!  Maybe I'll reconsider later.",
+    "description": "Sims2 - Needs Translation - batch15",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 49,
+    "category": "dialog",
+    "language": 2,
+    "en": "There seems to be a problem. Our records indicate that you've had children taken away!  There's no way that we would allow you to adopt!",
+    "description": "The Sims 2 - Needs Translation - Batch17 - reworded first sentence.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 52,
+    "category": "dialog",
+    "language": 2,
+    "en": "Sorry, you don't meet the required financial standards to adopt. We want to send children to stable households, and your current funds do not meet the minimum level.  Please accumulate some more dough before you take on the responsibility of a child!",
+    "description": "The Sims 2 - Needs Translation -  Batch17",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 53,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations, your request to adopt has been approved! We are all confident that you'll make a great parent!",
+    "description": "The Sims 2 - Needs Translation -  Batch17 - minor edit don't retranslate",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 56,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will come over first thing in the morning.",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 57,
+    "category": "dialog",
+    "language": 2,
+    "en": "Thank you, $Me! Someone will be over today!",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 58,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'd be happy to take care of your little ones. Just to let you know, my fee is $$Local:2 and then an additional $$Local:3 per hour. If you'd like, I can keep track of your schedule in my calendar so that I'll always be there for your kids when you can't be. Did you want to go ahead and set that up, or did you just want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 59,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hi $Me. How's work? Did you want me to come over now, or did you want to talk about canceling our regular schedule?",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 60,
+    "category": "menu",
+    "language": 2,
+    "en": "Just for Now",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 61,
+    "category": "menu",
+    "language": 2,
+    "en": "Cancel Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 62,
+    "category": "menu",
+    "language": 2,
+    "en": "Never mind",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nadded space to \"Never mind\"",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 63,
+    "category": "menu",
+    "language": 2,
+    "en": "Track Schedule",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 64,
+    "category": "dialog",
+    "language": 2,
+    "en": "Looking at your schedule, it doesn't appear as though you'll need me to come on a recurring basis. Did you want to hire me just for now?",
+    "description": "The Sims 2 - Needs Translation - Batch25\nNote for translators - this is a dialog that appears when you use \"Call.../Services\" and call for a Nanny. Previously it said \"I thought you said you didn't have a job, silly\" but it's supposed to appear for cases when either you don't need a nanny because the family has no kids, or you don't need to schedule a nanny because you have no job. \nTo check the fix, call a nanny in Don Lothario's house - this dialog will appear.",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 65,
+    "category": "dialog",
+    "language": 2,
+    "en": "Okay, and by the looks of it you'll be out of the house from $TimeLocal:0 to $TimeLocal:1. But now you have nothing to worry about, because I'll be there!",
+    "description": "The Sims 2 - Needs Translation - Batch 23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 1,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 50,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too sloppy to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 51,
+    "category": "dialog",
+    "language": 2,
+    "en": "You and your spouse are too mean to adopt!",
+    "description": "!",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143406460,
+      301,
+      0
+    ],
+    "row": 54,
+    "category": "dialog",
+    "language": 2,
+    "en": "I'm sorry, but we are unable to approve your adoption request. You see, we at the SimCity adoption agency strive to provide the most supportive environment possible for all of our adoptees. And seeing that there are already 8 members in your household, we couldn't possibly place a youngster with you.",
+    "description": "The Sims 2 - Needs ReTranslation -  Batch23",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call.../Service",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135943152,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Call.../Service",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132520486,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132551270,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135943152,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137184809,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139316182,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Exterminator",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2001,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Gardener",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2002,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Repairman",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2003,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Maid",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2004,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Nanny",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2005,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartender",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143406460,
+      2006,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Adoption Service",
+    "description": "Sims2 - Needs Translation - batch19",
+    "reason": "Base phone-service player-facing text with an approved Vietnamese mapping; exact-row promotion while expansion-owned service resources remain excluded."
+  }
+]
