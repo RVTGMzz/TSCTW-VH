@@ -1,0 +1,752 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Apple Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Orange Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Strawberry Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Tomato Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Eggplant Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Pureed Boot",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Orangeade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Beauty Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Vegetable Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Strawberry Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice../Pepper Punch",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Apple Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Orange Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Strawberry Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Tomato Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Eggplant Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Pureed Boot",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Orangeade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Beauty Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Vegetable Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Strawberry Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Serve Juice../Pepper Punch",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Apple Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Orange Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Strawberry Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Tomato Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Eggplant Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Pureed Boot",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Orangeade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Beauty Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Vegetable Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Strawberry Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice../Pepper Punch",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Apple Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Orange Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Strawberry Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Tomato Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Eggplant Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Pureed Boot",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Orangeade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Beauty Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Vegetable Cocktail",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Strawberry Lemonade",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140988335,
+      302,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "Serve Juice../Pepper Punch",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140988335,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140988335,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Make Juice",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Explicit Sims 2 EP7/Seasons juicer interaction residue; outside Castaway Stories runtime."
+  }
+]
