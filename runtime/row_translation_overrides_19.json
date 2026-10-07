@@ -1,0 +1,34 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145233707,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Trim",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tỉa",
+    "reason": "Exact inherited interaction is a player-facing maintenance command; translate only this row to avoid global collision."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145233707,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Use",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\n\r\nThis is an interaction outgoing & lazy male sims have on bushes when they have low bladder motive.",
+    "vi": "Đi vệ sinh",
+    "reason": "Source metadata explicitly identifies this as the bush bladder interaction. Exact-row translation avoids globally translating ambiguous 'Use'."
+  }
+]
