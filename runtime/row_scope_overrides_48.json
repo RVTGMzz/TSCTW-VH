@@ -1,0 +1,542 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Prepare",
+    "description": "The Sims 2 - Needs Translation - Batch13\r\nReserved",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Cook",
+    "description": "The Sims 2 - Needs Translation - Batch13",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Serve",
+    "description": "The Sims 2 - Needs Translation - Batch13",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch13",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Grab a Plate",
+    "description": "The Sims 2 - Needs Translation - Batch13\r\n/Reserved",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Call To Meal.../Guests",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Call To Meal.../Household",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Call To Meal.../Everyone",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Prepare",
+    "description": "The Sims 2 - Needs Translation - Batch13\r\nReserved",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 2,
+    "en": "Cook",
+    "description": "The Sims 2 - Needs Translation - Batch13",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Serve",
+    "description": "The Sims 2 - Needs Translation - Batch13",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch13",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Grab a Plate",
+    "description": "The Sims 2 - Needs Translation - Batch13\r\n/Reserved",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Call To Meal.../Guests",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 24,
+    "category": "menu",
+    "language": 2,
+    "en": "Call To Meal.../Household",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Call To Meal.../Everyone",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Assign Job.../$Object.../Make Single $NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Management.../Make Single Plates.../$NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Make.../Single Plate.../$NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Many.../Single Plates.../$NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 1,
+    "en": "Assign Job.../$Object.../Make Group $NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 1,
+    "en": "Management.../Make Group Meals.../$NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Make.../Group Meal.../$NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134677109,
+      302,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Many.../Group Meals.../$NameLocal:0",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Lick Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Leftovers Away",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Lick Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Leftovers Away",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Eat",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134677109,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Eat",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Generic food interaction with an existing approved Vietnamese menu mapping; player-facing base gameplay retained by Castaway."
+  }
+]
