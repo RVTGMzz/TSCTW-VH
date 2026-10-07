@@ -1,0 +1,317 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Put Away",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Read",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Read to",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Be Read to",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Ask to be Read to",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Read to",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "Ask to be read to",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "Read",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "Put Away All Books",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "Study.../Cooking",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Study.../Mechanical",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "Study.../Cleaning",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Read",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 19,
+    "language": 1,
+    "en": "Study.../Charisma",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "Study.../Body",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "Study.../Logic",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Study.../Creativity",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 42,
+    "language": 2,
+    "en": "Study.../Charisma",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 43,
+    "language": 2,
+    "en": "Study.../Body",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 44,
+    "language": 2,
+    "en": "Study.../Logic",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145798797,
+      129,
+      0
+    ],
+    "row": 45,
+    "language": 2,
+    "en": "Study.../Creativity",
+    "description": "Sims 2 EP7: Needs Text",
+    "category": "menu",
+    "reason": "Generic player-facing reading interaction with an approved Vietnamese mapping."
+  }
+]
