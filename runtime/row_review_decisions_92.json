@@ -1,0 +1,1052 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NameLocal:0 has gained a point of Logic skill from the $NameLocal:1.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the dialog appearing when the Sim is writing a term paper on the computer.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me has defeated the twin demons of procrastination and distraction to finish a term paper, which will boost $Me's grade for this semester.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rSystem Awareness Level: $Local:0/100 \rSecurity Alerts Triggered: $Local:1",
+    "description": "! outdated dialog",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Looks like $Me needs to beef up those logic skills a little more before trying to hack into the college's grade system again. $Me is busted!  $Me loses all the grade bonus gained during this session.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis changed after translation in batchep1-5",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Points Accumulated Toward Grade: $Local:5",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "The higher $Me's logic skill, the fewer alerts will be triggered while $Me is hacking.  To avoid getting busted, cancel the interaction or close the dialog before the system is fully aware of $Me's presence. \r\rAre you sure you want to hack grades?",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis dialog appears before Sim starts Hacking grades.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me just finished $Neighbor's Term Paper. Being Influential really does have its advantages! That should help $Neighbor's grade a bit.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nDialog appears when one Sim influences another to finish their Term Paper and the other Sim finishes it.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Extreme \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 10 (highest) level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Intense \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 9 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Severe \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 8 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Strong \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 7 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Significant \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 6 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Considerable \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 5 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Moderate \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 4 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Mild \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 3 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Slight \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 2 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Minimal \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 1 level (lowest)",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unfortunately $Me, you'll need to have slightly higher grades to get into college. Try attending class regularly and completing your homework assignments, and contact us again to apply after your grades have improved.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\ndialog that appears if Sim tries to \"Move to College\" but does not have high enough grades. Similar dialog exists on the phone.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 42,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me's about to leave this household and move to college. Are you sure you want to do this?",
+    "description": "Sims2EP1 - BatchEP1-10 - the exact same dialog is found in Phone_Call College because Sims can move to college using the phone as well.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 69,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NameLocal:0 has gained a point of Logic skill from the $NameLocal:1.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the dialog appearing when the Sim is writing a term paper on the computer.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 70,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me has defeated the twin demons of procrastination and distraction to finish a term paper, which will boost $Me's grade for this semester.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 71,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades:\nThe higher $Me's logic skill and the more time $Me spends hacking, the higher the points that contribute to $Me's grade.\nWatch out, spending more time in the system also increases the chance of getting busted! \nChance of Success: $Local:0 % \rPoints Awarded Toward Grade: $Local:2",
+    "description": "! outdated dialog",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 72,
+    "status": "excluded",
+    "language": 2,
+    "en": "Looks like $Me needs to beef up those logic skills a little more before trying to hack into the college's grade system again. $Me is busted!  $Me loses all the grade bonus gained during this session.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis changed after translation in batchep1-5",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 73,
+    "status": "excluded",
+    "language": 2,
+    "en": "Points Accumulated Toward Grade: $Local:5",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 74,
+    "status": "excluded",
+    "language": 2,
+    "en": "The higher $Me's logic skill, the fewer alerts will be triggered while $Me is hacking.  To avoid getting busted, cancel the interaction or close the dialog before the system is fully aware of $Me's presence. \r\rAre you sure you want to hack grades?",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis dialog appears before Sim starts Hacking grades.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 75,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me just finished $Neighbor's Term Paper. Being Influential really does have its advantages! That should help $Neighbor's grade a bit.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nDialog appears when one Sim influences another to finish their Term Paper and the other Sim finishes it.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 77,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Extreme \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 10 (highest) level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 78,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Intense \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 9 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 79,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Severe \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 8 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 80,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Strong \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 7 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 81,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Significant \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 6 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 82,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Considerable \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 5 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 83,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Moderate \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 4 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 84,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Mild \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 3 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 85,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Slight \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 2 level.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 86,
+    "status": "excluded",
+    "language": 2,
+    "en": "Hacking Grades: \rClose this box to Log Out \r\rRisk Level: Minimal \rSecurity Alerts Triggered: $Local:1",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is the Hacking grades dialog - only available for members of the Secret Society. There are 10 levels of risk, risk is based partly on chance and partly on the logic skill level of the Sim. This is the level 1 level (lowest)",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 88,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unfortunately $Me, you'll need to have slightly higher grades to get into college. Try attending class regularly and completing your homework assignments, and contact us again to apply after your grades have improved.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\ndialog that appears if Sim tries to \"Move to College\" but does not have high enough grades. Similar dialog exists on the phone.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 89,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me's about to leave this household and move to college. Are you sure you want to do this?",
+    "description": "Sims2EP1 - BatchEP1-10 - the exact same dialog is found in Phone_Call College because Sims can move to college using the phone as well.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chance: $Local:0\rRoll: $Local:1",
+    "description": "!",
+    "reason": "Internal/debug/helper text with bang metadata; not normal player-facing Castaway runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 43,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you want $Me to purchase $LotNameLocalByLotId:0 for $$PropertyGlobalString:2:3?",
+    "description": "!",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations!  Your new staff is ready and waiting. Use the phone or the Open/Closed Sign to call your employees in for work. ",
+    "description": "The Sims2EP3 - Batch 9 - Needs Retranslation",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 1,
+    "en": "There are no Sims looking for work today, please try again tomorrow.",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 46,
+    "status": "excluded",
+    "language": 1,
+    "en": "You are currently employing the maximum number of Sims at your business. If you want to be able to hire new Sims again you can lay off some of your less talented employees.",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 59,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me will move out of the house and will take their spouse and children with them if they have any. Are you sure you want to do this?",
+    "description": "!!! cut move-in string",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 76,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chance: $Local:0\rRoll: $Local:1",
+    "description": "!",
+    "reason": "Internal/debug/helper text with bang metadata; not normal player-facing Castaway runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 90,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you want $Me to purchase $LotNameLocalByLotId:0?",
+    "description": "!",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 91,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations!  Your new staff is ready and waiting. Use the phone or the Open/Closed Sign to call your employees in for work. ",
+    "description": "The Sims2EP3 - Batch 9 - Needs Retranslation",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 92,
+    "status": "excluded",
+    "language": 2,
+    "en": "There are no Sims looking for work today, please try again tomorrow.",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 93,
+    "status": "excluded",
+    "language": 2,
+    "en": "You are currently employing the maximum number of Sims at your business. If you want to be able to hire new Sims again you can lay off some of your less talented employees.",
+    "description": "The Sims2EP3 - Batch 8",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me is about to move out of the house with his spouse and children, if he has any. Is this ok?",
+    "description": "Sims2 - Needs Translation - batch20 -M\nReplaced 6/25 by move in/move out dialog in Inherit Controller. Leaving strings here in case they are needed again.",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me is about to move out of the house with her spouse and children, if she has any. Is this ok?",
+    "description": "Sims2 - Needs Translation - batch20 -F\nReplaced 6/25 by move in/move out dialog in Inherit Controller. Leaving strings here in case they are needed again.",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 65,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me is about to move out of the house with his spouse and children, if he has any. Is this ok?",
+    "description": "Sims2 - Needs Translation - batch20 -M\nReplaced 6/25 by move in/move out dialog in Inherit Controller. Leaving strings here in case they are needed again.",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      301,
+      0
+    ],
+    "row": 66,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me is about to move out of the house with her spouse and children, if she has any. Is this ok?",
+    "description": "Sims2 - Needs Translation - batch20 -F\nReplaced 6/25 by move in/move out dialog in Inherit Controller. Leaving strings here in case they are needed again.",
+    "reason": "Source explicitly marks this row outdated, cut, or replaced by another runtime dialog; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join LAN Party",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction for the Sim to join a online \"party\" (gaming session/chat) on the computer. In English this is referred to as a \"LAN Party\" (Local Area Network).",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction when Sim first declares a major",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Registrar - Change Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction when Sim wishes to change their major after declaring it.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../ Hack Grades",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Write Term Paper ($Local:3%)",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThe variable shows the progress of writing the term paper.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find Pet Job For.../$Object",
+    "description": "The Sims 2 EP6  - Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets computer job residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join LAN Party",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is an interaction for the Sim to join a online \"party\" (gaming session/chat) on the computer. In English this is referred to as a \"LAN Party\" (Local Area Network).",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction when Sim first declares a major",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Registrar - Change Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction when Sim wishes to change their major after declaring it.",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../ Hack Grades",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University computer and grade-hacking residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Find Pet Job For.../$Object",
+    "description": "The Sims 2 EP6  - Needs Translation",
+    "reason": "Explicit Sims 2 EP6/Pets computer job residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Buy Property.../$LotNameLocalByLotId:0 - $$PropertyGlobalString:2:3",
+    "description": "!",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees For.../$LotNameLocalByLotId:2",
+    "description": "The Sims 2 EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Check Status For.../$LotNameLocalByLotId:2",
+    "description": "The Sims 2 EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "Buy Property.../$LotNameLocalByLotId:0",
+    "description": "!",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees For.../$LotNameLocalByLotId:2",
+    "description": "The Sims 2 EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135167636,
+      302,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Check Status For.../$LotNameLocalByLotId:2",
+    "description": "The Sims 2 EP3 - Batch 5",
+    "reason": "Explicit Sims 2 EP3/Open for Business property/employment residue; outside Castaway Stories runtime."
+  }
+]
