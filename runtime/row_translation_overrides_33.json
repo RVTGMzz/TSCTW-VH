@@ -1,0 +1,98 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "No fare, no ride! Go get enough money together to pay the driver.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "Không có tiền xe thì không đi được! Kiếm đủ tiền trả tài xế rồi quay lại nhé.",
+    "reason": "Base-game player-facing travel restriction/fare dialog; exact-row translation separates it from Nightlife/Pets/Business vehicle residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "You know, I think someone as pregnant as I am should probably try to get some rest. I think I'll pass this time and stay home.",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nThis is for a pregnant woman trying to go to community lot.\n",
+    "category": "dialog",
+    "vi": "Mình nghĩ mang thai thế này thì nên nghỉ ngơi thì hơn. Lần này mình ở nhà nhé.",
+    "reason": "Base-game player-facing travel restriction/fare dialog; exact-row translation separates it from Nightlife/Pets/Business vehicle residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "I know I have other responsibilities, but I just can't bring myself to leave the little ones home alone.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nThis is supposed to handle the edge case of either: choosing a teen as the babysitter and then the schoolbus comes, leaving children on lot unattended, or choosing adult/elder as babysitter and they go to work, etc.",
+    "category": "dialog",
+    "vi": "Mình biết còn có việc khác phải làm, nhưng mình không thể để mấy đứa nhỏ ở nhà một mình được.",
+    "reason": "Base-game player-facing travel restriction/fare dialog; exact-row translation separates it from Nightlife/Pets/Business vehicle residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      301,
+      0
+    ],
+    "row": 28,
+    "language": 2,
+    "en": "No fare, no ride! Go get enough money together to pay the driver.",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "vi": "Không có tiền xe thì không đi được! Kiếm đủ tiền trả tài xế rồi quay lại nhé.",
+    "reason": "Base-game player-facing travel restriction/fare dialog; exact-row translation separates it from Nightlife/Pets/Business vehicle residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      301,
+      0
+    ],
+    "row": 29,
+    "language": 2,
+    "en": "You know, I think someone as pregnant as I am should probably try to get some rest. I think I'll pass this time and stay home.",
+    "description": "The Sims 2 - Needs Translation - Batch 23\nThis is for a pregnant woman trying to go to community lot.\n",
+    "category": "dialog",
+    "vi": "Mình nghĩ mang thai thế này thì nên nghỉ ngơi thì hơn. Lần này mình ở nhà nhé.",
+    "reason": "Base-game player-facing travel restriction/fare dialog; exact-row translation separates it from Nightlife/Pets/Business vehicle residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135859760,
+      301,
+      0
+    ],
+    "row": 30,
+    "language": 2,
+    "en": "I know I have other responsibilities, but I just can't bring myself to leave the little ones home alone.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nThis is supposed to handle the edge case of either: choosing a teen as the babysitter and then the schoolbus comes, leaving children on lot unattended, or choosing adult/elder as babysitter and they go to work, etc.",
+    "category": "dialog",
+    "vi": "Mình biết còn có việc khác phải làm, nhưng mình không thể để mấy đứa nhỏ ở nhà một mình được.",
+    "reason": "Base-game player-facing travel restriction/fare dialog; exact-row translation separates it from Nightlife/Pets/Business vehicle residue."
+  }
+]
