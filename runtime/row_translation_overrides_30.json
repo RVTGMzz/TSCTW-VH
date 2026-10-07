@@ -1,0 +1,802 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Hey $Me, you realize that some people need to get sleep, right? Could you call back at a decent hour?",
+    "description": "Sims2 - Needs Translation - batch15",
+    "category": "dialog",
+    "vi": "$Me này, bạn biết có người cần ngủ mà, đúng không? Gọi lại lúc đàng hoàng hơn được chứ?",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "$Neighbor doesn't own a phone! You can't call someone without a phone!",
+    "description": "Sims2 - Needs Translation - batch15",
+    "category": "dialog",
+    "vi": "$Neighbor không có điện thoại! Không có điện thoại thì gọi kiểu gì được!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "I don't know anyone to call. I need to meet somebody before I can call them on the phone!",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Mình chẳng biết gọi cho ai cả. Phải làm quen với ai đó trước đã!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Hi. You've reached $neighbor's answering machine. I'm not home right now, so try calling again later. Thanks.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nEnglish changed slightly, keeping consistent.",
+    "category": "dialog",
+    "vi": "Xin chào. Bạn đang gọi vào máy trả lời của $neighbor. Giờ mình không có nhà, gọi lại sau nhé. Cảm ơn!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Calling in the middle of the night for any reason except to tell me that my house is on fire is not cool. I'm going back to sleep.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nEnglish changed slightly, keeping consistent.",
+    "category": "dialog",
+    "vi": "Nửa đêm mà gọi, trừ khi báo nhà tôi đang cháy, thì không ổn đâu. Tôi ngủ tiếp đây.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Thanks a lot for waking me up. Bye.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cảm ơn nhiều nha, gọi tôi dậy luôn rồi. Tạm biệt.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Call back in the morning. I'm trying to sleep here, jerk!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Sáng hẵng gọi lại. Tôi đang ngủ mà, đồ phiền phức!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 1,
+    "en": "$neighborlocal:0 is at work . . . working.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nWas \"$Neighborlocal is at work . .. Duh!'",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang đi làm... làm việc đó.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 10,
+    "language": 1,
+    "en": "You should try calling back when $neighborlocal:0 isn't at work.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nVariable changed.",
+    "category": "dialog",
+    "vi": "Thử gọi lại khi $neighborlocal:0 không đi làm nhé.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 11,
+    "language": 1,
+    "en": "$neighborlocal:0 is out working, unlike SOMEBODY I know. Try later.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nVariable changed to NeighborLocal:0",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang bận đi làm, không như AI ĐÓ tôi biết. Gọi lại sau đi.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 12,
+    "language": 1,
+    "en": "How nice of you to invite me. I'll just gussy up and come right over!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Ôi, mời mình à? Để mình tút tát chút rồi qua ngay!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 13,
+    "language": 1,
+    "en": "Sounds great! I'll be there in a few.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Nghe được đó! Mình qua ngay đây.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 14,
+    "language": 1,
+    "en": "It's always a pleasure to see you! I'll be right over!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Lúc nào gặp bạn cũng vui! Mình qua ngay!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "I don't really have anything better to do. I'll be over soon.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Mình cũng chẳng có việc gì hay hơn. Qua liền đây.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 16,
+    "language": 1,
+    "en": "Thanks! I'll see if I can make it over.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cảm ơn! Để mình xem có qua được không nhé.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 17,
+    "language": 1,
+    "en": "Sure. I suppose coming over couldn't hurt. See ya!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Ừ. Qua chơi chắc cũng chẳng hại gì. Gặp sau nhé!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 18,
+    "language": 1,
+    "en": "Yeah...um, I'm making a Baked Alaska right now. Couldn't possibly tear myself away.",
+    "description": "The Sims 2 - Needs Translation - Batch18\nminor English grammar change after this went out for translation.",
+    "category": "dialog",
+    "vi": "Ờ... ừm, mình đang làm Baked Alaska. Không thể bỏ ngang được.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 19,
+    "language": 1,
+    "en": "I can't leave the house, I'm waiting for the . . . phone repairman. Sorry.",
+    "description": "The Sims 2 - Needs Translation - Batch18\nEnglish grammar edit.",
+    "category": "dialog",
+    "vi": "Mình không ra khỏi nhà được, đang chờ... thợ sửa điện thoại. Xin lỗi nha.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 20,
+    "language": 1,
+    "en": "My psychic advisor has forbidden me from leaving the house today. I'm afraid I must comply.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cố vấn tâm linh của mình cấm ra khỏi nhà hôm nay. Đành nghe lời thôi.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 21,
+    "language": 1,
+    "en": "I'd rather play Myshuno with a pack of llamas.",
+    "description": "The Sims 2 - Needs Translation - Batch18\n5/24: Fixed English typos. No need to scrub translation.",
+    "category": "dialog",
+    "vi": "Thà chơi Myshuno với một bầy llama còn hơn.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 22,
+    "language": 1,
+    "en": "Count me out. Really out.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cho mình xin kiếu. Kiếu thật đó.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 23,
+    "language": 1,
+    "en": "If my wanting to see you was on a scale of 1 to 10, I'd still say no.",
+    "description": "The Sims 2 - Needs Translation - Batch18\nSmall English grammar change. Do not send out again for translation.",
+    "category": "dialog",
+    "vi": "Nếu chấm mức độ muốn gặp bạn từ 1 đến 10 thì... mình vẫn chọn không.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 24,
+    "language": 1,
+    "en": "$neighborlocal:0 is in class. It being during class hours and all . . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLTEDIT - edited the word \"school\" in this dialog to be \"class\" so that this string can be used for the base game teens/children and for the EP1 young adults.  Please do not change this string if it makes the situation more confusing in your language.",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang trong lớp. Giờ học mà...",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 25,
+    "language": 1,
+    "en": "You should try calling back when $neighborlocal:0 isn't in class.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLTEDIT - edited the word \"school\" in this dialog to be \"class\" so that this string can be used for the base game teens/children and for the EP1 young adults.  Please do not change this string if it makes the situation more confusing in your language.",
+    "category": "dialog",
+    "vi": "Thử gọi lại khi $neighborlocal:0 không ở trong lớp nhé.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 26,
+    "language": 1,
+    "en": "$neighborlocal:0 is out learning in class, unlike SOMEBODY I know. Try later.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLTEDIT - edited the word \"school\" in this dialog to be \"class\" so that this string can be used for the base game teens/children and for the EP1 young adults.  Please do not change this string if it makes the situation more confusing in your language.",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang ở lớp học hành đàng hoàng, không như AI ĐÓ tôi biết. Gọi lại sau đi.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 55,
+    "language": 2,
+    "en": "Hey $Me, you realize that some people need to get sleep, right? Could you call back at a decent hour?",
+    "description": "Sims2 - Needs Translation - batch15",
+    "category": "dialog",
+    "vi": "$Me này, bạn biết có người cần ngủ mà, đúng không? Gọi lại lúc đàng hoàng hơn được chứ?",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 56,
+    "language": 2,
+    "en": "$Neighbor doesn't own a phone! You can't call someone without a phone!",
+    "description": "Sims2 - Needs Translation - batch15",
+    "category": "dialog",
+    "vi": "$Neighbor không có điện thoại! Không có điện thoại thì gọi kiểu gì được!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 58,
+    "language": 2,
+    "en": "I don't know anyone to call. I need to meet somebody before I can call them on the phone!",
+    "description": "Sims2 - Needs Translation - batch19",
+    "category": "dialog",
+    "vi": "Mình chẳng biết gọi cho ai cả. Phải làm quen với ai đó trước đã!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 59,
+    "language": 2,
+    "en": "Hi. You've reached $neighbor's answering machine. I'm not home right now, so try calling again later. Thanks.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nEnglish changed slightly, keeping consistent.",
+    "category": "dialog",
+    "vi": "Xin chào. Bạn đang gọi vào máy trả lời của $neighbor. Giờ mình không có nhà, gọi lại sau nhé. Cảm ơn!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 60,
+    "language": 2,
+    "en": "Calling in the middle of the night for any reason except to tell me that my house is on fire is not cool. I'm going back to sleep.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nEnglish changed slightly, keeping consistent.",
+    "category": "dialog",
+    "vi": "Nửa đêm mà gọi, trừ khi báo nhà tôi đang cháy, thì không ổn đâu. Tôi ngủ tiếp đây.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 61,
+    "language": 2,
+    "en": "Thanks a lot for waking me up. Bye.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cảm ơn nhiều nha, gọi tôi dậy luôn rồi. Tạm biệt.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 62,
+    "language": 2,
+    "en": "Call back in the morning. I'm trying to sleep here, jerk!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Sáng hẵng gọi lại. Tôi đang ngủ mà, đồ phiền phức!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 63,
+    "language": 2,
+    "en": "$neighborlocal:0 is at work . . . working.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nWas \"$Neighborlocal is at work . .. Duh!'",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang đi làm... làm việc đó.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 64,
+    "language": 2,
+    "en": "You should try calling back when $neighborlocal:0 isn't at work.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nVariable changed.",
+    "category": "dialog",
+    "vi": "Thử gọi lại khi $neighborlocal:0 không đi làm nhé.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 65,
+    "language": 2,
+    "en": "$neighborlocal:0 is out working, unlike SOMEBODY I know. Try later.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nVariable changed to NeighborLocal:0",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang bận đi làm, không như AI ĐÓ tôi biết. Gọi lại sau đi.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 66,
+    "language": 2,
+    "en": "How nice of you to invite me. I'll just gussy up and come right over!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Ôi, mời mình à? Để mình tút tát chút rồi qua ngay!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 67,
+    "language": 2,
+    "en": "Sounds great! I'll be there in a few.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Nghe được đó! Mình qua ngay đây.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 68,
+    "language": 2,
+    "en": "It's always a pleasure to see you! I'll be right over!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Lúc nào gặp bạn cũng vui! Mình qua ngay!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 69,
+    "language": 2,
+    "en": "I don't really have anything better to do. I'll be over soon.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Mình cũng chẳng có việc gì hay hơn. Qua liền đây.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 70,
+    "language": 2,
+    "en": "Thanks! I'll see if I can make it over.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cảm ơn! Để mình xem có qua được không nhé.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 71,
+    "language": 2,
+    "en": "Sure. I suppose coming over couldn't hurt. See ya!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Ừ. Qua chơi chắc cũng chẳng hại gì. Gặp sau nhé!",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 72,
+    "language": 2,
+    "en": "Yeah...um, I'm making a Baked Alaska right now. Couldn't possibly tear myself away.",
+    "description": "The Sims 2 - Needs Translation - Batch18\nminor English grammar change after this went out for translation.",
+    "category": "dialog",
+    "vi": "Ờ... ừm, mình đang làm Baked Alaska. Không thể bỏ ngang được.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 73,
+    "language": 2,
+    "en": "I can't leave the house, I'm waiting for the . . . phone repairman. Sorry.",
+    "description": "The Sims 2 - Needs Translation - Batch18\nEnglish grammar edit.",
+    "category": "dialog",
+    "vi": "Mình không ra khỏi nhà được, đang chờ... thợ sửa điện thoại. Xin lỗi nha.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 74,
+    "language": 2,
+    "en": "My psychic advisor has forbidden me from leaving the house today. I'm afraid I must comply.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cố vấn tâm linh của mình cấm ra khỏi nhà hôm nay. Đành nghe lời thôi.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 75,
+    "language": 2,
+    "en": "I'd rather play Myshuno with a pack of llamas.",
+    "description": "The Sims 2 - Needs Translation - Batch18\n5/24: Fixed English typos. No need to scrub translation.",
+    "category": "dialog",
+    "vi": "Thà chơi Myshuno với một bầy llama còn hơn.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 76,
+    "language": 2,
+    "en": "Count me out. Really out.",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "dialog",
+    "vi": "Cho mình xin kiếu. Kiếu thật đó.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 77,
+    "language": 2,
+    "en": "If my wanting to see you was on a scale of 1 to 10, I'd still say no.",
+    "description": "The Sims 2 - Needs Translation - Batch18\nSmall English grammar change. Do not send out again for translation.",
+    "category": "dialog",
+    "vi": "Nếu chấm mức độ muốn gặp bạn từ 1 đến 10 thì... mình vẫn chọn không.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 78,
+    "language": 2,
+    "en": "$neighborlocal:0 is in class. It being during class hours and all . . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLTEDIT - edited the word \"school\" in this dialog to be \"class\" so that this string can be used for the base game teens/children and for the EP1 young adults.  Please do not change this string if it makes the situation more confusing in your language.",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang trong lớp. Giờ học mà...",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 79,
+    "language": 2,
+    "en": "You should try calling back when $neighborlocal:0 isn't in class.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLTEDIT - edited the word \"school\" in this dialog to be \"class\" so that this string can be used for the base game teens/children and for the EP1 young adults.  Please do not change this string if it makes the situation more confusing in your language.",
+    "category": "dialog",
+    "vi": "Thử gọi lại khi $neighborlocal:0 không ở trong lớp nhé.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143107331,
+      301,
+      0
+    ],
+    "row": 80,
+    "language": 2,
+    "en": "$neighborlocal:0 is out learning in class, unlike SOMEBODY I know. Try later.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nLTEDIT - edited the word \"school\" in this dialog to be \"class\" so that this string can be used for the base game teens/children and for the EP1 young adults.  Please do not change this string if it makes the situation more confusing in your language.",
+    "category": "dialog",
+    "vi": "$neighborlocal:0 đang ở lớp học hành đàng hoàng, không như AI ĐÓ tôi biết. Gọi lại sau đi.",
+    "reason": "Base-game player-facing phone response/invitation dialog; exact-row translation preserves placeholders and leaves expansion-only branches separate."
+  }
+]
