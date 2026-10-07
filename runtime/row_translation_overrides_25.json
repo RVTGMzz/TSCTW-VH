@@ -1,0 +1,130 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139503788,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Get Up! Alarm Clock",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Đồng hồ báo thức “Dậy Đi!”",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139503788,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Rise and shine! This might look like a cheap alarm clock, but make no mistake: this is a cheap alarm clock. Resilient plastic resists wall-tossing, while sturdy legs ensure stability. And the alarm is certainly effective at getting Sims up in the morning. They'll never oversleep again.",
+    "description": "Sims2 - Needs Translation - batch13\r\nEnglish grammar fix, broke 2nd sentence into two sentences.",
+    "category": "catalog",
+    "vi": "Dậy đi nào! Trông nó có vẻ là một chiếc đồng hồ báo thức rẻ tiền, và đúng vậy — nó rẻ thật. Vỏ nhựa bền bỉ chịu được những cú quăng vào tường, chân đế chắc chắn giúp nó đứng vững. Quan trọng nhất, chuông báo đủ hiệu quả để lôi Sim ra khỏi giường mỗi sáng. Hết lo ngủ quên nhé!",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139503788,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Get Up! Alarm Clock",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Đồng hồ báo thức “Dậy Đi!”",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139503788,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Rise and shine! This might look like a cheap alarm clock, but make no mistake: this is a cheap alarm clock. Resilient plastic resists wall-tossing, while sturdy legs ensure stability. And the alarm is certainly effective at getting Sims up in the morning. They'll never oversleep again.",
+    "description": "Sims2 - Needs Translation - batch13\r\nEnglish grammar fix, broke 2nd sentence into two sentences.",
+    "category": "catalog",
+    "vi": "Dậy đi nào! Trông nó có vẻ là một chiếc đồng hồ báo thức rẻ tiền, và đúng vậy — nó rẻ thật. Vỏ nhựa bền bỉ chịu được những cú quăng vào tường, chân đế chắc chắn giúp nó đứng vững. Quan trọng nhất, chuông báo đủ hiệu quả để lôi Sim ra khỏi giường mỗi sáng. Hết lo ngủ quên nhé!",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146325018,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "CyberChronometer Alarm Clock",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Đồng hồ báo thức CyberChronometer",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146325018,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "High-throughput wireless alarm clock with three IP addresses, impenetrable password-protected firewall and 1GB backup system. 100-page manual and extremely limited tech support. Set the alarm and you'll never miss your wake-up call again. Tells time too. ",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Đồng hồ báo thức không dây tốc độ cao với ba địa chỉ IP, tường lửa bảo vệ bằng mật khẩu gần như bất khả xâm phạm và hệ thống sao lưu 1 GB. Đi kèm hướng dẫn 100 trang và hỗ trợ kỹ thuật cực kỳ hạn chế. Cài báo thức rồi thì khỏi lo ngủ quên. À, nó cũng xem được giờ nữa.",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146325018,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "CyberChronometer Alarm Clock",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Đồng hồ báo thức CyberChronometer",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146325018,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "High-throughput wireless alarm clock with three IP addresses, impenetrable password-protected firewall and 1GB backup system. 100-page manual and extremely limited tech support. Set the alarm and you'll never miss your wake-up call again. Tells time too. ",
+    "description": "Sims2 - Needs Translation - batch1",
+    "category": "catalog",
+    "vi": "Đồng hồ báo thức không dây tốc độ cao với ba địa chỉ IP, tường lửa bảo vệ bằng mật khẩu gần như bất khả xâm phạm và hệ thống sao lưu 1 GB. Đi kèm hướng dẫn 100 trang và hỗ trợ kỹ thuật cực kỳ hạn chế. Cài báo thức rồi thì khỏi lo ngủ quên. À, nó cũng xem được giờ nữa.",
+    "reason": "Player-facing alarm-clock catalog name/description; exact-row translation preserves the object-specific copy."
+  }
+]
