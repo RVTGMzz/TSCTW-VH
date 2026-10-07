@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144610650,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "!",
+    "reason": "Obsolete hospital/ambulance phone choice; medical ambulance flow is not used and this duplicate row is metadata-only."
+  }
+]

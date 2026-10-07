@@ -1,0 +1,137 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144610650,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire Station",
+    "description": "The Sims 2 - Needs Translation",
+    "category": "menu",
+    "reason": "Duplicate base emergency phone-book choice; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144610650,
+      2002,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Police Station",
+    "description": "The Sims 2 - Needs Translation",
+    "category": "menu",
+    "reason": "Duplicate base emergency phone-book choice; reuse approved Vietnamese menu mapping on this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Hey, $Me, are we still friends? I never hear from you anymore, so I figured I'd call you to see what was going on. Would it kill you to make an effort every once in a while?",
+    "description": "Sims2 - Needs Translation - batch12\nEnglish changed week of 6/4/04 but no need to retranslate - content is still similiar",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "How are things going, $Me? I haven't seen you around much, and just wanted to say hi. So, hi! Maybe we could hang out sometime later this week or something?",
+    "description": "The Sims 2 - Needs Translation - Batch24\nthese were marked for Batch23 but were not actually in the batch for some reason.",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "I haven't heard from you in a while. Are you okay, $Me? Things have been pretty hectic for me, but I'd love to get together and chat. Don't be a stranger, okay?",
+    "description": "The Sims 2 - Needs Translation - Batch24\nthese were marked for Batch23 but were not actually in the batch for some reason.",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Hi stranger! I thought you might have been abducted by aliens or something, since I never hear from you anymore. I gotta go, but call me anytime you feel like talking.",
+    "description": "The Sims 2 - Needs Translation - Batch23\nThis one, although marked at the same time as the others, which are all also in the DB, did get translated in Batch23.",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "I'm sure you're busy, but I just thought I'd give you a call to remind you to keep in touch every once in a while. I know sometimes it's tough, and I don't want our friendship to be a burden or anything, but, you know, $Me, drop me a line sometime, just to chat.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nthese were marked for Batch23 but were not actually in the batch for some reason.",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Hey, I was just looking through my phonebook and thought \"I should give $Me a call.\" It's been awhile, so I just wanted to check in. I've got a few other calls to make, but we should get together later, and go shopping or something.",
+    "description": "The Sims 2 - Needs Translation - Batch24\nthese were marked for Batch23 but were not actually in the batch for some reason.",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144610650,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "Hey, $Me, are we still friends? I never hear from you anymore, so I figured I'd call you to see what was going on. Would it kill you to make an effort every once in a while?",
+    "description": "Sims2 - Needs Translation - batch12\nEnglish changed week of 6/4/04 but no need to retranslate - content is still similiar",
+    "category": "dialog",
+    "reason": "Base-game low-relationship incoming phone call retained by Castaway's phone/social systems; translate exact runtime row."
+  }
+]
