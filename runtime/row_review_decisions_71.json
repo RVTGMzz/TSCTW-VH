@@ -1,0 +1,857 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Write Term Paper",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hack Grades",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Move to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Apply For Scholarships",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Review Accepted Scholarships",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For a Home Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../View Business Information.../For a Home Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Write Term Paper",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Move to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Computer debug Break action; internal test label, not normal player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate.../Purchase Community Lot",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate.../Order A Deed",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation\nFor hiring employees for any lot you might own as a business",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../View Business Information.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate.../Sell Community Lot",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For This Lot",
+    "description": "The Sims 2 EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../View Business Information.../For This Lot",
+    "description": "The Sims 2 EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Start Home Business",
+    "description": "The Sims 2 EP3 - Batch 7",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Shut Down Business",
+    "description": "The Sims 2 EP3 - Batch 7",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find Pet Job",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Computer debug Break action; internal test label, not normal player-facing interaction."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation\nFor hiring employees for any lot you might own as a business",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../View Business Information.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For This Lot",
+    "description": "The Sims 2 EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140587131,
+      128,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../View Business Information.../For This Lot",
+    "description": "The Sims 2 EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Write Term Paper",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hack Grades",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Move to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Apply For Scholarships",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "College.../Review Accepted Scholarships",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../View Business Information.../For a Home Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For a Home Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 44,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Write Term Paper",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 45,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 47,
+    "status": "excluded",
+    "language": 2,
+    "en": "College.../Move to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate.../Purchase Community Lot",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate.../Order A Deed",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 21,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation\nFor hiring employees for any lot you might own as a business",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../View Business Information.../For a Community Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 23,
+    "status": "excluded",
+    "language": 1,
+    "en": "Real Estate.../Sell Community Lot",
+    "description": "The Sims2EP3 - Batch 6",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 24,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For This Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 25,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../View Business Information.../For This Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 26,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Start Home Business",
+    "description": "The Sims 2 EP3 - Batch 7",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Shut Down Business",
+    "description": "The Sims 2 EP3 - Batch 7",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 1,
+    "en": "Find Pet Job",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 52,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation\nFor hiring employees for any lot you might own as a business",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 53,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../View Business Information.../For a Community Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 55,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For This Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132674183,
+      128,
+      0
+    ],
+    "row": 56,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../View Business Information.../For This Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Explicit University/Open for Business/Pets computer residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146753730,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Put Homework Down",
+    "description": "!! PUSHED BY BUS ONLY",
+    "reason": "Homework internal helper; source metadata explicitly says it is pushed by bus only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142226050,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Praise for.../Destroying Homework",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets-specific homework praise/scold residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142226050,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scold for.../Destroying Homework",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets-specific homework praise/scold residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142226050,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Praise for.../Destroying Homework",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets-specific homework praise/scold residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2142226050,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scold for.../Destroying Homework",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets-specific homework praise/scold residue outside Castaway Stories."
+  }
+]
