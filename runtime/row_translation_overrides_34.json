@@ -1,0 +1,50 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145598847,
+      1,
+      0
+    ],
+    "row": 72,
+    "language": 2,
+    "en": "Dismiss",
+    "description": "!!!!!!!!!!!!!!The Sims 2 - Needs Text",
+    "category": "menu",
+    "vi": "Cho về",
+    "reason": "Social Bunny dismissal interaction; exact-row translation avoids globally mapping ambiguous Dismiss."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145598847,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Social Bunny",
+    "description": "The Sims2 - Needs Translation - Batch15\r\n\r\nNPC which appears when Sims have low family or friend Social",
+    "category": "object",
+    "vi": "Thỏ Xã Hội",
+    "reason": "Player-facing NPC name for the Social Bunny."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145598847,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Social Bunny",
+    "description": "The Sims2 - Needs Translation - Batch15\r\n\r\nNPC which appears when Sims have low family or friend Social",
+    "category": "object",
+    "vi": "Thỏ Xã Hội",
+    "reason": "UK-English duplicate of the player-facing Social Bunny NPC name."
+  }
+]
