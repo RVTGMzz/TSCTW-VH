@@ -1,0 +1,3407 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Listen to Music",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nbedsubquue Turn off",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Next Song",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Next Song",
+    "description": "The Sims 2 - Needs Translation  - Batch - copy from set 132, string 12 (base1)",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Dance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Listen to Music",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nbedsubquue Turn off",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Next Song",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144609410,
+      132,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Sing Along",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Listen to Music",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17\r\nThis interaction used when turning off TV as subqueue from bed.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 -  Needs Translation - Batch17\r\nThis interaction is marked for visitors turning off the stereo.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Next Song",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Next Song",
+    "description": "The Sims 2 - Needs Translation  - Batch - copy from set 132, string 12 (base1)",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Dance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Listen to Music",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17\r\nThis interaction used when turning off TV as subqueue from bed.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 -  Needs Translation - Batch17\r\nThis interaction is marked for visitors turning off the stereo.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Next Song",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145394078,
+      132,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Sing Along",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Listen to Music",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17\r\nThis interaction used when turning off TV as subqueue from bed.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims 2 -  Needs Translation - Batch17\r\nThis interaction is marked for visitors turning off the stereo.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Next Song",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 1,
+    "en": "Next Song",
+    "description": "The Sims 2 - Needs Translation  - Batch - copy from set 132, string 12 (base1)",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance Smustle",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn On",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 22,
+    "category": "menu",
+    "language": 2,
+    "en": "Dance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Listen to Music",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 25,
+    "category": "menu",
+    "language": 2,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 28,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17\r\nThis interaction used when turning off TV as subqueue from bed.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 29,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 30,
+    "category": "menu",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims 2 -  Needs Translation - Batch17\r\nThis interaction is marked for visitors turning off the stereo.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 31,
+    "category": "menu",
+    "language": 2,
+    "en": "Next Song",
+    "description": "The Sims 2  - Needs Translation - Batch17",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146219565,
+      132,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 1,
+    "en": "Sing Along",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Drink",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Poured",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131489084,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Drink",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Poured",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132199507,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Drink",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Poured",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140063923,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 280,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 281,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 282,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 283,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 285,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 286,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 287,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 289,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 292,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 294,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 295,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 296,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 297,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 299,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 300,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 301,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 302,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Drink",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 303,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 304,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 305,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Poured",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140819181,
+      129,
+      0
+    ],
+    "row": 306,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Drink",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Poured",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141538513,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Order Drink",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend Bar",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend Drink.../Poured",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 1,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11 - Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch15  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11  Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nreplaces \"Drink Water\" - interaction for sloppy Sims.   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 20,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22   Copied from base game.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 21,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15    Copied from base game.\r\n\r\nsparkling beverage to go with Toasting Set (audience members get sparkling nectar from the bar).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 23,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend Drink.../Blended",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142194478,
+      129,
+      0
+    ],
+    "row": 26,
+    "category": "menu",
+    "language": 2,
+    "en": "Bartend",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nThis is the NPC version of the Bartend interaction action queue (was \"NPC Bartend\" before being sent for translation).",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\n\r\njuggling tumblers interaction, only available to playful sims. Bar interaction.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\n\"champagne\"-like sparkling beverage.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\n\r\njuggling tumblers interaction, only available to playful sims. Bar interaction.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135941958,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\n\"champagne\"-like sparkling beverage.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Make a Drink.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Blended",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Make Drinks.../Poured",
+    "description": "The Sims 2 - Needs Translation - Batch11",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink From Bottle",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Juggle Tumblers",
+    "description": "The Sims 2 - Needs Translation - Batch22",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144865646,
+      129,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink Sparkling Nectar",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nChanging this to Practice to be consistent with all the musical instruments.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Tune",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Perform",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-6\nChanging this to Practice to be consistent with all the musical instruments.",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Tune",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Perform",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Join",
+    "description": "! Using Make Action String",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Dance",
+    "description": "! Using Make Action String",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Sing Along",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Join",
+    "description": "! Using Make Action String",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135501673,
+      128,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 2,
+    "en": "Dance",
+    "description": "! Using Make Action String",
+    "reason": "Player-facing inherited entertainment interaction with an approved Vietnamese menu mapping; exact-row promotion only."
+  }
+]
