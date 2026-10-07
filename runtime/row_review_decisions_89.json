@@ -1,0 +1,797 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order some takeout? It will cost you $$Local:0.",
+    "description": "The Sims2EP1- Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Your takeout is on its way!",
+    "description": "The Sims2EP1- Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thanks, $Me, for calling SimGreek International. Would you like to apply for a Greek House charter?\nWith Greek membership your house can be a party magnet, but make sure that your members keep making lots of friends in order to keep the party going and bring new members into the house.   Are you sure you want a Greek charter for your house?",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6\nUpdated text from batch5 to refer to the need to make more household friends in order to level up the Greek house.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "We're so sorry, $Me, we're not sure you really fit in here with us. Perhaps you should look for another Greek House.",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thanks, $Me, your application has been approved.  Your house is now a Greek House with all the benefits and disadvantages thereof.  Congratulations and may you build a cool Greek House!",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object is about to drop out of college and begin life as an Adult back in the home neighborhood.  This college has no Continuing Education programs for adults, so $Object will never be able to return.\nAre you sure you want to do this? If so, a taxi will be here soon to pick $Object up. You'll find $Object back in the primary neighborhood in the Family Bin. ",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 12,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry, this household does not have enough money to apply for a Greek House charter.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 1,
+    "en": "Campus Phonebook",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for Overall Campus phone interactions on dialog box (Call.../College - get a dialog with \"Campus Phonebook\")",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 1,
+    "en": "So you want to join the $LotNameLocalByLotId:6 Greek House. Awesome! We'll send some members over to meet you right away!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThe variable here is the lot name of a Greek House. The Sim has chosen \"Join Greek House\" on the phone and chosen this lot's name from the pie menu right before getting this dialog.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 15,
+    "status": "excluded",
+    "language": 1,
+    "en": "Someone on the Lot is currently trying to join a Greek House. Please wait until they are done to join one.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is for the case when one Sim has already called to join a Greek House and another attempts this.\n1/11/05: Rewritten slightly in English.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 16,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sorry $Me, but you don't have enough money to apply for a Greek House charter.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nDialog for a Sim calling to apply for a Greek House charter.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 17,
+    "status": "excluded",
+    "language": 1,
+    "en": "Moving $Me to a Greek Lot will cause $Me to leave this lot. Are you sure you want to do this?",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 18,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Me's about to leave this household and move to college. Are you sure you want to do this?",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 19,
+    "status": "excluded",
+    "language": 1,
+    "en": "Now that $Object has graduated,  it's time to move back to the home neighborhood.  In the home neighborhood, you can move $Object into a new lot alone, or have $Object move into an existing household.\n\nAre you sure you want $Object to say goodbye to college life forever? There's always time to throw one last graduation shindig!\n",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6\nThis dialog appears after the Sim has graduated and leaves the lot without having a party.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 20,
+    "status": "excluded",
+    "language": 1,
+    "en": "Unfortunately $Me, you'll need to have slightly higher grades to get into college. Try attending class regularly and completing your homework assignments, and call us again to apply after your grades have improved.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nDialog appears when you try to get into college from the home lot and you can't.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 27,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order some takeout? It will cost you $$Local:0.",
+    "description": "The Sims2EP1- Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 28,
+    "status": "excluded",
+    "language": 2,
+    "en": "Your takeout is on its way!",
+    "description": "The Sims2EP1- Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 29,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thanks, $Me, for calling SimGreek International. Would you like to apply for a Greek House charter?\nWith Greek membership your house can be a party magnet, but make sure that your members keep making lots of friends in order to keep the party going and bring new members into the house.   Are you sure you want a Greek charter for your house?",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6\nUpdated text from batch5 to refer to the need to make more household friends in order to level up the Greek house.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 30,
+    "status": "excluded",
+    "language": 2,
+    "en": "We're so sorry, $Me, we're not sure you really fit in here with us. Perhaps you should look for another Greek House.",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 31,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thanks, $Me, your application has been approved.  Your house is now a Greek House with all the benefits and disadvantages thereof.  Congratulations and may you build a cool Greek House!",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 32,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object is about to drop out of college and begin life as an Adult back in the home neighborhood.  This college has no Continuing Education programs for adults, so $Object will never be able to return.\nAre you sure you want to do this? If so, a taxi will be here soon to pick $Object up. You'll find $Object back in the primary neighborhood in the Family Bin. ",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 33,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry, this household does not have enough money to apply for a Greek House charter.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 34,
+    "status": "excluded",
+    "language": 2,
+    "en": "Campus Phonebook",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nHeader for Overall Campus phone interactions on dialog box (Call.../College - get a dialog with \"Campus Phonebook\")",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 35,
+    "status": "excluded",
+    "language": 2,
+    "en": "So you want to join the $LotNameLocalByLotId:6 Greek House. Awesome! We'll send some members over to meet you right away!",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThe variable here is the lot name of a Greek House. The Sim has chosen \"Join Greek House\" on the phone and chosen this lot's name from the pie menu right before getting this dialog.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 36,
+    "status": "excluded",
+    "language": 2,
+    "en": "Someone on the Lot is currently trying to join a Greek House. Please wait until they are done to join one.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nThis is for the case when one Sim has already called to join a Greek House and another attempts this.\n1/11/05: Rewritten slightly in English.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 37,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sorry $Me, but you don't have enough money to apply for a Greek House charter.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nDialog for a Sim calling to apply for a Greek House charter.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 38,
+    "status": "excluded",
+    "language": 2,
+    "en": "Moving $Me to a Greek Lot will cause $Me to leave this lot. Are you sure you want to do this?",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 39,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Me's about to leave this household and move to college. Are you sure you want to do this?",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 40,
+    "status": "excluded",
+    "language": 2,
+    "en": "Now that $Object has graduated,  it's time to move back to the home neighborhood.  In the home neighborhood, you can move $Object into a new lot alone, or have $Object move into an existing household.\n\nAre you sure you want $Object to say goodbye to college life forever? There's always time to throw one last graduation shindig!\n",
+    "description": "Sims2 EP1 - Needs Translation - BatchEP1-6\nThis dialog appears after the Sim has graduated and leaves the lot without having a party.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 41,
+    "status": "excluded",
+    "language": 2,
+    "en": "Unfortunately $Me, you'll need to have slightly higher grades to get into college. Try attending class regularly and completing your homework assignments, and call us again to apply after your grades have improved.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nDialog appears when you try to get into college from the home lot and you can't.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Source explicitly marks this grocery-order row as removed; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      301,
+      0
+    ],
+    "row": 22,
+    "status": "excluded",
+    "language": 2,
+    "en": "Would you like to order groceries?  It will cost an additional $$Local:1 for delivery.",
+    "description": "!! Removed per TS2-26363",
+    "reason": "Source explicitly marks this grocery-order row as removed; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greek House.../Join.../$LotNameLocalByLotId:0",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\n\nThe variable here is a Greek lot name",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greek House.../Move To Greek House",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nInteraction on the root menu of the phone to Move into a Greek House once the Sim has joined it.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greek House.../Apply For Charter",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Call.../Move Back to $PrimaryNeighborhood",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nInteraction to move back to home neighborhood.  LTEDIT  variable should be $PrimaryNeighborhood - it was wrong in the batch.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greek House.../Join.../$LotNameLocalByLotId:0",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\n\nThe variable here is a Greek lot name",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greek House.../Move To Greek House",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nInteraction on the root menu of the phone to Move into a Greek House once the Sim has joined it.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Greek House.../Apply For Charter",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134891285,
+      302,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Call.../Move Back to $PrimaryNeighborhood",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7\nInteraction to move back to home neighborhood.  LTEDIT  variable should be $PrimaryNeighborhood - it was wrong in the batch.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Registrar - Drop Out",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Registrar - Drop Out",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Registrar - Declare Major",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2004,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Move to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nInteraction on phone for Sim moving into college.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2004,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Move to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6\nInteraction on phone for Sim moving into college.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2005,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Move Into Greek House",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis is a choice off of the phone to move into a Greek House if the Sim is a member.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2005,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Move Into Greek House",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis is a choice off of the phone to move into a Greek House if the Sim is a member.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2002,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Apply For Greek House Charter",
+    "description": "The Sims2EP1 - Needs translation - BatchEP1-5",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2003,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Registrar - Change Major",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nInteraction on phone to Change Major after you have declared it.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2006,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Review Accepted Scholarships",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nThis is a choice off of \"College\" pie menu on the phone. It brings up a list of scholarships that the Sim had been accepted for.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2007,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Apply For Scholarships",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nInteraction on the phone where the Sim can apply for scholarships. They are notified after calling if they qualified for any of them.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134891285,
+      2008,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go Back to Home Neighborhood",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8\nInteraction on phone for Sims who have graduated to return home (without having a party). Suspect that this may not be used in game anymore as we now have College/Move Back to $PrimaryNeighborhood, but marking in case.",
+    "reason": "Explicit Sims 2 EP1/University college, Greek House, registrar, scholarship or takeout phone residue; outside Castaway Stories runtime."
+  }
+]
