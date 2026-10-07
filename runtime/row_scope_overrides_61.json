@@ -1,0 +1,302 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Down",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Toast With...",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Drink",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Toasted With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "React To Toast",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Listen to Toast",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Join In Toast",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 1,
+    "en": "Toast To...",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 1,
+    "en": "Toast To The Newlyweds",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Put Down",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Toast With...",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Drink",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 13,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Be Toasted With",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 15,
+    "category": "menu",
+    "language": 2,
+    "en": "React To Toast",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 16,
+    "category": "menu",
+    "language": 2,
+    "en": "Listen to Toast",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 17,
+    "category": "menu",
+    "language": 2,
+    "en": "Join In Toast",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 18,
+    "category": "menu",
+    "language": 2,
+    "en": "Toast To...",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145702848,
+      1,
+      0
+    ],
+    "row": 19,
+    "category": "menu",
+    "language": 2,
+    "en": "Toast To The Newlyweds",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "reason": "Player-facing base-game Toasting Set interaction; reuse approved Vietnamese menu mapping."
+  }
+]
