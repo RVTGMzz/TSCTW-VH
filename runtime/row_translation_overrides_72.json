@@ -1,0 +1,1090 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143886542,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Was an Overachiever",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Từng đạt thành tích xuất sắc",
+    "reason": "Exact Memory - Grow Up - Overachiever base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143886542,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "There's nothing I can't do if I put my mind to it! Greatness, here I come!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Chỉ cần quyết tâm thì chẳng gì làm khó được mình! Thành công ơi, mình tới đây!",
+    "reason": "Exact Memory - Grow Up - Overachiever base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143886542,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Was an Overachiever",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Từng đạt thành tích xuất sắc",
+    "reason": "Exact Memory - Grow Up - Overachiever base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143886542,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "There's nothing I can't do if I put my mind to it! Greatness, here I come!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Chỉ cần quyết tâm thì chẳng gì làm khó được mình! Thành công ơi, mình tới đây!",
+    "reason": "Exact Memory - Grow Up - Overachiever base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Caught $Subject Cheating",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Phát hiện $Subject ngoại tình",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Yee-owch!  I found my love in the arms of another Sim, and it feels like my heart's breaking. . . how could my love do this to me?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra space",
+    "category": "story",
+    "vi": "Đau lòng quá! Mình bắt gặp người thương trong vòng tay kẻ khác, tim như vỡ ra... Sao người ấy nỡ làm vậy với mình chứ?",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Caught $Subject Cheating",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Phát hiện $Subject ngoại tình",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Yee-owch!  I found my love in the arms of another Sim, and it feels like my heart's breaking. . . how could my love do this to me?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra space",
+    "category": "story",
+    "vi": "Đau lòng quá! Mình bắt gặp người thương trong vòng tay kẻ khác, tim như vỡ ra... Sao người ấy nỡ làm vậy với mình chứ?",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Caught $Subject Cheating",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Phát hiện $Subject ngoại tình",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Yee-owch!  I found my love in the arms of another Sim, and it feels like my heart's breaking. . . how could my love do this to me?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Đau lòng quá! Mình bắt gặp người thương trong vòng tay kẻ khác, tim như vỡ ra... Sao người ấy nỡ làm vậy với mình chứ?",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Caught $Subject Cheating",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Phát hiện $Subject ngoại tình",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144011027,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Yee-owch!  I found my love in the arms of another Sim, and it feels like my heart's breaking. . . how could my love do this to me?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Đau lòng quá! Mình bắt gặp người thương trong vòng tay kẻ khác, tim như vỡ ra... Sao người ấy nỡ làm vậy với mình chứ?",
+    "reason": "Exact Memory - Love - Affair - Catch Lover base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Made Out With $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male - Memory tooltip\r\ngender is for the object of the memory: $ObjectName\r\n",
+    "category": "story",
+    "vi": "Hôn say đắm $Subject",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oh, baby! Kisses may be warm enough, but Making Out is Hot Hot Hot!",
+    "description": "The Sims 2 - Needs Translation - Batch20- M - Memory popup\nslight change in English - \"but Making Out is Hot Hot Hot\" instead of \"a Making Out is Hot Hot Hot!\"",
+    "category": "story",
+    "vi": "Ôi trời ơi! Hôn bình thường đã ngọt rồi, hôn say đắm còn khiến tim nóng bừng lên ấy chứ!",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Made Out With $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male - Memory tooltip\r\ngender is for the object of the memory: $ObjectName\r\n",
+    "category": "story",
+    "vi": "Hôn say đắm $Subject",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oh, baby! Kisses may be warm enough, but Making Out is Hot Hot Hot!",
+    "description": "The Sims 2 - Needs Translation - Batch20- M - Memory popup\nslight change in English - \"but Making Out is Hot Hot Hot\" instead of \"a Making Out is Hot Hot Hot!\"",
+    "category": "story",
+    "vi": "Ôi trời ơi! Hôn bình thường đã ngọt rồi, hôn say đắm còn khiến tim nóng bừng lên ấy chứ!",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Made Out With $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female - Memory tooltip\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Hôn say đắm $Subject",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oh, baby! Kisses may be warm enough, but Making Out is Hot Hot Hot!",
+    "description": "The Sims 2 - Needs Translation - Batch20- M - Memory popup\nslight change in English - \"but Making Out is Hot Hot Hot\" instead of \"a Making Out is Hot Hot Hot!\"",
+    "category": "story",
+    "vi": "Ôi trời ơi! Hôn bình thường đã ngọt rồi, hôn say đắm còn khiến tim nóng bừng lên ấy chứ!",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Made Out With $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female - Memory tooltip\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Hôn say đắm $Subject",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144683275,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oh, baby! Kisses may be warm enough, but Making Out is Hot Hot Hot!",
+    "description": "The Sims 2 - Needs Translation - Batch20- M - Memory popup\nslight change in English - \"but Making Out is Hot Hot Hot\" instead of \"a Making Out is Hot Hot Hot!\"",
+    "category": "story",
+    "vi": "Ôi trời ơi! Hôn bình thường đã ngọt rồi, hôn say đắm còn khiến tim nóng bừng lên ấy chứ!",
+    "reason": "Exact Memory - Love - Make Out with Sim base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144954514,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized All Skills",
+    "description": "The Sims 2 - Needs Translation - Batch19\nCapitalized All",
+    "category": "story",
+    "vi": "Đạt tối đa tất cả kỹ năng",
+    "reason": "Exact Memory - Knowledge - Skill - Max All base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144954514,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Ha-ha! I understand it all now! Go ahead, ask me anything.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ha ha! Giờ mình biết tuốt rồi nhé! Cứ hỏi gì cũng được!",
+    "reason": "Exact Memory - Knowledge - Skill - Max All base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144954514,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized All Skills",
+    "description": "The Sims 2 - Needs Translation - Batch19\nCapitalized All",
+    "category": "story",
+    "vi": "Đạt tối đa tất cả kỹ năng",
+    "reason": "Exact Memory - Knowledge - Skill - Max All base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144954514,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Ha-ha! I understand it all now! Go ahead, ask me anything.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ha ha! Giờ mình biết tuốt rồi nhé! Cứ hỏi gì cũng được!",
+    "reason": "Exact Memory - Knowledge - Skill - Max All base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145183810,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Cleaning Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Dọn dẹp",
+    "reason": "Exact Memory - Knowledge - Skill - Max Cleaning base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145183810,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Cleaning base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145183810,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Cleaning Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Dọn dẹp",
+    "reason": "Exact Memory - Knowledge - Skill - Max Cleaning base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145183810,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Cleaning base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now I know that \"Yes\" is the most beautiful word in the world! I can hear the wedding bells already.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male",
+    "category": "story",
+    "vi": "Giờ mới biết từ 'Đồng ý' lại đẹp đến thế! Mình như nghe thấy tiếng chuông đám cưới rồi!",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now I know that \"Yes\" is the most beautiful word in the world! I can hear the wedding bells already.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male",
+    "category": "story",
+    "vi": "Giờ mới biết từ 'Đồng ý' lại đẹp đến thế! Mình như nghe thấy tiếng chuông đám cưới rồi!",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F \r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now I know that \"Yes\" is the most beautiful word in the world! I can hear the wedding bells already.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F ",
+    "category": "story",
+    "vi": "Giờ mới biết từ 'Đồng ý' lại đẹp đến thế! Mình như nghe thấy tiếng chuông đám cưới rồi!",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F \r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145436064,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now I know that \"Yes\" is the most beautiful word in the world! I can hear the wedding bells already.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F ",
+    "category": "story",
+    "vi": "Giờ mới biết từ 'Đồng ý' lại đẹp đến thế! Mình như nghe thấy tiếng chuông đám cưới rồi!",
+    "reason": "Exact Memory - Family - Engagement - Success base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145721034,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Mechanical Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Cơ khí",
+    "reason": "Exact Memory - Knowledge - Skill - Max Mechanical base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145721034,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Mechanical base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145721034,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Mechanical Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Cơ khí",
+    "reason": "Exact Memory - Knowledge - Skill - Max Mechanical base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145721034,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Mechanical base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Learned to Walk from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender of the sentence is based on gender of $Subject, the teacher.",
+    "category": "story",
+    "vi": "Được $Subject dạy tập đi",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "At first it seemed crazy to walk instead of crawl, but you know what—I can see all kinds of things from up here!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Ban đầu cứ nghĩ bò dễ hơn đi nhiều, nhưng đứng lên rồi mới thấy bao nhiêu thứ hay ho ở trên cao!",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Learned to Walk from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender of the sentence is based on gender of $Subject, the teacher.",
+    "category": "story",
+    "vi": "Được $Subject dạy tập đi",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "At first it seemed crazy to walk instead of crawl, but you know what—I can see all kinds of things from up here!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Ban đầu cứ nghĩ bò dễ hơn đi nhiều, nhưng đứng lên rồi mới thấy bao nhiêu thứ hay ho ở trên cao!",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Learned to Walk from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender of the sentence is based on gender of $Subject, the teacher.",
+    "category": "story",
+    "vi": "Được $Subject dạy tập đi",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "At first it seemed crazy to walk instead of crawl, but you know what—I can see all kinds of things from up here!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Ban đầu cứ nghĩ bò dễ hơn đi nhiều, nhưng đứng lên rồi mới thấy bao nhiêu thứ hay ho ở trên cao!",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2001,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Learned to Walk from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender of the sentence is based on gender of $Subject, the teacher.",
+    "category": "story",
+    "vi": "Được $Subject dạy tập đi",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145778734,
+      2001,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "At first it seemed crazy to walk instead of crawl, but you know what—I can see all kinds of things from up here!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Ban đầu cứ nghĩ bò dễ hơn đi nhiều, nhưng đứng lên rồi mới thấy bao nhiêu thứ hay ho ở trên cao!",
+    "reason": "Exact Memory - Grow Up - Be Taught to Walk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Learned to Talk from $Subject",
+    "description": "The Sims 2 -  Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Được $Subject dạy tập nói",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow, these \"word\" things are really cool! You can get people to do all kinds of things for you!",
+    "description": "The Sims 2 -  Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Ồ, mấy thứ gọi là 'từ ngữ' hay ghê! Nói vài câu là nhờ được mọi người làm đủ thứ cho mình rồi!",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Learned to Talk from $Subject",
+    "description": "The Sims 2 -  Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Được $Subject dạy tập nói",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Wow, these \"word\" things are really cool! You can get people to do all kinds of things for you!",
+    "description": "The Sims 2 -  Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Ồ, mấy thứ gọi là 'từ ngữ' hay ghê! Nói vài câu là nhờ được mọi người làm đủ thứ cho mình rồi!",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Learned to Talk from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Được $Subject dạy tập nói",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow, these \"word\" things are really cool! You can get people to do all kinds of things for you!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Ồ, mấy thứ gọi là 'từ ngữ' hay ghê! Nói vài câu là nhờ được mọi người làm đủ thứ cho mình rồi!",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2001,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Learned to Talk from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Được $Subject dạy tập nói",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146253481,
+      2001,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Wow, these \"word\" things are really cool! You can get people to do all kinds of things for you!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Ồ, mấy thứ gọi là 'từ ngữ' hay ghê! Nói vài câu là nhờ được mọi người làm đủ thứ cho mình rồi!",
+    "reason": "Exact Memory - Knowledge - Be Taught to Talk base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146404079,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Lost a Fight with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Thua trong trận đấu với $Subject",
+    "reason": "Exact Memory - Power - Fight - Lose base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146404079,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oooh, that smarts! That Sim better watch out. . . someday, maybe, I'll get even.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Ui, đau quá! Cứ chờ đấy... Biết đâu một ngày nào đó mình sẽ gỡ lại trận này!",
+    "reason": "Exact Memory - Power - Fight - Lose base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146404079,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Lost a Fight with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Thua trong trận đấu với $Subject",
+    "reason": "Exact Memory - Power - Fight - Lose base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146404079,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oooh, that smarts! That Sim better watch out. . . someday, maybe, I'll get even.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Ui, đau quá! Cứ chờ đấy... Biết đâu một ngày nào đó mình sẽ gỡ lại trận này!",
+    "reason": "Exact Memory - Power - Fight - Lose base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Rejected for Going Steady by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hẹn hò chính thức",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Ouch! I thought my timing was rock solid, but instead I'm standing on shaky ground.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Đau thật đấy! Mình cứ tưởng chọn đúng thời điểm, ai ngờ mọi chuyện chẳng như mong đợi.",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Rejected for Going Steady by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hẹn hò chính thức",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Ouch! I thought my timing was rock solid, but instead I'm standing on shaky ground.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Đau thật đấy! Mình cứ tưởng chọn đúng thời điểm, ai ngờ mọi chuyện chẳng như mong đợi.",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Rejected for Going Steady by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hẹn hò chính thức",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Ouch! I thought my timing was rock solid, but instead I'm standing on shaky ground.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Đau thật đấy! Mình cứ tưởng chọn đúng thời điểm, ai ngờ mọi chuyện chẳng như mong đợi.",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Rejected for Going Steady by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hẹn hò chính thức",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146462419,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Ouch! I thought my timing was rock solid, but instead I'm standing on shaky ground.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Đau thật đấy! Mình cứ tưởng chọn đúng thời điểm, ai ngờ mọi chuyện chẳng như mong đợi.",
+    "reason": "Exact Memory - Love - Going Steady - Failure base life-event memory; localized individually for Castaway household and relationship systems, not by broad inheritance tag."
+  }
+]
