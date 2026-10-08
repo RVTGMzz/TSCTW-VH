@@ -1,0 +1,1602 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Won a Fight with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18  - Male \r\ndifferent from original string becuase of new memory setup.\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Đã thắng trận đấu với $Subject",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That'll teach that pest to get on my nerves again. Anyone else want a piece of me?!?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ndescription to match the gendered title. does not need to be specifically female",
+    "category": "story",
+    "vi": "Cho người đó biết thế nào là chọc tức mình rồi nhé! Còn ai muốn thử sức nữa không?!",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2000,
+      0
+    ],
+    "row": 52,
+    "language": 2,
+    "en": "Won a Fight with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18  - Male \r\ndifferent from original string becuase of new memory setup.\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Đã thắng trận đấu với $Subject",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2000,
+      0
+    ],
+    "row": 53,
+    "language": 2,
+    "en": "That'll teach that pest to get on my nerves again. Anyone else want a piece of me?!?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ndescription to match the gendered title. does not need to be specifically female",
+    "category": "story",
+    "vi": "Cho người đó biết thế nào là chọc tức mình rồi nhé! Còn ai muốn thử sức nữa không?!",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Won a Fight with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Đã thắng trận đấu với $Subject",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That'll teach that pest to get on my nerves again. Anyone else want a piece of me?!?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female",
+    "category": "story",
+    "vi": "Cho người đó biết thế nào là chọc tức mình rồi nhé! Còn ai muốn thử sức nữa không?!",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Won a Fight with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Đã thắng trận đấu với $Subject",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135283249,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "That'll teach that pest to get on my nerves again. Anyone else want a piece of me?!?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female",
+    "category": "story",
+    "vi": "Cho người đó biết thế nào là chọc tức mình rồi nhé! Còn ai muốn thử sức nữa không?!",
+    "reason": "Exact base-game Memory - Power - Fight - Win Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135629807,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Caught Cheating by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Bị $Subject bắt gặp ngoại tình",
+    "reason": "Exact base-game Memory - Love - Affair - Get Caught Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135629807,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oops! Guess we should have been more discreet. . . Now I better do some fast talking!\r",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra space",
+    "category": "story",
+    "vi": "Ối, lẽ ra mình phải kín đáo hơn mới đúng... Giờ phải nhanh miệng giải thích thôi!\r",
+    "reason": "Exact base-game Memory - Love - Affair - Get Caught Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135629807,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Caught Cheating by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Bị $Subject bắt gặp ngoại tình",
+    "reason": "Exact base-game Memory - Love - Affair - Get Caught Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135629807,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oops! Guess we should have been more discreet. . . Now I better do some fast talking!\r",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra space",
+    "category": "story",
+    "vi": "Ối, lẽ ra mình phải kín đáo hơn mới đúng... Giờ phải nhanh miệng giải thích thôi!\r",
+    "reason": "Exact base-game Memory - Love - Affair - Get Caught Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20- Male\r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Uh, I don't know if this was really a good idea for a Sim like me . . . ",
+    "description": "The Sims 2 - Needs Translation - Batch20 - Male\nFor Engagement negative memory when Sim was afraid of getting engaged but they got engaged anyway.",
+    "category": "story",
+    "vi": "Ừm... Không biết việc đính hôn có thật sự hợp với người như mình không nữa...",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20- Male\r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Uh, I don't know if this was really a good idea for a Sim like me . . . ",
+    "description": "The Sims 2 - Needs Translation - Batch20 - Male\nFor Engagement negative memory when Sim was afraid of getting engaged but they got engaged anyway.",
+    "category": "story",
+    "vi": "Ừm... Không biết việc đính hôn có thật sự hợp với người như mình không nữa...",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch21 - F \r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Uh, I don't know if this was really a good idea for a Sim like me . . . ",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F \nFor Engagement negative memory when Sim was afraid of getting engaged but they got engaged anyway.",
+    "category": "story",
+    "vi": "Ừm... Không biết việc đính hôn có thật sự hợp với người như mình không nữa...",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Engaged to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch21 - F \r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Đính hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135689906,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Uh, I don't know if this was really a good idea for a Sim like me . . . ",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F \nFor Engagement negative memory when Sim was afraid of getting engaged but they got engaged anyway.",
+    "category": "story",
+    "vi": "Ừm... Không biết việc đính hôn có thật sự hợp với người như mình không nữa...",
+    "reason": "Exact base-game Memory - Family - Engagement - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135834671,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Learned How to Make $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSubject variable is the name of a food dish.",
+    "category": "story",
+    "vi": "Học nấu món $Subject",
+    "reason": "Exact base-game Memory - Knowledge - Learned to Cook Food Type Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135834671,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I always wanted to learn how to cook this stuff. . . let's eat!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Mình muốn học nấu món này từ lâu rồi... Ăn thôi nào!",
+    "reason": "Exact base-game Memory - Knowledge - Learned to Cook Food Type Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135834671,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Learned How to Make $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSubject variable is the name of a food dish.",
+    "category": "story",
+    "vi": "Học nấu món $Subject",
+    "reason": "Exact base-game Memory - Knowledge - Learned to Cook Food Type Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135834671,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I always wanted to learn how to cook this stuff. . . let's eat!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Mình muốn học nấu món này từ lâu rồi... Ăn thôi nào!",
+    "reason": "Exact base-game Memory - Knowledge - Learned to Cook Food Type Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Grew Up Badly",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject trưởng thành không suôn sẻ",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "What a shame. . . it's never good to see someone wasting their life.",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Tiếc thật... Chẳng vui vẻ gì khi thấy người khác để cuộc đời trôi qua như vậy.",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Grew Up Badly",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject trưởng thành không suôn sẻ",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "What a shame. . . it's never good to see someone wasting their life.",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Tiếc thật... Chẳng vui vẻ gì khi thấy người khác để cuộc đời trôi qua như vậy.",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Grew Up Badly",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject trưởng thành không suôn sẻ",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "What a shame. . . it's never good to see someone wasting their life.",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Tiếc thật... Chẳng vui vẻ gì khi thấy người khác để cuộc đời trôi qua như vậy.",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Grew Up Badly",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject trưởng thành không suôn sẻ",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135870686,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "What a shame. . . it's never good to see someone wasting their life.",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Tiếc thật... Chẳng vui vẻ gì khi thấy người khác để cuộc đời trôi qua như vậy.",
+    "reason": "Exact base-game Memory - Grow Up - Bad - Other Sim Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135947562,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Sold a Masterpiece",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Bán được một kiệt tác",
+    "reason": "Exact base-game Memory - Wealth - Painting - Sell High Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135947562,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Starving artist, heck--selling a masterpiece beats working any day!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Nghệ sĩ nghèo đói gì chứ? Bán được một kiệt tác còn sướng hơn đi làm ấy!",
+    "reason": "Exact base-game Memory - Wealth - Painting - Sell High Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135947562,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Sold a Masterpiece",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Bán được một kiệt tác",
+    "reason": "Exact base-game Memory - Wealth - Painting - Sell High Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135947562,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Starving artist, heck--selling a masterpiece beats working any day!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Nghệ sĩ nghèo đói gì chứ? Bán được một kiệt tác còn sướng hơn đi làm ấy!",
+    "reason": "Exact base-game Memory - Wealth - Painting - Sell High Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\r\ngender is for the object of the memory: $Subject\r\nThis is a Fear of Going Steady.",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I guess I have to confine myself to just this Sim now. . . but I just don't know if I can keep my word.",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\nThis is a Fear of Going Steady.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Vậy là từ giờ mình chỉ được hẹn hò với người ấy thôi... Nhưng không biết mình có giữ lời nổi không nữa.",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\r\ngender is for the object of the memory: $Subject\r\nThis is a Fear of Going Steady.",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I guess I have to confine myself to just this Sim now. . . but I just don't know if I can keep my word.",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\nThis is a Fear of Going Steady.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Vậy là từ giờ mình chỉ được hẹn hò với người ấy thôi... Nhưng không biết mình có giữ lời nổi không nữa.",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch22 - F\r\ngender is for the object of the memory: $Subject\r\nThis is a Fear of Going Steady.",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I guess I have to confine myself to just this Sim now. . . but I just don't know if I can keep my word.",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\nThis is a Fear of Going Steady.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Vậy là từ giờ mình chỉ được hẹn hò với người ấy thôi... Nhưng không biết mình có giữ lời nổi không nữa.",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch22 - F\r\ngender is for the object of the memory: $Subject\r\nThis is a Fear of Going Steady.",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136099235,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I guess I have to confine myself to just this Sim now. . . but I just don't know if I can keep my word.",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\nThis is a Fear of Going Steady.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Vậy là từ giờ mình chỉ được hẹn hò với người ấy thôi... Nhưng không biết mình có giữ lời nổi không nữa.",
+    "reason": "Exact base-game Memory - Love - Go Steady - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136249699,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had 2 Best Friends",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M (varies by the subject",
+    "category": "story",
+    "vi": "Có hai người bạn thân nhất",
+    "reason": "Exact base-game Memory - Reputation - 2 Best Friends Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136249699,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now I've got 2 buds to hang around with. . . ",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Giờ mình có hẳn hai đứa bạn thân để đi chơi cùng rồi...",
+    "reason": "Exact base-game Memory - Reputation - 2 Best Friends Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136249699,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had 2 Best Friends",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M (varies by the subject",
+    "category": "story",
+    "vi": "Có hai người bạn thân nhất",
+    "reason": "Exact base-game Memory - Reputation - 2 Best Friends Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136249699,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now I've got 2 buds to hang around with. . . ",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Giờ mình có hẳn hai đứa bạn thân để đi chơi cùng rồi...",
+    "reason": "Exact base-game Memory - Reputation - 2 Best Friends Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Joined the Family!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender refers to $Subject's gender, \nCapitalized Joined",
+    "category": "story",
+    "vi": "$Subject gia nhập gia đình!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Welcome to the family, here's hoping you fit in nicely!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Chào mừng thành viên mới! Mong là bạn sẽ sớm hòa nhập với cả nhà nhé!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Joined the Family!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender refers to $Subject's gender, \nCapitalized Joined",
+    "category": "story",
+    "vi": "$Subject gia nhập gia đình!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Welcome to the family, here's hoping you fit in nicely!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Chào mừng thành viên mới! Mong là bạn sẽ sớm hòa nhập với cả nhà nhé!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Joined the Family!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender refers to $Subject's gender, \nCapitalized Joined",
+    "category": "story",
+    "vi": "$Subject gia nhập gia đình!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Welcome to the family, here's hoping you fit in nicely!",
+    "description": "e Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Chào mừng thành viên mới! Mong là bạn sẽ sớm hòa nhập với cả nhà nhé!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Joined the Family!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender refers to $Subject's gender, \nCapitalized Joined",
+    "category": "story",
+    "vi": "$Subject gia nhập gia đình!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136306954,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Welcome to the family, here's hoping you fit in nicely!",
+    "description": "e Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Chào mừng thành viên mới! Mong là bạn sẽ sớm hòa nhập với cả nhà nhé!",
+    "reason": "Exact base-game Memory - Family - New Family Member Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136492811,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Passed Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ngất xỉu",
+    "reason": "Exact base-game Memory - Reputation - Energy Failure Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136492811,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oww. . . feels like I really bumped my head…I gotta get more sleep. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Ui da... Hình như mình đập đầu hơi mạnh. Phải ngủ nhiều hơn mới được...",
+    "reason": "Exact base-game Memory - Reputation - Energy Failure Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136492811,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Passed Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ngất xỉu",
+    "reason": "Exact base-game Memory - Reputation - Energy Failure Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136492811,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oww. . . feels like I really bumped my head…I gotta get more sleep. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Ui da... Hình như mình đập đầu hơi mạnh. Phải ngủ nhiều hơn mới được...",
+    "reason": "Exact base-game Memory - Reputation - Energy Failure Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136607661,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Cooking Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Nấu ăn",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Cooking Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136607661,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Hình như mình đã nắm hết mọi bí quyết trong lĩnh vực này rồi!",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Cooking Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136607661,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Cooking Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Nấu ăn",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Cooking Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136607661,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Hình như mình đã nắm hết mọi bí quyết trong lĩnh vực này rồi!",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Cooking Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Taught $Subject to Study",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is based on $Subject, the person being taught.",
+    "category": "story",
+    "vi": "Dạy $Subject cách học bài",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That kid really seems to have it now. I bet we'll be seeing some better grades any day now!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Có vẻ nhóc ấy đã hiểu rồi đấy. Chắc chẳng mấy chốc điểm số sẽ khá lên cho xem!",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Taught $Subject to Study",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is based on $Subject, the person being taught.",
+    "category": "story",
+    "vi": "Dạy $Subject cách học bài",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "That kid really seems to have it now. I bet we'll be seeing some better grades any day now!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Có vẻ nhóc ấy đã hiểu rồi đấy. Chắc chẳng mấy chốc điểm số sẽ khá lên cho xem!",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Taught $Subject to Study",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is based on $Subject, the person being taught.",
+    "category": "story",
+    "vi": "Dạy $Subject cách học bài",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That kid really seems to have it now. I bet we'll be seeing some better grades any day now!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Có vẻ nhóc ấy đã hiểu rồi đấy. Chắc chẳng mấy chốc điểm số sẽ khá lên cho xem!",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2001,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Taught $Subject to Study",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is based on $Subject, the person being taught.",
+    "category": "story",
+    "vi": "Dạy $Subject cách học bài",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136971121,
+      2001,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "That kid really seems to have it now. I bet we'll be seeing some better grades any day now!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Có vẻ nhóc ấy đã hiểu rồi đấy. Chắc chẳng mấy chốc điểm số sẽ khá lên cho xem!",
+    "reason": "Exact base-game Memory - Knowledge - Teach to Study Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137644658,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Got Married",
+    "description": "The Sims 2 - Needs Translation - Batch23 - M",
+    "category": "story",
+    "vi": "$Subject đã kết hôn",
+    "reason": "Exact base-game Memory - Family - Family Married Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137644658,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Best of luck! Just remember to spend time together.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Chúc hai người hạnh phúc! Nhớ dành thời gian cho nhau nhé!",
+    "reason": "Exact base-game Memory - Family - Family Married Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137644658,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "$Subject Got Married",
+    "description": "The Sims 2 - Needs Translation - Batch23 - M",
+    "category": "story",
+    "vi": "$Subject đã kết hôn",
+    "reason": "Exact base-game Memory - Family - Family Married Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137644658,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Best of luck! Just remember to spend time together.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Chúc hai người hạnh phúc! Nhớ dành thời gian cho nhau nhé!",
+    "reason": "Exact base-game Memory - Family - Family Married Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137693373,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Body Skill",
+    "description": "The Sims 2 - Needs Translation - Batch22\nFixed bug - now correctly says Body Skill. Was in b. 19. smp",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Thể chất",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Body Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137693373,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Hình như mình đã hiểu tường tận mọi thứ về lĩnh vực này rồi!",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Body Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137693373,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Body Skill",
+    "description": "The Sims 2 - Needs Translation - Batch22\nFixed bug - now correctly says Body Skill. Was in b. 19. smp",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Thể chất",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Body Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137693373,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Hình như mình đã hiểu tường tận mọi thứ về lĩnh vực này rồi!",
+    "reason": "Exact base-game Memory - Knowledge - Skill - Max Body Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Did WooHoo with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\r\ngender is based on variable's gender.\r\nPlay In change - WooHoo.",
+    "category": "story",
+    "vi": "Ân ái với $Subject",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now that's what I call fun. . . When can we do it again?",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\r\ndescription to follow title text.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Thế mới gọi là vui chứ... Bao giờ tụi mình lại làm thế nữa nhỉ?",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Did WooHoo with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\r\ngender is based on variable's gender.\r\nPlay In change - WooHoo.",
+    "category": "story",
+    "vi": "Ân ái với $Subject",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now that's what I call fun. . . When can we do it again?",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\r\ndescription to follow title text.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Thế mới gọi là vui chứ... Bao giờ tụi mình lại làm thế nữa nhỉ?",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Did WooHoo with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Female\r\ngender is based on variable's gender.\r\nPlay In change - WooHoo.",
+    "category": "story",
+    "vi": "Ân ái với $Subject",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now that's what I call fun. . . When can we do it again?",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Female\r\ndescription to go with text - no gender variation needed.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Thế mới gọi là vui chứ... Bao giờ tụi mình lại làm thế nữa nhỉ?",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Did WooHoo with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Female\r\ngender is based on variable's gender.\r\nPlay In change - WooHoo.",
+    "category": "story",
+    "vi": "Ân ái với $Subject",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137705276,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now that's what I call fun. . . When can we do it again?",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Female\r\ndescription to go with text - no gender variation needed.\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Thế mới gọi là vui chứ... Bao giờ tụi mình lại làm thế nữa nhỉ?",
+    "reason": "Exact base-game Memory - Love - WooHoo Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138316997,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Broke Up with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Chia tay với $Subject",
+    "reason": "Exact base-game Memory - Family - Break Up Spouse (Fear) Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138316997,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "When we said \"I do,\" who knew it would turn out to be \"we don't\"? I think my heart is breaking!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\n",
+    "category": "story",
+    "vi": "Hôm cưới nói sẽ bên nhau mãi, ai ngờ giờ lại đường ai nấy đi! Tim mình như vỡ ra vậy.",
+    "reason": "Exact base-game Memory - Family - Break Up Spouse (Fear) Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138316997,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Broke Up with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Chia tay với $Subject",
+    "reason": "Exact base-game Memory - Family - Break Up Spouse (Fear) Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138316997,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "When we said \"I do,\" who knew it would turn out to be \"we don't\"? I think my heart is breaking!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\n",
+    "category": "story",
+    "vi": "Hôm cưới nói sẽ bên nhau mãi, ai ngờ giờ lại đường ai nấy đi! Tim mình như vỡ ra vậy.",
+    "reason": "Exact base-game Memory - Family - Break Up Spouse (Fear) Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - Male\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I can't believe a Sim like me actually tied the knot! I wonder if I can stick to it. . .",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\r\nIncluded to match tooltip\nSpaced periods",
+    "category": "story",
+    "vi": "Không ngờ người như mình lại thật sự lập gia đình! Liệu mình có gắn bó lâu dài được không nhỉ...",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - Male\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I can't believe a Sim like me actually tied the knot! I wonder if I can stick to it. . .",
+    "description": "The Sims 2 - Needs Translation - Batch22 - M\r\nIncluded to match tooltip\nSpaced periods",
+    "category": "story",
+    "vi": "Không ngờ người như mình lại thật sự lập gia đình! Liệu mình có gắn bó lâu dài được không nhỉ...",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I can't believe a Sim like me actually tied the knot! I wonder if I can stick to it. . .",
+    "description": "The Sims 2 - Needs Translation - Batch22 - F\r\nIncluded to match tooltip\nSpaced periods",
+    "category": "story",
+    "vi": "Không ngờ người như mình lại thật sự lập gia đình! Liệu mình có gắn bó lâu dài được không nhỉ...",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2138347267,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I can't believe a Sim like me actually tied the knot! I wonder if I can stick to it. . .",
+    "description": "The Sims 2 - Needs Translation - Batch22 - F\r\nIncluded to match tooltip\nSpaced periods",
+    "category": "story",
+    "vi": "Không ngờ người như mình lại thật sự lập gia đình! Liệu mình có gắn bó lâu dài được không nhỉ...",
+    "reason": "Exact base-game Memory - Family - Marriage - Fear Sim memory, with household/social/skill/cooking context also represented in Castaway; do not extend to unrelated expansion memories."
+  }
+]
