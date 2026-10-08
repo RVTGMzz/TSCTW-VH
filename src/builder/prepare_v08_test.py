@@ -75,15 +75,20 @@ def manifest_row(path, source, patched, count, resources):
     }
 
 
-def build(core, runtime, output, core_original_confirmed=False):
+def build(core, runtime, output, core_original_confirmed=False, runtime_only=False):
     core, runtime, output = strict_locations(core, runtime, output)
-    if not core_original_confirmed:
+    if not runtime_only and not core_original_confirmed:
         raise ValueError("Core Text originals not confirmed. Supply --core-original-confirmed ONLY after restoring original core files, not v0.7a patched Text packages.")
     report, _ = assess()
     if report["parse_errors"] or report["untranslated_or_review_candidate_rows"]:
         raise ValueError("Source audit has unresolved candidate rows or parse errors; no candidate TEST build.")
     inventory = source_inventory()
-    required_core = verify_inputs(core, runtime, inventory)  # Check all before writing any output.
+    required_core = verify_inputs(core, runtime, inventory) if not runtime_only else []  # Runtime-only mode is for existing v0.7a Text/font installations.
+    if runtime_only:
+        for item in inventory:
+            path=runtime/item["package"]
+            if not path.is_file() or path.stat().st_size != item["bytes"] or digest(path) != item["sha256"]:
+                raise ValueError(f"Runtime original missing/hash mismatch: {path}")
     maps = load_maps()
     decisions = {(r["category"], r["en"]) for r in json.loads((RUNTIME/"scope_decisions.json").read_text(encoding="utf-8"))}
     exact = {(r["package"],tuple(r["key"]),r["row"]):r for r in load_row_translations()}
@@ -130,9 +135,11 @@ def build(core, runtime, output, core_original_confirmed=False):
 
         manifest = {
             "schema": "TSCTW-V08-TEST-1",
+            "build_mode": "runtime-overlay-on-v07a" if runtime_only else "full-original-text-plus-runtime",
             "label": "LOCAL CANDIDATE ONLY: requires actual game test",
             "in_game_tested": False,
             "font": "Keep existing working RonVN font installation; this builder does NOT modify font files",
+            "core_text": ("Preserve existing v0.7a core Text files; NOT a consolidated/full rebuild" if runtime_only else "Build all eight original core Text packages"),
             "source_audit": {
                 "candidate_rows":report["candidate_rows"],
                 "parse_errors":report["parse_errors"],
@@ -157,8 +164,9 @@ def main():
     ap.add_argument("--core-input",type=Path,default=ROOT/"work"/"text"/"Text",help="8 original core Text/*.package files")
     ap.add_argument("--output",type=Path,default=ROOT/"work"/"v08_candidate",help="Disposable new empty folder outside original inputs")
     ap.add_argument("--core-original-confirmed",action="store_true",help="Explicit affirmation Text inputs are ORIGINAL not v0.7a-patched")
+    ap.add_argument("--runtime-only",action="store_true",help="Incremental runtime TEST OVERLAY for existing v0.7a + working font; skips core Text packages")
     args=ap.parse_args()
-    manifest=build(args.core_input,args.runtime_input,args.output,args.core_original_confirmed)
+    manifest=build(args.core_input,args.runtime_input,args.output,args.core_original_confirmed,args.runtime_only)
     print(json.dumps({"candidate":"prepared locally; NOT in-game tested",
                       "changed_files":len(manifest["install_files"]),
                       "changed_rows":sum(i["changed_rows"] for i in manifest["install_files"]),
