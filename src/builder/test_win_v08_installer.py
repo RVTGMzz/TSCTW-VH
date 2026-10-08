@@ -51,8 +51,9 @@ class WindowsGuiSafetyTests(unittest.TestCase):
                 self.assertEqual(len(selected), 10)
                 self.assertTrue(all("UserData" not in r["package"] for r in selected))
                 (game / selected[0]["package"]).write_bytes(b"previously patched")
-                with self.assertRaisesRegex(RuntimeError, "không khớp"):
-                    app.preflight(game)
+                # Mismatched file is ONLY allowed to proceed to deep DBPF row validation.
+                # GUI preflight never directly modifies package bytes.
+                self.assertEqual(len(app.preflight(game)), 10)
                 (game / app.FONT_RELATIVE[0]).unlink()
                 with self.assertRaisesRegex(RuntimeError, "font"):
                     app.preflight(game)
