@@ -69,7 +69,7 @@
     ],
     "row": 4,
     "en": "Get In",
-    "description": "EDITTRANS - BatchMTF\r\nFormerly ",
+    "description": "EDITTRANS - BatchMTF\r\nFormerly \"*Push Only\". appears in game in action queue when Sim moves out and leaves in taxi.\r\nsame string as string 0, batch15. Copied translations in DB to this string SP 6/21.",
     "status": "excluded",
     "language": 1,
     "reason": "Road-based base-game taxi transport resource is not part of Castaway island travel; exact exclusion avoids affecting retained raft/portal interactions with similar labels."
