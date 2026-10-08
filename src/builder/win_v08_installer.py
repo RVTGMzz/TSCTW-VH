@@ -359,6 +359,11 @@ def main():
         report, _ = assess()
         if report["parse_errors"] or report["untranslated_or_review_candidate_rows"]:
             raise SystemExit("Bundled source QA FAILED")
+        # Critical: the binary smoke must actually BUILD a runtime-only patch
+        # without any core Text catalog, then install and restore fake bytes.
+        from smoke_frozen_v08 import smoke
+        if not smoke():
+            raise SystemExit("Frozen installer integration smoke FAILED")
         if sys.stdout is not None:
             print("Bundled source QA PASS: candidate_rows="+str(report["candidate_rows"]))
         return
