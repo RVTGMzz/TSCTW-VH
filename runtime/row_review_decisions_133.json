@@ -1,0 +1,902 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131809483,
+      1,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets/EP6 chocolate-puddle pet action; exclude the expansion-only Roll/Lick rows without deciding the base puddle rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131809483,
+      1,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Lick",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets/EP6 chocolate-puddle pet action; exclude the expansion-only Roll/Lick rows without deciding the base puddle rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132367425,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132367425,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132367425,
+      128,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132367425,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132367425,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "The Rock Hammer",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132367425,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The guitar that defined the music of a generation is now yours to thrash, own, and rip up on stage. Every musician dreams to touch, nigh, smell the catgut strings of this blessed weapon of rock. You are lucky to be chosen for The Rock Hammer - do not defy the rock, lest you find yourself jamming to country.",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132367425,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "The Rock Hammer",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132367425,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The guitar that defined the music of a generation is now yours to thrash, own, and rip up on stage. Every musician dreams to touch, nigh, smell the catgut strings of this blessed weapon of rock. You are lucky to be chosen for The Rock Hammer - do not defy the rock, lest you find yourself jamming to country.",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Became Big Man on Campus",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-4 - Male",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can't believe I was able to be that influential! I hope I can keep all of these friends throughout my life.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7 Male\nthis is the \"Big Man on Campus\" memory description.",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Became Big Man on Campus",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-4 - Male",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can't believe I was able to be that influential! I hope I can keep all of these friends throughout my life.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7 Male\nthis is the \"Big Man on Campus\" memory description.",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Became Big Woman on Campus",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-4 - Female",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I can't believe I was able to be that influential! I hope I can keep all of these friends throughout my life.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7 - Female\nthis is the \"Big Woman on Campus\" memory description.",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Became Big Woman on Campus",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-4 - Female",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132669799,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I can't believe I was able to be that influential! I hope I can keep all of these friends throughout my life.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-7 - Female\nthis is the \"Big Woman on Campus\" memory description.",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132730660,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I made a wish!",
+    "description": "The Sims 2 - EP7 - Needs Translation",
+    "reason": "Seasons/EP7 wishing-well memory; tied to the expansion reward system rather than Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132730660,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm really glad I made this wish -- good things do come true!\n",
+    "description": "The Sims 2 EP7 - Needs translation\n",
+    "reason": "Seasons/EP7 wishing-well memory; tied to the expansion reward system rather than Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132730660,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "I made a wish!",
+    "description": "The Sims 2 - EP7 - Needs Translation",
+    "reason": "Seasons/EP7 wishing-well memory; tied to the expansion reward system rather than Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132730660,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm really glad I made this wish -- good things do come true!\n",
+    "description": "The Sims 2 EP7 - Needs translation\n",
+    "reason": "Seasons/EP7 wishing-well memory; tied to the expansion reward system rather than Castaway gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132832670,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Went to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-4",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132832670,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm finally out of the house and on my own in college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nRevised English enough for update.",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132832670,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Went to College",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-4",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132832670,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm finally out of the house and on my own in college.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nRevised English enough for update.",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132849420,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Won the Bain-Gordon Communications Fellowship",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132849420,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Yes! I got the Bain-Gordon Communications Fellowship! Turns out it really pays to work on your image, and pays well! Now I'll be able to spend more time at College using my charm instead of chasing that Simoleon! ",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132849420,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Won the Bain-Gordon Communications Fellowship",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132849420,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Yes! I got the Bain-Gordon Communications Fellowship! Turns out it really pays to work on your image, and pays well! Now I'll be able to spend more time at College using my charm instead of chasing that Simoleon! ",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only memory or scholarship content; outside Castaway Stories progression."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Subject Became Mine",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm really glad this Sim belongs to me. I'm treated very well...",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Subject Became Mine",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm really glad this Sim belongs to me. I'm treated very well...",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Subject Became Mine",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm really glad this Sim belongs to me. I'm treated very well...",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Subject Became Mine",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132999220,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm really glad this Sim belongs to me. I'm treated very well...",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only pet memory content; outside Castaway Stories companion/progression systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133550851,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! You have been awarded the Gootentaugen Award for Excellence in Journalism. This outstanding achievement is a testament to your vast contributions to the field.",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7 Journalism career award message; the Journalism expansion career is outside Castaway's career set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2133550851,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! You have been awarded the Gootentaugen Award for Excellence in Journalism. This outstanding achievement is a testament to your vast contributions to the field.",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7 Journalism career award message; the Journalism expansion career is outside Castaway's career set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134497452,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134497452,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134497452,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134497452,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394316,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons snowball-fight object residue; snow gameplay is outside Castaway's tropical island systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394316,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; snow gameplay is outside Castaway's tropical island systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394316,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons snowball-fight object residue; snow gameplay is outside Castaway's tropical island systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394316,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; snow gameplay is outside Castaway's tropical island systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394316,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; snow gameplay is outside Castaway's tropical island systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141394316,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; snow gameplay is outside Castaway's tropical island systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142170318,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142170318,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142170318,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142170318,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143884249,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143884249,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2EP1 - Translated in base game - copy translations",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143884249,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143884249,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dance Solo",
+    "description": "The Sims 2EP1 - Translated in base game - copy translations",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143884249,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143884249,
+      128,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Perform",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/Seasons-only band or career-instrument row; exclude the expansion-tagged row while leaving ambiguous base-copy instrument rows unresolved."
+  }
+]
