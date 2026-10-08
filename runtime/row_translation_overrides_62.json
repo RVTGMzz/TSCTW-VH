@@ -1,0 +1,274 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139464343,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Water",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Tưới nước",
+    "reason": "Money Tree reward interaction is player-facing in Rewards gameplay; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139464343,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Harvest Simoleons",
+    "description": "The Sims 2 - Needs Translation - Batch23\nchanged from Money to Simoleons per Lucy.",
+    "vi": "Thu hoạch Simoleon",
+    "reason": "Money Tree reward interaction is player-facing in Rewards gameplay; retain exact row and keep Simoleon terminology."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139464343,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translations copied. 7/26 Interaction added.",
+    "vi": "Vứt bỏ",
+    "reason": "Money Tree reward cleanup interaction; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139464343,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Water",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "vi": "Tưới nước",
+    "reason": "Money Tree reward interaction duplicate language row; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139464343,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Harvest Simoleons",
+    "description": "The Sims 2 - Needs Translation - Batch23\nchanged from Money to Simoleons per Lucy.",
+    "vi": "Thu hoạch Simoleon",
+    "reason": "Money Tree reward interaction duplicate language row; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132483573,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Replant",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n",
+    "vi": "Trồng lại",
+    "reason": "Hydroponic Garden reward interaction is player-facing and may appear in Castaway Rewards."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132483573,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Harvest",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Thu hoạch",
+    "reason": "Hydroponic Garden reward interaction is player-facing and may appear in Castaway Rewards."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132483573,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Tend",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Chăm sóc",
+    "reason": "Hydroponic Garden reward interaction is player-facing and may appear in Castaway Rewards."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132483573,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Teach",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Nhờ dạy",
+    "reason": "Hydroponic Garden reward interaction is player-facing and may appear in Castaway Rewards."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132483573,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask To Be Taught",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Xin được hướng dẫn",
+    "reason": "Hydroponic Garden reward interaction is player-facing and may appear in Castaway Rewards."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132483573,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 1,
+    "en": "Use",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Sử dụng",
+    "reason": "Hydroponic Garden reward interaction is player-facing and may appear in Castaway Rewards."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131156658,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice Case",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Luyện tình huống",
+    "reason": "Career Lectern reward interaction may be player-facing in Castaway Rewards; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131156658,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chơi",
+    "reason": "Career Lectern reward interaction may be player-facing in Castaway Rewards; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131156658,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice Case",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Luyện tình huống",
+    "reason": "Career Lectern action-queue duplicate; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131156658,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Offer Lessons",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Đề nghị hướng dẫn",
+    "reason": "Career Lectern reward interaction may be player-facing in Castaway Rewards; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131156658,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask For Lessons",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Xin được hướng dẫn",
+    "reason": "Career Lectern reward interaction may be player-facing in Castaway Rewards; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131156658,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Listen",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Lắng nghe",
+    "reason": "Career Lectern reward interaction may be player-facing in Castaway Rewards; retain exact row."
+  }
+]
