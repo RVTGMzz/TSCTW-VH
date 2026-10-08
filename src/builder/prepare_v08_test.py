@@ -99,7 +99,7 @@ def manifest_row(path, source, patched, count, resources):
     }
 
 
-def build(core, runtime, output, core_original_confirmed=False, runtime_only=False, allow_prepatched_runtime=False):
+def build(core, runtime, output, core_original_confirmed=False, runtime_only=False, allow_prepatched_runtime=False, allow_no_changes=False):
     core, runtime, output = strict_locations(core, runtime, output)
     if allow_prepatched_runtime and not runtime_only:
         raise ValueError("Modified runtime compatibility mode is allowed only on runtime-only overlay")
@@ -168,7 +168,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
                 target.parent.mkdir(parents=True,exist_ok=True)
                 target.write_bytes(patched)
                 changed.append(manifest_row(rel,source,patched,count,resources))
-        if not changed:
+        if not changed and not allow_no_changes:
             raise ValueError("No changed game packages; not generating an empty TEST.")
         if any("UserData/" in r["path"] or not r["path"].startswith("TSData/Res/") for r in changed):
             raise AssertionError("Refusing any Documents save or non-package input in payload")
@@ -188,6 +188,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
                 "untranslated_candidates":report["untranslated_or_review_candidate_rows"]
             },
             "install_files": sorted(changed,key=lambda x:x["path"]),
+            "no_applicable_english_rows": not changed,
             "modified_baseline_checks": compatibility_checks,
             "unrecognized_rows_preserved": sum(x.get("unrecognized_rows_preserved",0) for x in compatibility_checks),
             "build_summary": summaries,
