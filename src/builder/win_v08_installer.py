@@ -129,16 +129,13 @@ def preflight(game, progress=lambda x: None):
         raise RuntimeError(f"Dữ liệu gốc không khớp: cần 10 package cài đặt, thấy {len(selected)}.")
     progress("Đang đối chiếu 10 package gốc, không thay đổi file...")
     checks = inspect(selected, game, None)
-    bad = [x for x in checks if x["status"] != "verified"]
+    bad = [x for x in checks if x["status"] not in ("verified", "baseline_mismatch")]
     if bad:
-        problems = "\n".join(
-            f"• {r['package']}: {r['status']}" for r in bad[:6]
-        )
-        raise RuntimeError(
-            "Một số file game không khớp bản gốc đã audit (có thể từng bị patch):\n"
-            + problems +
-            "\nChưa có file nào bị thay đổi. Không ép cài hoặc chép đè package."
-        )
+        problems = "\n".join(f"• {r['package']}: {r['status']}" for r in bad[:6])
+        raise RuntimeError("Thiếu file package hoặc không thể kiểm tra:\n" + problems)
+    modified = [x for x in checks if x["status"] == "baseline_mismatch"]
+    if modified:
+        progress(f"Phát hiện {len(modified)} file đã thay đổi. Sẽ xác thực cấu trúc DBPF, từng dòng nguồn và ngôn ngữ trước khi vá.")
     return selected
 
 
@@ -158,11 +155,12 @@ def build_runtime_overlay(game, work, progress=lambda x: None):
         target = stage / path
         target.parent.mkdir(parents=True, exist_ok=True)
         progress(f"Đọc file gốc {i}/10: {Path(path).name}")
+        live_hash = sha256(source)
         shutil.copy2(source, target)
-        if sha256(target) != entry["sha256"]:
-            raise RuntimeError(f"Bản sao đầu vào thay đổi khi chép: {path}")
-    progress("Đang tạo và kiểm tra bản Việt hóa runtime v0.8...")
-    manifest = build(core_dummy, stage, bundle, runtime_only=True)
+        if sha256(target) != live_hash:
+            raise RuntimeError(f"File game thay đổi trong lúc tạo bản sao: {path}")
+    progress("Đang xác thực nội dung của các package đã sửa và tạo Việt hóa runtime v0.8...")
+    manifest = build(core_dummy, stage, bundle, runtime_only=True, allow_prepatched_runtime=True)
     if manifest["build_mode"] != "runtime-overlay-on-v07a":
         raise RuntimeError("Sai chế độ xây dựng bản thử")
     return bundle, manifest
@@ -325,6 +323,10 @@ class InstallerApp:
                     report, manifest = value
                     amount = sum(r["changed_rows"] for r in manifest["install_files"])
                     self.write(f"Đã cài {report['files']} package, thay đổi {amount} dòng. Sao lưu: {report['backup']}")
+                    compatibility = manifest.get("modified_baseline_checks", [])
+                    if compatibility:
+                        self.write(f"Đã xác minh an toàn {len(compatibility)} package từng được sửa: "
+                                   + ", ".join(Path(x["package"]).name for x in compatibility))
                     messagebox.showinfo(
                         "Đã cài bản v0.8 TEST",
                         "Cài đặt đã qua kiểm tra file và sao lưu.\n"
