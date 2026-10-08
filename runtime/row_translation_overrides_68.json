@@ -1,0 +1,962 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132582747,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Lost $Subject as a Best Friend",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Không còn là bạn thân nhất với $Subject",
+    "reason": "Exact Memory - Reputation - Lost Best Friend base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132582747,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That's just a darn shame. No matter how close a friend you are, you can always drift apart.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Buồn thật đấy. Dù từng thân đến mấy, đôi khi người ta vẫn dần xa nhau.",
+    "reason": "Exact Memory - Reputation - Lost Best Friend base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132582747,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Lost $Subject as a Best Friend",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Không còn là bạn thân nhất với $Subject",
+    "reason": "Exact Memory - Reputation - Lost Best Friend base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132582747,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "That's just a darn shame. No matter how close a friend you are, you can always drift apart.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Buồn thật đấy. Dù từng thân đến mấy, đôi khi người ta vẫn dần xa nhau.",
+    "reason": "Exact Memory - Reputation - Lost Best Friend base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133110636,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Grew Up Badly",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Trưởng thành không suôn sẻ",
+    "reason": "Exact Memory - Grow Up - Bad base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133110636,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Too soon! Too soon! I just wasn't ready to Grow Up yet . . . my life seems like it's going nowhere.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nadded spaces in the ellipses after batch. No translation fix needed.",
+    "category": "story",
+    "vi": "Nhanh quá, nhanh quá! Mình còn chưa sẵn sàng trưởng thành mà... Cứ như cuộc đời chẳng đi đến đâu cả.",
+    "reason": "Exact Memory - Grow Up - Bad base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133110636,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Grew Up Badly",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Trưởng thành không suôn sẻ",
+    "reason": "Exact Memory - Grow Up - Bad base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133110636,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Too soon! Too soon! I just wasn't ready to Grow Up yet . . . my life seems like it's going nowhere.",
+    "description": "The Sims 2 - Needs Translation - Batch19\nadded spaces in the ellipses after batch. No translation fix needed.",
+    "category": "story",
+    "vi": "Nhanh quá, nhanh quá! Mình còn chưa sẵn sàng trưởng thành mà... Cứ như cuộc đời chẳng đi đến đâu cả.",
+    "reason": "Exact Memory - Grow Up - Bad base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Taught $Subject to Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender of sentence refers to gender of $Subject",
+    "category": "story",
+    "vi": "Dạy $Subject tập nói",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "At last I can understand what that little one is saying. . . I hope that turns out to be a good thing!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\nsentence  to go with gendered title. does not need to be gendered.\nRemoved a space",
+    "category": "story",
+    "vi": "Cuối cùng cũng hiểu nhóc ấy đang nói gì rồi... Mong là đây là chuyện tốt!",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Taught $Subject to Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender of sentence refers to gender of $Subject",
+    "category": "story",
+    "vi": "Dạy $Subject tập nói",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "At last I can understand what that little one is saying. . . I hope that turns out to be a good thing!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\nsentence  to go with gendered title. does not need to be gendered.\nRemoved a space",
+    "category": "story",
+    "vi": "Cuối cùng cũng hiểu nhóc ấy đang nói gì rồi... Mong là đây là chuyện tốt!",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Taught $Subject to Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender of sentence refers to gender of $Subject",
+    "category": "story",
+    "vi": "Dạy $Subject tập nói",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "At last I can understand what that little one is saying. . . I hope that turns out to be a good thing!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoved a space",
+    "category": "story",
+    "vi": "Cuối cùng cũng hiểu nhóc ấy đang nói gì rồi... Mong là đây là chuyện tốt!",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Taught $Subject to Talk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender of sentence refers to gender of $Subject",
+    "category": "story",
+    "vi": "Dạy $Subject tập nói",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133307459,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "At last I can understand what that little one is saying. . . I hope that turns out to be a good thing!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoved a space",
+    "category": "story",
+    "vi": "Cuối cùng cũng hiểu nhóc ấy đang nói gì rồi... Mong là đây là chuyện tốt!",
+    "reason": "Exact Memory - Knowledge - Teach to Talk base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Inherited Money from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhận tiền thừa kế từ $Subject",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I'll miss that dearly departed Sim, but at least I've got one heck of a memento! Ka-ching!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M",
+    "category": "story",
+    "vi": "Mình sẽ nhớ người đã khuất lắm, nhưng ít ra vẫn còn một món để nhớ về họ... lại là một khoản tiền kha khá nữa chứ!",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Inherited Money from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhận tiền thừa kế từ $Subject",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I'll miss that dearly departed Sim, but at least I've got one heck of a memento! Ka-ching!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M",
+    "category": "story",
+    "vi": "Mình sẽ nhớ người đã khuất lắm, nhưng ít ra vẫn còn một món để nhớ về họ... lại là một khoản tiền kha khá nữa chứ!",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Inherited Money from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhận tiền thừa kế từ $Subject",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I'll miss that dearly departed Sim, but at least I've got one heck of a memento! Ka-ching!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F",
+    "category": "story",
+    "vi": "Mình sẽ nhớ người đã khuất lắm, nhưng ít ra vẫn còn một món để nhớ về họ... lại là một khoản tiền kha khá nữa chứ!",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Inherited Money from $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhận tiền thừa kế từ $Subject",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133573369,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I'll miss that dearly departed Sim, but at least I've got one heck of a memento! Ka-ching!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F",
+    "category": "story",
+    "vi": "Mình sẽ nhớ người đã khuất lắm, nhưng ít ra vẫn còn một món để nhớ về họ... lại là một khoản tiền kha khá nữa chứ!",
+    "reason": "Exact Memory - Wealth - Inheritance base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Made Enemies with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành kẻ thù của $Subject",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "This Sim and I just weren't very friendly toward each other. Is it worth it to try to improve this relationship?",
+    "description": "The Sims 2 - Needs Translation - Batch20 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Mình với người ấy chẳng ưa gì nhau. Liệu có nên cố gắng hàn gắn mối quan hệ này không nhỉ?",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Made Enemies with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành kẻ thù của $Subject",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "This Sim and I just weren't very friendly toward each other. Is it worth it to try to improve this relationship?",
+    "description": "The Sims 2 - Needs Translation - Batch20 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Mình với người ấy chẳng ưa gì nhau. Liệu có nên cố gắng hàn gắn mối quan hệ này không nhỉ?",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Made Enemies with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành kẻ thù của $Subject",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "This Sim and I just weren't very friendly toward each other. Is it worth it to try to improve this relationship?",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Mình với người ấy chẳng ưa gì nhau. Liệu có nên cố gắng hàn gắn mối quan hệ này không nhỉ?",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Made Enemies with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành kẻ thù của $Subject",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133664391,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "This Sim and I just weren't very friendly toward each other. Is it worth it to try to improve this relationship?",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Mình với người ấy chẳng ưa gì nhau. Liệu có nên cố gắng hàn gắn mối quan hệ này không nhỉ?",
+    "reason": "Exact Memory - Reputation - Enemy base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133820014,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Nghỉ việc",
+    "reason": "Exact Memory - Wealth - Career - Quit Job base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133820014,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I deserve better than this rat race! So long, saltmines–I'm off to find greener pastures!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Mình xứng đáng với điều tốt hơn chứ! Tạm biệt công việc quần quật, mình đi tìm chân trời mới đây!",
+    "reason": "Exact Memory - Wealth - Career - Quit Job base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133820014,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Quit Job",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Nghỉ việc",
+    "reason": "Exact Memory - Wealth - Career - Quit Job base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133820014,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I deserve better than this rat race! So long, saltmines–I'm off to find greener pastures!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Mình xứng đáng với điều tốt hơn chứ! Tạm biệt công việc quần quật, mình đi tìm chân trời mới đây!",
+    "reason": "Exact Memory - Wealth - Career - Quit Job base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134032573,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Retired",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "story",
+    "vi": "Nghỉ hưu",
+    "reason": "Exact Memory - Wealth - Retirement base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134032573,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Once it was \"work, work, work,\" but not anymore... Golden Years, here I come!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ngày trước suốt ngày chỉ có công việc, công việc, công việc... Giờ thì đến lúc tận hưởng tuổi già rồi!",
+    "reason": "Exact Memory - Wealth - Retirement base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134032573,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Retired",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "story",
+    "vi": "Nghỉ hưu",
+    "reason": "Exact Memory - Wealth - Retirement base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134032573,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Once it was \"work, work, work,\" but not anymore... Golden Years, here I come!",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ngày trước suốt ngày chỉ có công việc, công việc, công việc... Giờ thì đến lúc tận hưởng tuổi già rồi!",
+    "reason": "Exact Memory - Wealth - Retirement base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134048198,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had 3 Best Friends",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male",
+    "category": "story",
+    "vi": "Có ba người bạn thân nhất",
+    "reason": "Exact Memory - Reputation - 3 Best Friends base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134048198,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Whoa! Look who's getting totally popular!",
+    "description": "The Sims 2 - Needs Translation - Batch18 Male",
+    "category": "story",
+    "vi": "Ối chà, mình cũng được yêu mến ghê ta!",
+    "reason": "Exact Memory - Reputation - 3 Best Friends base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134048198,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had 3 Best Friends",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male",
+    "category": "story",
+    "vi": "Có ba người bạn thân nhất",
+    "reason": "Exact Memory - Reputation - 3 Best Friends base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134048198,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Whoa! Look who's getting totally popular!",
+    "description": "The Sims 2 - Needs Translation - Batch18 Male",
+    "category": "story",
+    "vi": "Ối chà, mình cũng được yêu mến ghê ta!",
+    "reason": "Exact Memory - Reputation - 3 Best Friends base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject was an Overachiever",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đạt thành tích xuất sắc",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now that's what I call effort! Keep it up after you're grown and there won't be anything you can't do!",
+    "description": "The Sims 2 - Needs Translation - Batch20 - M\nthere was a typo in English in Batch19 - \"grwn\" and \"anything you can do\" should be \"anything you can't do\". Please recheck if haven't already.\r\n",
+    "category": "story",
+    "vi": "Đúng là có cố gắng! Cứ giữ phong độ này khi lớn lên thì chẳng gì làm khó được đâu!",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject was an Overachiever",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đạt thành tích xuất sắc",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now that's what I call effort! Keep it up after you're grown and there won't be anything you can't do!",
+    "description": "The Sims 2 - Needs Translation - Batch20 - M\nthere was a typo in English in Batch19 - \"grwn\" and \"anything you can do\" should be \"anything you can't do\". Please recheck if haven't already.\r\n",
+    "category": "story",
+    "vi": "Đúng là có cố gắng! Cứ giữ phong độ này khi lớn lên thì chẳng gì làm khó được đâu!",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject was an Overachiever",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đạt thành tích xuất sắc",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Now that's what I call effort! Keep it up after you're grown and there won't be anything you can't do!",
+    "description": "The Sims 2 - Needs Translation - Batch20 \nthere was a typo in English in Batch19 - \"grwn\" and \"anything you can do\" should be \"anything you can't do\". Please recheck if haven't already.\r\n\r\n",
+    "category": "story",
+    "vi": "Đúng là có cố gắng! Cứ giữ phong độ này khi lớn lên thì chẳng gì làm khó được đâu!",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject was an Overachiever",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đạt thành tích xuất sắc",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134129412,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Now that's what I call effort! Keep it up after you're grown and there won't be anything you can't do!",
+    "description": "The Sims 2 - Needs Translation - Batch20 \nthere was a typo in English in Batch19 - \"grwn\" and \"anything you can do\" should be \"anything you can't do\". Please recheck if haven't already.\r\n\r\n",
+    "category": "story",
+    "vi": "Đúng là có cố gắng! Cứ giữ phong độ này khi lớn lên thì chẳng gì làm khó được đâu!",
+    "reason": "Exact Memory - Knowledge - Over Achiever - Family base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134285759,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Left at the Altar by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nVariable added. Gender refers to $Subject,",
+    "category": "story",
+    "vi": "Bị $Subject bỏ lại trước lễ cưới",
+    "reason": "Exact Memory - Family - Marriage - Left at Altar base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134285759,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Ooof! I didn't think I'd be standing there alone! I shouldn't have taken this love for granted!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "story",
+    "vi": "Trời đất, không ngờ mình lại đứng đó một mình! Đáng lẽ không nên xem nhẹ tình yêu này!",
+    "reason": "Exact Memory - Family - Marriage - Left at Altar base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134285759,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Left at the Altar by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nVariable added. Gender refers to $Subject,",
+    "category": "story",
+    "vi": "Bị $Subject bỏ lại trước lễ cưới",
+    "reason": "Exact Memory - Family - Marriage - Left at Altar base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134285759,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Ooof! I didn't think I'd be standing there alone! I shouldn't have taken this love for granted!",
+    "description": "The Sims 2 - Needs Translation - Batch18",
+    "category": "story",
+    "vi": "Trời đất, không ngờ mình lại đứng đó một mình! Đáng lẽ không nên xem nhẹ tình yêu này!",
+    "reason": "Exact Memory - Family - Marriage - Left at Altar base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134485053,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Broke Up with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Chia tay với $Subject",
+    "reason": "Exact Memory - Love - Break up with Steady base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134485053,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "We were hot, but now we're cold. I guess I need to find those other fish they say are in the sea.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Từng nồng nhiệt là thế mà giờ lạnh tanh. Thôi thì biển còn nhiều cá, biết đâu mình sẽ gặp người hợp hơn!",
+    "reason": "Exact Memory - Love - Break up with Steady base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134485053,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Broke Up with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Chia tay với $Subject",
+    "reason": "Exact Memory - Love - Break up with Steady base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134485053,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "We were hot, but now we're cold. I guess I need to find those other fish they say are in the sea.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Từng nồng nhiệt là thế mà giờ lạnh tanh. Thôi thì biển còn nhiều cá, biết đâu mình sẽ gặp người hợp hơn!",
+    "reason": "Exact Memory - Love - Break up with Steady base Sim-memory CTSS. Retain $Subject tokens and natural first-person narration; no blanket translation of expansion-only memories."
+  }
+]
