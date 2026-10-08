@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138274556,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138274556,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138274556,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138274556,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138274556,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138274556,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140015847,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140015847,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140015847,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140015847,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140015847,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140015847,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "EP7 water-balloon-fight resource not part of Castaway gameplay; exact exclusion also prevents unrelated inherited filler actions from being promoted."
+  }
+]
