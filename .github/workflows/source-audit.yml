@@ -40,6 +40,9 @@ jobs:
       - name: Verify 20- and 24-byte DBPF writer with synthetic fixtures
         run: python src/builder/test_runtime_dbpf_writer.py
 
+      - name: Verify read-only story selector source probe
+        run: python src/builder/test_probe_story_selector.py
+
       - name: Runtime source QA (coverage may remain incomplete)
         run: python src/builder/validate_runtime.py
 
