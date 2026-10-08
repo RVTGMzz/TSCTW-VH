@@ -1,3 +1,5 @@
+> **Current handoff (2026-10-09):** read [`RUNTIME_HANDOFF_2026-10-09.md`](RUNTIME_HANDOFF_2026-10-09.md) FIRST. Source Audit **run 407 PASS**, commit **`4c4d30e`**, **6,770 map entries / 1,779 exact-row translations / 14,314 candidate rows / 0 missing or review candidates / 20,696 unresolved inherited rows / 1,349 auto-exclusions / 0 parse errors**. Older numeric values below are historical. v0.8 TEST is **NOT RELEASED**, selector runtime source is unverified, package QA remains stale at 7,502 structurally verified rows.
+
 # Runtime handoff — 2026-10-08
 
 This file supersedes all older numerical checkpoints in `CONTINUE_WITH_MODEL.md`, `NEXT_SESSION_PROMPT.md`, `RUNTIME_HANDOFF_2026-10-07.md`, `runtime/coverage.json`, and `runtime/package_qa.json` whenever those numbers disagree with the latest Source Audit.
