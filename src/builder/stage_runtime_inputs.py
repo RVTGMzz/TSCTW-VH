@@ -69,7 +69,8 @@ def main():
     ap.add_argument("--save-root", type=Path, help="Actual Documents game-data root containing Neighborhoods/N001, N002 and NeighborhoodManager.package")
     ap.add_argument("--output", type=Path, default=ROOT / "work" / "input", help="Disposable staging directory (default work/input)")
     ap.add_argument("--report", type=Path, default=ROOT / "work" / "baseline_preflight.json")
-    ap.add_argument("--copy-verified", action="store_true", help="Copy all 13 baselines only if every original SHA-256 matches; never overwrite")
+    ap.add_argument("--include-save-snapshots", action="store_true", help="DEVELOPMENT QA ONLY: require exact old Documents snapshots. Never ship saved games.")
+    ap.add_argument("--copy-verified", action="store_true", help="Copy strictly verified original installation packages to a disposable folder; save snapshots are opt-in QA only")
     args = ap.parse_args()
 
     game_root = args.game_root.resolve()
@@ -81,11 +82,17 @@ def main():
     if inside(output, game_root) or (save_root and inside(output, save_root)):
         ap.error("Staging output must be outside both the game installation and Documents save root")
     inventory = json.loads((RUNTIME / "inventory.json").read_text(encoding="utf-8"))
-    results = inspect(inventory, game_root, save_root)
+    # The old audit staged N001/N002/NeighborhoodManager under an install-like alias.
+    # In reality these came from Documents; normal TEST builds must not require or ship them.
+    selected = [r for r in inventory if args.include_save_snapshots or not r["package"].startswith(SAVE_PREFIX)]
+    skipped_save_snapshots = len(inventory) - len(selected)
+    results = inspect(selected, game_root, save_root)
     passed = all(r["status"] == "verified" for r in results)
     report = {
         "purpose": "original user-owned package baseline preflight, never a game patch",
         "total": len(results),
+        "skipped_save_snapshots": skipped_save_snapshots,
+        "included_user_save_snapshots": bool(args.include_save_snapshots),
         "verified": sum(r["status"] == "verified" for r in results),
         "all_verified": passed,
         "staged": False,
@@ -108,7 +115,7 @@ def main():
             report["staged"] = True
     report_path.parent.mkdir(parents=True, exist_ok=True)
     report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({"verified": report["verified"], "total": report["total"], "staged": report["staged"], "report": str(report_path)}, ensure_ascii=False))
+    print(json.dumps({"verified": report["verified"], "total": report["total"], "skipped_save_snapshots": report["skipped_save_snapshots"], "staged": report["staged"], "report": str(report_path)}, ensure_ascii=False))
     if not passed:
         print("No originals changed. A mismatch can mean a modded current install or a different Documents profile; do not patch blindly.")
         raise SystemExit(2)
