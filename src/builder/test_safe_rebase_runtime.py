@@ -53,6 +53,38 @@ class SafeRebaseTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Unrecognized translated"):
             inspect_prepatched(changed,item,rows,MAPS,set(),{})
 
+    def test_older_vietnamese_is_preserved_and_other_english_is_translated(self):
+        original,rows,item=inputs()
+        pkg=Package(original)
+        entry=next(x for x in pkg.entries if x.key==tuple(rows[0]["key"]))
+        raw=pkg.raw(entry)
+        values,_=parse_table(raw)
+        values[0][1]="Tôi đây!"  # A historical translation not equal to current mapping.
+        previous=pkg.patch({entry.key:encode_table(raw,values)})
+        with self.assertRaisesRegex(ValueError, "Unrecognized translated"):
+            inspect_prepatched(previous,item,rows,MAPS,set(),{})
+        result=inspect_prepatched(previous,item,rows,MAPS,set(),{},preserve_unrecognized=True)
+        self.assertEqual(result["unrecognized_rows_preserved"],1)
+        self.assertEqual(result["english_source_rows"],1)
+        final,changed,res=apply(previous,rows,MAPS,set(),{},preserve_unrecognized=True)
+        self.assertEqual((changed,res),(1,1))
+        final_pkg=Package(final)
+        final_entry=next(x for x in final_pkg.entries if x.key==tuple(rows[0]["key"]))
+        translated,_=parse_table(final_pkg.raw(final_entry))
+        self.assertEqual([r[1] for r in translated[:2]],["Tôi đây!","Xem xét"])
+        self.assertEqual(apply(final,rows,MAPS,set(),{},preserve_unrecognized=True)[0],final)
+        self.assertEqual(final_pkg.raw(next(x for x in final_pkg.entries if x.key!=tuple(rows[0]["key"]))),
+                         pkg.raw(next(x for x in pkg.entries if x.key!=tuple(rows[0]["key"]))))
+
+    def test_unknown_value_does_not_bypass_metadata_identity(self):
+        original,rows,item=inputs()
+        modified=partially_translated(original,rows)
+        bad=[dict(rows[0],description="Incorrect metadata"),rows[1]]
+        with self.assertRaisesRegex(ValueError, "metadata mismatch"):
+            inspect_prepatched(modified,item,bad,MAPS,set(),{},preserve_unrecognized=True)
+        with self.assertRaisesRegex(ValueError, "metadata differs"):
+            apply(modified,bad,MAPS,set(),{},preserve_unrecognized=True)
+
     def test_wrong_structure_is_rejected(self):
         original,rows,item=inputs()
         modified=partially_translated(original,rows)
