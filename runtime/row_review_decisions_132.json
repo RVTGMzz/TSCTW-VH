@@ -1,0 +1,1382 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130716140,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Won the Tsang Footwork Award",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130716140,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Whoa, extra college money for just being a great dancer? This Tsang Footwork Award thing is all right! Sure will give me some extra time at college to get out on that dance floor!",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130716140,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Won the Tsang Footwork Award",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130716140,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Whoa, extra college money for just being a great dancer? This Tsang Footwork Award thing is all right! Sure will give me some extra time at college to get out on that dance floor!",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130976865,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Physics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130976865,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Physics: the study of the many forms of energy. Those who study physics learn the intricacies of the world around us, allowing them to harness nature to do amazing things. In other words, Physicists give society cool things like lasers and catapults.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3\nAdded a space in English. 1/11.",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130976865,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Physics",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130976865,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Physics: the study of the many forms of energy. Those who study physics learn the intricacies of the world around us, allowing them to harness nature to do amazing things. In other words, Physicists give society cool things like lasers and catapults.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3\nAdded a space in English. 1/11.",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130987193,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Graduated with Honors - Summa Cum Laude",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nBatchEP1-10  LTEDIT - this was \"Magna Cum Laude\" and should be Summa Cum Laude.",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130987193,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I'm so honored! I'd like to thank everyone who helped me over the last four years . . .",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130987193,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Graduated with Honors - Summa Cum Laude",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nBatchEP1-10  LTEDIT - this was \"Magna Cum Laude\" and should be Summa Cum Laude.",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130987193,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I'm so honored! I'd like to thank everyone who helped me over the last four years . . .",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131156658,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "\"I Object\" Litigator Podium",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131156658,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The ruthless and justice-filled oak from which this podium was built has served three generations of brilliant lawyers. Passed down over the years, this podium is regarded by many as both sacred and lawful - a powerful combination. Few lawyers who've had the privilege to speak from this podium find themselves on the losing side of a jury's decision. As far as Charisma building goes, nobody can object to the \"I Object\" Litigator Podium.",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131156658,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "\"I Object\" Litigator Podium",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131156658,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The ruthless and justice-filled oak from which this podium was built has served three generations of brilliant lawyers. Passed down over the years, this podium is regarded by many as both sacred and lawful - a powerful combination. Few lawyers who've had the privilege to speak from this podium find themselves on the losing side of a jury's decision. As far as Charisma building goes, nobody can object to the \"I Object\" Litigator Podium.",
+    "description": "The Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131219928,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dig",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131219928,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131219928,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Fill In",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131219928,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Dig",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131219928,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Roll",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131219928,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Fill In",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131541018,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Won the London Culinary Arts Scholarship",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131541018,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The London Culinary Arts Scholarship is mine! It feels awesome to have chopped, mixed and baked my way to an easier time in College.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131541018,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Won the London Culinary Arts Scholarship",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131541018,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The London Culinary Arts Scholarship is mine! It feels awesome to have chopped, mixed and baked my way to an easier time in College.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Received a Perfect Garden Score",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I worked so hard at gardening that I acheived the very best rating that the Garden Club gives.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Received a Perfect Garden Score",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I worked so hard at gardening that I acheived the very best rating that the Garden Club gives.",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Received a Perfect Garden Score",
+    "description": "Sims 2 EP7 - Needs Translation - FEMALE",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I worked so hard at gardening that I acheived the very best rating that the Garden Club gives.",
+    "description": "Sims 2 EP7 - Needs Translation - FEMALE",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Received a Perfect Garden Score",
+    "description": "Sims 2 EP7 - Needs Translation - FEMALE",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131631383,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I worked so hard at gardening that I acheived the very best rating that the Garden Club gives.",
+    "description": "Sims 2 EP7 - Needs Translation - FEMALE",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Became Space Pirate",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The top of the heap and lifetime Platinum Aspiration at last! Boy, now that I’m here, what do I do next?",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Became Space Pirate",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The top of the heap and lifetime Platinum Aspiration at last! Boy, now that I’m here, what do I do next?",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Became Space Pirate",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The top of the heap and lifetime Platinum Aspiration at last! Boy, now that I'm here, what do I do next?",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Became Space Pirate",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131890615,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The top of the heap and lifetime Platinum Aspiration at last! Boy, now that I'm here, what do I do next?",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Saw First Snow",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The snow is incredible -- so beautiful!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Saw First Snow",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The snow is incredible -- so beautiful!",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Saw First Snow",
+    "description": "Sims 2 EP7 - Needs Translation - Female",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The snow is incredible -- so beautiful!",
+    "description": "The Sims 2 EP7 - Needs Translation\n",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Saw First Snow",
+    "description": "Sims 2 EP7 - Needs Translation - Female",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131896339,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The snow is incredible -- so beautiful!",
+    "description": "The Sims 2 EP7 - Needs Translation\n",
+    "reason": "Seasons/EP7-only weather, Garden Club, or expansion-career content; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131940564,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Won the Young Entrepreneurs Award",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131940564,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Winning the Young Entrepreneurs Award will give me a head start toward my future career after college!\n",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131940564,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Won the Young Entrepreneurs Award",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131940564,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Winning the Young Entrepreneurs Award will give me a head start toward my future career after college!\n",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-7",
+    "reason": "University/EP1 college-only content (scholarship, academic major, college memory, or Secret Society); outside Castaway Stories progression and world systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Subject Was Returned",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank goodness my pet was returned to me.",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Subject Was Returned",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank goodness my pet was returned to me.",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Subject Was Returned",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thank goodness my pet was returned to me.",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Subject Was Returned",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131941020,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thank goodness my pet was returned to me.",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chased by Wolf",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The neighborhood isn't safe anymore, especially when I'm being chased by wolves.",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chased by Wolf",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The neighborhood isn't safe anymore, especially when I'm being chased by wolves.",
+    "description": "The Sims2 EP6 - Needs Translation - Male",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Chased by Wolf",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2001,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The neighborhood isn't safe anymore, especially when I'm being chased by wolves.",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2001,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Chased by Wolf",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132325315,
+      2001,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The neighborhood isn't safe anymore, especially when I'm being chased by wolves.",
+    "description": "The Sims2 EP6 - Needs Translation - Female",
+    "reason": "Pets/EP6-only content (pet memory or pet dirt-pile behavior); Castaway Stories does not retain this Pets expansion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137130655,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "All right, all right, I'll leave you alone... for now.",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137130655,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "What is this?  I'm insulted!  I can't be bought with triffles.",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-6\r\n\r\nThis is for if you start the tip interaction, but then you go into build and buy mode, and spend money such that you don't have the amount you originally said you would tip",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137130655,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Whoa, I can see you’re not a Sim to be trifled with! Just let me collect what’s left of my pride and I'll just stay out of your way...",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137130655,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "All right, all right, I'll leave you alone... for now.",
+    "description": "The Sims2 EP2 - Needs TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137130655,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "What is this?  I'm insulted!  I can't be bought with triffles.",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-6\r\n\r\nThis is for if you start the tip interaction, but then you go into build and buy mode, and spend money such that you don't have the amount you originally said you would tip",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141354740,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation\nFor hiring employees for any business lot you own",
+    "reason": "Open for Business/EP3 employee-hiring phone flow; Castaway uses no home/community business employee system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141354740,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For This Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Open for Business/EP3 employee-hiring phone flow; Castaway uses no home/community business employee system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141354740,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Business.../Hire Employees.../For a Home Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds translation",
+    "reason": "Open for Business/EP3 employee-hiring phone flow; Castaway uses no home/community business employee system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141354740,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For a Community Lot Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation\nFor hiring employees for any business lot you own",
+    "reason": "Open for Business/EP3 employee-hiring phone flow; Castaway uses no home/community business employee system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141354740,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For This Lot",
+    "description": "The Sims2EP3 - Batch 9\nneeds re-translation",
+    "reason": "Open for Business/EP3 employee-hiring phone flow; Castaway uses no home/community business employee system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141354740,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Business.../Hire Employees.../For a Home Business",
+    "description": "The Sims2EP3 - Batch 9\nneeds translation",
+    "reason": "Open for Business/EP3 employee-hiring phone flow; Castaway uses no home/community business employee system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142685924,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "The Sims2EP2 - Copy Translations from BedGlobals Set 302, String 16",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142685924,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Peaked At",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142685924,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Peek At",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142685924,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wake Up",
+    "description": "The Sims2EP2 - Needs TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142685924,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dare To Peek",
+    "description": "The SimsEP2 - Copy Translations from Coffin_Vampire, Set 302, String 1 and remove \".../text\"",
+    "reason": "Nightlife/EP2-only dating-rival or vampire gameplay; outside Castaway Stories player-facing systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146117097,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wish.../For Friends",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7 wishing-well action residue associated with the Garden Club reward system; outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146117097,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wish.../For Money",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/EP7 wishing-well action residue associated with the Garden Club reward system; outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146117097,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wish.../For Romance",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/EP7 wishing-well action residue associated with the Garden Club reward system; outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146117097,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wish.../For Friends",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons/EP7 wishing-well action residue associated with the Garden Club reward system; outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146117097,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wish.../For Money",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/EP7 wishing-well action residue associated with the Garden Club reward system; outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146117097,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wish.../For Romance",
+    "description": "Sims 2 EP7: Needs Text",
+    "reason": "Seasons/EP7 wishing-well action residue associated with the Garden Club reward system; outside Castaway Stories."
+  }
+]
