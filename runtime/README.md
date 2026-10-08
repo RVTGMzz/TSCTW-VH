@@ -14,6 +14,34 @@ This is a reproducible **partial translation checkpoint**, not a release or a cl
 
 Gzip files contain UTF-8 JSON using escaped characters to preserve invalid legacy bytes losslessly. Decompress with Python's `gzip` module. The gzip timestamp is fixed to zero for reproducible artifacts.
 
+## Original-package hash preflight (2026-10-09)
+
+Before attempting the *next* v0.8 development package QA, use the new conservative staging tool. It **does not modify the game**, does not copy anything by default and rejects a mismatched original SHA-256 (including files already altered by older localization patches). It treats the N001/N002 and `NeighborhoodManager.package` inventory locations as **Documents save sources**, never as installation templates.
+
+Run from the repository root, using the actual local installation and save-data directory:
+
+```powershell
+python src/builder/stage_runtime_inputs.py --game-root "G:/Castaway-Portable" --save-root "C:/Users/USERNAME/Documents/Electronic Arts/The Sims™ Castaway Stories"
+```
+
+This produces only `work/baseline_preflight.json`. The values `USERNAME` and the Documents folder must be replaced with the user's own Windows paths. The user may have a different active save folder name or a redirected Documents directory.
+
+If **all 13 baseline hashes match**, the operator may opt in to copy original, user-owned inputs to separate disposable staging paths:
+
+```powershell
+python src/builder/stage_runtime_inputs.py --game-root "G:/Castaway-Portable" --save-root "C:/Users/USERNAME/Documents/Electronic Arts/The Sims™ Castaway Stories" --copy-verified
+```
+
+The script will **not overwrite staged files** and will abort if any expected hash differs. Original Documents saves are never overwritten or distributed. Do not run the QA writer on the live installation. This tool is a *preflight*, **not an automatic v0.8 installer or a claim that the current v0.7a install matches original hashes**. The separate core Text builder may require additional original Text package inputs.
+
+Regression tests in CI use **synthetic bytes only**:
+
+```sh
+python src/builder/test_stage_runtime_inputs.py
+```
+
+See `runtime/CASTAWAY_ONLY_FOCUS_2026-10-09.md` for why selector ownership, game package writer QA and in-game inspection still block v0.8 TEST release.
+
 ## Uploaded neighborhood provenance
 
 Ron confirmed the supplied N001/N002 files came from Documents saves. See `input_provenance.json`. Their paths under `TSData/Res/UserData` in this audit are staging aliases, not their real origin. Never package these whole saves as installation-template replacements. No re-upload is needed.
