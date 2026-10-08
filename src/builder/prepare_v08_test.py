@@ -10,7 +10,8 @@ import json
 import shutil
 from pathlib import Path
 
-from build_v07 import FULL_REQUIRED, derive_targets, load_translations, load_v06_history, patch_package
+from build_v07 import FULL_REQUIRED, STR_TYPE, derive_targets, load_translations, load_v06_history, patch_package
+from dbpf import entries, unpack, strings
 from check_runtime_packages import apply
 from stage_runtime_inputs import select_inventory
 from validate_runtime import ROOT, RUNTIME, assess, effective_records, load_maps, load_row_translations, row_identity
@@ -54,6 +55,28 @@ def verify_inputs(core, runtime, inventory):
         if path.stat().st_size != row["bytes"] or digest(path) != row["sha256"]:
             raise ValueError(f"Runtime baseline mismatch (modded or wrong version): {path}")
     return required_core
+
+
+def refuse_pretranslated_core(core, names, v06_history):
+    """Reject detectable v0.6/v0.7a Vietnamese rows in presumed original Text inputs.
+
+    Exact prior package/instance/language/value fingerprints are high-signal
+    rejection evidence, though not a complete original-version verifier.
+    """
+    for name in names:
+        source=core/name
+        data=source.read_bytes()
+        for type_id, group_id, instance, offset, size in entries(data):
+            if type_id!=STR_TYPE:
+                continue
+            for lang,value,desc in strings(unpack(data[offset:offset+size])):
+                english_sources=v06_history.get((name,instance,lang,value),())
+                if any(english!=value for english in english_sources):
+                    raise ValueError(
+                        f"Core Text input appears to contain an earlier Vietnamese patch: {source}, "
+                        f"STR# instance {instance}, language {lang}. Restore ORIGINAL English Text "
+                        "or use --runtime-only on an existing v0.7a installation."
+                    )
 
 
 def runtime_patch(source, path, records, maps, decisions, exact):
@@ -104,7 +127,9 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
         # Build core directly from its original English source, not from prior v0.7a patches.
         core_translations, sources, overrides = load_translations()
         targets, _ = derive_targets(core_translations)
-        history = load_v06_history()
+        history = load_v06_history() if required_core else {}
+        if required_core:
+            refuse_pretranslated_core(core, required_core, history)
         for name in required_core:
             source = core/name
             dest = payload/"TSData"/"Res"/"Text"/name
