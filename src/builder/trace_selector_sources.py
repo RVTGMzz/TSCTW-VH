@@ -2,7 +2,7 @@
 import collections
 import json
 from pathlib import Path
-from validate_runtime import RUNTIME, read_records, row_identity, load_row_overrides, load_row_translations
+from validate_runtime import RUNTIME, read_records, row_identity, load_row_overrides, load_row_translations, load_maps
 
 KEYWORDS = ('Shipwrecked and Single', 'Wanmami Island', 'shipwreck survivor')
 CONTEXT_KEYWORDS = ('shipwrecked', 'wanmami')
@@ -10,7 +10,7 @@ ROW_TRANSLATIONS = {
     row_identity(r): r['vi'] for r in load_row_translations()
 }
 OVERRIDES = {row_identity(r): r['category'] for r in load_row_overrides()}
-UI = json.loads((RUNTIME / 'translations' / 'ui.json').read_text())
+MAPS = load_maps()
 
 
 def short(value, n=260):
@@ -29,7 +29,8 @@ def main():
             if not any(key.lower() in value.lower() for key in KEYWORDS):
                 continue
             ident = row_identity(r)
-            translated = ROW_TRANSLATIONS.get(ident, UI.get(value))
+            category = OVERRIDES.get(ident, r.get('category'))
+            translated = ROW_TRANSLATIONS.get(ident, MAPS.get(category, {}).get(value))
             matches.append({
                 'source_kind': origin,
                 'package': r['package'],
