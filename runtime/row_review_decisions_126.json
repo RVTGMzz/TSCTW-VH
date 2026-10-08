@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134224557,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register is hidden",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify please; $Local:0 is a variable.",
+    "reason": "Cash Register Antique state/debug diagnostics (hidden/out-of-world/render/internal existence checks); not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134224557,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Register is out of world",
+    "description": "",
+    "reason": "Cash Register Antique state/debug diagnostics (hidden/out-of-world/render/internal existence checks); not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134224557,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "My Render alpha is 0",
+    "description": "",
+    "reason": "Cash Register Antique state/debug diagnostics (hidden/out-of-world/render/internal existence checks); not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134224557,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "I exist",
+    "description": "",
+    "reason": "Cash Register Antique state/debug diagnostics (hidden/out-of-world/render/internal existence checks); not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134224557,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register is hidden",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: Do not modify please; $Local:0 is a variable.",
+    "reason": "Cash Register Antique state/debug diagnostics (hidden/out-of-world/render/internal existence checks); not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134224557,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Register is out of world",
+    "description": "",
+    "reason": "Cash Register Antique state/debug diagnostics (hidden/out-of-world/render/internal existence checks); not player-facing Castaway UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141221108,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "You've been billed $$Local:0 for the extermination service.",
+    "description": "The Sims 2 - BatchMTF - EDITTRANS",
+    "reason": "Base-game Exterminator NPC service dialog; Castaway Stories does not expose the household exterminator service system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141221108,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I have taken care of your pest problems.  You are now bug free!",
+    "description": "Sims2 - Needs Translation - Batch19",
+    "reason": "Base-game Exterminator NPC service dialog; Castaway Stories does not expose the household exterminator service system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141221108,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Good news!  You didn't have any bugs!  Bad news: You still owe me simoleons for coming over.",
+    "description": "Sims2 - Needs Translation - Batch19\nEnglish edit - got rid of quotes at end and corrected misspelling of Simoleons.",
+    "reason": "Base-game Exterminator NPC service dialog; Castaway Stories does not expose the household exterminator service system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141221108,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "You've been billed $$Local:0 for the extermination service.",
+    "description": "The Sims 2 - BatchMTF - EDITTRANS",
+    "reason": "Base-game Exterminator NPC service dialog; Castaway Stories does not expose the household exterminator service system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141221108,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "I have taken care of your pest problems.  You are now bug free!",
+    "description": "Sims2 - Needs Translation - Batch19",
+    "reason": "Base-game Exterminator NPC service dialog; Castaway Stories does not expose the household exterminator service system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141221108,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Good news!  You didn't have any bugs!  Bad news: You still owe me simoleons for coming over.",
+    "description": "Sims2 - Needs Translation - Batch19\nEnglish edit - got rid of quotes at end and corrected misspelling of Simoleons.",
+    "reason": "Base-game Exterminator NPC service dialog; Castaway Stories does not expose the household exterminator service system."
+  }
+]
