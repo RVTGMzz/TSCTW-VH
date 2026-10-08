@@ -146,6 +146,15 @@ class DeliveryTests(unittest.TestCase):
                   patch("prepare_v08_test.derive_targets",side_effect=AssertionError("core-only function unexpectedly called")),
                   patch("prepare_v08_test.load_v06_history",side_effect=AssertionError("core history unexpectedly used"))):
                 result=build(core,runtime,output,runtime_only=True)
+                # Re-run on the just-translated file, without original English rows.
+                # It must be a clean, non-installable no-op rather than an error.
+                pkg.write_bytes((output/"Payload"/package_rel).read_bytes())
+                again=build(core,runtime,root/"repeated",
+                            runtime_only=True,allow_prepatched_runtime=True,
+                            allow_no_changes=True)
+                self.assertEqual(again["install_files"],[])
+                self.assertTrue(again["no_applicable_english_rows"])
+                self.assertEqual(again["build_summary"][0]["changed_rows"],0)
             self.assertEqual(result["build_mode"],"runtime-overlay-on-v07a")
             self.assertEqual(len(result["install_files"]),1)
             self.assertEqual(result["install_files"][0]["path"],package_rel)
