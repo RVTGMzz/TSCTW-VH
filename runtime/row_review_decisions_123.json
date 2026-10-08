@@ -1,0 +1,557 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135441557,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Los Gatos Condominiums",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Pets (EP6) Cat Condo catalog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135441557,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Comfort, security, style -- these are the things that we here at Los Gatos Condominiums provide our customers. It has been our mission from day one to provide every cat with a fantastic condo of which they can be proud. Aesthetics and economy always take priority, and we think your feline will purr with delight after one night with Los Gatos.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Pets (EP6) Cat Condo catalog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135441557,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Los Gatos Condominiums",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Pets (EP6) Cat Condo catalog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135441557,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Comfort, security, style -- these are the things that we here at Los Gatos Condominiums provide our customers. It has been our mission from day one to provide every cat with a fantastic condo of which they can be proud. Aesthetics and economy always take priority, and we think your feline will purr with delight after one night with Los Gatos.",
+    "description": "TheSims2 - Needs Translation",
+    "reason": "Pets (EP6) Cat Condo catalog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135584224,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135584224,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sometimes, you just want your pet to stay put.  Not only will your pet stay put when you want it to, but it'll also enjoy it.",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137078222,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shake",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2137078222,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The classic command that creates the illusion that your pet is good-natured and well-mannered.  ",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139731915,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Toss 'n Wish Drinking Well by Gaelic Gardens",
+    "description": "The Sims2EP7 - Needs Re-Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well catalog copy; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139731915,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "After spending so many hours pruning and trimming your garden to utmost perfection, you deserve something unique to give it that last special touch.  The Garden Club saw to it that you were well compensated! No fewer than 30 garden gnomes were recruited to design and construct the Toss ‘n Wish Drinking Well, so it’s guaranteed to beautify and fill your garden with an unexpected grace only delightful gnomes can provide. Be wary as you wish, for gnomes are renowned pranksters!",
+    "description": "The Sims2EP7 - Needs Re-Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well catalog copy; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139731915,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Toss 'n Wish Drinking Well by Gaelic Gardens",
+    "description": "The Sims2EP7 - Needs Re-Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well catalog copy; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139731915,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "After spending so many hours pruning and trimming your garden to utmost perfection, you deserve something unique to give it that last special touch.  The Garden Club saw to it that you were well compensated! No fewer than 30 garden gnomes were recruited to design and construct the Toss ‘n Wish Drinking Well, so it’s guaranteed to beautify and fill your garden with an unexpected grace only delightful gnomes can provide. Be wary as you wish, for gnomes are renowned pranksters!",
+    "description": "The Sims2EP7 - Needs Re-Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well catalog copy; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143806183,
+      2001,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hospital",
+    "description": "",
+    "reason": "Obsolete hospital/ambulance phone choice; medical ambulance flow is not used."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144499677,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "ElectroDance Sphere by ExtremeCO",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife (EP2) ElectroDance Sphere catalog/dialog/action residue; outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2144499677,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "What nightclub is complete without a device that can allow you to dance while suspended in an electromagnetic field? Not a single one, according to ExtremeCO! The ElectroDance Sphere utilizes a sophisticated built in fusion reactor (just add water) to power itself, so it has the juice to suspend even the portliest of Sims. ExtremeCO asks you: \"Now really, who doesn't like to vomit?\"",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-1",
+    "reason": "Nightlife (EP2) ElectroDance Sphere catalog/dialog/action residue; outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135125726,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Sniff Around command menu copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135125726,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Sniff Around command menu copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135584224,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135584224,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Teach Command.../Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135584224,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2135584224,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Teach Command.../Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137078222,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Shake",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137078222,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Teach Command.../Shake",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137078222,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Shake",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2137078222,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Teach Command.../Shake",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command menu/catalog copy; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Looking good! $NameLocal:0 has gained a point of Body skill from the $NameLocal:1.",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Nightlife (EP2) ElectroDance Sphere catalog/dialog/action residue; outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Looking good! $NameLocal:0 has gained a point of Body skill from the $NameLocal:1.",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "reason": "Nightlife (EP2) ElectroDance Sphere catalog/dialog/action residue; outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134879252,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\r\nPie menu and action queue text for SimA asking SimB to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University (EP1) Greek House pledge pie-menu/action row; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134879252,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Asked to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\r\nPie menu and action queue text for SimB being asked to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University (EP1) Greek House pledge pie-menu/action row; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134879252,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ask to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\r\nPie menu and action queue text for SimA asking SimB to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University (EP1) Greek House pledge pie-menu/action row; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134879252,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Asked to Pledge Greek House",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\r\nPie menu and action queue text for SimB being asked to pledge (be a candidate to join) SimA's Greek House.",
+    "reason": "University (EP1) Greek House pledge pie-menu/action row; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136407700,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Check Collar",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-check interaction; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136407700,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Have Collar Checked",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-check interaction; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136407700,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Check Collar",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-check interaction; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136407700,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Have Collar Checked",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-check interaction; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144499677,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Use",
+    "description": "!",
+    "reason": "Nightlife (EP2) ElectroDance Sphere catalog/dialog/action residue; outside Castaway Stories gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144499677,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) ElectroDance Sphere catalog/dialog/action residue; outside Castaway Stories gameplay."
+  }
+]

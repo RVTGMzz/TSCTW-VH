@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143806183,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire Station",
+    "description": "",
+    "category": "menu",
+    "reason": "Duplicate base emergency phone-book choice; reuse approved Vietnamese mapping."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143806183,
+      2002,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Police Station",
+    "description": "",
+    "category": "menu",
+    "reason": "Duplicate base emergency phone-book choice; reuse approved Vietnamese mapping."
+  }
+]
