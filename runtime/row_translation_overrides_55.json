@@ -1,0 +1,98 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144380816,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Extinguish",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Dập lửa",
+    "reason": "Core fire-safety gameplay is applicable to Castaway; retain this exact player/action-queue row with a context-appropriate Vietnamese translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144380816,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Fire!",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Cháy!",
+    "reason": "Core fire-safety gameplay is applicable to Castaway; retain this exact player/action-queue row with a context-appropriate Vietnamese translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144380816,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Carry Away",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nThis is an interaction to carry the Toddler away from a fire. Was \"Take Outside\" which didn't make sense if the fire was happening outside.",
+    "vi": "Bế ra chỗ an toàn",
+    "reason": "Core fire-safety gameplay is applicable to Castaway; retain this exact player/action-queue row with a context-appropriate Vietnamese translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144380816,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Extinguish",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Dập lửa",
+    "reason": "Core fire-safety gameplay is applicable to Castaway; retain this exact player/action-queue row with a context-appropriate Vietnamese translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144380816,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Fire!",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Cháy!",
+    "reason": "Core fire-safety gameplay is applicable to Castaway; retain this exact player/action-queue row with a context-appropriate Vietnamese translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144380816,
+      129,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Carry Away",
+    "description": "The Sims 2 - Needs Translation - Batch22\r\nThis is an interaction to carry the Toddler away from a fire. Was \"Take Outside\" which didn't make sense if the fire was happening outside.",
+    "vi": "Bế ra chỗ an toàn",
+    "reason": "Core fire-safety gameplay is applicable to Castaway; retain this exact player/action-queue row with a context-appropriate Vietnamese translation."
+  }
+]

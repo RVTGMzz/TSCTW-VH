@@ -1,0 +1,722 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131217394,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "What a tale of woe!  Your Sim has just been inducted into the Secret Society, but the Secret Society is not there!  To place a Secret Society lot, exit to the neighborhood and go to the Specialty Lot Catalog (in Lots and Houses).  Pick one of the Secret Society lots and place it, just as you would any other lot.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-6",
+    "reason": "University/EP1 Secret Society limousine interaction; road/dorm Secret Society transport is outside Castaway's island transit systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131217394,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Secret Society limousine interaction; road/dorm Secret Society transport is outside Castaway's island transit systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131217394,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Secret Society limousine interaction; road/dorm Secret Society transport is outside Castaway's island transit systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131217394,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Arrive",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Secret Society limousine interaction; road/dorm Secret Society transport is outside Castaway's island transit systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131217394,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Hijacked",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is the interaction when the Secret Society members come to a Sim's dorm or house and takes them to the secret society.",
+    "reason": "University/EP1 Secret Society limousine interaction; road/dorm Secret Society transport is outside Castaway's island transit systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131217394,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wait",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Secret Society limousine interaction; road/dorm Secret Society transport is outside Castaway's island transit systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131397521,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scratchpaw Manor Pet House",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131397521,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Domestic trouble got you in the dog house? You wish! The kind of spacious luxury that Scratchpaw Manor provides is for Pets only. Because as everyone knows, every pet’s home is its castle.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131397521,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scratchpaw Manor Pet House",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131397521,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Domestic trouble got you in the dog house? You wish! The kind of spacious luxury that Scratchpaw Manor provides is for Pets only. Because as everyone knows, every pet’s home is its castle.",
+    "description": "The Sims2 - Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131397521,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131397521,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131397521,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131397521,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131397521,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131397521,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131463556,
+      2000,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Exerto Free Press Exercise Machine",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University/EP1 Exerto Free Press catalog text; expansion gym object is outside Castaway's retained island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131463556,
+      2000,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "The ultimate in free weight technology, this machine has a Shure-Catch safety feature that allows Sims to bench at ease with or without a personal trainer.  A durable double-coated aluminum frame and sweat-resistant foam padding put the fun back in building muscles. No gym is complete without the professional Exerto Free Press Exercise Machine.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University/EP1 Exerto Free Press catalog text; expansion gym object is outside Castaway's retained island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131463556,
+      2000,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 2,
+    "en": "Exerto Free Press Exercise Machine",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University/EP1 Exerto Free Press catalog text; expansion gym object is outside Castaway's retained island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131463556,
+      2000,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "The ultimate in free weight technology, this machine has a Shure-Catch safety feature that allows Sims to bench at ease with or without a personal trainer.  A durable double-coated aluminum frame and sweat-resistant foam padding put the fun back in building muscles. No gym is complete without the professional Exerto Free Press Exercise Machine.",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-3",
+    "reason": "University/EP1 Exerto Free Press catalog text; expansion gym object is outside Castaway's retained island catalog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131463556,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Personal Trainer",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 personal-trainer extension on an inherited exercise machine; exclude the expansion-only social while leaving base machine actions unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131463556,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Trained",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 personal-trainer extension on an inherited exercise machine; exclude the expansion-only social while leaving base machine actions unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132756312,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Personal Trainer",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 personal-trainer extension on an inherited exercise machine; exclude the expansion-only social while leaving base machine actions unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132756312,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Trained",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 personal-trainer extension on an inherited exercise machine; exclude the expansion-only social while leaving base machine actions unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772872,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772872,
+      1,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 2,
+    "en": "Relax",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772872,
+      1,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 2,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772872,
+      1,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Clean",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772872,
+      1,
+      0
+    ],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132772872,
+      1,
+      0
+    ],
+    "row": 14,
+    "status": "excluded",
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "reason": "Seasons snowball-fight object residue; incompatible with Castaway's tropical island gameplay and not part of the retained object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141338463,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game Captain Hero career commute vehicle; road-based career transport is outside Castaway's island traversal and has already been classified as inherited commute residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141338463,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game Captain Hero career commute vehicle; road-based career transport is outside Castaway's island traversal and has already been classified as inherited commute residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141338463,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Go to Work",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game Captain Hero career commute vehicle; road-based career transport is outside Castaway's island traversal and has already been classified as inherited commute residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141338463,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Arrive",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game Captain Hero career commute vehicle; road-based career transport is outside Castaway's island traversal and has already been classified as inherited commute residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141338463,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Greet",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "reason": "Base-game Captain Hero career commute vehicle; road-based career transport is outside Castaway's island traversal and has already been classified as inherited commute residue."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143770658,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Counterfeit Simoleons",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Counterfeiting Machine aspiration-reward resource; not part of Castaway Stories player-facing economy or object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143770658,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Get Cash",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Counterfeiting Machine aspiration-reward resource; not part of Castaway Stories player-facing economy or object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143770658,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Repossess",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nCop confiscates object if Sim is busted while counterfeiting.",
+    "reason": "University/EP1 Counterfeiting Machine aspiration-reward resource; not part of Castaway Stories player-facing economy or object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143770658,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Counterfeit Simoleons",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Counterfeiting Machine aspiration-reward resource; not part of Castaway Stories player-facing economy or object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143770658,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Get Cash",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 Counterfeiting Machine aspiration-reward resource; not part of Castaway Stories player-facing economy or object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143770658,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Repossess",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nCop confiscates object if Sim is busted while counterfeiting.",
+    "reason": "University/EP1 Counterfeiting Machine aspiration-reward resource; not part of Castaway Stories player-facing economy or object set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146185232,
+      129,
+      0
+    ],
+    "row": 10,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Personal Trainer",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 personal-trainer extension on an inherited exercise machine; exclude the expansion-only social while leaving base machine actions unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146185232,
+      129,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Trained",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5",
+    "reason": "University/EP1 personal-trainer extension on an inherited exercise machine; exclude the expansion-only social while leaving base machine actions unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146230755,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Love Talk",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/EP2 booth-social extension (Love Talk/Hot Smooch); exclude the expansion-only rows while leaving non-EP2 booth behavior unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146230755,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hot Smooch",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 booth-social extension (Love Talk/Hot Smooch); exclude the expansion-only rows while leaving non-EP2 booth behavior unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146230755,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Hot Smooch",
+    "description": "The Sims2EP2 - Needs Text",
+    "reason": "Nightlife/EP2 booth-social extension (Love Talk/Hot Smooch); exclude the expansion-only rows while leaving non-EP2 booth behavior unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146230755,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Love Talk",
+    "description": "The Sims2EP2 - Needs Text",
+    "reason": "Nightlife/EP2 booth-social extension (Love Talk/Hot Smooch); exclude the expansion-only rows while leaving non-EP2 booth behavior unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146230755,
+      128,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Love Talk",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "reason": "Nightlife/EP2 booth-social extension (Love Talk/Hot Smooch); exclude the expansion-only rows while leaving non-EP2 booth behavior unresolved."
+  }
+]
