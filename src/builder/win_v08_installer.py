@@ -159,7 +159,7 @@ def build_runtime_overlay(game, work, progress=lambda x: None):
         shutil.copy2(source, target)
         if sha256(target) != live_hash:
             raise RuntimeError(f"File game thay đổi trong lúc tạo bản sao: {path}")
-    progress("Đang xác thực nội dung của các package đã sửa và tạo Việt hóa runtime v0.8...")
+    progress("Đang xác minh resource, giữ nguyên các câu Việt hóa cũ khác bản hiện tại...")
     manifest = build(core_dummy, stage, bundle, runtime_only=True, allow_prepatched_runtime=True)
     if manifest["build_mode"] != "runtime-overlay-on-v07a":
         raise RuntimeError("Sai chế độ xây dựng bản thử")
@@ -325,8 +325,12 @@ class InstallerApp:
                     self.write(f"Đã cài {report['files']} package, thay đổi {amount} dòng. Sao lưu: {report['backup']}")
                     compatibility = manifest.get("modified_baseline_checks", [])
                     if compatibility:
-                        self.write(f"Đã xác minh an toàn {len(compatibility)} package từng được sửa: "
+                        self.write(f"Đã kiểm tra {len(compatibility)} package khác hash gốc: "
                                    + ", ".join(Path(x["package"]).name for x in compatibility))
+                        unknown = manifest.get("unrecognized_rows_preserved", 0)
+                        if unknown:
+                            self.write(f"GIỮ NGUYÊN {unknown} câu từng sửa khác bản dịch hiện tại; "
+                                       "không ghi đè và chưa tính những câu này là đã kiểm duyệt.")
                     messagebox.showinfo(
                         "Đã cài bản v0.8 TEST",
                         "Cài đặt đã qua kiểm tra file và sao lưu.\n"
