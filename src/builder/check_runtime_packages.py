@@ -50,8 +50,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--input',type=Path,default=ROOT/'work/input')
     ap.add_argument('--output',type=Path,default=ROOT/'work/runtime_qa')
+    ap.add_argument('--include-save-snapshots',action='store_true',help='DEVELOPMENT QA ONLY: verify and patch cloned Documents save snapshots; never ship originals or patched saves')
     args = ap.parse_args()
-    if args.output.resolve() == args.input.resolve() or args.input.resolve() in args.output.resolve().parents:
+    if (args.output.resolve() == args.input.resolve() or args.input.resolve() in args.output.resolve().parents
+            or args.output.resolve() in args.input.resolve().parents):
         raise ValueError('QA output must be separate from baseline input')
     maps=load_maps()
     exact_translations={(r['package'],tuple(r['key']),r['row']):r for r in load_row_translations()}
@@ -61,9 +63,15 @@ def main():
     for r in effective:
         records[r['package']].append(r)
     inventory=json.loads((RUNTIME/'inventory.json').read_text())
+    total_inventory=len(inventory)
+    if not args.include_save_snapshots:
+        inventory=[p for p in inventory if not p['package'].startswith('TSData/Res/UserData/')]
     if any(p['errors'] for p in inventory):
         raise ValueError('Unresolved input parse errors')
-    report={'purpose':'development package QA, not v0.8 release','in_game_tested':False,'files':[]}
+    report={'purpose':'development package QA, not v0.8 release','in_game_tested':False,
+            'included_user_save_snapshots':bool(args.include_save_snapshots),
+            'skipped_user_save_snapshots':total_inventory-len(inventory),
+            'files':[]}
     for p in inventory:
         path=args.input/p['package']
         before=path.read_bytes()
