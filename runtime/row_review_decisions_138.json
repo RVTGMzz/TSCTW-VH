@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146250052,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll in Puddle",
+    "description": "",
+    "reason": "Pet-only puddle behavior inherited from Pets/EP6; exclude exact row without affecting retained human rain-puddle actions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2146250052,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 2,
+    "en": "Roll in Puddle",
+    "description": "",
+    "reason": "Pet-only puddle behavior inherited from Pets/EP6; exclude exact row without affecting retained human rain-puddle actions."
+  }
+]
