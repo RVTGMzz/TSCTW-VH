@@ -1,3 +1,5 @@
+> **Current handoff (2026-10-09):** read [`RUNTIME_HANDOFF_2026-10-09.md`](RUNTIME_HANDOFF_2026-10-09.md) FIRST. Source Audit **run 407 PASS**, commit **`4c4d30e`**, **6,770 map entries / 1,779 exact-row translations / 14,314 candidate rows / 0 missing or review candidates / 20,696 unresolved inherited rows / 1,349 auto-exclusions / 0 parse errors**. Older numeric values below are historical. v0.8 TEST is **NOT RELEASED**, selector runtime source is unverified, package QA remains stale at 7,502 structurally verified rows.
+
 > **Newest handoff (2026-10-08):** read `RUNTIME_HANDOFF_2026-10-08.md` FIRST. It supersedes all older numerical checkpoints below. Latest verified source checkpoint: `ad9adc7`; Source Audit run 351 PASS with **6,294 translation entries / 1,339 exact-row translations, 13,685 candidates, 0 missing/review candidates, 22,322 unresolved inherited rows, 1,349 auto-exclusions, 0 parse errors**. Package QA is stale at 7,502 verified candidates (gap 6,183); selector runtime source is still unverified; no completed v0.8 TEST release exists.
 
 # Prompt mở phiên tiếp theo
