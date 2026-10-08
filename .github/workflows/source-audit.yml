@@ -37,6 +37,9 @@ jobs:
       - name: Verify safe baseline staging with synthetic package fixtures
         run: python src/builder/test_stage_runtime_inputs.py
 
+      - name: Verify 20- and 24-byte DBPF writer with synthetic fixtures
+        run: python src/builder/test_runtime_dbpf_writer.py
+
       - name: Runtime source QA (coverage may remain incomplete)
         run: python src/builder/validate_runtime.py
 
