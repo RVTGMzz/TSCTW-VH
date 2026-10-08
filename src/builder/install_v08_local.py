@@ -68,8 +68,9 @@ def check_destinations(rows,game,kind):
         target=game/validate_path(row["path"])
         if not target.is_file() or target.is_symlink():
             raise FileNotFoundError(f"Missing/symlinked target: {target}")
-        expected=row["original_sha256"] if kind=="apply" else row["patched_sha256"]
-        if sha(target)!=expected:
+        current=sha(target)
+        permitted={row["original_sha256"]} if kind=="apply" else {row["original_sha256"],row["patched_sha256"]}
+        if current not in permitted:
             raise ValueError(f"{kind} blocked: installed package has unexpected hash: {target}")
 
 
@@ -109,8 +110,12 @@ def install(bundle,game,backup,dry_run=True):
                     completed.append(row)
                 finally:
                     tmp.unlink(missing_ok=True)
+            for row in rows:
+                if sha(game/validate_path(row["path"]))!=row["patched_sha256"]:
+                    raise AssertionError("Post-install verify failed; rollback will be attempted.")
         except Exception:
-            # Restore every item already modified, then propagate installation failure.
+            # Best effort rollback even when post-install hash verification fails.
+            # Keep the complete backup if rollback itself is interrupted.
             for row in reversed(completed):
                 target=game/validate_path(row["path"])
                 back=backup/validate_path(row["path"])
@@ -121,9 +126,6 @@ def install(bundle,game,backup,dry_run=True):
                 finally:
                     tmp.unlink(missing_ok=True)
             raise
-        for row in rows:
-            if sha(game/validate_path(row["path"]))!=row["patched_sha256"]:
-                raise AssertionError("Post-install verify failed; invoke restore immediately.")
         return {"result":"INSTALLED TEST PATCH, IN-GAME TEST NOT YET DONE","files":len(rows),"backup":str(backup)}
     except Exception:
         # Backups persist for recovery if an interrupted install needs manual help.
@@ -149,6 +151,8 @@ def restore(game,backup,dry_run=True):
     restored=[]
     for row in rows:
         target=game/validate_path(row["path"])
+        if sha(target)==row["original_sha256"]:
+            continue  # Already restored; permits safe recovery from interrupted restoration.
         tmp=target.with_name(target.name+"."+uuid.uuid4().hex+".restoretmp")
         try:
             shutil.copy2(backup/validate_path(row["path"]),tmp)
