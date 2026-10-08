@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1398034979, 2132589816, 301, 0],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "How many food units would you like to purchase?",
+    "description": "Sims2 - Needs Translation - batch10",
+    "reason": "Base-game grocery freezer-bin food-unit purchasing flow; Castaway uses its separate resource/barter economy rather than standard grocery food units."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1398034979, 2132589816, 301, 0],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Food Purchasing",
+    "description": "Sims2 - Neds Translation - batch10",
+    "reason": "Base-game grocery freezer-bin food-unit purchasing flow; Castaway uses its separate resource/barter economy rather than standard grocery food units."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1398034979, 2132589816, 301, 0],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "You would need to buy another fridge to hold that!",
+    "description": "",
+    "reason": "Base-game grocery freezer-bin capacity dialog; standard grocery food-unit purchasing is not part of Castaway's resource/barter economy."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1398034979, 2132589816, 301, 0],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "How many food units would you like to purchase?",
+    "description": "Sims2 - Needs Translation - batch10",
+    "reason": "Base-game grocery freezer-bin food-unit purchasing flow; Castaway uses its separate resource/barter economy rather than standard grocery food units."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1398034979, 2132589816, 301, 0],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Food Purchasing",
+    "description": "Sims2 - Neds Translation - batch10",
+    "reason": "Base-game grocery freezer-bin food-unit purchasing flow; Castaway uses its separate resource/barter economy rather than standard grocery food units."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1398034979, 2132589816, 301, 0],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "You would need to buy another fridge to hold that!",
+    "description": "",
+    "reason": "Base-game grocery freezer-bin capacity dialog; standard grocery food-unit purchasing is not part of Castaway's resource/barter economy."
+  }
+]

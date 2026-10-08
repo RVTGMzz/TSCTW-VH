@@ -1,0 +1,42 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Eat",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets/EP6 addition in the mixed plate resource; exclude exact pet-specific row while retaining the base Eat row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Put Away Leftovers",
+    "description": "Sims 2 EP7 - Needs retrans",
+    "reason": "Seasons/EP7 leftovers addition in the mixed plate resource; outside Castaway's selected inherited gameplay rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 12,
+    "status": "excluded",
+    "language": 2,
+    "en": "Eat",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets/EP6 addition in the mixed plate resource; exclude exact pet-specific row while retaining the base Eat row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 13,
+    "status": "excluded",
+    "language": 2,
+    "en": "Put Away Leftovers",
+    "description": "Sims 2 EP7 - Neds retrans",
+    "reason": "Seasons/EP7 leftovers addition in the mixed plate resource; outside Castaway's selected inherited gameplay rows."
+  }
+]

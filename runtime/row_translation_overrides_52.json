@@ -1,0 +1,68 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Eat",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ăn",
+    "reason": "Base-game plate/food player-facing action inside a mixed resource; retain exact row separately from later EP6/EP7 additions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Dọn dẹp",
+    "reason": "Base-game plate/food player-facing action inside a mixed resource; retain exact row separately from later EP6/EP7 additions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Lick Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Liếm sạch",
+    "reason": "Base-game plate/food player-facing action inside a mixed resource; retain exact row separately from later EP6/EP7 additions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Eat",
+    "description": "The Sims 2 - Neds Translation - Batch15",
+    "vi":  ăn",
+    "reason": "Base-game plate/food player-facing action inside a mixed resource; retain exact row separately from later EP6/EP7 additions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Clean Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Dồn dẩp",
+    "reason": "Base-game plate/food player-facing action inside a mixed resource; retain exact row separately from later EP6/EP7 additions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2139632840, 128, 0],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Lick Clean",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Liếm sạch",
+    "reason": "Base-game plate/food player-facing action inside a mixed resource; retain exact row separately from later EP6/EP7 additions."
+  }
+]

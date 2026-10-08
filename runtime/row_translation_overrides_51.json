@@ -1,0 +1,134 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2131273675, 128, 0],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play Tag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nSim A action queue",
+    "vi": "Chơi đuổi bắt",
+    "reason": "Base-game child Play Tag social retained by Castaway household/social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2131273675, 128, 0],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Play Tag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nSimB action queue",
+    "vi": "Chơi đuổi bắt",
+    "reason": "Base-game child Play Tag social retained by Castaway household/social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2131273675, 128, 0],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Play Tag",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nseparate string for Sim CDE according to interaction table.",
+    "vi": "Chơi đuổi bắt",
+    "reason": "Base-game child Play Tag social retained by Castaway household/social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2131273675, 128, 0],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "You're It",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tới lượt bạn bắt!",
+    "reason": "Base-game child Play Tag social retained by Castaway household/social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2131273675, 128, 0],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Run Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Bỏ chạy",
+    "reason": "Base-game child Play Tag action-queue row; exact translation avoids relying on unrelated same-English resources."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2131273675, 128, 0],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Run Away",
+    "description": "The Sims 2 - Neds Translation - Batch15",
+    "vi": "Bỏ chạy",
+    "reason": "Base-game child Play Tag action-queue row; exact translation avoids relying on unrelated same-English resources."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2141935792, 128, 0],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Play Cops And Robbers",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\naction queue",
+    "vi": "Chơi cảnh sát bắt cướp",
+    "reason": "Base-game child Cops and Robbers social retained by Castaway household/social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2141935792, 128, 0],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Play Cops And Robbers",
+    "description": "The Sims 2 - Neds Translation - Batch15",
+    "vi": "Chơi cảnh sát bắt cướp",
+    "reason": "Base-game child Cops and Robbers social retained by Castaway household/social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2141935792, 128, 0],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Chase",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "đuổi theo",
+    "reason": "Base-game child Cops and Robbers action-queue row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2141935792, 128, 0],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Evade",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Né tránh",
+    "reason": "Base-game child Cops and Robbers action-queue row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2141935792, 128, 0],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Bang Bang",
+    "description": "The Sims 2 - Neds Translation - Batch15\r\n\r\n(child Sims motioning gun motions)",
+    "vi": "Pằng pằng",
+    "reason": "Base-game child Cops and Robbers action-queue row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2141935792, 128, 0],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Bang Bang",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Pằng pằng",
+    "reason": "Base-game child Cops and Robbers action-queue row."
+  }
+]
