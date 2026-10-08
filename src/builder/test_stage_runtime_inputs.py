@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from stage_runtime_inputs import inspect, source_for, inside
+from stage_runtime_inputs import inspect, source_for, inside, select_inventory
 
 
 class BaselinePreflightTests(unittest.TestCase):
@@ -37,6 +37,20 @@ class BaselinePreflightTests(unittest.TestCase):
                         "sha256": "0" * 64, "bytes": 10}
             self.assertEqual(inspect([save_row], game, None)[0]["status"], "save_root_required")
             self.assertEqual(inspect([save_row], game, save)[0]["status"], "missing")
+
+    def test_default_installer_scopes_only_10_install_packages(self):
+        # Reflect inventory topology without embedding any commercial input bytes.
+        inventory = [{"package": f"TSData/Res/Text/part_{n}.package"} for n in range(8)]
+        inventory += [{"package": "TSData/Res/Text/Wants.package"}, {"package": "TSData/Res/Wants/Wants.package"}]
+        inventory += [{"package": "TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package"},
+                      {"package": "TSData/Res/UserData/Neighborhoods/N002/N002_Neighborhood.package"},
+                      {"package": "TSData/Res/UserData/Neighborhoods/NeighborhoodManager.package"}]
+        chosen = select_inventory(inventory)
+        self.assertEqual(len(chosen), 10)
+        self.assertTrue(all(not x["package"].startswith("TSData/Res/UserData/") for x in chosen))
+        self.assertEqual(len(select_inventory(inventory, include_save_snapshots=True)), 13)
+        self.assertTrue(any(x["package"] == "TSData/Res/Text/Wants.package" for x in chosen))
+        self.assertTrue(any(x["package"] == "TSData/Res/Wants/Wants.package" for x in chosen))
 
     def test_staging_folder_must_not_be_inside_game_or_save(self):
         base = Path("/fake/game")
