@@ -58,7 +58,7 @@ def load_row_overrides():
     """Load exact row guards from the base file plus numbered review shards."""
     rows = []
     for path in sorted(RUNTIME.glob('row_scope_overrides*.json')):
-        data = json.loads(path.read_text())
+        data = json.loads(path.read_text(encoding='utf-8'))
         if not isinstance(data, list):
             raise ValueError(('Row override shard must be a JSON list', path.name))
         rows.extend(data)
@@ -71,7 +71,7 @@ def load_row_review_decisions():
     for path in sorted(RUNTIME.glob('row_review_decisions*.json')):
         if path.name == 'row_review_decisions_applied.json':
             continue
-        data = json.loads(path.read_text())
+        data = json.loads(path.read_text(encoding='utf-8'))
         if not isinstance(data, list):
             raise ValueError(('Row review decision shard must be a JSON list', path.name))
         rows.extend(data)
@@ -83,7 +83,7 @@ def load_row_translations():
     rows = []
     seen = set()
     for path in sorted(RUNTIME.glob('row_translation_overrides*.json')):
-        data = json.loads(path.read_text())
+        data = json.loads(path.read_text(encoding='utf-8'))
         if not isinstance(data, list):
             raise ValueError(('Row translation shard must be a JSON list', path.name))
         for row in data:
@@ -137,7 +137,7 @@ def effective_records():
     applied_path = RUNTIME/'row_review_decisions_applied.json'
     applied_decisions = {}
     if applied_path.exists():
-        for decision in json.loads(applied_path.read_text()):
+        for decision in json.loads(applied_path.read_text(encoding='utf-8')):
             identity = (decision['package'], tuple(decision['key']), decision['row'])
             applied_decisions[identity] = decision
 
@@ -248,7 +248,7 @@ def load_maps():
                     raise ValueError(('Duplicate source key', path, key))
                 result[key] = value
             return result
-        data = json.loads(path.read_text(), object_pairs_hook=no_duplicate)
+        data = json.loads(path.read_text(encoding='utf-8'), object_pairs_hook=no_duplicate)
         for en,vi in data.items():
             validate(en,vi)
         maps[path.stem] = data
@@ -283,7 +283,7 @@ def assess():
     )
     records, review = effective_records()
     decisions = {}
-    for row in json.loads((RUNTIME/'scope_decisions.json').read_text()):
+    for row in json.loads((RUNTIME/'scope_decisions.json').read_text(encoding='utf-8')):
         key = row['category'], row['en']
         if key in decisions:
             raise ValueError(('Duplicate scope decision', key))
@@ -318,7 +318,7 @@ def assess():
                 collapsed[en] = statuses[0]
         categories[category] = dict(collections.Counter(collapsed.values()))
 
-    inventory = json.loads((RUNTIME/'inventory.json').read_text())
+    inventory = json.loads((RUNTIME/'inventory.json').read_text(encoding='utf-8'))
     parse_errors = sum(len(x['errors']) for x in inventory)
     report = {
         'status': 'incomplete' if remaining or review or parse_errors else 'source-complete',
