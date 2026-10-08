@@ -141,7 +141,10 @@ class DeliveryTests(unittest.TestCase):
                   patch("prepare_v08_test.source_inventory",return_value=[item]),
                   patch("prepare_v08_test.effective_records",return_value=(records,[])),
                   patch("prepare_v08_test.load_maps",return_value={"menu":{"Examine":"Xem xét"}}),
-                  patch("prepare_v08_test.load_row_translations",return_value=[])):
+                  patch("prepare_v08_test.load_row_translations",return_value=[]),
+                  patch("prepare_v08_test.load_translations",side_effect=FileNotFoundError("core catalog must never be read")),
+                  patch("prepare_v08_test.derive_targets",side_effect=AssertionError("core-only function unexpectedly called")),
+                  patch("prepare_v08_test.load_v06_history",side_effect=AssertionError("core history unexpectedly used"))):
                 result=build(core,runtime,output,runtime_only=True)
             self.assertEqual(result["build_mode"],"runtime-overlay-on-v07a")
             self.assertEqual(len(result["install_files"]),1)
