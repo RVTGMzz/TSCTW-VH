@@ -37,6 +37,9 @@ jobs:
       - name: Runtime source QA (coverage may remain incomplete)
         run: python src/builder/validate_runtime.py
 
+      - name: Trace Castaway story selector source candidates
+        run: python src/builder/trace_selector_sources.py
+
       - name: Print inherited review triage
         run: |
           python src/builder/triage_review_queue.py --groups 80 --samples 8
