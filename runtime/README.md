@@ -1,3 +1,5 @@
+> **v0.8 local delivery update 2026-10-09:** Follow [`V08_LOCAL_TEST_GUIDE.md`](../V08_LOCAL_TEST_GUIDE.md) to stage exact original 10 installation runtime packages, build a local candidate (`prepare_v08_test.py --runtime-only` on top of existing v0.7a Text/font), and dry-run/install/restore with `install_v08_local.py`. The optional full-core build requires 8 original English Text packages and checks for known already-patched Vietnamese rows. Synthetic CI #454 PASS; real Windows package/game testing is still pending and no save data will be distributed.
+
 # Runtime sweep — v0.8 work in progress
 
 This is a reproducible **partial translation checkpoint**, not a release or a claim that the game is fully localized. See `coverage.json` for exact counts and the remaining work. No v0.8 TEST payload has been released from this checkpoint.
