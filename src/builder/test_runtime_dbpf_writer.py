@@ -13,14 +13,15 @@ def fake_table():
     head = bytearray(68)
     name = b"Test - Castaway UI"
     head[:len(name)] = name
-    head[64:66] = b"\\xfd\\xff"
+    head[64:66] = bytes([0xfd, 0xff])
     struct.pack_into("<H", head, 66, 3)
     rows = [
         [1, "Examine", "Castaway action"],
         [2, "Examine", "Castaway action"],
         [3, "Examiner", "Do not translate other languages"],
     ]
-    return encode_table(bytes(head), rows) + b"\\x03\\x00PAD"
+    payload = b"".join(bytes([lang]) + value.encode("utf-8") + bytes([0]) + desc.encode("utf-8") + bytes([0]) for lang, value, desc in rows)
+    return bytes(head) + payload + bytes([3, 0]) + b"PAD"
 
 
 def fixture(index_width):
@@ -65,7 +66,7 @@ class RuntimeDbpfWriterTests(unittest.TestCase):
                 rows, tail = parse_table(new_package.raw(index[keys[0]]))
                 self.assertEqual([r[1] for r in rows], ["Xem xét", "Xem xét", "Examiner"])
                 self.assertEqual(rows[2][2], "Do not translate other languages")
-                self.assertEqual(tail, b"\\x03\\x00PAD")
+                self.assertEqual(tail, bytes([3, 0]) + b"PAD")
                 # Non-target resource bytes and original header remain identical.
                 old_index = {e.key: e for e in package.entries}
                 self.assertEqual(new_package.raw(index[keys[1]]), package.raw(old_index[keys[1]]))
