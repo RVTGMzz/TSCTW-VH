@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130958447,
+      128,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Search for Motive",
+    "description": "!",
+    "reason": "Baby/toddler carry motive-search helper marked with internal-only metadata; not a player-facing interaction label."
+  }
+]

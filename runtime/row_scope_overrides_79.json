@@ -1,0 +1,77 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130958447,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Be Picked Up",
+    "description": "The Sims 2 - Needs Translation - Batch19\naction queue for toddler/baby being pickedup.",
+    "category": "menu",
+    "reason": "Base-game baby/toddler carrying action retained by Castaway household gameplay; promote exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130958447,
+      128,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Put Down",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game baby/toddler carrying action retained by Castaway household gameplay; promote exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130958447,
+      128,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Hold Youngster",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\noccurs for carrying babies and toddlers.",
+    "category": "menu",
+    "reason": "Base-game baby/toddler carrying action retained by Castaway household gameplay; promote exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130958447,
+      128,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Be Held",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Base-game baby/toddler carrying action retained by Castaway household gameplay; promote exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130958447,
+      128,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Be Put Down",
+    "description": "The Sims 2 - Needs Translation - Batch19\naction queue for toddler/baby being put down.",
+    "category": "menu",
+    "reason": "Base-game baby/toddler carrying action retained by Castaway household gameplay; promote exact player-facing row."
+  }
+]
