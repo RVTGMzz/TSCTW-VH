@@ -1,0 +1,82 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138193565,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice Romance",
+    "description": "LTEDIT - These were copied from the mirrors - fyi. Please review - should need no further action.\nThe Sims 2 - Needs Translation - Batch15",
+    "vi": "Luyện cách tán tỉnh",
+    "reason": "Base mirror action string; player-facing if mirror interactions are retained in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138193565,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice Speech",
+    "description": "LTEDIT - These were copied from the mirrors - fyi. Please review - should need no further action.\nThe Sims 2 - Needs Translation\r\n\r\nEDITTRANS: Fixed typo (was \"Practice Speach\"). 2/2/04",
+    "vi": "Luyện diễn thuyết",
+    "reason": "Base mirror action string; player-facing if mirror interactions are retained in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138193565,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Gussy Up",
+    "description": "LTEDIT - These were copied from the mirrors - fyi. Please review - should need no further action.\nThe Sims 2 - Needs Translation - Batch15",
+    "vi": "Chỉnh trang",
+    "reason": "Base mirror action string; player-facing if mirror interactions are retained in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138193565,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Practice Romance",
+    "description": "LTEDIT - These were copied from the mirrors - fyi. Please review - should need no further action.\nThe Sims 2 - Needs Translation - Batch15",
+    "vi": "Luyện cách tán tỉnh",
+    "reason": "Base mirror action string duplicate language row; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138193565,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Gussy Up",
+    "description": "LTEDIT - These were copied from the mirrors - fyi. Please review - should need no further action.\nThe Sims 2 - Needs Translation - Batch15",
+    "vi": "Chỉnh trang",
+    "reason": "Base mirror action string duplicate language row; retain exact row."
+  }
+]
