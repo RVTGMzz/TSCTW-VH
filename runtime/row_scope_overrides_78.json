@@ -1,0 +1,722 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133016612,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133016612,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133016612,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133016612,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133016612,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133016612,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133129525,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133129525,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133129525,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133129525,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133129525,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133129525,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133268797,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133268797,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133268797,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133268797,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133268797,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133268797,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133633936,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133633936,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133633936,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133633936,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133633936,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133633936,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139347436,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139347436,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139347436,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139347436,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139347436,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139347436,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143206910,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143206910,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143206910,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143206910,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143206910,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2143206910,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996120,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996120,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996120,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996120,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996120,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2145996120,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147132901,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147132901,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147132901,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147132901,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Here Lies %s",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147132901,
+      2000,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "Deepest sympathies! %s has just died. Though the body is gone, the spirit will always remain.",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - copy from 301 stringset",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2147132901,
+      2000,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Rest In Peace",
+    "description": "Sims2EP2 - Copied Translations from dialogPrim 301",
+    "category": "catalog",
+    "reason": "Human aspiration-grave UrnStone player-facing death copy; retain for Castaway death/grave presentation and reuse the approved generic Vietnamese catalog translation."
+  }
+]
