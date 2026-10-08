@@ -1,6 +1,6 @@
 # v0.8 TEST readiness and localization exit criteria
 
-**Status:** Not ready to release (2026-10-09). This document describes verifiable milestones; it is NOT a declaration that the game is already localized. Use the latest Source Audit run and `RUNTIME_HANDOFF_2026-10-09.md` for numbers.
+**Status:** Not ready to release (2026-10-09). **The installation-only package staging / binary writer gates are now separated from personal Documents saves; synthetic 20/24-byte DBPF and selector-probe tests pass CI #442. Actual original package writer QA and in-game selector precedence remain open.** This document describes verifiable milestones; it is NOT a declaration that the game is already localized. Use the latest Source Audit run and `RUNTIME_HANDOFF_2026-10-09.md` for numbers.
 
 ## Key distinction: inherited review rows are not untranslated game text
 
@@ -35,9 +35,11 @@ The useful progress metric is **P0/P1 verified coverage and runtime tests**, alo
 
 ## Gate C — package writer and safe combined installer (currently open)
 
-- [ ] Re-stage Ron's previously supplied original runtime package baselines with their recorded hashes, including **both different Wants.package** files.
+- [x] Separate **10 installation-owned audited inputs** from **3 Documents save snapshots** at the staging/QA-code level, keeping the two separate Wants.package paths. Synthetic tests #442 PASS; this does **not** verify the user's actual files.
+- [ ] Re-stage the 10 user-owned ORIGINAL installation package baselines with their recorded hashes, including **both different Wants.package** files. **Do not require or distribute N001/N002/NeighborhoodManager save files** for ordinary installation QA.
 - [ ] Rerun current-source `check_runtime_packages.py` QA and compare exact package/resource/row metadata.
-- [ ] Verify compression/DBPF parsing (especially 24-byte `objects.package` entries), untouched resource hashes, round-trip, idempotence, token preservation and font rendering.
+- [x] Synthetic DBPF writer tests exercise 20/24-byte indices, exact resource patching, untouched resources and idempotence in CI #442 (2 passing tests).
+- [ ] Verify actual original package compression/DBPF parsing (especially the real 24-byte `objects.package` entries), untouched resource hashes, round-trip, idempotence, token preservation and font rendering.
 - [ ] Build one **consolidated reversible v0.8 TEST** installer containing compatible core Text + runtime text + existing working font; provide backup/restore and validate before public release. Do not commit commercial game package content to the source repo.
 
 ## Gate D — focused in-game test (currently open)
@@ -56,8 +58,8 @@ The useful progress metric is **P0/P1 verified coverage and runtime tests**, alo
 ### Blocking facts at this checkpoint
 
 - A source-only PASS is available, but does not verify the package writer on the current source.
-- The selector read path is **unverified**.
-- The last recorded structural writer QA verified **7,502 candidate rows**, and is **stale** relative to the current Source Audit.
+- The selector read path is **unverified**. `src/builder/probe_story_selector.py` can now read live copies and compare title CTSS rows non-destructively; **three synthetic probe tests PASS** in CI #442 but Ron's active Windows profile has not been probed.
+- The last recorded **real-package** structural writer QA verified **7,502 candidate rows**, and is **stale** relative to the current 14,719-row Source Audit. CI #442 verifies only synthetic package fixtures, not the current 10 actual installation package files.
 - There is **no consolidated v0.8 TEST payload** and no completed fresh Windows in-game validation.
 - Continue triage without asking Ron to re-upload already provided packages for source-only decisions; if a new isolated working environment has no baseline package bytes for the actual builder, identify their exact paths and only then request the minimum necessary files.
 
