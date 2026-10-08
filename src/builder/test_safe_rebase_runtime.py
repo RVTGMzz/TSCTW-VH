@@ -108,7 +108,12 @@ class SafeRebaseTests(unittest.TestCase):
 
     def test_build_from_modified_runtime_installs_then_restores_exact_previous_bytes(self):
         original,rows,item=inputs()
-        modified=partially_translated(original,rows)
+        source=Package(original)
+        entry=next(x for x in source.entries if x.key==tuple(rows[0]["key"]))
+        raw=source.raw(entry)
+        altered,_=parse_table(raw)
+        altered[0][1]="Tôi đây!"  # Old version translation from a previously patched resource.
+        modified=source.patch({entry.key:encode_table(raw,altered)})
         with TemporaryDirectory() as tmp:
             root=Path(tmp)
             game=root/"game"
@@ -129,7 +134,9 @@ class SafeRebaseTests(unittest.TestCase):
                 with self.assertRaisesRegex(ValueError, "original missing/hash mismatch"):
                     build(core,input_root,root/"strict",runtime_only=True)
                 result=build(core,input_root,output,runtime_only=True,allow_prepatched_runtime=True)
-            self.assertEqual(result["modified_baseline_checks"][0]["already_approved_vietnamese_rows"],1)
+            self.assertEqual(result["modified_baseline_checks"][0]["already_approved_vietnamese_rows"],0)
+            self.assertEqual(result["modified_baseline_checks"][0]["unrecognized_rows_preserved"],1)
+            self.assertEqual(result["unrecognized_rows_preserved"],1)
             self.assertEqual(result["install_files"][0]["changed_rows"],1)
             backup=root/"backup"
             self.assertIn("DRY RUN",install(output,game,backup)["result"])
