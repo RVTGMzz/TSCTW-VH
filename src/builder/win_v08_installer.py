@@ -160,7 +160,8 @@ def build_runtime_overlay(game, work, progress=lambda x: None):
         if sha256(target) != live_hash:
             raise RuntimeError(f"File game thay đổi trong lúc tạo bản sao: {path}")
     progress("Đang xác minh resource, giữ nguyên các câu Việt hóa cũ khác bản hiện tại...")
-    manifest = build(core_dummy, stage, bundle, runtime_only=True, allow_prepatched_runtime=True)
+    manifest = build(core_dummy, stage, bundle, runtime_only=True, allow_prepatched_runtime=True,
+                     allow_no_changes=True)
     if manifest["build_mode"] != "runtime-overlay-on-v07a":
         raise RuntimeError("Sai chế độ xây dựng bản thử")
     return bundle, manifest
@@ -173,6 +174,8 @@ def install_from_game(game, progress=lambda x: None):
     game = Path(game).resolve()
     with tempfile.TemporaryDirectory(prefix="VV-Castaway-v08-") as work:
         bundle, manifest = build_runtime_overlay(game, Path(work), progress)
+        if not manifest["install_files"]:
+            return {"result": "NO_NEW_ROWS", "files": 0, "backup": None}, manifest
         progress("Đang kiểm tra tính nguyên vẹn của payload và file game...")
         install(bundle, game, backup_base() / game_identifier(game) / "PREVIEW-ONLY",
                 dry_run=True)
@@ -322,6 +325,13 @@ class InstallerApp:
                 if isinstance(value, tuple):
                     report, manifest = value
                     amount = sum(r["changed_rows"] for r in manifest["install_files"])
+                    if report["result"] == "NO_NEW_ROWS":
+                        self.status.set("Không có dòng tiếng Anh phù hợp để bổ sung; game giữ nguyên.")
+                        self.write("Không có dòng tiếng Anh khớp nguồn nào cần bổ sung. Không thay đổi file, không tạo backup mới.")
+                        messagebox.showinfo("Không cần cài lại",
+                            "Không tìm thấy dòng tiếng Anh khớp nguồn nào cần bổ sung ở các package đã kiểm tra.\n"
+                            "Game không bị thay đổi. Lưu ý: điều này chưa xác nhận mọi chữ trong game đều đã Việt hóa.")
+                        continue
                     self.write(f"Đã cài {report['files']} package, thay đổi {amount} dòng. Sao lưu: {report['backup']}")
                     compatibility = manifest.get("modified_baseline_checks", [])
                     if compatibility:
