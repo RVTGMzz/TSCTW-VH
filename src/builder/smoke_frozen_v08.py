@@ -86,3 +86,8 @@ def smoke():
         assert restored["files"] == 1
         assert live.read_bytes() == original
     return True
+
+
+if __name__ == "__main__":
+    assert smoke()
+    print("Synthetic frozen delivery smoke PASS")
