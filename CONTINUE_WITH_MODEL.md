@@ -1,5 +1,26 @@
 # Checkpoint cho model tiếp theo
 
+## Checkpoint đang áp dụng — 09/10/2026 (mới hơn toàn bộ mốc lịch sử bên dưới)
+
+**Repo:** `RVTGMzz/TSCTW-VH`, nhánh `main`. **HEAD source đã kiểm định:** `e0f7c8881bb9aada75083a283dde9499dee89c23`. Source Audit **#403 PASS** (2026-10-09 giờ Việt Nam):
+- `translation_map_entries=6634`; `exact_row_translation_entries=1643`
+- `candidate_rows=14164`; `untranslated_or_review_candidate_rows=0`
+- `untagged_review_rows=20846`; `auto_review_exclusions=1349`
+- `parse_errors=0`; `selector_runtime_source_verified=false`.
+
+**Các shard cuối:** `row_scope_overrides_80.json`, `row_review_decisions_140.json`, `row_translation_overrides_66.json`. Lượt này đã phân loại/biên dịch 32 exact rows qua commit `2b8ebd5`, `1d631ec` và `e0f7c88`. Các cập nhật từ sau `1899bcb` đã bao gồm batch pending 69 row, đừng đẩy lại các shard 128–130/51–54.
+
+**Quy tắc quan trọng:** 20.846 inherited là **hàng chờ phân loại**, **không phải số câu đã xác nhận cần dịch**. Không suy diễn package chứa object = object hiện ra trong game; không loại toàn bộ mixed resources dựa trên tên EP. Triager còn nhiều CTSS/base-game catalog và unowned action. Thực hiện exact language/key/row quyết định có bằng chứng; rà `src/builder/triage_review_queue.py --include-unowned`. `runtime/review_context_summary.json` và `runtime/coverage.json` là snapshot cũ, **không** dùng để báo tiến độ.
+
+**Nhiệm vụ chưa xong:** (1) tiếp tục inherited reachability/scope review — các nhóm ownerless và catalog base cần bằng chứng; (2) xác minh source mà tiến trình game đọc cho Story Selector (`Shipwrecked and Single`, `Wanmami Island` còn tiếng Anh dù vá N001/N002); (3) chạy lại package QA trên baseline game thực, snapshot `package_qa.json` đã cũ; (4) tổng hợp build v0.8 TEST rồi test trong game. **Không gọi v0.8 hoàn tất** trước các gate này. N001/N002 nhận từ Documents là active saves, tuyệt đối không phát hành/ghi đè toàn bộ.
+
+**Giọng dịch:** tiếng Việt tự nhiên, UI rõ ngắn; thoại vui/Gen Z vừa đủ; narrator dùng “mình”; giữ nguyên `%s`, `%d`, `$Object`, `$Local:0`, điều khiển dòng và metadata. Không sửa theo từng screenshot riêng lẻ, phải sweep toàn bộ text người chơi thấy. Không đưa package game/asset đã vá vào GitHub.
+
+**Lưu ý vận hành:** workflow Source Audit đã dọn lệnh chẩn đoán không còn row review. Các chẩn đoán cũ có thể gọi lại bằng CLI khi cần. Người dùng đã gửi package ở các phiên trước; không yêu cầu gửi lại để tiếp tục source-only triage.
+
+---
+
+
 ## Mục tiêu
 Hoàn thiện Việt hóa The Sims Castaway Stories PC, build một bản test mới, rồi để Ron test thực tế. Giao tiếp bằng tiếng Việt thân mật, gọi là Ron; không hỏi lại thông tin đã có.
 

@@ -41,150 +41,25 @@ jobs:
         run: |
           python src/builder/triage_review_queue.py --groups 80 --samples 8
           python src/builder/triage_review_queue.py --include-unowned --groups 160 --samples 6
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140820272 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2133299962 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140010164 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2136235661 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2145007292 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2131381400 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131542912 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2138487677 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2141349871 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135021452 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141680657 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135839361 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141256242 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142527278 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146781225 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143127959 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2138732373 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136134055 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140390182 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146392492 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146812259 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132626904 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2146250052 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140064765 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132771612 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145996067 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2135789311 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2139632840 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132526529 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143764237 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134917614 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131457406 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142033170 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144598031 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142366151 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131189802 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134175257 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140349289 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140773686 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141511587 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141589314 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142199802 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143117373 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143160751 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137211020 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2147077980 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141895000 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2138956932 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144610650 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141118989 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131438311 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136606208 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131944490 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136438046 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136747579 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145359045 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137088657 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139180477 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141367711 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143930941 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134879252 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136407700 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139731915 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143806183 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144499677 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135125726 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135441557 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135584224 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137078222 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132942813 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2133755435 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134357447 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141475622 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141768400 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137167151 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140504528 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139079526 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142267827 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143627473 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145365979 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145691621 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2146471633 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131378900 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144268860 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137532779 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142595885 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141221108 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136575485 --groups 20 --samples 260
           python src/builder/triage_review_queue.py --include-unowned --object-contains "Chair - Living" --groups 120 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --object-contains "Mirror -" --groups 120 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --object-contains "Television -" --groups 120 --samples 240
-          python src/builder/triage_review_queue.py --include-unowned --object-contains "Fireplace" --groups 120 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --object-contains "Shower -" --groups 120 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132970848 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2147196186 --groups 20 --samples 200
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135230153 --groups 20 --samples 220
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142133168 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141183477 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2147254133 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143469434 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137115936 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2132660664 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2133437151 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132789952 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145702848 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2147141396 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135247918 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135495273 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2137101786 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2132220028 --groups 20 --samples 180
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139780520 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134014926 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2132104824 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2137033768 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2138180871 --groups 20 --samples 160
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2144455086 --groups 20 --samples 160
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143107331 --groups 20 --samples 320
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135167636 --groups 20 --samples 320
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135859760 --groups 20 --samples 360
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145525850 --groups 20 --samples 320
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2140988335 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139118177 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145598847 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134891285 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142374138 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131184440 --groups 20 --samples 260
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2138281768 --groups 20 --samples 200
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2133013560 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2146325018 --groups 40 --samples 500
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2139503788 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134677109 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2144417467 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2143276310 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134389574 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145798797 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139400692 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2139688108 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2142247667 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145147109 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2134019824 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2135820220 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2141653638 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145694772 --groups 40 --samples 500
-          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131400270 --groups 40 --samples 500
           python -c "import glob,json; ps=glob.glob('runtime/row_scope_overrides*.json')+glob.glob('runtime/row_translation_overrides*.json'); rows=[r for p in ps for r in json.load(open(p,encoding='utf-8'))]; print('PROMOTED_STAR_ROWS',sum(str(r.get('en','')).startswith('*') for r in rows))"
           python -c "import glob,json,re; ps=glob.glob('runtime/row_scope_overrides*.json')+glob.glob('runtime/row_translation_overrides*.json'); rows=[r for p in ps for r in json.load(open(p,encoding='utf-8'))]; print('PROMOTED_OPAQUE_ID_ROWS',sum(bool(re.fullmatch(r'(?:[0-9a-f]{8}|bebe[0-9a-f]+|ecdb[0-9a-f]+)',str(r.get('en','')),re.I)) for r in rows)); print('PROMOTED_DELETED_META_ROWS',sum(bool(re.search(r'(deleted|not needed|not used|unused)',str(r.get('description','')),re.I)) for r in rows))"
           python -c "import glob,json,re; ps=glob.glob('runtime/row_scope_overrides*.json')+glob.glob('runtime/row_translation_overrides*.json'); rows=[r for p in ps for r in json.load(open(p,encoding='utf-8'))]; print('PROMOTED_DEBUG_PREFIX_ROWS',sum(bool(re.match(r'^(?:DEBUG|DBG)\\b',str(r.get('en','')),re.I)) for r in rows)); print('PROMOTED_BANG_ONLY_META_ROWS',sum(bool(re.fullmatch(r'!+',str(r.get('description','')).strip())) for r in rows))"
