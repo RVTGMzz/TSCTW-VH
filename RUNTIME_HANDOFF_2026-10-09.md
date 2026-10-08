@@ -1,3 +1,24 @@
+> **UPDATE 2026-10-09 — authoritative source checkpoint:** run **414 PASS**, commit **`92dbfaf6b5b3633e874ce4b0d401d2e4b3b2a97c`** or newer. **7,038 translation-map entries**, **2,047 exact-row translations**, **14,582 effective candidate rows**, **0 untranslated/review candidate rows**, **20,296 unresolved inherited rows**, **1,349 automatic exclusions**, **0 parse errors**. This update supersedes all previous counts in this handoff and older docs. Source Audit: https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37827502082. **v0.8 TEST is NOT released.** The story selector runtime source is not verified and package QA is stale at 7,502 rows (current verification gap **7,080**).
+
+## Continuation after run 407 — verified run 414
+
+The 2026-10-09 continuation made **400 exact inherited-row decisions** since run 407: **268 source-level exact translations** and **132 evidence-backed exclusions**. Unresolved inherited decreased **20,696 → 20,296** while all candidate translation gates remained clean.
+
+- `runtime/row_translation_overrides_69.json`: 20 exact base Sim-memory CTSS rows (5 families): moving out, Logic maximum, death, refused engagement, embarrassment at party.
+- `runtime/row_translation_overrides_70.json`: 100 exact CTSS rows (25 family/romance/skill/cooking/friendship/fight resources), including English/UK English variants.
+- `runtime/row_review_decisions_141.json`: 132 exact inherited CTSS rows from 38 legacy resources excluded because they explicitly refer to Sims 2 University college/scholarships, Sims 2 werewolf/PlantSim transformations, or Seasons Garden Club. This is NOT a blanket exclusion of Castaway animal/garden rows.
+- `runtime/row_translation_overrides_71.json`: 80 exact memory rows (20 resources): skill, grandchild, first kiss, promotion, fire, marriage, ghosts, toilet training, love, demotion and adoption. Gender-neutral first-person narration maintained, including a corrected original romance phrase.
+- `runtime/row_translation_overrides_72.json`: 68 exact memory rows (17 resources): achievement, cheating, make-out, skills, engagement, infant development, fighting and dating rejection.
+- `.github/workflows/source-audit.yml`: added `--include-unowned --object-contains "Memory -" --groups 280 --samples 8` to expose the inherited memory family queue reproducibly.
+
+All exact rows carry original package, full DBPF key, row ordinal, language, English text and description; translated rows preserve $-tokens and original line-break controls. This is **source QA** only: full runtime player visibility and release-readiness have NOT been verified. Latest green Source Audit at run 414 confirms the source-coverage and parse gates.
+
+### Next checkpoint instructions
+
+Read this update FIRST, then the remainder of this handoff and `TRANSLATION_STYLE.md`/`BUILD.md`/`runtime/README.md`. Continue from commit `92dbfaf6b` or newer. Next shard numbers after inspection: **row_translation_overrides_73.json**, **row_review_decisions_142.json**, **row_scope_overrides_82.json**. Use latest source audit triage with --include-unowned, split mixed inherited families per exact row and evidence. Prioritize actual Castaway UI/catalog/interaction reachability and untouched base memory families; do not retranslate the newly handled groups. Do not promote all legacy catalog or expansion-specific objects. Keep the selector diagnosis and package QA as separate release gates. Do not distribute original game packages or Documents saves.
+
+---
+
 # Runtime handoff — 2026-10-09
 
 This supersedes numeric checkpoints in `RUNTIME_HANDOFF_2026-10-08.md`, `NEXT_SESSION_PROMPT.md`, `CONTINUE_WITH_MODEL.md`, `RUNTIME_AUDIT.md`, `runtime/README.md` and the older generated JSON snapshots. The source-only repository is NOT a v0.8 release.
