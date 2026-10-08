@@ -2,7 +2,7 @@
 
 ## BẢN CÀI WINDOWS v0.8 TEST — NHẤN ĐÚP, KHÔNG CẦN PYTHON
 
-**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-4/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
+**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-11/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
 
 - Giữ nguyên bộ **Text/font v0.7a** đã cài và đang hoạt động; chỉ bổ sung nguồn dịch runtime Castaway.
 - Tự nhận đường dẫn `G:/Castaway-Portable` hoặc chọn thư mục game; nhấn **Cài Việt hóa v0.8 TEST**. Có nút **Khôi phục bản trước**.
