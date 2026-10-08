@@ -43,6 +43,9 @@ jobs:
       - name: Verify read-only story selector source probe
         run: python src/builder/test_probe_story_selector.py
 
+      - name: Verify v0.8 candidate manifests and local backup-restore safety
+        run: python src/builder/test_v08_delivery.py
+
       - name: Runtime source QA (coverage may remain incomplete)
         run: python src/builder/validate_runtime.py
 
