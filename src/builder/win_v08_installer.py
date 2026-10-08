@@ -204,9 +204,9 @@ def save_diagnostic_report(destination, log):
     """Write user-visible text only, never package bytes/saves, on explicit request."""
     destination = Path(destination)
     destination.write_text(
-        "Votri Valley - The Sims Castaway Stories v0.8 TEST\\n"
-        "Báo cáo tạo thủ công (không tự gửi qua mạng).\\n"
-        "Xin kiểm tra đường dẫn cá nhân trước khi chia sẻ.\\n\\n" + log + "\\n",
+        "Votri Valley - The Sims Castaway Stories v0.8 TEST\n"
+        "Báo cáo tạo thủ công (không tự gửi qua mạng).\n"
+        "Xin kiểm tra đường dẫn cá nhân trước khi chia sẻ.\n\n" + log + "\n",
         encoding="utf-8",
     )
 
@@ -277,7 +277,7 @@ class InstallerApp:
         try:
             save_diagnostic_report(Path(filename), data)
             messagebox.showinfo("Đã lưu báo cáo",
-                "Báo cáo đã lưu trên máy. Hãy mở xem lại trước khi gửi, vì có thể chứa đường dẫn cá nhân.\\n\\n"
+                "Báo cáo đã lưu trên máy. Hãy mở xem lại trước khi gửi, vì có thể chứa đường dẫn cá nhân.\n\n"
                 + filename)
         except OSError as exc:
             messagebox.showerror("Không lưu được báo cáo", str(exc))
@@ -385,7 +385,7 @@ class InstallerApp:
             elif event == "error":
                 self.status.set("Đã dừng an toàn. Xem chi tiết bên dưới.")
                 self.write(value)
-                messagebox.showerror("Không thể hoàn tất", value + "\\n\\nNhấn 'Lưu báo cáo...' để lưu thông tin lỗi mà không cần chụp nhiều ảnh.")
+                messagebox.showerror("Không thể hoàn tất", value + "\n\nNhấn 'Lưu báo cáo...' để lưu thông tin lỗi mà không cần chụp nhiều ảnh.")
             elif event == "done":
                 self.busy = False
                 self.progressbar.stop()
