@@ -3,30 +3,30 @@
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2146250052,
+      2140820272,
       301,
       0
     ],
     "row": 0,
     "status": "excluded",
     "language": 1,
-    "en": "Roll in Puddle",
-    "description": "",
-    "reason": "Pet-only puddle behavior inherited from Pets/EP6; exclude exact row without affecting retained human rain-puddle actions."
+    "en": "Stomach growling? Restock the fridge by ordering groceries over the phone or online.",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "reason": "Base Sims 2 grocery ordering by telephone/Internet is unavailable in Castaway's survival/barter system. Exclude these exact outdated dialog rows only; EP7 fish-stock dialogs in the same string set stay unresolved."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1398034979,
-      2146250052,
+      2140820272,
       301,
       0
     ],
-    "row": 1,
+    "row": 4,
     "status": "excluded",
     "language": 2,
-    "en": "Roll in Puddle",
-    "description": "",
-    "reason": "Pet-only puddle behavior inherited from Pets/EP6; exclude exact row without affecting retained human rain-puddle actions."
+    "en": "Stomach growling? Restock the fridge by ordering groceries over the phone or online.",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "reason": "Base Sims 2 grocery ordering by telephone/Internet is unavailable in Castaway's survival/barter system. Exclude these exact outdated dialog rows only; EP7 fish-stock dialogs in the same string set stay unresolved."
   }
 ]

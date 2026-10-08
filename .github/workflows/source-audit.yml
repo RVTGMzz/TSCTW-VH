@@ -41,6 +41,12 @@ jobs:
         run: |
           python src/builder/triage_review_queue.py --groups 80 --samples 8
           python src/builder/triage_review_queue.py --include-unowned --groups 160 --samples 6
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140820272 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2133299962 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2140010164 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2136235661 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2145007292 --groups 20 --samples 220
+          python src/builder/triage_review_queue.py --include-unowned --instance-id 2131381400 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2131542912 --groups 20 --samples 220
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2138487677 --groups 20 --samples 180
           python src/builder/triage_review_queue.py --include-unowned --instance-id 2141349871 --groups 20 --samples 180
