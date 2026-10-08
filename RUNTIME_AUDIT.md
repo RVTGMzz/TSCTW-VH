@@ -1,3 +1,5 @@
+> **Latest (2026-10-09):** read [`RUNTIME_HANDOFF_2026-10-09.md`](RUNTIME_HANDOFF_2026-10-09.md) first. Authoritative Source Audit **run 414 PASS** at **`92dbfaf6b`**: **7,038 aggregate mapping entries, 2,047 exact-row translations, 14,582 candidate rows, 0 missing/review candidates, 20,296 inherited rows unresolved, 1,349 auto exclusions, 0 parse errors**. The 2026-10-09 continuation handled 268 translations + 132 exact exclusions. Package QA remains stale (7,502 candidate rows structurally verified), selector runtime path unverified, no v0.8 TEST release. Numerical counts below this banner are historical.
+
 > **Current handoff (2026-10-09):** read [`RUNTIME_HANDOFF_2026-10-09.md`](RUNTIME_HANDOFF_2026-10-09.md) FIRST. Source Audit **run 407 PASS**, commit **`4c4d30e`**, **6,770 map entries / 1,779 exact-row translations / 14,314 candidate rows / 0 missing or review candidates / 20,696 unresolved inherited rows / 1,349 auto-exclusions / 0 parse errors**. Older numeric values below are historical. v0.8 TEST is **NOT RELEASED**, selector runtime source is unverified, package QA remains stale at 7,502 structurally verified rows.
 
 # Runtime text audit checkpoint
