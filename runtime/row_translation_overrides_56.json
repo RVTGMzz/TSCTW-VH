@@ -1,0 +1,1058 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130778857,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nThis Browse is not in-game. Browse is in Magazine_Globals, MakeActionString prim string set.",
+    "vi": "Mua",
+    "reason": "Potentially player-facing vending-kiosk action; retain exact row so any reachable Castaway reuse is localized."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130778857,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "",
+    "vi": "Xem",
+    "reason": "Potentially player-facing vending-kiosk action; retain exact row so any reachable Castaway reuse is localized."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130778857,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nThis Browse is not in-game. Browse is in Magazine_Globals, MakeActionString prim string set.",
+    "vi": "Mua",
+    "reason": "Potentially player-facing vending-kiosk action; retain exact row so any reachable Castaway reuse is localized."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy.../$Object ($$Local:0)",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nVariable here is the video game object and its price.",
+    "vi": "Mua.../$Object ($$Local:0)",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse.../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Xem.../$Object",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Play .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Chơi.../$Object",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Play $Object",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Chơi $Object",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy.../$Object ($$Local:0)",
+    "description": "The Sims 2 - Needs Translation - Batch17\r\nVariable here is the video game object and its price.",
+    "vi": "Mua.../$Object ($$Local:0)",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse.../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Xem.../$Object",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Play .../$Object",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Chơi.../$Object",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2131438311,
+      302,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Play $Object",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Chơi $Object",
+    "reason": "Video-game rack action-string global; retain exact placeholder-safe row in case a reachable rack/system calls it."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132405333,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Leave world",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Rời khu vực",
+    "reason": "Core pedestrian-portal/action-queue text can be reached by lot traversal; retain and localize the exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132405333,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Leave World",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Rời khu vực",
+    "reason": "Core pedestrian-portal/action-queue text can be reached by lot traversal; retain and localize the exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132405333,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Run Away",
+    "description": "The Sims 2 - Needs Translation - Batch19\nAction queue for Sim Running Away.",
+    "vi": "Bỏ chạy",
+    "reason": "Core pedestrian-portal/action-queue text can be reached by lot traversal; retain and localize the exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132405333,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Leave world",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Rời khu vực",
+    "reason": "Core pedestrian-portal/action-queue text can be reached by lot traversal; retain and localize the exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132405333,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Leave World",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Rời khu vực",
+    "reason": "Core pedestrian-portal/action-queue text can be reached by lot traversal; retain and localize the exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135021452,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Countertop Game Display from Group Interaction LTD.",
+    "description": "Sims2 - Needs Translation - Batch4",
+    "vi": "Kệ Game Để Bàn của Group Interaction LTD.",
+    "reason": "Catalog title for an inherited countertop game display; translate rather than exclude while reachability remains uncertain."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135021452,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Video Games, the wave of the future, the new frontier of interactive entertainment, now with fully formed 3-dimensional worlds, extra-sensory audio oversampling, and truer than life fiction. There's no need to sell Video Games, because with Group Interaction LTD., Video Games sell themselves.",
+    "description": "Sims2 - Needs Translation - Batch4\r\nfixed English typo 4/19. no retranslation.",
+    "vi": "Game là làn sóng của tương lai, biên giới mới của giải trí tương tác với những thế giới 3D hoàn chỉnh, âm thanh siêu chi tiết và những câu chuyện còn thật hơn đời. Chẳng cần phải quảng cáo Game làm gì, vì với Group Interaction LTD., Game tự bán chính mình. Chỉ cần đặt lên kệ và để chúng làm phần còn lại.",
+    "reason": "Catalog description for the inherited countertop game display; translate it if the object surfaces in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135021452,
+      2,
+      0
+    ],
+    "row": 11,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy",
+    "description": "",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136318899,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Work The Crowd",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\naction queue string when interaction is first in queue.",
+    "vi": "Khuấy động đám đông",
+    "reason": "Base personality/social action; retain exact player/action-queue wording for any Castaway social reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136318899,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Introduce",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Giới thiệu",
+    "reason": "Base personality/social action; retain exact player/action-queue wording for any Castaway social reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136318899,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Talk.../Talk At",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\naction queue text",
+    "vi": "Nói chuyện.../Nói với",
+    "reason": "Base personality/social action; retain exact player/action-queue wording for any Castaway social reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136318899,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Speech",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\naction queue text - first in queue",
+    "vi": "Phát biểu",
+    "reason": "Base personality/social action; retain exact player/action-queue wording for any Castaway social reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136318899,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Listen To Speech",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\naction queue for listening Sims.",
+    "vi": "Nghe phát biểu",
+    "reason": "Base personality/social action; retain exact player/action-queue wording for any Castaway social reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142133168,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Enterprise Office Freestanding Game Rack",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Kệ Game Đứng Enterprise Office",
+    "reason": "Catalog title for an inherited game rack; translate rather than exclude because reachability is not yet disproven."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142133168,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "This attractive display is specifically designed to accommodate video game product boxes. All shapes, all sizes: shooters, flyers, drivers, simulators, and any other gaming category the industry can create. After all, selling games isn't about MAKING games, it's about marketing games. So move product, any product, with an Enterprise Office Freestanding Game Rack. Not compatible with 2D boxes.",
+    "description": "Sims2 - Needs Translation - batch1",
+    "vi": "Kệ trưng bày bắt mắt này được thiết kế riêng cho hộp game đủ mọi kiểu dáng và kích cỡ: bắn súng, bay lượn, đua xe, mô phỏng và bất kỳ thể loại nào ngành game nghĩ ra. Xét cho cùng, bán game không nằm ở chuyện LÀM game mà ở chuyện tiếp thị game. Cứ chất hàng lên và bán thôi với Kệ Game Đứng Enterprise Office. Không tương thích với hộp 2D.",
+    "reason": "Catalog description for the inherited freestanding game rack; preserve it in Vietnamese if the object is reachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nCurrently this inteaction is being called in the Cartridge_Global file, (12/13) but the Buy interaction is being called here.",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nThis string is being used for the Video Game Rack (12/13) but it should be using the one in Cartridge_Global.",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Browse",
+    "description": "",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Buy",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Mua",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142133168,
+      2,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Browse",
+    "description": "",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game rack interaction; retain exact row while keeping retail helpers separated."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144329840,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Vứt bỏ",
+    "reason": "Community trash-can player-facing Dispose action; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144329840,
+      128,
+      0
+    ],
+    "row": 10,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Vứt bỏ",
+    "reason": "Community trash-can player-facing Dispose action; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145007292,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Ngồi",
+    "reason": "Base seating interaction that may be reused by Castaway seating objects; retain exact row rather than excluding an unowned shared global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145007292,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "vi": "Ngồi thư giãn",
+    "reason": "Base seating interaction that may be reused by Castaway seating objects; retain exact row rather than excluding an unowned shared global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145007292,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Nod Off",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Chợp mắt",
+    "reason": "Base seating interaction that may be reused by Castaway seating objects; retain exact row rather than excluding an unowned shared global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145007292,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Find a Snack",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Tìm đồ ăn vặt",
+    "reason": "Base seating interaction that may be reused by Castaway seating objects; retain exact row rather than excluding an unowned shared global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145007292,
+      129,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Ngồi",
+    "reason": "Base seating interaction that may be reused by Castaway seating objects; retain exact row rather than excluding an unowned shared global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145007292,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Veg Out",
+    "description": "!!!!!!!!!!!!!!!!The Sims 2 - Needs Translation - Batch12",
+    "vi": "Ngồi thư giãn",
+    "reason": "Base seating interaction that may be reused by Castaway seating objects; retain exact row rather than excluding an unowned shared global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145374119,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Gift.../",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\nNote: not verified usage - build 631",
+    "vi": "Tặng quà.../",
+    "reason": "Base Nice-personality social action; retain exact row for Castaway social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145374119,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Gift.../",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tặng quà.../",
+    "reason": "Base Nice-personality social action; retain exact row for Castaway social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145374119,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Give Gift.../",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tặng quà.../",
+    "reason": "Base Nice-personality social action; retain exact row for Castaway social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145374119,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Encourage",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Khích lệ",
+    "reason": "Base Nice-personality social action; retain exact row for Castaway social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145374119,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n",
+    "vi": "Xem",
+    "reason": "Base Nice-personality social action; retain exact row for Castaway social gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146000150,
+      129,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Chơi",
+    "reason": "Potentially player-facing video-game system action; retain exact row rather than discarding a base-game global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146000150,
+      129,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Xem",
+    "reason": "Potentially player-facing video-game system action; retain exact row rather than discarding a base-game global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146000150,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Put Away Controllers",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Cất tay cầm",
+    "reason": "Potentially player-facing video-game system action; retain exact row rather than discarding a base-game global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146000150,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Shooed",
+    "description": "The Sims 2 - Needs Translation - Batch17",
+    "vi": "Bị đuổi đi",
+    "reason": "Potentially player-facing video-game system action; retain exact row rather than discarding a base-game global."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147133750,
+      301,
+      0
+    ],
+    "row": 0,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! $Object's novel is selling great! Here's the royalty check for $$Local:0. Don't spend it all in one place.",
+    "description": "Sims2 - Needs Translation - batch12",
+    "vi": "Chúc mừng! Tiểu thuyết của $Object đang bán rất chạy! Đây là tiền nhuận bút $$Local:0. Đừng tiêu sạch một chỗ nha.",
+    "reason": "Player-facing novel royalty phone message; preserve placeholders exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147133750,
+      301,
+      0
+    ],
+    "row": 1,
+    "category": "dialog",
+    "language": 1,
+    "en": "Hello. We're a bit disappointed with $Object's novel  . . . it's currently getting bad reviews and barely selling in paperback. Here's the royalty check for $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20\n\nDescription: This is the message a sim gets for selling a Lousy novel.",
+    "vi": "Xin chào. Chúng tôi hơi thất vọng với tiểu thuyết của $Object... Hiện sách đang bị đánh giá không tốt và bản bìa mềm bán khá chậm. Đây là tiền nhuận bút $$Local:0.",
+    "reason": "Player-facing novel royalty phone message; preserve placeholders exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147133750,
+      301,
+      0
+    ],
+    "row": 2,
+    "category": "dialog",
+    "language": 1,
+    "en": "Greetings! $Object's novel is selling somewhat well, although it's still not a best-seller. Here's the royalty check for $$Local:0. Don't spend it all in one place.",
+    "description": "The Sims 2 - Needs Translation - Batch20\n\nDescription: This is the message a sim gets for selling a So-So novel.",
+    "vi": "Xin chào! Tiểu thuyết của $Object đang bán cũng khá ổn, dù vẫn chưa thành sách bán chạy. Đây là tiền nhuận bút $$Local:0. Đừng tiêu sạch một chỗ nha.",
+    "reason": "Player-facing novel royalty phone message; preserve placeholders exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147133750,
+      301,
+      0
+    ],
+    "row": 4,
+    "category": "dialog",
+    "language": 2,
+    "en": "Hello. We're a bit disappointed with $Object's novel  . . . it's currently getting bad reviews and barely selling in paperback. Here's the royalty check for $$Local:0.",
+    "description": "The Sims 2 - Needs Translation - Batch20\n\nDescription: This is the message a sim gets for selling a Lousy novel.",
+    "vi": "Xin chào. Chúng tôi hơi thất vọng với tiểu thuyết của $Object... Hiện sách đang bị đánh giá không tốt và bản bìa mềm bán khá chậm. Đây là tiền nhuận bút $$Local:0.",
+    "reason": "Player-facing novel royalty phone message; preserve placeholders exactly."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2147133750,
+      301,
+      0
+    ],
+    "row": 5,
+    "category": "dialog",
+    "language": 2,
+    "en": "Greetings! $Object's novel is selling somewhat well, although it's still not a best-seller. Here's the royalty check for $$Local:0. Don't spend it all in one place.",
+    "description": "The Sims 2 - Needs Translation - Batch20\n\nDescription: This is the message a sim gets for selling a So-So novel.",
+    "vi": "Xin chào! Tiểu thuyết của $Object đang bán cũng khá ổn, dù vẫn chưa thành sách bán chạy. Đây là tiền nhuận bút $$Local:0. Đừng tiêu sạch một chỗ nha.",
+    "reason": "Player-facing novel royalty phone message; preserve placeholders exactly."
+  }
+]

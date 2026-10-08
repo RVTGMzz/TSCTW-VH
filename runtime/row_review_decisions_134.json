@@ -1,0 +1,137 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130778857,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Price",
+    "description": "",
+    "reason": "Retail-management/helper row on the inherited small-electronics vending kiosk; Castaway does not use the OFB-style pricing/restock flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130778857,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Restock",
+    "description": "",
+    "reason": "Retail-management/helper row on the inherited small-electronics vending kiosk; Castaway does not use the OFB-style pricing/restock flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2130778857,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Show Object",
+    "description": "",
+    "reason": "Retail-management/helper row on the inherited small-electronics vending kiosk; Castaway does not use the OFB-style pricing/restock flow."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144329840,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Check Job Status",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Bang-only community-trash helper/debug row; internal state action rather than player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144329840,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Make Object Visible(Alpha Change)",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Bang-only community-trash helper/debug row; internal state action rather than player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144329840,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Reset Age Duration",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Bang-only community-trash helper/debug row; internal state action rather than player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144329840,
+      128,
+      0
+    ],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Check Job Status",
+    "description": "!!!!!!!!!!!!!",
+    "reason": "Bang-only community-trash helper/debug row; internal state action rather than player-facing text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146000150,
+      129,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play All Videos",
+    "description": "!!!!!!!!!",
+    "reason": "Bang-only video-system helper/debug action; internal diagnostic behavior rather than player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146000150,
+      129,
+      0
+    ],
+    "row": 9,
+    "status": "excluded",
+    "language": 1,
+    "en": "Debig OFF",
+    "description": "!!!!!",
+    "reason": "Bang-only video-system helper/debug action; internal diagnostic behavior rather than player-facing UI."
+  }
+]
