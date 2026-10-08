@@ -1,0 +1,77 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140905866,
+      128,
+      0
+    ],
+    "row": 0,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "status": "excluded",
+    "language": 1,
+    "reason": "Road-based base-game taxi transport resource is not part of Castaway island travel; exact exclusion avoids affecting retained raft/portal interactions with similar labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140905866,
+      128,
+      0
+    ],
+    "row": 1,
+    "en": "Get Out",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "status": "excluded",
+    "language": 1,
+    "reason": "Road-based base-game taxi transport resource is not part of Castaway island travel; exact exclusion avoids affecting retained raft/portal interactions with similar labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140905866,
+      128,
+      0
+    ],
+    "row": 2,
+    "en": "Get In",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "status": "excluded",
+    "language": 1,
+    "reason": "Road-based base-game taxi transport resource is not part of Castaway island travel; exact exclusion avoids affecting retained raft/portal interactions with similar labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140905866,
+      128,
+      0
+    ],
+    "row": 3,
+    "en": "Arrive",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "status": "excluded",
+    "language": 1,
+    "reason": "Road-based base-game taxi transport resource is not part of Castaway island travel; exact exclusion avoids affecting retained raft/portal interactions with similar labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140905866,
+      128,
+      0
+    ],
+    "row": 4,
+    "en": "Get In",
+    "description": "EDITTRANS - BatchMTF\r\nFormerly ",
+    "status": "excluded",
+    "language": 1,
+    "reason": "Road-based base-game taxi transport resource is not part of Castaway island travel; exact exclusion avoids affecting retained raft/portal interactions with similar labels."
+  }
+]
