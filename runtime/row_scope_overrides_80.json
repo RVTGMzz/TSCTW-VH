@@ -1,0 +1,42 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 1,
+    "language": 1,
+    "en": "Mop Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Rain-puddle player-facing Mop Up action; promote this exact row and reuse the approved base-puddle Vietnamese menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 2,
+    "language": 1,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Rain-puddle player-facing Splash action; promote this exact row and reuse the approved base-puddle Vietnamese menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 8,
+    "language": 2,
+    "en": "Mop Up",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Rain-puddle player-facing Mop Up action; promote this exact row and reuse the approved base-puddle Vietnamese menu translation."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 9,
+    "language": 2,
+    "en": "Splash",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "category": "menu",
+    "reason": "Rain-puddle player-facing Splash action; promote this exact row and reuse the approved base-puddle Vietnamese menu translation."
+  }
+]

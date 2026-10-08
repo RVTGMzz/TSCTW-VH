@@ -1,0 +1,182 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spread",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Rain-puddle spread helper marked with bang-only metadata; internal simulation action rather than player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Splash",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Duplicate rain-puddle Splash helper marked with bang-only metadata; keep the normal player-facing Splash rows instead."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Roll",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets-specific puddle rolling interaction (EP6); outside Castaway's retained player-facing companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 6,
+    "status": "excluded",
+    "language": 1,
+    "en": "Lick",
+    "description": "Sims 2 EP6: Needs Text",
+    "reason": "Pets-specific puddle licking interaction (EP6); outside Castaway's retained player-facing companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spread",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Rain-puddle spread helper marked with bang-only metadata; internal simulation action rather than player-facing UI."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2146250052, 1, 0],
+    "row": 11,
+    "status": "excluded",
+    "language": 2,
+    "en": "Splash",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Duplicate rain-puddle Splash helper marked with bang-only metadata; keep the normal player-facing Splash rows instead."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2143575074, 128, 0],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Play Joy Buzzer Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\nThis is one of those buzzers that buzzes when you hold it and shake someone's hand.\r\n",
+    "reason": "University/EP1 Joy Buzzer prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2143575074, 128, 0],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Joy Buzzered",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\nThis is one of those buzzers that buzzes when you hold it and shake someone's hand - this is very awkward in English but is funny.\r\n",
+    "reason": "University/EP1 Joy Buzzer prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2143575074, 128, 0],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University/EP1 Joy Buzzer prank observer row; exact resource belongs to the excluded University prank social."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2143575074, 128, 0],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Play Joy Buzzer Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\nThis is one of those buzzers that buzzes when you hold it and shake someone's hand.\r\n",
+    "reason": "University/EP1 Joy Buzzer prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2143575074, 128, 0],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Joy Buzzered",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5\nThis is one of those buzzers that buzzes when you hold it and shake someone's hand - this is very awkward in English but is funny.\r\n",
+    "reason": "University/EP1 Joy Buzzer prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2143575074, 128, 0],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University/EP1 Joy Buzzer prank observer row; exact resource belongs to the excluded University prank social."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2145896583, 128, 0],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "VentriloFart",
+    "description": "The Sims2EP1 - Neds Translation - BatchEP1-5\r\nIn this interaction the Sim A farts and then tries to make it look like Sim B did it",
+    "reason": "University/EP1 VentriloFart prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2145896583, 128, 0],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be VentriloFarted",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\r\nIn this interaction Sim B is being framed for a fart they did not commit :-)",
+    "reason": "University/EP1 VentriloFart prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2145896583, 128, 0],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University/EP1 VentriloFart prank observer row; exact resource belongs to the excluded University prank social."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2145896583, 128, 0],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "VentriloFart",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\r\nIn this interaction the Sim A farts and then tries to make it look like Sim B did it",
+    "reason": "University/EP1 VentriloFart prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2145896583, 128, 0],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be VentriloFarted",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\r\nIn this interaction Sim B is being framed for a fart they did not commit :-)",
+    "reason": "University/EP1 VentriloFart prank social resource; outside Castaway Stories player-facing social set."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [1414807923, 2145896583, 128, 0],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University/EP1 VentriloFart prank observer row; exact resource belongs to the excluded University prank social."
+  }
+]
