@@ -1,0 +1,418 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140832964,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140832964,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141093956,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141093956,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142483775,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142483775,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142546522,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142546522,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143344789,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143344789,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645981,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645981,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145405156,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145405156,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146357337,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146357337,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146621377,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146621377,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146721902,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146721902,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147091394,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Lên tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147091394,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "vi": "Xuống tầng",
+    "reason": "Player-facing modular-stair navigation action; retain this exact row while excluding locomotion-style helper entries in the same resource."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143111412,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Tập luyện",
+    "reason": "Player-facing base exercise-machine action; retain this exact row while keeping debug/internal rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143111412,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Sửa chữa",
+    "reason": "Player-facing base exercise-machine action; retain this exact row while keeping debug/internal rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144875494,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Work Out",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Tập luyện",
+    "reason": "Player-facing base exercise-machine action; retain this exact row while keeping debug/internal rows separate."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144875494,
+      129,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 1,
+    "en": "Repair",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Sửa chữa",
+    "reason": "Player-facing base exercise-machine action; retain this exact row while keeping debug/internal rows separate."
+  }
+]

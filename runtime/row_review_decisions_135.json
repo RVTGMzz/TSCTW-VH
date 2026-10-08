@@ -1,0 +1,752 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140832964,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140832964,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140832964,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140832964,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141093956,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141093956,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141093956,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141093956,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142483775,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142483775,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142483775,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142483775,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142546522,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142546522,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142546522,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2142546522,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143344789,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143344789,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143344789,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143344789,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645981,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645981,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645981,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143645981,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145405156,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145405156,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145405156,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145405156,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146357337,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146357337,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146357337,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146357337,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146621377,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146621377,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146621377,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146621377,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146721902,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146721902,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146721902,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146721902,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147091394,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Normal",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147091394,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Happy",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147091394,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Mad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147091394,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 1,
+    "en": "Walk.../Sad",
+    "description": "",
+    "reason": "Locomotion-style modular-stair helper/animation selector rather than normal player-facing menu text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143111412,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "CHEAT - Get Fat",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Bang-marked exercise-machine cheat/maintenance helper; internal testing/state action rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143111412,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Bang-marked exercise-machine cheat/maintenance helper; internal testing/state action rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143111412,
+      129,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Bang-marked exercise-machine cheat/maintenance helper; internal testing/state action rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144875494,
+      129,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "CHEAT - Get Fat",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Bang-marked exercise-machine cheat/maintenance helper; internal testing/state action rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144875494,
+      129,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 1,
+    "en": "Set Maintenance Level",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Bang-marked exercise-machine cheat/maintenance helper; internal testing/state action rather than player-facing localization."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144875494,
+      129,
+      0
+    ],
+    "row": 8,
+    "status": "excluded",
+    "language": 1,
+    "en": "Break",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "reason": "Bang-marked exercise-machine cheat/maintenance helper; internal testing/state action rather than player-facing localization."
+  }
+]
