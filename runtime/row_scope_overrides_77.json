@@ -1,0 +1,152 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "The local Private School Headmaster is interested in coming over for dinner. Do you feel like entertaining? If so, there might be an admittance to the private school in the works.",
+    "description": "Sims2 - Needs Translation - batch22\nMarked for retranslation as translated versions were not up to date with US English.",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Good. I'll be over for dinner tomorrow at 5 p.m.",
+    "description": "Sims2 - Needs Translation - batch18\nAdded a space.",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "After learning your student's academic record, the school secretary forwarded your call to an answering machine, which said:  \"We're very sorry, but our private school only accepts students with at least C grades.\"",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Good, I'll be over for dinner at 5 p.m.",
+    "description": "Sims2 - Needs Translation - batch20\nHeadmaster accepting coming for dinner.",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "The local Private School Headmaster is interested in coming over for dinner. Do you feel like entertaining? If so, there might be an admittance to the private school in the works.",
+    "description": "Sims2 - Needs Translation - batch22\nMarked for retranslation as translated versions were not up to date with US English.",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "Good. I'll be over for dinner tomorrow at 5 p.m.",
+    "description": "Sims2 - Needs Translation - batch18\nAdded a space.",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "After learning your student's academic record, the school secretary forwarded your call to an answering machine, which said:  \"We're very sorry, but our private school only accepts students with at least C grades.\"",
+    "description": "The Sims 2 - Needs Translation -  Batch20",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "Good, I'll be over for dinner at 5 p.m.",
+    "description": "Sims2 - Needs Translation - batch20\nHeadmaster accepting coming for dinner.",
+    "category": "dialog",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      302,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Invite Headmaster",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "menu",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138956932,
+      302,
+      0
+    ],
+    "row": 1,
+    "language": 2,
+    "en": "Invite Headmaster",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "menu",
+    "reason": "Base-game private-school Headmaster phone flow; player-facing Free Play interaction/dialog."
+  }
+]

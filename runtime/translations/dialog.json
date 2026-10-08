@@ -206,5 +206,9 @@
   "$Object is fired!": "$Object đã bị đuổi việc!",
   "$Object missed work today, and that doesn't impress the higher ups too much. Be careful or it may be $Object's job next time.": "Hôm nay $Object đã nghỉ làm, và cấp trên chẳng ấn tượng chút nào đâu. Cẩn thận nhé, lần sau có khi $Object mất việc thật đó.",
   "$Object used a day of Paid Vacation today.\nRemaining days of Paid Vacation: $Local:1": "Hôm nay $Object đã dùng một ngày nghỉ có lương.\nSố ngày nghỉ có lương còn lại: $Local:1",
-  "$Object missed work today, and unfortunately, has been fired.": "Hôm nay $Object đã nghỉ làm và tiếc là đã bị đuổi việc."
+  "$Object missed work today, and unfortunately, has been fired.": "Hôm nay $Object đã nghỉ làm và tiếc là đã bị đuổi việc.",
+  "The local Private School Headmaster is interested in coming over for dinner. Do you feel like entertaining? If so, there might be an admittance to the private school in the works.": "Hiệu trưởng trường tư trong khu đang muốn ghé nhà bạn ăn tối. Bạn có muốn tiếp khách không? Nếu mọi chuyện suôn sẻ, biết đâu chuyện nhập học trường tư sẽ có cửa đó.",
+  "Good. I'll be over for dinner tomorrow at 5 p.m.": "Tốt. Ngày mai lúc 5 giờ chiều tôi sẽ ghé dùng bữa.",
+  "After learning your student's academic record, the school secretary forwarded your call to an answering machine, which said:  \"We're very sorry, but our private school only accepts students with at least C grades.\"": "Sau khi xem thành tích học tập của học sinh nhà bạn, thư ký nhà trường chuyển cuộc gọi sang máy trả lời tự động:  \"Rất tiếc, trường tư của chúng tôi chỉ nhận học sinh có điểm từ C trở lên.\"",
+  "Good, I'll be over for dinner at 5 p.m.": "Được, tôi sẽ ghé dùng bữa lúc 5 giờ chiều."
 }
