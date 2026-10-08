@@ -1,0 +1,317 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139632840,
+      302,
+      0
+    ],
+    "row": 6,
+    "language": 1,
+    "en": "Call To Meal.../Guests",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "category": "menu",
+    "reason": "Exact Call To Meal submenu action from a shared in-game meal-interaction STR# table. Reuses existing approved guest/household/everyone menu translations; no broad cross-resource promotion."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139632840,
+      302,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Call To Meal.../Household",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "category": "menu",
+    "reason": "Exact Call To Meal submenu action from a shared in-game meal-interaction STR# table. Reuses existing approved guest/household/everyone menu translations; no broad cross-resource promotion."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139632840,
+      302,
+      0
+    ],
+    "row": 8,
+    "language": 1,
+    "en": "Call To Meal.../Everyone",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-6",
+    "category": "menu",
+    "reason": "Exact Call To Meal submenu action from a shared in-game meal-interaction STR# table. Reuses existing approved guest/household/everyone menu translations; no broad cross-resource promotion."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132660664,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133437151,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133847924,
+      130,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134808437,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134934757,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137680798,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138940806,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140081576,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140196372,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140201427,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140520414,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140960044,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141337299,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141430341,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141673653,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143651433,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146392087,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147002857,
+      129,
+      0
+    ],
+    "row": 7,
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
+    "category": "menu",
+    "reason": "Exact inherited Sleep TTAs interaction for an individually identified living-chair object in the Castaway objects package, reusing validated generic 'Sleep' menu translation. Active reachability still requires game testing."
+  }
+]
