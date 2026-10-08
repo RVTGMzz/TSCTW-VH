@@ -347,6 +347,14 @@ class InstallerApp:
 
 
 def main():
+    if "--self-test" in sys.argv:
+        configure_embedded_sources()
+        from validate_runtime import assess
+        report, _ = assess()
+        if report["parse_errors"] or report["untranslated_or_review_candidate_rows"]:
+            raise SystemExit("Bundled source QA FAILED")
+        print("Bundled source QA PASS: candidate_rows="+str(report["candidate_rows"]))
+        return
     if os.name != "nt":
         raise SystemExit("Trình cài nhấp đúp này dành cho Windows; chạy kiểm thử nguồn trên nền tảng khác.")
     root = tk.Tk()
