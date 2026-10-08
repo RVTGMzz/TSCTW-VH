@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139277941,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Warning",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "dialog",
+    "reason": "Base career/job warning notification retained for Free Play/career gameplay; translate exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139277941,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "$Object used a day of Paid Vacation today.\nRemaining days of Paid Vacation: $Local:1",
+    "description": "Sims2 - Needs ReTranslation - Batch23\r\n\r\n",
+    "category": "dialog",
+    "reason": "Base career/job warning notification retained for Free Play/career gameplay; translate exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139277941,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "$Object is fired!",
+    "description": "Sims2 - Needs Translation - Batch16",
+    "category": "dialog",
+    "reason": "Base career/job warning notification retained for Free Play/career gameplay; translate exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139277941,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "$Object missed work today, and unfortunately, has been fired.",
+    "description": "Sims2 - Needs ReTranslation - Batch23\n",
+    "category": "dialog",
+    "reason": "Base career/job warning notification retained for Free Play/career gameplay; translate exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139277941,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "$Object missed work today, and that doesn't impress the higher ups too much. Be careful or it may be $Object's job next time.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "dialog",
+    "reason": "Base career/job warning notification retained for Free Play/career gameplay; translate exact player-facing row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139277941,
+      301,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "$Object missed work today, and that doesn't impress the higher ups too much. Be careful or it may be $Object's job next time.",
+    "description": "The Sims 2 EP6 - Needs Translation",
+    "category": "dialog",
+    "reason": "Base career/job warning notification retained for Free Play/career gameplay; translate exact player-facing row."
+  }
+]

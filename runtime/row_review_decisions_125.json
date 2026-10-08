@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141103542,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 Fire Jet interaction resource; outside Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141103542,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Turn Off",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 Fire Jet interaction resource; outside Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141103542,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Join",
+    "description": "!",
+    "reason": "Nightlife/EP2 Fire Jet interaction resource; outside Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141103542,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ask To Join",
+    "description": "!",
+    "reason": "Nightlife/EP2 Fire Jet interaction resource; outside Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141103542,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Turn On",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 Fire Jet interaction resource; outside Castaway Stories player-facing gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2141103542,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Turn Off",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife/EP2 Fire Jet interaction resource; outside Castaway Stories player-facing gameplay."
+  }
+]

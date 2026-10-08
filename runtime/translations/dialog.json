@@ -201,5 +201,10 @@
   "I feel rejuvenated!  I believe I've added valuable days to my life!": "Mình thấy trẻ khỏe hẳn! Có khi vừa được cộng thêm mấy ngày quý giá vào đời rồi đó!",
   "It feels like the end may be closer than I thought.  Valuable days have been taken from my short life!": "Cảm giác ngày tận số tự nhiên gần hơn mình tưởng... Mấy ngày quý giá trong cuộc đời ngắn ngủi này vừa bị lấy mất rồi!",
   "I feel rejuvenated!": "Mình thấy trẻ khỏe hẳn!",
-  "Maybe drinking that was a bad idea.  I feel drained...": "Có khi uống thứ đó là ý tồi rồi... Mình thấy kiệt sức quá..."
+  "Maybe drinking that was a bad idea.  I feel drained...": "Có khi uống thứ đó là ý tồi rồi... Mình thấy kiệt sức quá...",
+  "Warning": "Cảnh báo",
+  "$Object is fired!": "$Object đã bị đuổi việc!",
+  "$Object missed work today, and that doesn't impress the higher ups too much. Be careful or it may be $Object's job next time.": "Hôm nay $Object đã nghỉ làm, và cấp trên chẳng ấn tượng chút nào đâu. Cẩn thận nhé, lần sau có khi $Object mất việc thật đó.",
+  "$Object used a day of Paid Vacation today.\nRemaining days of Paid Vacation: $Local:1": "Hôm nay $Object đã dùng một ngày nghỉ có lương.\nSố ngày nghỉ có lương còn lại: $Local:1",
+  "$Object missed work today, and unfortunately, has been fired.": "Hôm nay $Object đã nghỉ làm và tiếc là đã bị đuổi việc."
 }
