@@ -1,3 +1,20 @@
+> **2026-10-09 Castaway-only v0.8 build-gate progress — Source Audit #442 PASS** ([run](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37834920574)). The two new source-focused developments below supersede older notes requiring all 13 baselines for installation QA. Source coverage unchanged: **7,154 aggregate mapping entries / 2,163 exact translations / 14,719 candidate rows / 0 missing-review / 20,095 unresolved inherited / 0 parse errors**. **v0.8 TEST remains UNRELEASED.**
+
+## Newest: source-to-installer isolation and selector read-only probe
+
+**User goal:** finish The Sims Castaway Stories, NOT make a separate The Sims 2 Legacy localization. Do not go back to unrelated inherited-memory sweeps.
+
+- `src/builder/stage_runtime_inputs.py` now **defaults to only 10 game-installation packages** and excludes **3 Documents/user-save snapshots** under `TSData/Res/UserData/`. Optional `--include-save-snapshots --save-root ...` exists for diagnostic QA only. Original SHA-256 strictness remains; both `Text/Wants.package` and `Wants/Wants.package` remain distinct. `--copy-verified` only stages input when every selected hash matches; never overwrites live inputs.
+- `src/builder/check_runtime_packages.py` shares `select_inventory()`, so normal development QA also requires just **10 install-owned packages**, not changing N001/N002/NeighborhoodManager snapshots. Its output must remain outside baseline input. It still is NOT a combined Text+Font+Runtime installer.
+- `src/builder/test_stage_runtime_inputs.py`: **4** synthetic tests ensure install/save path isolation, two Wants paths, hash rejection.
+- `src/builder/test_runtime_dbpf_writer.py`: **2** synthetic real-writer tests exercise both 20- and 24-byte DBPF indices, unchanged unrelated resource, other-language preservation, metadata/padding and idempotent application (and source English mismatch refusal).
+- `src/builder/probe_story_selector.py`: **READ-ONLY** local script checks installed template vs live Documents N001/N002 CTSS selector title `(CTSS, 0xFFFFFFFF, 1, 0)`, with language/state/hash/source paths. Writes only `work/selector_probe.json`; does not edit/copy save files or prove actual process read precedence. `src/builder/test_probe_story_selector.py`: **3** synthetic tests PASS.
+- CI Source Audit #442 **PASS**, with **9** tests in these three suites. Real binary input package QA and an in-game read-path check **NOT performed**. Read `runtime/README.md`, `runtime/SELECTOR_DIAGNOSIS.md`, and `runtime/RELEASE_READINESS_V08.md` for safely running the tools and release gates.
+
+**Next priorities:** Verify actual ORIGINAL game-owned 10 package baselines (not previously patched install); run `check_runtime_packages.py` on staged copies, verify core Text baseline and compatible existing font, package a reversible combined installer; use selector probe against Ron's current actual save folder to decide whether a separate exact save-resource patch or install-template patch is appropriate. Do **not** publish v0.8 without real binary package QA; never distribute Ron's save packages. No originals mounted in the current source-only GitHub workflow; do not falsely claim full QA just because 9 synthetic tests passed.
+
+---
+
 > **Authoritative Castaway-only checkpoint — 2026-10-09, Source Audit #425 PASS**. **7,154** total mapping entries (**2,163** exact-row translations), **14,719** effective candidates, **0** candidate missing/review, **20,095** inherited unresolved, **1,349** automatic exclusions, **0** parse errors. [Run #425](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37833534628) at `8d57a401a`. Subsequent source tests include safe package-staging unit tests ([run #430](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37833999242) PASS). This supersedes older numbers elsewhere. **v0.8 TEST remains unreleased**: source-only QA is not binary writer QA or game execution; active story selector read path is still unknown.
 
 ## Immediate Castaway-only work order (supersedes inherited-memory sweeps)
