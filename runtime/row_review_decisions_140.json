@@ -1,0 +1,62 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138735696,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$Object would be scanned.",
+    "description": "!",
+    "reason": "Debug/diagnostic scanner message, not player-facing gameplay; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138735696,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scanning $Object",
+    "description": "!",
+    "reason": "Debug/diagnostic scanner message, not player-facing gameplay; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138735696,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "$Object would be scanned.",
+    "description": "!",
+    "reason": "Debug/diagnostic scanner message duplicate language row; exclude exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138735696,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scanning $Object",
+    "description": "!",
+    "reason": "Debug/diagnostic scanner message duplicate language row; exclude exact row."
+  }
+]
