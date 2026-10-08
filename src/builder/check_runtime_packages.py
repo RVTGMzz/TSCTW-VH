@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 from runtime_dbpf import Package, encode_table, parse_table
 from validate_runtime import ROOT, RUNTIME, effective_records, load_maps, load_row_translations, row_identity
+from stage_runtime_inputs import select_inventory
 
 
 def apply(data, records, maps, decisions, exact_translations):
@@ -64,8 +65,7 @@ def main():
         records[r['package']].append(r)
     inventory=json.loads((RUNTIME/'inventory.json').read_text())
     total_inventory=len(inventory)
-    if not args.include_save_snapshots:
-        inventory=[p for p in inventory if not p['package'].startswith('TSData/Res/UserData/')]
+    inventory=select_inventory(inventory, args.include_save_snapshots)
     if any(p['errors'] for p in inventory):
         raise ValueError('Unresolved input parse errors')
     report={'purpose':'development package QA, not v0.8 release','in_game_tested':False,
