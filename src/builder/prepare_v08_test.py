@@ -80,10 +80,10 @@ def refuse_pretranslated_core(core, names, v06_history):
                     )
 
 
-def runtime_patch(source, path, records, maps, decisions, exact):
+def runtime_patch(source, path, records, maps, decisions, exact, preserve_unrecognized=False):
     before = source.read_bytes()
-    after, count, resources = apply(before, records, maps, decisions, exact)
-    repeated, n2, resource2 = apply(after, records, maps, decisions, exact)
+    after, count, resources = apply(before, records, maps, decisions, exact, preserve_unrecognized=preserve_unrecognized)
+    repeated, n2, resource2 = apply(after, records, maps, decisions, exact, preserve_unrecognized=preserve_unrecognized)
     if repeated != after or n2 or resource2:
         raise AssertionError(f"Runtime patch is not idempotent: {path}")
     return after, count, resources
@@ -132,7 +132,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
             if not allow_prepatched_runtime:
                 raise ValueError(("Modified runtime input not permitted",str(path)))
             compatibility_checks.append(
-                inspect_prepatched(path.read_bytes(),item,grouped[item["package"]],maps,decisions,exact)
+                inspect_prepatched(path.read_bytes(),item,grouped[item["package"]],maps,decisions,exact, preserve_unrecognized=True)
             )
 
     changed = []
@@ -159,7 +159,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
         for item in inventory:
             rel = item["package"]
             source = runtime/rel
-            patched, count, resources = runtime_patch(source, rel, grouped[rel], maps, decisions, exact)
+            patched, count, resources = runtime_patch(source, rel, grouped[rel], maps, decisions, exact, preserve_unrecognized=allow_prepatched_runtime)
             summaries.append({"package":rel,"scope":"runtime","changed_rows":count})
             if count:
                 target = payload/rel
@@ -187,6 +187,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
             },
             "install_files": sorted(changed,key=lambda x:x["path"]),
             "modified_baseline_checks": compatibility_checks,
+            "unrecognized_rows_preserved": sum(x.get("unrecognized_rows_preserved",0) for x in compatibility_checks),
             "build_summary": summaries,
         }
         output.mkdir(parents=True,exist_ok=True)
