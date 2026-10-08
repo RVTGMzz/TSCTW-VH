@@ -1,0 +1,50 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140820272,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "$Object\rCurrent Level:  $Local:0\rFresh Food Level: $Local:2\rTotal Capacity:  $Local:1",
+    "description": "EP7 - Needs Translations",
+    "category": "dialog",
+    "vi": "$Object\rMức hiện tại:  $Local:0\rLượng thực phẩm tươi: $Local:2\rSức chứa tối đa:  $Local:1",
+    "reason": "Exact informational fresh-food storage dialog; retain as a possibly player-facing readout without promoting unrelated Seasons-only rows."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140820272,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "We don't have enough fish in stock to keep making this dish.",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "category": "dialog",
+    "vi": "Không còn đủ cá dự trữ để nấu tiếp món này.",
+    "reason": "Exact potentially player-facing fish-stock cooking warning; Castaway has fishing/cooking, so translate rather than incorrectly exclude based solely on the EP7 source tag."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140820272,
+      301,
+      0
+    ],
+    "row": 7,
+    "language": 2,
+    "en": "We don't have enough fish in stock to keep making this dish.",
+    "description": "Sims 2 EP7 - Needs Translation",
+    "category": "dialog",
+    "vi": "Không còn đủ cá dự trữ để nấu tiếp món này.",
+    "reason": "Exact potentially player-facing fish-stock cooking warning; Castaway has fishing/cooking, so translate rather than incorrectly exclude based solely on the EP7 source tag."
+  }
+]

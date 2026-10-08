@@ -2,61 +2,31 @@
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2138735696,
-      301,
+      1414807923,
+      2145007292,
+      129,
       0
     ],
-    "row": 0,
-    "status": "excluded",
+    "row": 6,
     "language": 1,
-    "en": "$Object would be scanned.",
-    "description": "!",
-    "reason": "Debug/diagnostic scanner message, not player-facing gameplay; exclude exact row."
+    "en": "Sit",
+    "description": "Sims 2 EP6: Needs Text",
+    "status": "excluded",
+    "reason": "Pets/EP6-specific inherited Sit/Sleep action under ownerless legacy group; base-game snooze/nod-off rows left unclassified."
   },
   {
     "package": "TSData/Res/Objects/objects.package",
     "key": [
-      1398034979,
-      2138735696,
-      301,
+      1414807923,
+      2145007292,
+      129,
       0
     ],
-    "row": 1,
-    "status": "excluded",
+    "row": 7,
     "language": 1,
-    "en": "Scanning $Object",
-    "description": "!",
-    "reason": "Debug/diagnostic scanner message, not player-facing gameplay; exclude exact row."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2138735696,
-      301,
-      0
-    ],
-    "row": 3,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Text",
     "status": "excluded",
-    "language": 2,
-    "en": "$Object would be scanned.",
-    "description": "!",
-    "reason": "Debug/diagnostic scanner message duplicate language row; exclude exact row."
-  },
-  {
-    "package": "TSData/Res/Objects/objects.package",
-    "key": [
-      1398034979,
-      2138735696,
-      301,
-      0
-    ],
-    "row": 4,
-    "status": "excluded",
-    "language": 2,
-    "en": "Scanning $Object",
-    "description": "!",
-    "reason": "Debug/diagnostic scanner message duplicate language row; exclude exact row."
+    "reason": "Pets/EP6-specific inherited Sit/Sleep action under ownerless legacy group; base-game snooze/nod-off rows left unclassified."
   }
 ]
