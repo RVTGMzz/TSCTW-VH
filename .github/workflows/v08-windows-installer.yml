@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build-windows-installer:
@@ -94,3 +94,13 @@ jobs:
           if-no-files-found: error
           compression-level: 0
           retention-days: 30
+
+      - name: Publish direct EXE as clearly marked experimental prerelease
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = "castaway-v08-test-windows-${{ github.run_number }}"
+          $notes = "Votri Valley - The Sims Castaway Stories v0.8 TEST (Windows). Download EXE and double-click; no Python required. EXPERIMENTAL: only synthetic source/DBPF tests passed, real game packages and gameplay are not yet verified. Runtime overlay requires an existing functional v0.7a Text/font setup, verifies 10 ORIGINAL runtime package hashes, and makes backups. Does not change Documents saves. Restorable using the same EXE."
+          gh release create $tag "dist/VotriValley-Castaway-v08-TEST.exe" "dist/README-V08-TEST.txt" --repo "${{ github.repository }}" --target "${{ github.sha }}" --title "Castaway Stories Viet hoa v0.8 TEST - Windows build ${{ github.run_number }}" --notes $notes --prerelease
+          if ($LASTEXITCODE -ne 0) { throw "GitHub prerelease creation failed" }
