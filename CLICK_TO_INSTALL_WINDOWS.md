@@ -2,7 +2,11 @@
 
 **Dành cho Windows, không cần cài Python hoặc công cụ phụ.** Bản này là **bản thử nghiệm** mở rộng runtime, tiếp tục sử dụng Text và bộ font Votri Valley v0.7a đã có. Chưa xác nhận trên toàn bộ game và chưa sửa xong nguồn hiển thị chữ màn chọn cốt truyện.
 
-**Build 17 sửa lỗi `Unrecognized translated/source text` khi file đã được Việt hóa trước:** Các dòng có đúng resource/key/row/ngôn ngữ và metadata nhưng nội dung khác bản hiện hành được **giữ nguyên, không ghi đè và không tính là bản dịch mới đã kiểm duyệt**. Chỉ những dòng trùng chính xác tiếng Anh gốc mới được dịch; cấu trúc/metadata sai vẫn khiến trình cài dừng. Hãy dùng [EXE Build 17](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-17/VotriValley-Castaway-v08-TEST.exe), không sử dụng Build 11 với lỗi trước đó.
+**Build 17 sửa lỗi `Unrecognized translated/source text` khi file đã được Việt hóa trước:** Các dòng có đúng resource/key/row/ngôn ngữ và metadata nhưng nội dung khác bản hiện hành được **giữ nguyên, không ghi đè và không tính là bản dịch mới đã kiểm duyệt**. Chỉ những dòng trùng chính xác tiếng Anh gốc mới được dịch; cấu trúc/metadata sai vẫn khiến trình cài dừng. Hãy dùng [EXE Build 17](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-23/VotriValley-Castaway-v08-TEST.exe), không sử dụng Build 11 với lỗi trước đó.
+
+**Lỗi Build 17: `FileNotFoundError: castaway-english-strings.json`.** Đây là lỗi gọi nhầm dữ liệu Text gốc khi đang build runtime overlay. **Build 23** đã tách đúng nhánh runtime-only, không cần file này. GitHub Actions #23 chạy smoke-test ngay trên EXE đóng gói: dữ liệu DBPF giả → tạo payload → dry-run → cài → khôi phục đều PASS. Không cần tải JSON riêng. Nếu Build 17 đã dừng tại lỗi này, **chưa có thao tác cài và chưa có gì cần phục hồi**.
+
+**Khôi phục sau khi cài thành công:** đóng game, mở lại EXE và chọn **Khôi phục bản trước**. Bản sao lưu nằm trong `%LOCALAPPDATA%\\Votri Valley\\Castaway v0.8 TEST\\Backups` và trả lại **đúng các package của ông trước khi cài v0.8**, kể cả Việt hóa cũ; không phải khôi phục bộ game tiếng Anh gốc.
 
 ## Cách cài
 
