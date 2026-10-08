@@ -1,0 +1,992 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134879252,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "I don't think so...I really don't like you well enough yet to be acting like your obedient Pledge.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\ndialog for a Sim rejecting the invitation to Pledge another Sim's Greek House because of their bad relationship to that Sim. Was in Batchep1-6 and referred to the house being messy.",
+    "reason": "University (EP1) Greek House pledge social/dialog resource; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134879252,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Thanks anyway, but no. Your house just doesn't have enough friends for me to want to join.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\ndialog for a Sim rejecting the invitation to Pledge another Sim's Greek House because the house does not have enough friends yet, as a household.  This used to refer to the Sim not knowing as many of the friends. \nLTEDIT - 1/22 I removed weird carriage returns at the end of the string.",
+    "reason": "University (EP1) Greek House pledge social/dialog resource; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134879252,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 1,
+    "en": "Congratulations! $Object has decided to join the Greek House as a Pledge.  During the Pledge period, you can Influence them to do whatever you like, free of Influence cost!  After the Pledge period is over, they will become full members of this Greek House and can move in if you want.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8 - English revised and shortened. Originally in BatchEP1-5.\nAcceptance dialog for the pledge accepting the invite to join. This begins a trial period where the pledge needs to spend a tunable amount of time on the Greek lot before they become a full member.",
+    "reason": "University (EP1) Greek House pledge social/dialog resource; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134879252,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "I don't think so...I really don't like you well enough yet to be acting like your obedient Pledge.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\ndialog for a Sim rejecting the invitation to Pledge another Sim's Greek House because of their bad relationship to that Sim. Was in Batchep1-6 and referred to the house being messy.",
+    "reason": "University (EP1) Greek House pledge social/dialog resource; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134879252,
+      301,
+      0
+    ],
+    "row": 6,
+    "status": "excluded",
+    "language": 2,
+    "en": "Thanks anyway, but no. Your house just doesn't have enough friends for me to want to join.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8\ndialog for a Sim rejecting the invitation to Pledge another Sim's Greek House because the house does not have enough friends yet, as a household.  This used to refer to the Sim not knowing as many of the friends. \nLTEDIT - 1/22 I removed weird carriage returns at the end of the string.",
+    "reason": "University (EP1) Greek House pledge social/dialog resource; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2134879252,
+      301,
+      0
+    ],
+    "row": 7,
+    "status": "excluded",
+    "language": 2,
+    "en": "Congratulations! $Object has decided to join the Greek House as a Pledge.  During the Pledge period, you can Influence them to do whatever you like, free of Influence cost!  After the Pledge period is over, they will become full members of this Greek House and can move in if you want.",
+    "description": "The Sims2 EP1 - Needs Translation - BatchEP1-8 - English revised and shortened. Originally in BatchEP1-5.\nAcceptance dialog for the pledge accepting the invite to join. This begins a trial period where the pledge needs to spend a tunable amount of time on the Greek lot before they become a full member.",
+    "reason": "University (EP1) Greek House pledge social/dialog resource; Castaway Stories has no Greek House/pledge system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136407700,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2 does not have an owner.",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-owner lookup dialog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136407700,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2's owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-owner lookup dialog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136407700,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "$NeighborLocal:2's owner is $FullNameLocal:3.",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-owner lookup dialog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136407700,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2 does not have an owner.",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-owner lookup dialog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136407700,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2's owner is $FullNameLocal:3.  You can give $NeighborLocal:3 a call and let them know you found $NeighborLocal:2.",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-owner lookup dialog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136407700,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "$NeighborLocal:2's owner is $FullNameLocal:3.",
+    "description": "Sims2 EP6 - Needs Translation",
+    "reason": "Pets (EP6) collar-owner lookup dialog resource; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139731915,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Wish for a...",
+    "description": "The Sims2EP7 - Needs Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well gender wish dialog; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139731915,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Male",
+    "description": "The Sims2EP7 - Needs Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well gender wish dialog; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139731915,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Female",
+    "description": "The Sims2EP7 - Needs Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well gender wish dialog; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139731915,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Wish for a...",
+    "description": "The Sims2EP7 - Needs Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well gender wish dialog; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139731915,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Male",
+    "description": "The Sims2EP7 - Needs Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well gender wish dialog; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2139731915,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Female",
+    "description": "The Sims2EP7 - Needs Translation",
+    "reason": "Seasons (EP7) Garden Club wishing-well gender wish dialog; outside Castaway Stories systems."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143806183,
+      301,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "I found your pet.  Would you like me to bring your pet back?",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) found-runaway-pet phone call resource; Castaway does not use the dog/cat runaway-pet subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143806183,
+      301,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Are you sure you don't want your pet? If you don't, I'll have to let it loose in the neighborhood.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) found-runaway-pet phone call resource; Castaway does not use the dog/cat runaway-pet subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143806183,
+      301,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Ok, I'll bring your pet right over.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) found-runaway-pet phone call resource; Castaway does not use the dog/cat runaway-pet subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143806183,
+      301,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "I found your pet.  Would you like me to bring your pet back?",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) found-runaway-pet phone call resource; Castaway does not use the dog/cat runaway-pet subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143806183,
+      301,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Are you sure you don't want your pet? If you don't, I'll have to let it loose in the neighborhood.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) found-runaway-pet phone call resource; Castaway does not use the dog/cat runaway-pet subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2143806183,
+      301,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Ok, I'll bring your pet right over.",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) found-runaway-pet phone call resource; Castaway does not use the dog/cat runaway-pet subsystem."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      302,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin.../Easy",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) Electro Dance Sphere spin difficulty menu; outside Castaway Stories catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      302,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin.../Medium",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) Electro Dance Sphere spin difficulty menu; outside Castaway Stories catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      302,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Spin.../Hard",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) Electro Dance Sphere spin difficulty menu; outside Castaway Stories catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      302,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin.../Easy",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) Electro Dance Sphere spin difficulty menu; outside Castaway Stories catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      302,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin.../Medium",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) Electro Dance Sphere spin difficulty menu; outside Castaway Stories catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2144499677,
+      302,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Spin.../Hard",
+    "description": "The Sims2EP2 - NEEDS TRANSLATION - BatchEP2-3",
+    "reason": "Nightlife (EP2) Electro Dance Sphere spin difficulty menu; outside Castaway Stories catalog/gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135125726,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned dog behavior Sniff Around command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135125726,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Command.../Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned dog behavior Sniff Around command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135125726,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned dog behavior Sniff Around command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135125726,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned dog behavior Sniff Around command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135125726,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Command.../Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned dog behavior Sniff Around command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135125726,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sniff Around",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned dog behavior Sniff Around command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441557,
+      1,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Survey",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) Cat Condo interactions; dog/cat object resource not part of Castaway's retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441557,
+      1,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) Cat Condo interactions; dog/cat object resource not part of Castaway's retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441557,
+      1,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Scratch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) Cat Condo interactions; dog/cat object resource not part of Castaway's retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441557,
+      1,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Survey",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) Cat Condo interactions; dog/cat object resource not part of Castaway's retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441557,
+      1,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Sleep",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) Cat Condo interactions; dog/cat object resource not part of Castaway's retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135441557,
+      1,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Scratch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "reason": "Pets (EP6) Cat Condo interactions; dog/cat object resource not part of Castaway's retained companion system."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135584224,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135584224,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135584224,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135584224,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135584224,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135584224,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Stay",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Stay command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137078222,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shake Paw",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137078222,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shake Paw",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137078222,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shake Paw",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137078222,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shake Paw",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137078222,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shake Paw",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137078222,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shake Paw",
+    "description": "Sims2EP6 - Needs Translation",
+    "reason": "Pets (EP6) learned Shake Paw command; outside Castaway's retained talking-bird companion gameplay."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137167151,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Throw Water Balloon",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Water Balloon prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137167151,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Hit by Water Balloon",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Water Balloon prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137167151,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University (EP1) Water Balloon prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137167151,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Throw Water Balloon",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Water Balloon prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137167151,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Hit by Water Balloon",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Water Balloon prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137167151,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University (EP1) Water Balloon prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140504528,
+      128,
+      0
+    ],
+    "row": 0,
+    "status": "excluded",
+    "language": 1,
+    "en": "Shock",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Static Charge prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140504528,
+      128,
+      0
+    ],
+    "row": 1,
+    "status": "excluded",
+    "language": 1,
+    "en": "Be Shocked",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Static Charge prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140504528,
+      128,
+      0
+    ],
+    "row": 2,
+    "status": "excluded",
+    "language": 1,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University (EP1) Static Charge prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140504528,
+      128,
+      0
+    ],
+    "row": 3,
+    "status": "excluded",
+    "language": 2,
+    "en": "Shock",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Static Charge prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140504528,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 2,
+    "en": "Be Shocked",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\nThis is a prank where one Sim throws a water balloon at another.",
+    "reason": "University (EP1) Static Charge prank social; explicit EP1 social residue outside Castaway Stories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140504528,
+      128,
+      0
+    ],
+    "row": 5,
+    "status": "excluded",
+    "language": 2,
+    "en": "Watch Prank",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-7\ninteraction for a 3rd Sim watching a prank interaction.",
+    "reason": "University (EP1) Static Charge prank social; explicit EP1 social residue outside Castaway Stories."
+  }
+]
