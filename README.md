@@ -2,11 +2,11 @@
 
 ## BẢN CÀI WINDOWS v0.8 TEST — NHẤN ĐÚP, KHÔNG CẦN PYTHON
 
-**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-11/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
+**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-17/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
 
 - Giữ nguyên bộ **Text/font v0.7a** đã cài và đang hoạt động; chỉ bổ sung nguồn dịch runtime Castaway.
 - Tự nhận đường dẫn `G:/Castaway-Portable` hoặc chọn thư mục game; nhấn **Cài Việt hóa v0.8 TEST**. Có nút **Khôi phục bản trước**.
-- Kiểm tra SHA-256 các package runtime gốc, sao lưu an toàn, không sửa save Documents hoặc EXE của game. Nếu file gốc đã bị mod, trình cài từ chối thay vì ghi bừa.
+- Kiểm tra SHA-256 các package runtime gốc, sao lưu an toàn, không sửa save Documents hoặc EXE của game. Với câu Việt hóa cũ khác bản mới, chương trình giữ nguyên và chỉ vá những dòng tiếng Anh khớp nguồn; lỗi cấu trúc/metadata vẫn bị chặn. Nếu file gốc đã bị mod, trình cài từ chối thay vì ghi bừa.
 - Build Windows trực tiếp từ GitHub Actions [PASS #4](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37837500377), smoke-test EXE đóng gói PASS. **Chưa test gameplay thật hay hoàn thiện màn chọn story**. Đây là bản TEST, không phải Việt hóa hoàn chỉnh.
 
 > Ghi chú lịch sử trong các mục dưới nói về các build cũ, không phải trạng thái phát hành mới nhất.
