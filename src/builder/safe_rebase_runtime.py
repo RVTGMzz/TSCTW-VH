@@ -11,7 +11,7 @@ from runtime_dbpf import Package, parse_table
 from validate_runtime import row_identity
 
 
-def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_translations):
+def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_translations, preserve_unrecognized=False):
     package = Package(data)
     if package.width != inventory_item["index_width"] or package.count != inventory_item["resources"]:
         raise ValueError((
@@ -33,7 +33,8 @@ def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_transl
     if not groups:
         raise ValueError(("No verified translatable resources in modified package", inventory_item["package"]))
 
-    english = translated = 0
+    english = translated = preserved = 0
+    examples = []
     checked_rows = 0
     for key, targets in groups.items():
         entry = index.get(key)
@@ -55,10 +56,21 @@ def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_transl
             elif actual == vi:
                 translated += 1
             else:
-                raise ValueError((
-                    "Unrecognized translated/source text, refusing unsafe overwrite",
-                    inventory_item["package"], key, n, actual[:100]
-                ))
+                if not preserve_unrecognized:
+                    raise ValueError((
+                        "Unrecognized translated/source text, refusing unsafe overwrite",
+                        inventory_item["package"], key, n, actual[:100]
+                    ))
+                # The row identity and metadata match, but its actual text has
+                # unknown provenance (possibly an earlier Vietnamese revision).
+                # NEVER treat it as validated Vietnamese and NEVER replace it.
+                preserved += 1
+                if len(examples) < 12:
+                    examples.append({
+                        "key": list(key), "row": n,
+                        "source_preview": row["en"][:90],
+                        "existing_preview": actual[:90],
+                    })
             checked_rows += 1
     return {
         "package": inventory_item["package"],
@@ -67,6 +79,8 @@ def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_transl
         "verified_row_count": checked_rows,
         "english_source_rows": english,
         "already_approved_vietnamese_rows": translated,
+        "unrecognized_rows_preserved": preserved,
+        "unrecognized_examples": examples,
         "resource_count_checked": len(groups),
         "interpretation": "audited row-compatible modified baseline, NOT the original SHA-256",
     }
