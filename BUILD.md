@@ -1,3 +1,5 @@
+> **LOCAL v0.8 TEST path (2026-10-09):** Read [V08_LOCAL_TEST_GUIDE.md](V08_LOCAL_TEST_GUIDE.md) first. The new `src/builder/prepare_v08_test.py` builds a local candidate either in explicit `--runtime-only` mode **on top of existing v0.7a Text/font** or from 8 original English core Text packages plus 10 original runtime packages. `src/builder/install_v08_local.py` defaults to DRY RUN; installing requires explicit `--apply --game-closed`, creates hash-verified backups and supports safe `--restore --game-closed`. Existing Text/font do not get overwritten in runtime-only mode, and Documents save snapshots are never packaged. The real package files have not been mounted/validated in this session, so there is **no downloadable v0.8 game payload or confirmed in-game release** yet. CI on synthetic fixtures is a code-safety check only.
+
 # Build notes
 
 Repo này là **source-only**. Không commit file game, font lấy từ game, package gốc hoặc payload đã vá.
