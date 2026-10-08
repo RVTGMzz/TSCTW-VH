@@ -13,6 +13,7 @@ from pathlib import Path
 from build_v07 import FULL_REQUIRED, STR_TYPE, derive_targets, load_translations, load_v06_history, patch_package
 from dbpf import entries, unpack, strings
 from check_runtime_packages import apply
+from safe_rebase_runtime import inspect_prepatched
 from stage_runtime_inputs import select_inventory
 from validate_runtime import ROOT, RUNTIME, assess, effective_records, load_maps, load_row_translations, row_identity
 
@@ -98,8 +99,10 @@ def manifest_row(path, source, patched, count, resources):
     }
 
 
-def build(core, runtime, output, core_original_confirmed=False, runtime_only=False):
+def build(core, runtime, output, core_original_confirmed=False, runtime_only=False, allow_prepatched_runtime=False):
     core, runtime, output = strict_locations(core, runtime, output)
+    if allow_prepatched_runtime and not runtime_only:
+        raise ValueError("Modified runtime compatibility mode is allowed only on runtime-only overlay")
     if not runtime_only and not core_original_confirmed:
         raise ValueError("Core Text originals not confirmed. Supply --core-original-confirmed ONLY after restoring original core files, not v0.7a patched Text packages.")
     report, _ = assess()
@@ -110,8 +113,10 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
     if runtime_only:
         for item in inventory:
             path=runtime/item["package"]
-            if not path.is_file() or path.stat().st_size != item["bytes"] or digest(path) != item["sha256"]:
-                raise ValueError(f"Runtime original missing/hash mismatch: {path}")
+            if not path.is_file():
+                raise FileNotFoundError(f"Runtime input package missing: {path}")
+            if (path.stat().st_size != item["bytes"] or digest(path) != item["sha256"]) and not allow_prepatched_runtime:
+                raise ValueError(f"Runtime original missing/hash mismatch: {path}. Use explicit audited compatibility mode instead of disabling exact-row checks.")
     maps = load_maps()
     decisions = {(r["category"], r["en"]) for r in json.loads((RUNTIME/"scope_decisions.json").read_text(encoding="utf-8"))}
     exact = {(r["package"],tuple(r["key"]),r["row"]):r for r in load_row_translations()}
@@ -119,6 +124,16 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
     grouped = collections.defaultdict(list)
     for r in effective:
         grouped[r["package"]].append(r)
+
+    compatibility_checks = []
+    for item in inventory:
+        path=runtime/item["package"]
+        if path.stat().st_size != item["bytes"] or digest(path) != item["sha256"]:
+            if not allow_prepatched_runtime:
+                raise ValueError(("Modified runtime input not permitted",str(path)))
+            compatibility_checks.append(
+                inspect_prepatched(path.read_bytes(),item,grouped[item["package"]],maps,decisions,exact)
+            )
 
     changed = []
     summaries = []
@@ -171,6 +186,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
                 "untranslated_candidates":report["untranslated_or_review_candidate_rows"]
             },
             "install_files": sorted(changed,key=lambda x:x["path"]),
+            "modified_baseline_checks": compatibility_checks,
             "build_summary": summaries,
         }
         output.mkdir(parents=True,exist_ok=True)
@@ -190,8 +206,9 @@ def main():
     ap.add_argument("--output",type=Path,default=ROOT/"work"/"v08_candidate",help="Disposable new empty folder outside original inputs")
     ap.add_argument("--core-original-confirmed",action="store_true",help="Explicit affirmation Text inputs are ORIGINAL not v0.7a-patched")
     ap.add_argument("--runtime-only",action="store_true",help="Incremental runtime TEST OVERLAY for existing v0.7a + working font; skips core Text packages")
+    ap.add_argument("--allow-compatible-modified-runtime",action="store_true",help="Explicit conservative rebase for prepatched runtime: validate DBPF index, every target row, metadata, source/approved translation")
     args=ap.parse_args()
-    manifest=build(args.core_input,args.runtime_input,args.output,args.core_original_confirmed,args.runtime_only)
+    manifest=build(args.core_input,args.runtime_input,args.output,args.core_original_confirmed,args.runtime_only,args.allow_compatible_modified_runtime)
     print(json.dumps({"candidate":"prepared locally; NOT in-game tested",
                       "changed_files":len(manifest["install_files"]),
                       "changed_rows":sum(i["changed_rows"] for i in manifest["install_files"]),
