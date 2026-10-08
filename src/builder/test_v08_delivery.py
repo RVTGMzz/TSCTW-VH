@@ -8,7 +8,7 @@ from unittest.mock import patch
 
 from test_runtime_dbpf_writer import fixture as dbpf_fixture
 from install_v08_local import install, restore, validate_path
-from prepare_v08_test import strict_locations, manifest_row, verify_inputs, build
+from prepare_v08_test import strict_locations, manifest_row, verify_inputs, build, refuse_pretranslated_core
 from build_v07 import FULL_REQUIRED
 
 
@@ -108,6 +108,18 @@ class DeliveryTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 install(bundle,game,backup,dry_run=False)
             self.assertFalse(backup.exists())
+
+    def test_full_text_guard_rejects_prior_v07_translation(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            p=Path(tmp)
+            (p/"UIText.package").write_bytes(b"synthetic fake Text package")
+            history={("UIText.package",85,1,"Xem xét"):{"Examine"}}
+            with (patch("prepare_v08_test.entries",return_value=[(0x53545223,0,85,0,12)]),
+                  patch("prepare_v08_test.unpack",return_value=b"fake resource"),
+                  patch("prepare_v08_test.strings",return_value=[[1,"Xem xét",""]])):
+                with self.assertRaises(ValueError):
+                    refuse_pretranslated_core(p,["UIText.package"],history)
+                self.assertIsNone(refuse_pretranslated_core(p,["UIText.package"],{}))
 
     def test_runtime_only_builder_produces_installable_payload_without_core_or_save_files(self):
         with tempfile.TemporaryDirectory() as tmp:
