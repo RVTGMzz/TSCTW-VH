@@ -33,6 +33,7 @@ jobs:
           python src/builder/test_probe_story_selector.py
           python src/builder/test_v08_delivery.py
           python src/builder/test_win_v08_installer.py
+          python src/builder/test_safe_rebase_runtime.py
 
       - name: Verify actual bundled localization source coverage
         run: python src/builder/validate_runtime.py
@@ -75,9 +76,9 @@ jobs:
           Open VotriValley-Castaway-v08-TEST.exe and click "Cài Việt hóa v0.8 TEST".
           No Python or extra installer prerequisites on the user's PC.
           This is a runtime TEXT overlay for an existing working v0.7a installation with RonVN font.
-          The app checks exact ORIGINAL hashes of 10 runtime package files, creates backups,
+          The app verifies all 10 input packages; prepatched packages must pass exact row/resource/language compatibility checks and are backed up,
           and refuses unsafe writes. It will NOT alter Documents save data.
-          If original runtime packages have already been modified, installation STOPS safely.
+          Unknown/corrupt/incompatible runtime modifications always stop safely without overwriting files.
           This build passed synthetic tests, NOT yet verified against the user's real game.
           Story Selector runtime read path remains unverified.
           Restore via "Khôi phục bản trước" in the same app after closing the game.
@@ -101,6 +102,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           $tag = "castaway-v08-test-windows-${{ github.run_number }}"
-          $notes = "Votri Valley - The Sims Castaway Stories v0.8 TEST (Windows). Download EXE and double-click; no Python required. EXPERIMENTAL: only synthetic source/DBPF tests passed, real game packages and gameplay are not yet verified. Runtime overlay requires an existing functional v0.7a Text/font setup, verifies 10 ORIGINAL runtime package hashes, and makes backups. Does not change Documents saves. Restorable using the same EXE."
+          $notes = "Votri Valley - The Sims Castaway Stories v0.8 TEST (Windows). Download EXE and double-click; no Python required. EXPERIMENTAL: only synthetic source/DBPF tests passed, real game packages and gameplay are not yet verified. Runtime overlay requires an existing functional v0.7a Text/font setup, verifies originals by SHA-256 or validates previously patched DBPF rows and metadata before backup/patch. Does not change Documents saves. Restorable using the same EXE."
           gh release create $tag "dist/VotriValley-Castaway-v08-TEST.exe" "dist/README-V08-TEST.txt" --repo "${{ github.repository }}" --target "${{ github.sha }}" --title "Castaway Stories Viet hoa v0.8 TEST - Windows build ${{ github.run_number }}" --notes $notes --prerelease
           if ($LASTEXITCODE -ne 0) { throw "GitHub prerelease creation failed" }
