@@ -139,11 +139,13 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
     summaries = []
     payload = output/"Payload"
     try:
-        # Build core directly from its original English source, not from prior v0.7a patches.
-        core_translations, sources, overrides = load_translations()
-        targets, _ = derive_targets(core_translations)
-        history = load_v06_history() if required_core else {}
+        # Runtime-only overlays deliberately do NOT load the original core Text
+        # translation catalog, castaway-english-strings.json, or validation.json.
+        # Neither is needed for runtime DBPF patching. Load them ONLY in full mode.
         if required_core:
+            core_translations, sources, overrides = load_translations()
+            targets, _ = derive_targets(core_translations)
+            history = load_v06_history()
             refuse_pretranslated_core(core, required_core, history)
         for name in required_core:
             source = core/name
