@@ -200,6 +200,17 @@ def restore_game(game, progress=lambda x: None):
     return restore(game, backup, dry_run=False)
 
 
+def save_diagnostic_report(destination, log):
+    """Write user-visible text only, never package bytes/saves, on explicit request."""
+    destination = Path(destination)
+    destination.write_text(
+        "Votri Valley - The Sims Castaway Stories v0.8 TEST\\n"
+        "Báo cáo tạo thủ công (không tự gửi qua mạng).\\n"
+        "Xin kiểm tra đường dẫn cá nhân trước khi chia sẻ.\\n\\n" + log + "\\n",
+        encoding="utf-8",
+    )
+
+
 class InstallerApp:
     def __init__(self, root):
         self.root = root
@@ -234,6 +245,8 @@ class InstallerApp:
         self.install_button.pack(side="left")
         self.restore_button = ttk.Button(controls, text="Khôi phục bản trước", command=self.restore)
         self.restore_button.pack(side="left", padx=(10, 0))
+        self.report_button = ttk.Button(controls, text="Lưu báo cáo...", command=self.save_report)
+        self.report_button.pack(side="left", padx=(10, 0))
         self.progressbar = ttk.Progressbar(panel, mode="indeterminate")
         self.progressbar.pack(fill="x", pady=(0, 8))
         ttk.Label(panel, textvariable=self.status, wraplength=620).pack(anchor="w", pady=(0, 6))
@@ -241,7 +254,7 @@ class InstallerApp:
                                              state="disabled", font=("Consolas", 9))
         self.log.pack(fill="both", expand=True)
         self.write("Lưu ý: Đây là bản TEST. Sau khi cài, hãy kiểm tra gameplay, Rewards, vật phẩm và menu.")
-        self.write("File game phải khớp bản gốc. Nếu bị mod sẵn, trình cài sẽ dừng an toàn.")
+        self.write("File đã Việt hóa trước được kiểm tra theo resource. Bản khác nguồn sẽ được giữ nguyên.")
         self.root.after(125, self.process_events)
 
     def write(self, value):
@@ -249,6 +262,25 @@ class InstallerApp:
         self.log.insert("end", str(value) + "\n")
         self.log.see("end")
         self.log.configure(state="disabled")
+
+    def save_report(self):
+        """User-initiated local export; never auto-uploads logs or game data."""
+        filename = filedialog.asksaveasfilename(
+            title="Lưu báo cáo Castaway để gửi hỗ trợ",
+            defaultextension=".txt",
+            initialfile="Castaway-v08-bao-cao.txt",
+            filetypes=[("Tệp văn bản", "*.txt")],
+        )
+        if not filename:
+            return
+        data = self.log.get("1.0", "end-1c")
+        try:
+            save_diagnostic_report(Path(filename), data)
+            messagebox.showinfo("Đã lưu báo cáo",
+                "Báo cáo đã lưu trên máy. Hãy mở xem lại trước khi gửi, vì có thể chứa đường dẫn cá nhân.\\n\\n"
+                + filename)
+        except OSError as exc:
+            messagebox.showerror("Không lưu được báo cáo", str(exc))
 
     def choose(self):
         chosen = filedialog.askdirectory(title="Chọn thư mục Castaway chứa TSData")
@@ -353,7 +385,7 @@ class InstallerApp:
             elif event == "error":
                 self.status.set("Đã dừng an toàn. Xem chi tiết bên dưới.")
                 self.write(value)
-                messagebox.showerror("Không thể hoàn tất", value)
+                messagebox.showerror("Không thể hoàn tất", value + "\\n\\nNhấn 'Lưu báo cáo...' để lưu thông tin lỗi mà không cần chụp nhiều ảnh.")
             elif event == "done":
                 self.busy = False
                 self.progressbar.stop()
