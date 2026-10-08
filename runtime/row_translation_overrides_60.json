@@ -1,0 +1,130 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2146250052,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "puddle",
+    "description": "The Sims 2 - Needs Translation - Batch24\nPlease keep in lower case - this word is used in the TNS for gaining cleaning skill.",
+    "vi": "vũng nước",
+    "reason": "Rain-puddle catalog label may surface in cleaning-skill notifications; retain exact row and keep it lowercase as required by the source note."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Water",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tưới nước",
+    "reason": "Base cattail maintenance interaction on a water plant that may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Throw Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Vứt đi",
+    "reason": "Base cattail maintenance interaction on a water plant that may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Water",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Tưới nước",
+    "reason": "Base cattail maintenance interaction on a water plant that may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140064765,
+      131,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Throw Away",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Vứt đi",
+    "reason": "Base cattail maintenance interaction on a water plant that may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140064765,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Nine Lives Cat O' Nines",
+    "description": "Sims2 - Needs Translation - batch16",
+    "vi": "Cỏ Đuôi Mèo Chín Mạng",
+    "reason": "Base cattail catalog title; retain because this water-landscaping object fits Castaway environments and may be reachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140064765,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "What pond or marsh is complete without cattails adorning its edge? The Nine Lives Cat O' Nines are the perfect finishing touch to a Sim's watery landscaping.",
+    "description": "Sims2 - Needs Translation - batch16",
+    "vi": "Ao hay đầm lầy nào mà thiếu những bụi cỏ đuôi mèo ven bờ cho được? Cỏ Đuôi Mèo Chín Mạng là điểm nhấn hoàn hảo cho mọi góc cảnh quan sông nước của Sim.",
+    "reason": "Base cattail catalog description; retain because this water-landscaping object fits Castaway environments and may be reachable."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140064765,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Nine Lives Cat O' Nines",
+    "description": "Sims2 - Needs Translation - batch16",
+    "vi": "Cỏ Đuôi Mèo Chín Mạng",
+    "reason": "Base cattail catalog title duplicate language row; retain exact row for consistent Castaway localization."
+  }
+]
