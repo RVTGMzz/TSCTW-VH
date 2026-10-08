@@ -1,3 +1,22 @@
+> **Authoritative Castaway-only checkpoint — 2026-10-09, Source Audit #425 PASS**. **7,154** total mapping entries (**2,163** exact-row translations), **14,719** effective candidates, **0** candidate missing/review, **20,095** inherited unresolved, **1,349** automatic exclusions, **0** parse errors. [Run #425](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37833534628) at `8d57a401a`. Subsequent source tests include safe package-staging unit tests ([run #430](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37833999242) PASS). This supersedes older numbers elsewhere. **v0.8 TEST remains unreleased**: source-only QA is not binary writer QA or game execution; active story selector read path is still unknown.
+
+## Immediate Castaway-only work order (supersedes inherited-memory sweeps)
+
+**DO NOT continue broad The Sims 2 memory/expansion localization as the priority.** Explicit user instruction: finish **The Sims Castaway Stories** first. Read `runtime/CASTAWAY_ONLY_FOCUS_2026-10-09.md` and `runtime/RELEASE_READINESS_V08.md` BEFORE any new inherited review batches. Runtime release gates: real selector read path, fresh baseline package QA, reversible combined core/runtime/font TEST, player in-game validation.
+
+Changes since Source Audit #414:
+- `runtime/row_review_decisions_142.json`: 64 exact Nightlife/EP2 date-and-vampire inherited rows excluded.
+- `runtime/row_translation_overrides_73.json`: 116 exact household/family memory rows translated (last base-memory batch before refocus).
+- `runtime/row_scope_overrides_82.json`: **21** exact likely Castaway shared menu entries (18 `Sleep` from living chairs, three `Call To Meal...`), reusing approved menu translations.
+- `runtime/translations/ui.json`: `Reward` standardized to `Phần thưởng`.
+- `src/builder/trace_selector_sources.py`: Source Audit now enumerates exact selector-related resource origins, and checks translations in their OWN categories. **17 source candidates, all 17 already translated**: objects.package 2 story strings, N001 1 selector title, N002 14 selector/person/lot descriptions. N001/N002 audited copies came from Documents, not proven runtime installation. `NeighborhoodManager.package` is in inventory but not proven selector-text owner. **Do not fix by replacing whole saves.**
+- `.github/workflows/source-audit.yml`: added targeted inherited-triage for reward, Examine/Use and survival strings. EP2/EP7/cheat and chapter-controller hits must be triaged by exact behavior, NOT bulk translated.
+- `src/builder/stage_runtime_inputs.py`: source-safe local preflight compares 13 original package SHA-256s against the inventory, separates game installation vs Documents save sources, defaults to read-only and only copies after explicit `--copy-verified` when all hashes pass. It cannot build anything without the user's own actual file bytes. `src/builder/test_stage_runtime_inputs.py`: **three synthetic tests PASS** in CI #430; see `runtime/README.md` for usage. No original commercial files are committed and no current binary QA has been performed.
+
+Next shard numbers if needed (check tree): `row_scope_overrides_83.json`, `row_translation_overrides_74.json`, `row_review_decisions_143.json`. Prioritize exact Castaway-active UI, crafters, rewards, catalog and menu ownership, and the selector + package builder; do not spend cycles classifying the residual inherited pool for its own sake. Source counts are **not an estimated release date**.
+
+---
+
 > **2026-10-09 new checkpoint (source audit run 416 PASS):** aggregate translation map entries **7,154**; exact-row translations **2,163**; effective candidate rows **14,698**; untranslated/review candidates **0**; unresolved inherited **20,116**; automatic exclusions **1,349**; parse errors **0**. Proven by GitHub Actions [run 416](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37829722509) at commit `743a5176019074fd1638de7a99e8181962c1badc` (subsequent commits include a text-polish correction and release-planning doc, awaiting their own CI confirmation). This supersedes previous numerical checkpoints below. **No v0.8 TEST release; selector runtime source and current-package QA remain unverified.**
 
 ## Continuation after run 414
