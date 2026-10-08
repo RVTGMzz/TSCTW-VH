@@ -18,19 +18,21 @@ Gzip files contain UTF-8 JSON using escaped characters to preserve invalid legac
 
 Before attempting the *next* v0.8 development package QA, use the new conservative staging tool. It **does not modify the game**, does not copy anything by default and rejects a mismatched original SHA-256 (including files already altered by older localization patches). It treats the N001/N002 and `NeighborhoodManager.package` inventory locations as **Documents save sources**, never as installation templates.
 
-Run from the repository root, using the actual local installation and save-data directory:
+Run from the repository root to check **10 install-owned package files only** (no Documents files required):
 
 ```powershell
-python src/builder/stage_runtime_inputs.py --game-root "G:/Castaway-Portable" --save-root "C:/Users/USERNAME/Documents/Electronic Arts/The Sims™ Castaway Stories"
+python src/builder/stage_runtime_inputs.py --game-root "G:/Castaway-Portable"
 ```
 
 This produces only `work/baseline_preflight.json`. The values `USERNAME` and the Documents folder must be replaced with the user's own Windows paths. The user may have a different active save folder name or a redirected Documents directory.
 
-If **all 13 baseline hashes match**, the operator may opt in to copy original, user-owned inputs to separate disposable staging paths:
+If **all 10 installation-owned baseline hashes match**, the operator may opt in to copy original, user-owned installation inputs to separate disposable staging paths. The **three Documents save snapshots are excluded by default**:
 
 ```powershell
-python src/builder/stage_runtime_inputs.py --game-root "G:/Castaway-Portable" --save-root "C:/Users/USERNAME/Documents/Electronic Arts/The Sims™ Castaway Stories" --copy-verified
+python src/builder/stage_runtime_inputs.py --game-root "G:/Castaway-Portable" --copy-verified
 ```
+
+To compare the **historical** N001/N002/NeighborhoodManager snapshots for diagnostics only, optionally supply `--include-save-snapshots --save-root "C:/Users/USERNAME/Documents/Electronic Arts/The Sims™ Castaway Stories"`. Real saves commonly change as you play, so a hash mismatch here is expected and must not prevent ordinary installation-only QA. Never include a user's save snapshots in distributed payloads.
 
 The script will **not overwrite staged files** and will abort if any expected hash differs. Original Documents saves are never overwritten or distributed. Do not run the QA writer on the live installation. This tool is a *preflight*, **not an automatic v0.8 installer or a claim that the current v0.7a install matches original hashes**. The separate core Text builder may require additional original Text package inputs.
 
@@ -41,6 +43,22 @@ python src/builder/test_stage_runtime_inputs.py
 ```
 
 See `runtime/CASTAWAY_ONLY_FOCUS_2026-10-09.md` for why selector ownership, game package writer QA and in-game inspection still block v0.8 TEST release.
+
+## Read-only selector source probe
+
+Use this local probe before attempting to patch a story selector. It finds the CTSS title **resource key** under both the game installation's neighborhood templates (when present) and the actual Documents save copies, returning their hash, language ID and whether the current title matches English or the approved Vietnamese map.
+
+```powershell
+python src/builder/probe_story_selector.py --game-root "G:/Castaway-Portable" --save-root "C:/Users/USERNAME/Documents/Electronic Arts/The Sims™ Castaway Stories"
+```
+
+It writes only `work/selector_probe.json`, never modifies a source package and cannot establish the game-process read path. A saved title showing Vietnamese while the game UI shows English indicates likely different source/precedence or language fallback, **not** a reason to overwrite the save. The active Documents path may be different if the profile uses OneDrive or a portable redirect.
+
+Synthetic regression tests:
+```sh
+python src/builder/test_runtime_dbpf_writer.py
+python src/builder/test_probe_story_selector.py
+```
 
 ## Uploaded neighborhood provenance
 
@@ -65,7 +83,7 @@ python src/builder/build_v07.py --audit-only
 
 `validate_runtime.py --require-complete` intentionally fails while unresolved work remains. Do not remove this gate to label a partial sweep complete.
 
-`check_runtime_packages.py` creates **development QA output only**, outside the baseline inputs. It checks input hashes, exact row/metadata identity, full chained placeholders, control-character sequence, compression round trips, table padding, 20/24-byte indices, DIR sizes, preservation of unrelated resources and byte-identical results on a second application. It does not combine core Text patches, fonts or an installer and is not a v0.8 release builder.
+`check_runtime_packages.py` now defaults to **installation-only QA (10 audited package paths)**, excluding all `TSData/Res/UserData/` historical Documents snapshots. Use `--include-save-snapshots` only in explicitly isolated diagnostic QA; never ship cloned neighborhood save packages. It creates **development QA output only**, outside the baseline inputs. It checks input hashes, exact row/metadata identity, full chained placeholders, control-character sequence, compression round trips, table padding, 20/24-byte indices, DIR sizes, preservation of unrelated resources and byte-identical results on a second application. It does not combine core Text patches, fonts or an installer and is not a v0.8 release builder.
 
 ## Outstanding
 
