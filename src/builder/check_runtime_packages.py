@@ -9,7 +9,7 @@ from validate_runtime import ROOT, RUNTIME, effective_records, load_maps, load_r
 from stage_runtime_inputs import select_inventory
 
 
-def apply(data, records, maps, decisions, exact_translations):
+def apply(data, records, maps, decisions, exact_translations, preserve_unrecognized=False):
     package = Package(data)
     index = {e.key:e for e in package.entries}
     grouped = collections.defaultdict(list)
@@ -33,6 +33,10 @@ def apply(data, records, maps, decisions, exact_translations):
             if value == vi:
                 continue
             if value != row['en']:
+                if preserve_unrecognized:
+                    # Historical/third-party row text of unknown provenance:
+                    # preserve its bytes, translate only independently verified English.
+                    continue
                 raise ValueError(('Source row differs from audit; never overwrite blindly',key,row['row']))
             rows[row['row']][1] = vi
             changed_rows += 1
