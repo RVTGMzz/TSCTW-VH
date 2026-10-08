@@ -2,10 +2,14 @@
 
 ## BẢN CÀI WINDOWS v0.8 TEST — NHẤN ĐÚP, KHÔNG CẦN PYTHON
 
+**Build 29 (2026-10-09):** thêm nút **Lưu báo cáo...** để tự xuất log UTF-8 ra máy khi cài có lỗi (người dùng tự xem trước khi chia sẻ; không tự gửi qua mạng). Bấm **Cài** một lần nữa sau khi đã vá đủ những dòng nguồn xác nhận được sẽ được báo **không có gì cần bổ sung**, thay vì báo lỗi hoặc tạo backup mới. [Windows CI #29](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37861994690) đã PASS kiểm thử dữ liệu dịch và smoke-test EXE đóng gói. Các thay đổi vẫn chỉ được kiểm thử bằng package giả; chưa có kết quả Windows gameplay thật.
+
+
+
 **Build 23 sửa lỗi thiếu `castaway-english-strings.json` của Build 17.** Runtime-only không cần catalog Text gốc. EXE được kiểm thử đóng gói, tạo bản vá giả, cài và khôi phục thành công trong CI; game thật chưa được kiểm tra. Nếu Build 17 dừng tại lỗi này, không cần khôi phục file nào vì game chưa bị sửa.
 
 
-**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-23/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
+**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-29/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
 
 - Giữ nguyên bộ **Text/font v0.7a** đã cài và đang hoạt động; chỉ bổ sung nguồn dịch runtime Castaway.
 - Tự nhận đường dẫn `G:/Castaway-Portable` hoặc chọn thư mục game; nhấn **Cài Việt hóa v0.8 TEST**. Có nút **Khôi phục bản trước**.
