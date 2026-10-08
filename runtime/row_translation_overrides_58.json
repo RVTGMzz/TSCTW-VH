@@ -1,0 +1,1170 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133119187,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Kick BackYard Loungechair by Survivall",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Ghế Nằm Kick BackYard của Survivall",
+    "reason": "Base lounge-chair catalog title; retain exact row because the object may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133119187,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Give your backyard a \"kick\" with Survivall! We've carefully studied the grimy color of overexposed lawn furniture so that the Kick BackYard Loungechair will fit right in with all clapboard and mobile home motifs. Lawn furniture clashing with that trailer down the street? Worry no more.",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Cho sân sau thêm chút “chất” với Survivall! Chúng tôi đã nghiên cứu rất kỹ màu cũ kỹ của những món nội thất sân vườn phơi nắng lâu ngày để Ghế Nằm Kick BackYard hòa hợp hoàn hảo với nhà ván gỗ lẫn nhà di động. Ghế sân vườn cứ lệch tông với căn trailer cuối phố hả? Khỏi lo nữa.",
+    "reason": "Base lounge-chair catalog description; retain exact row because the object may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133119187,
+      2000,
+      0
+    ],
+    "row": 2,
+    "category": "catalog",
+    "language": 2,
+    "en": "Kick BackYard Loungechair by Survivall",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Ghế Nằm Kick BackYard của Survivall",
+    "reason": "Base lounge-chair catalog title; retain exact row because the object may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133119187,
+      2000,
+      0
+    ],
+    "row": 3,
+    "category": "catalog",
+    "language": 2,
+    "en": "Give your backyard a \"kick\" with Survivall! We've carefully studied the grimy color of overexposed lawn furniture so that the Kick BackYard Loungechair will fit right in with all clapboard and mobile home motifs. Lawn furniture clashing with that trailer down the street? Worry no more.",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Cho sân sau thêm chút “chất” với Survivall! Chúng tôi đã nghiên cứu rất kỹ màu cũ kỹ của những món nội thất sân vườn phơi nắng lâu ngày để Ghế Nằm Kick BackYard hòa hợp hoàn hảo với nhà ván gỗ lẫn nhà di động. Ghế sân vườn cứ lệch tông với căn trailer cuối phố hả? Khỏi lo nữa.",
+    "reason": "Base lounge-chair catalog description; retain exact row because the object may be reachable in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133119187,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133119187,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133119187,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133119187,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Sleep",
+    "description": "",
+    "vi": "Ngủ",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133119187,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133119187,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136575485,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "\"It's MYSHUNO!\" (The Fabulously Zany Party Game)",
+    "description": "The Sims 2 - Needs Translation - Batch10\r\n\r\nNote: This is a made-up toy name.",
+    "vi": "\"MYSHUNO đây!\" (Trò Chơi Tiệc Tùng Siêu Quậy)",
+    "reason": "Base MYSHUNO game catalog title; player-facing if the object is retained."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2136575485,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Have you heard? Sims all over SimCity are going gaga for MYSHUNO! It's all the rage, no matter what your age! Former chess champion Max Matewell calls MYSHUNO! \". . . the zaniest, wackiest, most embarassing fun I've had in days!\" No self-respecting party host would be caught dead without MYSHUNO! (For three players or more; ages 5 through 105.)",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nAdded For three players or more line to last sentence. Note: this game is a Sims version of BINGO. One Sim calls, two others play against each other.",
+    "vi": "Nghe tin chưa? Sim khắp SimCity đang mê MYSHUNO như điếu đổ! Trò này hot bất kể tuổi tác! Cựu vô địch cờ vua Max Matewell còn gọi MYSHUNO là “...trò vui điên nhất, quậy nhất và quê nhất tôi từng chơi mấy ngày nay!” Chủ tiệc nào còn tự trọng thì chẳng đời nào thiếu MYSHUNO! (Dành cho từ ba người chơi trở lên; độ tuổi 5 đến 105.)",
+    "reason": "Base MYSHUNO catalog description; player-facing if the object is retained."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136575485,
+      302,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Ask to Join",
+    "description": "Sims2 - Needs Translation - Batch19",
+    "vi": "Rủ tham gia",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2136575485,
+      302,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 2,
+    "en": "Ask to Join",
+    "description": "Sims2 - Needs Translation - Batch19",
+    "vi": "Rủ tham gia",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Call",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Hô số",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Chơi",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims 2 - Batch - copied translations from Chessboard for \"Practice\"",
+    "vi": "Luyện tập",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Practice",
+    "description": "The Sims 2 - Batch - copied translations from Chessboard for \"Practice\"",
+    "vi": "Luyện tập",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Call",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Hô số",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Play",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Chơi",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136575485,
+      1,
+      0
+    ],
+    "row": 8,
+    "category": "menu",
+    "language": 2,
+    "en": "Practice",
+    "description": "The Sims 2 - Batch - copied translations from Chessboard for \"Practice\"",
+    "vi": "Luyện tập",
+    "reason": "Base MYSHUNO player/action-queue interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137327244,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137327244,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137327244,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137327244,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Sleep",
+    "description": "",
+    "vi": "Ngủ",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137327244,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137327244,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 9,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! $NeighborLocal:1 has just fulfilled a Lifetime Want. As a reward, $NeighborLocal:1 will have Platinum Aspiration for the rest of his lifetime.",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "vi": "Chúc mừng! $NeighborLocal:1 vừa hoàn thành Mong Muốn Trọn Đời. Phần thưởng là $NeighborLocal:1 sẽ có Khát Vọng Bạch Kim suốt đời.",
+    "reason": "Lifetime Want completion notice; preserve $NeighborLocal:1 exactly and keep terminology aligned with existing Mong muốn/Khát Vọng translations."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 10,
+    "category": "dialog",
+    "language": 1,
+    "en": "Congratulations! $NeighborLocal:1 has just fulfilled a Lifetime Want. As a reward, $NeighborLocal:1 will have Platinum Aspiration for the rest of her lifetime.",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "vi": "Chúc mừng! $NeighborLocal:1 vừa hoàn thành Mong Muốn Trọn Đời. Phần thưởng là $NeighborLocal:1 sẽ có Khát Vọng Bạch Kim suốt đời.",
+    "reason": "Lifetime Want completion notice; preserve $NeighborLocal:1 exactly and keep terminology aligned with existing Mong muốn/Khát Vọng translations."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2138281768,
+      301,
+      0
+    ],
+    "row": 20,
+    "category": "dialog",
+    "language": 2,
+    "en": "Congratulations! $NeighborLocal:1 has just fulfilled a Lifetime Want. As a reward, $NeighborLocal:1 will have Platinum Aspiration for the rest of his lifetime.",
+    "description": "The Sims 2EP1 - Needs Translation - BatchEP1-5",
+    "vi": "Chúc mừng! $NeighborLocal:1 vừa hoàn thành Mong Muốn Trọn Đời. Phần thưởng là $NeighborLocal:1 sẽ có Khát Vọng Bạch Kim suốt đời.",
+    "reason": "Lifetime Want completion notice; preserve $NeighborLocal:1 exactly and keep terminology aligned with existing Mong muốn/Khát Vọng translations."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138824749,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138824749,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138824749,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138824749,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Sleep",
+    "description": "",
+    "vi": "Ngủ",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138824749,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138824749,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139079526,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "SimVac",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis object looks like a canister-style vacuum cleaner with 5 meters sticking up from the top to indicate it has only five uses. Sim picks it up and uses it to suck aspiration or skill points from another Sim.",
+    "vi": "SimVac",
+    "reason": "Aspiration-reward object can be player-facing; retain branded title."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139079526,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "The SimVac puts the \"suck\" in succubus! Equip your Sim with the SimVac, and look for an unwitting victim . . . err . . . we mean, a willing individual with whom you share a friendly rivalry. Operate the SimVac on them and watch as you . . . liberate . . . their Aspirations and Skills and make them your own.",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nNote: This is an aspiration reward object, used to suck aspiration or skill points away from another Sim. It has a very entertaining interaction where the Sim gets the \"suckee\" to turn around while the \"sucker\" uses the SimVac on them.",
+    "vi": "SimVac đúng là “hút” tới bến! Trang bị SimVac cho Sim của bạn rồi tìm một nạn nhân không hề hay biết... à nhầm... một người tự nguyện mà bạn có chút cạnh tranh thân thiện. Dùng SimVac lên họ và xem bạn... giải phóng... Khát Vọng cùng Kỹ Năng của họ rồi biến chúng thành của mình.",
+    "reason": "Aspiration-reward catalog description; retain if the reward surfaces in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139079526,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Absorb Sim",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: In this interaction, a Sim uses the \"SimVac\" to suck aspiration points or skill points from another Sim. In most cases this string is ",
+    "vi": "Hút Sim",
+    "reason": "SimVac player/action-queue interaction; retain exact row in case the aspiration reward is available."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139079526,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Drop Vac",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nSim drops the SimVac",
+    "vi": "Thả SimVac",
+    "reason": "SimVac player/action-queue interaction; retain exact row in case the aspiration reward is available."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139079526,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Vứt bỏ",
+    "reason": "SimVac player/action-queue interaction; retain exact row in case the aspiration reward is available."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139079526,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Absorb Sim",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nNote to translators: In this interaction, a Sim uses the \"SimVac\" to suck aspiration points or skill points from another Sim. In most cases this string is ",
+    "vi": "Hút Sim",
+    "reason": "SimVac player/action-queue interaction; retain exact row in case the aspiration reward is available."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139079526,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Drop Vac",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\nSim drops the SimVac",
+    "vi": "Thả SimVac",
+    "reason": "SimVac player/action-queue interaction; retain exact row in case the aspiration reward is available."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2139079526,
+      1,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Dispose",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "vi": "Vứt bỏ",
+    "reason": "SimVac player/action-queue interaction; retain exact row in case the aspiration reward is available."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141372508,
+      129,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Look at Self",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngắm mình",
+    "reason": "Vanity/CAS-like interaction may be player-facing; retain exact row rather than excluding the shared inherited object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141372508,
+      129,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Change Appearance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Thay đổi diện mạo",
+    "reason": "Vanity/CAS-like interaction may be player-facing; retain exact row rather than excluding the shared inherited object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141372508,
+      129,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Makeover $Object",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\ninteraction on Vanity Table which brings up a CAS-like UI.",
+    "vi": "Thay diện mạo cho $Object",
+    "reason": "Vanity/CAS-like interaction may be player-facing; retain exact row rather than excluding the shared inherited object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141372508,
+      129,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 1,
+    "en": "Be Madeover",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-5\ninteraction on Vanity Table action queue for SimB",
+    "vi": "Được thay diện mạo",
+    "reason": "Vanity/CAS-like interaction may be player-facing; retain exact row rather than excluding the shared inherited object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141372508,
+      129,
+      0
+    ],
+    "row": 12,
+    "category": "menu",
+    "language": 2,
+    "en": "Look at Self",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngắm mình",
+    "reason": "Vanity/CAS-like interaction may be player-facing; retain exact row rather than excluding the shared inherited object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141372508,
+      129,
+      0
+    ],
+    "row": 14,
+    "category": "menu",
+    "language": 2,
+    "en": "Change Appearance",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Thay đổi diện mạo",
+    "reason": "Vanity/CAS-like interaction may be player-facing; retain exact row rather than excluding the shared inherited object."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141482431,
+      131,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Stargaze",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngắm sao",
+    "reason": "Base telescope interaction/action-queue text may be reachable; retain exact row in Vietnamese."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141482431,
+      131,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Look Through",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Nhìn qua kính",
+    "reason": "Base telescope interaction/action-queue text may be reachable; retain exact row in Vietnamese."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141482431,
+      131,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Witness Abduction",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nNote for translators: queue text for Sim(s) watching another Sim being abducted by alien spaceship",
+    "vi": "Chứng kiến vụ bắt cóc",
+    "reason": "Base telescope interaction/action-queue text may be reachable; retain exact row in Vietnamese."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141482431,
+      131,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Stargaze",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngắm sao",
+    "reason": "Base telescope interaction/action-queue text may be reachable; retain exact row in Vietnamese."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141482431,
+      131,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Look Through",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Nhìn qua kính",
+    "reason": "Base telescope interaction/action-queue text may be reachable; retain exact row in Vietnamese."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141482431,
+      131,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Witness Abduction",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\nNote for translators: queue text for Sim(s) watching another Sim being abducted by alien spaceship",
+    "vi": "Chứng kiến vụ bắt cóc",
+    "reason": "Base telescope interaction/action-queue text may be reachable; retain exact row in Vietnamese."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144542434,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144542434,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144542434,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Sit",
+    "description": "",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144542434,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 1,
+    "en": "Sleep",
+    "description": "",
+    "vi": "Ngủ",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144542434,
+      128,
+      0
+    ],
+    "row": 7,
+    "category": "menu",
+    "language": 2,
+    "en": "Sit",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Ngồi",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2144542434,
+      128,
+      0
+    ],
+    "row": 9,
+    "category": "menu",
+    "language": 2,
+    "en": "Nap",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Chợp mắt",
+    "reason": "Base lounge-chair interaction may be player-facing in Castaway; retain and localize this exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145518864,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8 - this looks like LTs may have already translated this in the DB but it was not marked for a batch.",
+    "vi": "Ngồi tám chuyện",
+    "reason": "Social Hang Out is a plausible player-facing social even though introduced with EP1 metadata; retain rather than exclude."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145518864,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8 - this looks like LTs may have already translated this in the DB but it was not marked for a batch.",
+    "vi": "Ngồi tám chuyện",
+    "reason": "Social Hang Out is a plausible player-facing social even though introduced with EP1 metadata; retain rather than exclude."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145518864,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8 - this looks like LTs may have already translated this in the DB but it was not marked for a batch.",
+    "vi": "Ngồi tám chuyện",
+    "reason": "Social Hang Out is a plausible player-facing social even though introduced with EP1 metadata; retain rather than exclude."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145518864,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8 - this looks like LTs may have already translated this in the DB but it was not marked for a batch.",
+    "vi": "Ngồi tám chuyện",
+    "reason": "Social Hang Out is a plausible player-facing social even though introduced with EP1 metadata; retain rather than exclude."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2145518864,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Hang Out",
+    "description": "The Sims2EP1 - Needs Translation - BatchEP1-8 - this looks like LTs may have already translated this in the DB but it was not marked for a batch.",
+    "vi": "Ngồi tám chuyện",
+    "reason": "Social Hang Out is a plausible player-facing social even though introduced with EP1 metadata; retain rather than exclude."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146579749,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Đá",
+    "reason": "Base decorative-object interaction may be player-facing; retain and localize exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146579749,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Stand Up",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nIf a Sim has kicked over the flamingo, this interaction will stand it back up.",
+    "vi": "Dựng lại",
+    "reason": "Base decorative-object interaction may be player-facing; retain and localize exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146579749,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "View",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Ngắm",
+    "reason": "Base decorative-object interaction may be player-facing; retain and localize exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146579749,
+      1,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Kick",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Đá",
+    "reason": "Base decorative-object interaction may be player-facing; retain and localize exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146579749,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Stand Up",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\nIf a Sim has kicked over the flamingo, this interaction will stand it back up.",
+    "vi": "Dựng lại",
+    "reason": "Base decorative-object interaction may be player-facing; retain and localize exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2146579749,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "View",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Ngắm",
+    "reason": "Base decorative-object interaction may be player-facing; retain and localize exact row."
+  }
+]
