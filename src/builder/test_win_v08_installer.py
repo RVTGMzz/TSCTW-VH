@@ -58,6 +58,21 @@ class WindowsGuiSafetyTests(unittest.TestCase):
                 with self.assertRaisesRegex(RuntimeError, "font"):
                     app.preflight(game)
 
+    def test_report_export_is_explicit_utf8_and_does_not_access_game_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            folder=Path(tmp)
+            output=folder/"Castaway-report.txt"
+            game=folder/"game"
+            game.mkdir()
+            snapshot=b"pretend user's game binary"
+            (game/"objects.package").write_bytes(snapshot)
+            app.save_diagnostic_report(output, "Đã dừng an toàn: dữ liệu Việt hóa trước")
+            content=output.read_text(encoding="utf-8")
+            self.assertIn("Đã dừng an toàn: dữ liệu Việt hóa trước",content)
+            self.assertIn("\\n", content)
+            self.assertEqual((game/"objects.package").read_bytes(),snapshot)
+            self.assertEqual(len(list(folder.glob("*.txt"))),1)
+
     def test_backups_are_discovered_only_for_same_install_location(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
