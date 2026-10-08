@@ -14,6 +14,13 @@ from validate_runtime import ROOT, RUNTIME
 SAVE_PREFIX = "TSData/Res/UserData/"
 
 
+def select_inventory(inventory, include_save_snapshots=False):
+    """Default to installation packages; never sneak a Documents snapshot into a TEST payload."""
+    if include_save_snapshots:
+        return list(inventory)
+    return [r for r in inventory if not r["package"].startswith(SAVE_PREFIX)]
+
+
 def sha256(path):
     digest = hashlib.sha256()
     with path.open("rb") as stream:
@@ -84,7 +91,7 @@ def main():
     inventory = json.loads((RUNTIME / "inventory.json").read_text(encoding="utf-8"))
     # The old audit staged N001/N002/NeighborhoodManager under an install-like alias.
     # In reality these came from Documents; normal TEST builds must not require or ship them.
-    selected = [r for r in inventory if args.include_save_snapshots or not r["package"].startswith(SAVE_PREFIX)]
+    selected = select_inventory(inventory, args.include_save_snapshots)
     skipped_save_snapshots = len(inventory) - len(selected)
     results = inspect(selected, game_root, save_root)
     passed = all(r["status"] == "verified" for r in results)
