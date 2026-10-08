@@ -1,0 +1,738 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132942813,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Young Sim Magazine",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nHeader for magazine subject. This should probably change to \"Sports\" to match the UI.",
+    "vi": "Tạp chí Sim Trẻ",
+    "reason": "Base-game magazine catalog title; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132942813,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "There's fun for all ages in our pages! Get the lowdown on the latest toys, wildest creatures, and coolest school projects. No matter how old you are, you're sure to love Young Sim magazine.",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nPlease edit alongside the original translation.",
+    "vi": "Trang nào cũng có trò vui cho mọi lứa tuổi! Cập nhật những món đồ chơi mới nhất, các loài vật hoang dã thú vị nhất và những dự án trường học hay ho nhất. Dù bao nhiêu tuổi, bạn cũng sẽ tìm thấy thứ mình thích trong Tạp chí Sim Trẻ.",
+    "reason": "Base-game magazine catalog description; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132942813,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Animals",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Động vật",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132942813,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../School",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Trường học",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132942813,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Toys",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Đồ chơi",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132942813,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Animals",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Động vật",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132942813,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../School",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Trường học",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2132942813,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Toys",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Đồ chơi",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133755435,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Rat Race",
+    "description": "The Sims 2 - Needs Translation - Batch15",
+    "vi": "Cuộc Đua Chuột",
+    "reason": "Base-game magazine catalog title; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133755435,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "If you want to know more about your job, your finances, and how to become one of those Sims with the power to take them both away, Rat Race is your magazine. But remember—even if you win the race, you're still a rat!",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\ntopics are work/money/crime\r\n\r\nPlease edit alongside original translation. Thanks.",
+    "vi": "Muốn biết thêm về công việc, tiền bạc và cách trở thành một trong những Sim đủ quyền lực để lấy đi cả hai? Cuộc Đua Chuột chính là tạp chí dành cho bạn. Nhưng nhớ nhé—dù thắng cuộc đua, bạn vẫn là một chú chuột!",
+    "reason": "Base-game magazine catalog description; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133755435,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Crime",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Tội phạm",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133755435,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Money",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Tiền bạc",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133755435,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Công việc",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133755435,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Crime",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Tội phạm",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133755435,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Money",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Tiền bạc",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133755435,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Work",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Công việc",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134357447,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Beyond Belief",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nHeader for magazine content. Also appears in the pie menu when Sim selects \"Browse\" or \"Buy\"",
+    "vi": "Ngoài Sức Tưởng Tượng",
+    "reason": "Base-game magazine catalog title; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134357447,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Are there aliens living in your neighborhood? Do the dead still walk the earth? Can knowing any of this help you live longer? Ponder the imponderable and indulge your paranoia with Beyond Belief.",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nThis text appears when Sim chooses Browse...Beyond Belief on the Magazine Rack.  It covers the topics SciFi/Paranormal/Health.",
+    "vi": "Có người ngoài hành tinh đang sống trong khu phố của bạn không? Người chết có còn đi lại trên cõi đời? Biết những chuyện đó có giúp bạn sống lâu hơn không? Hãy nghiền ngẫm điều không thể lý giải và nuông chiều chút đa nghi của mình với Ngoài Sức Tưởng Tượng.",
+    "reason": "Base-game magazine catalog description; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134357447,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Sci-Fi",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Khoa học viễn tưởng",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134357447,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Paranormal",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Siêu nhiên",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134357447,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Health",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Sức khỏe",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134357447,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Sci-Fi",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Khoa học viễn tưởng",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134357447,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Paranormal",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Siêu nhiên",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2134357447,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Health",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Sức khỏe",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141475622,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Highbrow Review",
+    "description": "The Sims 2 - Needs Translation - Batch12\r\n\r\nThis is the description for Edith Magazine 5 - topics, work/money/crime.",
+    "vi": "Tạp Chí Thượng Lưu",
+    "reason": "Base-game magazine catalog title; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141475622,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Highbrow Review is the perfect blend: a dose of culture, a dash of environmentalism, and just a pinch of hard-hitting political analysis.",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nPlease edit this text alongside the original translation. Thanks.",
+    "vi": "Tạp Chí Thượng Lưu là sự pha trộn hoàn hảo: một liều văn hóa, một chút quan tâm đến môi trường và thêm một nhúm phân tích chính trị sắc bén.",
+    "reason": "Base-game magazine catalog description; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141475622,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Culture",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Văn hóa",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141475622,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Environment",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Môi trường",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141475622,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Politics",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Chính trị",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141475622,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Culture",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Văn hóa",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141475622,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Environment",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Môi trường",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141475622,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Politics",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Chính trị",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141768400,
+      2000,
+      0
+    ],
+    "row": 0,
+    "category": "catalog",
+    "language": 1,
+    "en": "Mode:Live",
+    "description": "The Sims 2 - Needs Translation - Batch12",
+    "vi": "Chế Độ: Sống",
+    "reason": "Base-game magazine catalog title; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141768400,
+      2000,
+      0
+    ],
+    "row": 1,
+    "category": "catalog",
+    "language": 1,
+    "en": "Need to know about the best hotels in Alaska? The relative humidity of Alaska? How to make a baked Alaska? You're living the Mode: Live life.",
+    "description": "The Sims 2 - Needs Translation - Batch16\r\n\r\nTopics: Food/Travel/Weather magazine text.\r\n\r\nPlease edit alongside the original translation. Thanks.",
+    "vi": "Muốn biết khách sạn nào tốt nhất ở Alaska? Độ ẩm tương đối ở Alaska? Cách làm món Baked Alaska? Vậy là bạn đang sống đúng chất Chế Độ: Sống rồi đó.",
+    "reason": "Base-game magazine catalog description; retain exact row because the magazine family may be player-visible in Castaway."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141768400,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Food",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Ẩm thực",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141768400,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Travel",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Du lịch",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141768400,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Weather",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Thời tiết",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141768400,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Food",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Ẩm thực",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141768400,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Travel",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Du lịch",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2141768400,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Weather",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Thời tiết",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117514,
+      1,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Entertainment",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Giải trí",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117514,
+      1,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Fashion",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Thời trang",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117514,
+      1,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Read About.../Sports",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Thể thao",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117514,
+      1,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Entertainment",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Giải trí",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117514,
+      1,
+      0
+    ],
+    "row": 5,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Fashion",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Thời trang",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2143117514,
+      1,
+      0
+    ],
+    "row": 6,
+    "category": "menu",
+    "language": 2,
+    "en": "Read About.../Sports",
+    "description": "The Sims 2 - Needs Translation - Batch16",
+    "vi": "Đọc về.../Thể thao",
+    "reason": "Base-game magazine reading topic is player-facing and may be reused by Castaway; retain this exact magazine row with localized topic text."
+  }
+]
