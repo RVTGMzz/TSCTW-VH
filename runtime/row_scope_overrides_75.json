@@ -1,0 +1,92 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140014299,
+      301,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "I feel rejuvenated!  I believe I've added valuable days to my life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a positive result (they have days added to their lifetime).",
+    "category": "dialog",
+    "reason": "AspirationsReward - Elixir Of Life player-facing outcome dialog; the Elixir reward is already retained in Castaway scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140014299,
+      301,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "It feels like the end may be closer than I thought.  Valuable days have been taken from my short life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a negative result (the next age transition will come quicker).",
+    "category": "dialog",
+    "reason": "AspirationsReward - Elixir Of Life player-facing outcome dialog; the Elixir reward is already retained in Castaway scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140014299,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "I feel rejuvenated!",
+    "description": "The Sims2 EP3 - Batch 8",
+    "category": "dialog",
+    "reason": "AspirationsReward - Elixir Of Life player-facing outcome dialog; the Elixir reward is already retained in Castaway scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140014299,
+      301,
+      0
+    ],
+    "row": 3,
+    "language": 1,
+    "en": "Maybe drinking that was a bad idea.  I feel drained...",
+    "description": "The Sims2 EP3 - Batch 8",
+    "category": "dialog",
+    "reason": "AspirationsReward - Elixir Of Life player-facing outcome dialog; the Elixir reward is already retained in Castaway scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140014299,
+      301,
+      0
+    ],
+    "row": 4,
+    "language": 2,
+    "en": "I feel rejuvenated!  I believe I've added valuable days to my life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a positive result (they have days added to their lifetime).",
+    "category": "dialog",
+    "reason": "AspirationsReward - Elixir Of Life player-facing outcome dialog; the Elixir reward is already retained in Castaway scope."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140014299,
+      301,
+      0
+    ],
+    "row": 5,
+    "language": 2,
+    "en": "It feels like the end may be closer than I thought.  Valuable days have been taken from my short life!",
+    "description": "The Sims 2 - Needs Translation - Batch18\r\nThis dialog appears after the Sim drinks the elixir of life with a negative result (the next age transition will come quicker).",
+    "category": "dialog",
+    "reason": "AspirationsReward - Elixir Of Life player-facing outcome dialog; the Elixir reward is already retained in Castaway scope."
+  }
+]
