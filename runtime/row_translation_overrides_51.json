@@ -61,7 +61,7 @@
     "category": "menu",
     "language": 1,
     "en": "Run Away",
-    "description": "The Sims 2 - Neds Translation - Batch15",
+    "description": "The Sims 2 - Needs Translation - Batch15",
     "vi": "Bỏ chạy",
     "reason": "Base-game child Play Tag action-queue row; exact translation avoids relying on unrelated same-English resources."
   },
@@ -83,7 +83,7 @@
     "category": "menu",
     "language": 1,
     "en": "Play Cops And Robbers",
-    "description": "The Sims 2 - Neds Translation - Batch15",
+    "description": "The Sims 2 - Needs Translation - Batch15",
     "vi": "Chơi cảnh sát bắt cướp",
     "reason": "Base-game child Cops and Robbers social retained by Castaway household/social gameplay."
   },
@@ -95,7 +95,7 @@
     "language": 1,
     "en": "Chase",
     "description": "The Sims 2 - Needs Translation - Batch15",
-    "vi": "đuổi theo",
+    "vi": "Đuổi theo",
     "reason": "Base-game child Cops and Robbers action-queue row."
   },
   {
@@ -116,7 +116,7 @@
     "category": "menu",
     "language": 1,
     "en": "Bang Bang",
-    "description": "The Sims 2 - Neds Translation - Batch15\r\n\r\n(child Sims motioning gun motions)",
+    "description": "The Sims 2 - Needs Translation - Batch15\r\n\r\n(child Sims motioning gun motions)",
     "vi": "Pằng pằng",
     "reason": "Base-game child Cops and Robbers action-queue row."
   },
