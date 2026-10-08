@@ -58,12 +58,12 @@ def main():
         raise ValueError('QA output must be separate from baseline input')
     maps=load_maps()
     exact_translations={(r['package'],tuple(r['key']),r['row']):r for r in load_row_translations()}
-    decisions={(r['category'],r['en']) for r in json.loads((RUNTIME/'scope_decisions.json').read_text())}
+    decisions={(r['category'],r['en']) for r in json.loads((RUNTIME/'scope_decisions.json').read_text(encoding='utf-8'))}
     records=collections.defaultdict(list)
     effective,_ = effective_records()
     for r in effective:
         records[r['package']].append(r)
-    inventory=json.loads((RUNTIME/'inventory.json').read_text())
+    inventory=json.loads((RUNTIME/'inventory.json').read_text(encoding='utf-8'))
     total_inventory=len(inventory)
     inventory=select_inventory(inventory, args.include_save_snapshots)
     if any(p['errors'] for p in inventory):
