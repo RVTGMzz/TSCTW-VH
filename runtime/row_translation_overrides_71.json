@@ -1,0 +1,1282 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139421125,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Charisma Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Giao tiếp",
+    "reason": "Exact Memory - Knowledge - Skill - Max Charisma base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139421125,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Charisma base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139421125,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Charisma Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Giao tiếp",
+    "reason": "Exact Memory - Knowledge - Skill - Max Charisma base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139421125,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Charisma base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Met New Grandchild $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Đón cháu mới $Subject",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Being a grandparent's more than I ever expected. And now my child will find out some things too, ha ha ha!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Làm ông bà thật khác xa những gì mình từng nghĩ. Giờ đến lượt con mình trải nghiệm những chuyện thú vị ấy rồi, ha ha!",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Met New Grandchild $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Đón cháu mới $Subject",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Being a grandparent's more than I ever expected. And now my child will find out some things too, ha ha ha!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Làm ông bà thật khác xa những gì mình từng nghĩ. Giờ đến lượt con mình trải nghiệm những chuyện thú vị ấy rồi, ha ha!",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Met New Grandchild $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Đón cháu mới $Subject",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Being a grandparent's more than I ever expected. And now my child will find out some things too, ha ha ha!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Làm ông bà thật khác xa những gì mình từng nghĩ. Giờ đến lượt con mình trải nghiệm những chuyện thú vị ấy rồi, ha ha!",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Met New Grandchild $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Đón cháu mới $Subject",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2139865083,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Being a grandparent's more than I ever expected. And now my child will find out some things too, ha ha ha!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Làm ông bà thật khác xa những gì mình từng nghĩ. Giờ đến lượt con mình trải nghiệm những chuyện thú vị ấy rồi, ha ha!",
+    "reason": "Exact Memory - Family - Grandchild base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had Very First Kiss with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Có nụ hôn đầu đời với $Subject",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Yee-haa! They say you never forget your very first kiss, and now I can see why!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\n",
+    "category": "story",
+    "vi": "Ối là trời! Người ta bảo chẳng ai quên được nụ hôn đầu, giờ mình hiểu tại sao rồi!",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had Very First Kiss with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Có nụ hôn đầu đời với $Subject",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Yee-haa! They say you never forget your very first kiss, and now I can see why!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\n",
+    "category": "story",
+    "vi": "Ối là trời! Người ta bảo chẳng ai quên được nụ hôn đầu, giờ mình hiểu tại sao rồi!",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had Very First Kiss with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Có nụ hôn đầu đời với $Subject",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Yee-haa! They say you never forget your very first kiss, and now I can see why!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\n",
+    "category": "story",
+    "vi": "Ối là trời! Người ta bảo chẳng ai quên được nụ hôn đầu, giờ mình hiểu tại sao rồi!",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had Very First Kiss with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Có nụ hôn đầu đời với $Subject",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140070477,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Yee-haa! They say you never forget your very first kiss, and now I can see why!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\n",
+    "category": "story",
+    "vi": "Ối là trời! Người ta bảo chẳng ai quên được nụ hôn đầu, giờ mình hiểu tại sao rồi!",
+    "reason": "Exact Memory - Love - Very First Kiss base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140291042,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got a Promotion",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Được thăng chức",
+    "reason": "Exact Memory - Wealth - Career - Promotion base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140291042,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Yessir, I am movin' on up! Just gotta keep focused on what matters: new skills,  the right connections and great mental attitude. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Tuyệt vời, mình được thăng tiến rồi! Cứ tập trung trau dồi kỹ năng, xây dựng quan hệ và giữ tinh thần lạc quan thôi...",
+    "reason": "Exact Memory - Wealth - Career - Promotion base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140291042,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got a Promotion",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Được thăng chức",
+    "reason": "Exact Memory - Wealth - Career - Promotion base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140291042,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Yessir, I am movin' on up! Just gotta keep focused on what matters: new skills,  the right connections and great mental attitude. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Tuyệt vời, mình được thăng tiến rồi! Cứ tập trung trau dồi kỹ năng, xây dựng quan hệ và giữ tinh thần lạc quan thôi...",
+    "reason": "Exact Memory - Wealth - Career - Promotion base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140425715,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fire!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n",
+    "category": "story",
+    "vi": "Xảy ra hỏa hoạn!",
+    "reason": "Exact Memory - Wealth - Fire base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140425715,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Yeeowch, that was hot! I think my eyebrows are gone. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Ối, nóng kinh khủng! Chắc lông mày mình cháy sạch rồi...",
+    "reason": "Exact Memory - Wealth - Fire base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140425715,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Fire!",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n",
+    "category": "story",
+    "vi": "Xảy ra hỏa hoạn!",
+    "reason": "Exact Memory - Wealth - Fire base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140425715,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Yeeowch, that was hot! I think my eyebrows are gone. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Ối, nóng kinh khủng! Chắc lông mày mình cháy sạch rồi...",
+    "reason": "Exact Memory - Wealth - Fire base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140810301,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Creativity Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Sáng tạo",
+    "reason": "Exact Memory - Knowledge - Skill - Max Creativity base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140810301,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Creativity base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140810301,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Creativity Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Sáng tạo",
+    "reason": "Exact Memory - Knowledge - Skill - Max Creativity base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140810301,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Mình đã nắm hết mọi bí quyết về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Creativity base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140888652,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Shocked!",
+    "description": "The Sims 2 - Needs Translation - Batch20\ncorrected text from last batch.",
+    "category": "story",
+    "vi": "Bị điện giật!",
+    "reason": "Exact Memory - Knowledge - Electrocution base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140888652,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "What a jolt! I think I'm lucky to be alive . . . but I feel just a little numb . . .",
+    "description": "The Sims 2 - Needs Translation - Batch20\ncorrected text from last batch",
+    "category": "story",
+    "vi": "Giật tung người luôn! May mà mình vẫn còn sống... chỉ hơi tê tê một chút thôi...",
+    "reason": "Exact Memory - Knowledge - Electrocution base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140888652,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Shocked!",
+    "description": "The Sims 2 - Needs Translation - Batch20\ncorrected text from last batch.",
+    "category": "story",
+    "vi": "Bị điện giật!",
+    "reason": "Exact Memory - Knowledge - Electrocution base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140888652,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "What a jolt! I think I'm lucky to be alive . . . but I feel just a little numb . . .",
+    "description": "The Sims 2 - Needs Translation - Batch20\ncorrected text from last batch",
+    "category": "story",
+    "vi": "Giật tung người luôn! May mà mình vẫn còn sống... chỉ hơi tê tê một chút thôi...",
+    "reason": "Exact Memory - Knowledge - Electrocution base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Seems like just yesterday we fell in love, and now here we are saying \"I do\" . . . I think I better sit down!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\nIncluded to match tooltip",
+    "category": "story",
+    "vi": "Cứ như hôm qua tụi mình mới yêu nhau, vậy mà giờ đã trao lời thề cưới rồi... Cho mình ngồi xuống một lát đã!",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Seems like just yesterday we fell in love, and now here we are saying \"I do\" . . . I think I better sit down!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\nIncluded to match tooltip",
+    "category": "story",
+    "vi": "Cứ như hôm qua tụi mình mới yêu nhau, vậy mà giờ đã trao lời thề cưới rồi... Cho mình ngồi xuống một lát đã!",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Seems like just yesterday we fell in love, and now here we are saying \"I do\" . . . I think I better sit down!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\nIncluded to match tooltip",
+    "category": "story",
+    "vi": "Cứ như hôm qua tụi mình mới yêu nhau, vậy mà giờ đã trao lời thề cưới rồi... Cho mình ngồi xuống một lát đã!",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Married to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Kết hôn với $Subject",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141280159,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Seems like just yesterday we fell in love, and now here we are saying \"I do\" . . . I think I better sit down!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\nIncluded to match tooltip",
+    "category": "story",
+    "vi": "Cứ như hôm qua tụi mình mới yêu nhau, vậy mà giờ đã trao lời thề cưới rồi... Cho mình ngồi xuống một lát đã!",
+    "reason": "Exact Memory - Family - Marriage - Success base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141463956,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Saw the Ghost of $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhìn thấy hồn ma của $Subject",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim - Fear base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141463956,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I thought that Sim was gone, but I guess nothing is forever. . . The world is an endless mystery. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods",
+    "category": "story",
+    "vi": "Cứ tưởng người ấy đã đi mãi mãi, nhưng hóa ra chẳng có gì là tuyệt đối... Cuộc đời thật bí ẩn...",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim - Fear base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141463956,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Saw the Ghost of $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhìn thấy hồn ma của $Subject",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim - Fear base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141463956,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I thought that Sim was gone, but I guess nothing is forever. . . The world is an endless mystery. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods",
+    "category": "story",
+    "vi": "Cứ tưởng người ấy đã đi mãi mãi, nhưng hóa ra chẳng có gì là tuyệt đối... Cuộc đời thật bí ẩn...",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim - Fear base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141605983,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Saw the Ghost of $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhìn thấy hồn ma của $Subject",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141605983,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I thought that Sim was gone, but I guess nothing is forever. . . The world is an endless mystery. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods\ncapitalized \"The\"",
+    "category": "story",
+    "vi": "Cứ tưởng người ấy đã đi mãi mãi, nhưng hóa ra chẳng có gì là tuyệt đối... Cuộc đời thật bí ẩn...",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141605983,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Saw the Ghost of $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Nhìn thấy hồn ma của $Subject",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141605983,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I thought that Sim was gone, but I guess nothing is forever. . . The world is an endless mystery. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods\ncapitalized \"The\"",
+    "category": "story",
+    "vi": "Cứ tưởng người ấy đã đi mãi mãi, nhưng hóa ra chẳng có gì là tuyệt đối... Cuộc đời thật bí ẩn...",
+    "reason": "Exact Memory - Knowledge - Saw Ghost of Sim base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Potty Trained by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngendered based on $Subject's gender.",
+    "category": "story",
+    "vi": "Được $Subject dạy tự đi vệ sinh",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oh, so that's what the toilet is all about! I thought it was just a place to play \"boat\" in! Boy, everyone else seems happy for some reason.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "À, thì ra bồn cầu dùng để làm chuyện này! Mình cứ tưởng nó là chỗ thả thuyền đồ chơi. Sao ai cũng vui thế nhỉ?",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Potty Trained by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngendered based on $Subject's gender.",
+    "category": "story",
+    "vi": "Được $Subject dạy tự đi vệ sinh",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oh, so that's what the toilet is all about! I thought it was just a place to play \"boat\" in! Boy, everyone else seems happy for some reason.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "À, thì ra bồn cầu dùng để làm chuyện này! Mình cứ tưởng nó là chỗ thả thuyền đồ chơi. Sao ai cũng vui thế nhỉ?",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Potty Trained by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngendered based on $Subject's gender.",
+    "category": "story",
+    "vi": "Được $Subject dạy tự đi vệ sinh",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Oh, so that's what the toilet is all about! I thought it was just a place to play \"boat\" in! Boy, everyone else seems happy for some reason.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "À, thì ra bồn cầu dùng để làm chuyện này! Mình cứ tưởng nó là chỗ thả thuyền đồ chơi. Sao ai cũng vui thế nhỉ?",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Potty Trained by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngendered based on $Subject's gender.",
+    "category": "story",
+    "vi": "Được $Subject dạy tự đi vệ sinh",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2141731342,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Oh, so that's what the toilet is all about! I thought it was just a place to play \"boat\" in! Boy, everyone else seems happy for some reason.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "À, thì ra bồn cầu dùng để làm chuyện này! Mình cứ tưởng nó là chỗ thả thuyền đồ chơi. Sao ai cũng vui thế nhỉ?",
+    "reason": "Exact Memory - Grow Up - Potty Trained base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fell in Love with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Phải lòng $Subject",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "There's nothing like hearing those three little words that sound so big. . . I love you!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Chẳng gì bằng nghe ba từ ngắn ngủi mà ý nghĩa lớn lao ấy... Anh yêu em!",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Fell in Love with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Phải lòng $Subject",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "There's nothing like hearing those three little words that sound so big. . . I love you!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Chẳng gì bằng nghe ba từ ngắn ngủi mà ý nghĩa lớn lao ấy... Anh yêu em!",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Fell in Love with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Phải lòng $Subject",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "There's nothing like hearing those three little words that sound so big. . . I love you!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Chẳng gì bằng nghe ba từ ngắn ngủi mà ý nghĩa lớn lao ấy... Anh yêu em!",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Fell in Love with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Female\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Phải lòng $Subject",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142040577,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "There's nothing like hearing those three little words that sound so big. . . I love you!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoving extra spaces",
+    "category": "story",
+    "vi": "Chẳng gì bằng nghe ba từ ngắn ngủi mà ý nghĩa lớn lao ấy... Anh yêu em!",
+    "reason": "Exact Memory - Love - In Love base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142657425,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Demoted",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Bị giáng chức",
+    "reason": "Exact Memory - Wealth - Career - Demoted base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142657425,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I guess I should have spent more time on my job. . . I'm ashamed to show my face in the office, now!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Chắc mình nên chăm chỉ làm việc hơn... Giờ xấu hổ chẳng dám ló mặt đến chỗ làm nữa!",
+    "reason": "Exact Memory - Wealth - Career - Demoted base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142657425,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Demoted",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Bị giáng chức",
+    "reason": "Exact Memory - Wealth - Career - Demoted base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142657425,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I guess I should have spent more time on my job. . . I'm ashamed to show my face in the office, now!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Chắc mình nên chăm chỉ làm việc hơn... Giờ xấu hổ chẳng dám ló mặt đến chỗ làm nữa!",
+    "reason": "Exact Memory - Wealth - Career - Demoted base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Adopted $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\n$Subject variable change. do not scrub.",
+    "category": "story",
+    "vi": "Nhận nuôi $Subject!",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "There's something special about a child you choose . . . nice to meet you, little one!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Có điều gì đó thật đặc biệt khi mình chủ động đón một đứa trẻ về nhà... Chào con nhé!",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Adopted $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\n$Subject variable change. do not scrub.",
+    "category": "story",
+    "vi": "Nhận nuôi $Subject!",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "There's something special about a child you choose . . . nice to meet you, little one!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Có điều gì đó thật đặc biệt khi mình chủ động đón một đứa trẻ về nhà... Chào con nhé!",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Adopted $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 F\r\n$Subject variable change.",
+    "category": "story",
+    "vi": "Nhận nuôi $Subject!",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "It's been a difficult road, with lots of ups and downs, but it's been worth it to have this special Sim come into my life.",
+    "description": "The Sims 2 - Needs Translation - Batch18 F",
+    "category": "story",
+    "vi": "Đã trải qua bao nhiêu chuyện thăng trầm, nhưng tất cả đều xứng đáng để đón thành viên đặc biệt này vào cuộc đời mình.",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Adopted $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 F\r\n$Subject variable change.",
+    "category": "story",
+    "vi": "Nhận nuôi $Subject!",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142939550,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "It's been a difficult road, with lots of ups and downs, but it's been worth it to have this special Sim come into my life.",
+    "description": "The Sims 2 - Needs Translation - Batch18 F",
+    "category": "story",
+    "vi": "Đã trải qua bao nhiêu chuyện thăng trầm, nhưng tất cả đều xứng đáng để đón thành viên đặc biệt này vào cuộc đời mình.",
+    "reason": "Exact Memory - Family - Adopt Child base Sim-memory life event; gameplay family/relationship/skill context matches Castaway's retained systems. No automatic promotion of surrounding legacy text."
+  }
+]
