@@ -4,9 +4,11 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest.mock import patch
 
+from test_runtime_dbpf_writer import fixture as dbpf_fixture
 from install_v08_local import install, restore, validate_path
-from prepare_v08_test import strict_locations, manifest_row, verify_inputs
+from prepare_v08_test import strict_locations, manifest_row, verify_inputs, build
 from build_v07 import FULL_REQUIRED
 
 
@@ -106,6 +108,43 @@ class DeliveryTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 install(bundle,game,backup,dry_run=False)
             self.assertFalse(backup.exists())
+
+    def test_runtime_only_builder_produces_installable_payload_without_core_or_save_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            runtime=root/"original_runtime"
+            core=root/"absent_text_originals"
+            output=root/"candidate"
+            package_rel="TSData/Res/Objects/objects.package"
+            pkg=runtime/package_rel
+            pkg.parent.mkdir(parents=True)
+            original, keys=dbpf_fixture(24)
+            pkg.write_bytes(original)
+            item={"package":package_rel, "sha256":h(original), "bytes":len(original), "errors":[]}
+            records=[{"package":package_rel,"key":list(keys[0]),"row":i,
+                      "language":i+1,"en":"Examine","description":"Castaway action","category":"menu"}
+                     for i in (0,1)]
+            audit={"parse_errors":0,"untranslated_or_review_candidate_rows":0,"candidate_rows":2}
+            with patch("prepare_v08_test.assess",return_value=(audit,[])), \\
+                 patch("prepare_v08_test.source_inventory",return_value=[item]), \\
+                 patch("prepare_v08_test.effective_records",return_value=(records,[])), \\
+                 patch("prepare_v08_test.load_maps",return_value={"menu":{"Examine":"Xem xét"}}), \\
+                 patch("prepare_v08_test.load_row_translations",return_value=[]):
+                result=build(core,runtime,output,runtime_only=True)
+            self.assertEqual(result["build_mode"],"runtime-overlay-on-v07a")
+            self.assertEqual(len(result["install_files"]),1)
+            self.assertEqual(result["install_files"][0]["path"],package_rel)
+            self.assertFalse(any("UserData" in r["path"] for r in result["install_files"]))
+            self.assertNotEqual((output/"Payload"/package_rel).read_bytes(),original)
+            game=root/"game";dest=game/package_rel
+            dest.parent.mkdir(parents=True)
+            dest.write_bytes(original)
+            backup=root/"backup"
+            self.assertIn("DRY RUN",install(output,game,backup)["result"])
+            installed=install(output,game,backup,dry_run=False)
+            self.assertEqual(installed["files"],1)
+            self.assertEqual(restore(game,backup,dry_run=False)["files"],1)
+            self.assertEqual(dest.read_bytes(),original)
 
     def test_builder_rejects_output_over_input_and_mismatched_hash(self):
         with tempfile.TemporaryDirectory() as tmp:
