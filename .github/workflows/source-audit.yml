@@ -34,6 +34,9 @@ jobs:
           fi
 
 
+      - name: Check safe baseline staging script syntax
+        run: python -m py_compile src/builder/stage_runtime_inputs.py
+
       - name: Runtime source QA (coverage may remain incomplete)
         run: python src/builder/validate_runtime.py
 
