@@ -1,0 +1,212 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131381400,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2131381400,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133049166,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133049166,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129455,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133129455,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133617084,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133617084,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135594999,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2135594999,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137112897,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137112897,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137810703,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Go Upstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2137810703,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Go Downstairs",
+    "description": "The Sims2 - Needs Translation - Batch8a",
+    "category": "menu",
+    "reason": "Exact standard Go Upstairs/Go Downstairs interaction for owned base modular-stair resource; reuse approved menu translations. Leave Walk... mood/debug variants unresolved."
+  }
+]
