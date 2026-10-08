@@ -1,0 +1,1218 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Rejected for Make Out with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $ObjectName\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hôn",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Denied! And just when it looked like I was going to get some real good lovin'!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Bị từ chối mất rồi! Tưởng đâu sắp được một nụ hôn ra trò chứ!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Rejected for Make Out with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\ngender is for the object of the memory: $ObjectName\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hôn",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Denied! And just when it looked like I was going to get some real good lovin'!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Bị từ chối mất rồi! Tưởng đâu sắp được một nụ hôn ra trò chứ!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Rejected for Make Out with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hôn",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Denied! And just when it looked like I was going to get some real good lovin'!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Bị từ chối mất rồi! Tưởng đâu sắp được một nụ hôn ra trò chứ!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Rejected for Make Out with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Bị $Subject từ chối hôn",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2130945556,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Denied! And just when it looked like I was going to get some real good lovin'!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Bị từ chối mất rồi! Tưởng đâu sắp được một nụ hôn ra trò chứ!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Make Out Fail); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Made Best Friends with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành bạn thân nhất của $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow! I've never met anyone I liked this much before. . . Now I've got your back and you've got mine.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving spaces",
+    "category": "story",
+    "vi": "Trời ơi, mình chưa từng quý ai đến thế... Từ giờ có chuyện gì thì tụi mình cũng có nhau!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Made Best Friends with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành bạn thân nhất của $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Wow! I've never met anyone I liked this much before. . . Now I've got your back and you've got mine.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\nRemoving spaces",
+    "category": "story",
+    "vi": "Trời ơi, mình chưa từng quý ai đến thế... Từ giờ có chuyện gì thì tụi mình cũng có nhau!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Made Best Friends with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành bạn thân nhất của $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow! I've never met anyone I liked this much before. . . Now I've got your back and you've got mine.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoving spaces",
+    "category": "story",
+    "vi": "Trời ơi, mình chưa từng quý ai đến thế... Từ giờ có chuyện gì thì tụi mình cũng có nhau!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Made Best Friends with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $Subject",
+    "category": "story",
+    "vi": "Trở thành bạn thân nhất của $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131153158,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Wow! I've never met anyone I liked this much before. . . Now I've got your back and you've got mine.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\nRemoving spaces",
+    "category": "story",
+    "vi": "Trời ơi, mình chưa từng quý ai đến thế... Từ giờ có chuyện gì thì tụi mình cũng có nhau!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - First Best Friend); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131168714,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Ran Away",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\r\nGender refers to $Subject\ncorrected typo in word Sim",
+    "category": "story",
+    "vi": "$Subject bỏ nhà đi",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131168714,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow, I guess we should have treated this Sim better. . . I never knew they felt so bad!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Có lẽ mình nên đối xử với người ta tốt hơn... Không ngờ họ lại buồn đến mức ấy!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131168714,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Ran Away",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\r\nGender refers to $Subject\ncorrected typo in word Sim",
+    "category": "story",
+    "vi": "$Subject bỏ nhà đi",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131168714,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Wow, I guess we should have treated this Sim better. . . I never knew they felt so bad!",
+    "description": "The Sims 2 - Needs Translation - Batch19 - Male\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Có lẽ mình nên đối xử với người ta tốt hơn... Không ngờ họ lại buồn đến mức ấy!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "My sweetie's all mine now! We may be young, but not too young to love.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Người thương giờ là của mình rồi! Tụi mình còn trẻ thật, nhưng đâu có quá trẻ để yêu.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender is for the object of the memory: $Subject\r\n",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "My sweetie's all mine now! We may be young, but not too young to love.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Người thương giờ là của mình rồi! Tụi mình còn trẻ thật, nhưng đâu có quá trẻ để yêu.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $ObjectName\r\n",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "My sweetie's all mine now! We may be young, but not too young to love.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Người thương giờ là của mình rồi! Tụi mình còn trẻ thật, nhưng đâu có quá trẻ để yêu.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Went Steady with $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\ngender is for the object of the memory: $ObjectName\r\n",
+    "category": "story",
+    "vi": "Chính thức hẹn hò với $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131171554,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "My sweetie's all mine now! We may be young, but not too young to love.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Người thương giờ là của mình rồi! Tụi mình còn trẻ thật, nhưng đâu có quá trẻ để yêu.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Love - Go Steady); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131204283,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got a Big Bonus",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Nhận một khoản thưởng lớn",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Wealth - First Big Bonus); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131204283,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "I guess hard work is its own reward. . . but a chunk o' change never hurts either!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Chăm chỉ làm việc cũng đáng tự hào rồi... nhưng được thưởng thêm một khoản tiền thì càng tuyệt!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Wealth - First Big Bonus); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131204283,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got a Big Bonus",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Nhận một khoản thưởng lớn",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Wealth - First Big Bonus); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131204283,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "I guess hard work is its own reward. . . but a chunk o' change never hurts either!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Chăm chỉ làm việc cũng đáng tự hào rồi... nhưng được thưởng thêm một khoản tiền thì càng tuyệt!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Wealth - First Big Bonus); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131299222,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Came Back",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đã trở về",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway - Return (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131299222,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "We thought we'd never see this Sim again! Maybe things will be better this time. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\nSpaced periods\r\nRemoved \" at the end",
+    "category": "story",
+    "vi": "Cứ tưởng sẽ chẳng bao giờ gặp lại người ấy! Mong là lần này mọi chuyện sẽ tốt đẹp hơn...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway - Return (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131299222,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Came Back",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đã trở về",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway - Return (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131299222,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "We thought we'd never see this Sim again! Maybe things will be better this time. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - F\nSpaced periods\r\nRemoved \" at the end",
+    "category": "story",
+    "vi": "Cứ tưởng sẽ chẳng bao giờ gặp lại người ấy! Mong là lần này mọi chuyện sẽ tốt đẹp hơn...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Runaway - Return (Parent)); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131469663,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Burned $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19\n$Subject is the name of a food.",
+    "category": "story",
+    "vi": "Nấu cháy $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Food - Burn); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131469663,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Peeuw! What a mess. For a while, that looked like it was going to taste so good.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ối trời, cháy khét hết rồi! Mới lúc nãy còn tưởng món này sẽ ngon lắm cơ.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Food - Burn); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131469663,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Burned $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19\n$Subject is the name of a food.",
+    "category": "story",
+    "vi": "Nấu cháy $Subject",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Food - Burn); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131469663,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Peeuw! What a mess. For a while, that looked like it was going to taste so good.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Ối trời, cháy khét hết rồi! Mới lúc nãy còn tưởng món này sẽ ngon lắm cơ.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Food - Burn); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Potty Trained $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Dạy $Subject tự đi vệ sinh",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Thank goodness that's over with! If I had to change one more diaper I think I would have lost my tiny mind!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "May quá, cuối cùng cũng xong! Phải thay thêm một cái tã nữa chắc mình phát điên mất!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Potty Trained $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Dạy $Subject tự đi vệ sinh",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Thank goodness that's over with! If I had to change one more diaper I think I would have lost my tiny mind!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "May quá, cuối cùng cũng xong! Phải thay thêm một cái tã nữa chắc mình phát điên mất!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Potty Trained $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 -F\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Dạy $Subject tự đi vệ sinh",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Thank goodness that's over with! If I had to change one more diaper I think I would have lost my tiny mind!",
+    "description": "The Sims 2 - Needs Translation - Batch18 -F",
+    "category": "story",
+    "vi": "May quá, cuối cùng cũng xong! Phải thay thêm một cái tã nữa chắc mình phát điên mất!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Potty Trained $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 -F\r\ngender refers to $Subject's gender, ",
+    "category": "story",
+    "vi": "Dạy $Subject tự đi vệ sinh",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131717425,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Thank goodness that's over with! If I had to change one more diaper I think I would have lost my tiny mind!",
+    "description": "The Sims 2 - Needs Translation - Batch18 -F",
+    "category": "story",
+    "vi": "May quá, cuối cùng cũng xong! Phải thay thêm một cái tã nữa chắc mình phát điên mất!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Potty Trainer); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131963566,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Moved In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Dọn đến nhà mới",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - Move In); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131963566,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "So here I am in a new place! Let's see what we can do with it. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Vậy là mình đã có chỗ ở mới! Không biết tại đây sẽ có những chuyện gì thú vị nhỉ...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - Move In); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131963566,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Moved In",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Dọn đến nhà mới",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - Move In); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131963566,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "So here I am in a new place! Let's see what we can do with it. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Vậy là mình đã có chỗ ở mới! Không biết tại đây sẽ có những chuyện gì thú vị nhỉ...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Reputation - Move In); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Was Saved from Death by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n",
+    "category": "story",
+    "vi": "Được $Subject cứu khỏi cái chết",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That was close! Good thing I had someone who cared to bail me out. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Suýt nữa là xong đời! May mà có người quan tâm đến mình và kịp ra tay cứu giúp...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Was Saved from Death by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n",
+    "category": "story",
+    "vi": "Được $Subject cứu khỏi cái chết",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "That was close! Good thing I had someone who cared to bail me out. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Suýt nữa là xong đời! May mà có người quan tâm đến mình và kịp ra tay cứu giúp...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Was Saved from Death by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F",
+    "category": "story",
+    "vi": "Được $Subject cứu khỏi cái chết",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That was close! Good thing I had someone who cared to bail me out. . .",
+    "description": "The Sims 2 - Needs Translation - Batch20 \nSpaced periods",
+    "category": "story",
+    "vi": "Suýt nữa là xong đời! May mà có người quan tâm đến mình và kịp ra tay cứu giúp...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Was Saved from Death by $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch20 - F",
+    "category": "story",
+    "vi": "Được $Subject cứu khỏi cái chết",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132107968,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "That was close! Good thing I had someone who cared to bail me out. . .",
+    "description": "The Sims 2 - Needs Translation - Batch20 \nSpaced periods",
+    "category": "story",
+    "vi": "Suýt nữa là xong đời! May mà có người quan tâm đến mình và kịp ra tay cứu giúp...",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Knowledge - Near Death Experience); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Taught $Subject to Walk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nsentence is gendered based on $Subject.",
+    "category": "story",
+    "vi": "Dạy $Subject tập đi",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow, look at that tyke go! Wait a minute . . . what have I done?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Ôi, nhìn nhóc con bước đi kìa! Khoan đã... Mình vừa mở màn cho những ngày chạy theo nhóc khắp nhà sao?!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Taught $Subject to Walk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nsentence is gendered based on $Subject.",
+    "category": "story",
+    "vi": "Dạy $Subject tập đi",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Wow, look at that tyke go! Wait a minute . . . what have I done?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Ôi, nhìn nhóc con bước đi kìa! Khoan đã... Mình vừa mở màn cho những ngày chạy theo nhóc khắp nhà sao?!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Taught $Subject to Walk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\nsentence is gendered based on $Subject.",
+    "category": "story",
+    "vi": "Dạy $Subject tập đi",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Wow, look at that tyke go! Wait a minute . . . what have I done?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Ôi, nhìn nhóc con bước đi kìa! Khoan đã... Mình vừa mở màn cho những ngày chạy theo nhóc khắp nhà sao?!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Taught $Subject to Walk",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\nsentence is gendered based on $Subject.",
+    "category": "story",
+    "vi": "Dạy $Subject tập đi",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132345717,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Wow, look at that tyke go! Wait a minute . . . what have I done?",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Ôi, nhìn nhóc con bước đi kìa! Khoan đã... Mình vừa mở màn cho những ngày chạy theo nhóc khắp nhà sao?!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Grow Up - First Teach to Walk); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nObject name is the name of the baby. Gender refers to the baby's gender.",
+    "category": "story",
+    "vi": "Chào đón bé $Subject!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Welcome to the Neighborhood, little one! I hope we have enough diapers.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Chào mừng con đến với gia đình! Mong là nhà mình đã trữ đủ tã nhé.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nObject name is the name of the baby. Gender refers to the baby's gender.",
+    "category": "story",
+    "vi": "Chào đón bé $Subject!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Welcome to the Neighborhood, little one! I hope we have enough diapers.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Chào mừng con đến với gia đình! Mong là nhà mình đã trữ đủ tã nhé.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2001,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\nObject name is the name of the baby. Gender refers to the baby's gender",
+    "category": "story",
+    "vi": "Chào đón bé $Subject!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2001,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Welcome to the Neighborhood, little one! I hope we have enough diapers.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Chào mừng con đến với gia đình! Mong là nhà mình đã trữ đủ tã nhé.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2001,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had $Subject!",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F\r\nObject name is the name of the baby. Gender refers to the baby's gender",
+    "category": "story",
+    "vi": "Chào đón bé $Subject!",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132363556,
+      2001,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Welcome to the Neighborhood, little one! I hope we have enough diapers.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - F",
+    "category": "story",
+    "vi": "Chào mừng con đến với gia đình! Mong là nhà mình đã trữ đủ tã nhé.",
+    "reason": "Exact base-game Sim memory CTSS (Memory - Family - Birth); normal relationship, household or life-event history possibly visible in Castaway; translate this row without blanket-promoting unrelated content."
+  }
+]
