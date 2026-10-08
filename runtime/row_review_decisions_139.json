@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147380143,
+      128,
+      0
+    ],
+    "row": 4,
+    "status": "excluded",
+    "language": 1,
+    "en": "Dirty",
+    "description": "!!!!!!!!!!!!!!!",
+    "reason": "Aquarium dirty-state/internal marker, not a player-facing interaction; exclude exact row while retaining Clean/Feed Fish/Restock/Watch."
+  }
+]
