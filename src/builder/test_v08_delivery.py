@@ -125,11 +125,11 @@ class DeliveryTests(unittest.TestCase):
                       "language":i+1,"en":"Examine","description":"Castaway action","category":"menu"}
                      for i in (0,1)]
             audit={"parse_errors":0,"untranslated_or_review_candidate_rows":0,"candidate_rows":2}
-            with patch("prepare_v08_test.assess",return_value=(audit,[])), \\
-                 patch("prepare_v08_test.source_inventory",return_value=[item]), \\
-                 patch("prepare_v08_test.effective_records",return_value=(records,[])), \\
-                 patch("prepare_v08_test.load_maps",return_value={"menu":{"Examine":"Xem xét"}}), \\
-                 patch("prepare_v08_test.load_row_translations",return_value=[]):
+            with (patch("prepare_v08_test.assess",return_value=(audit,[])),
+                  patch("prepare_v08_test.source_inventory",return_value=[item]),
+                  patch("prepare_v08_test.effective_records",return_value=(records,[])),
+                  patch("prepare_v08_test.load_maps",return_value={"menu":{"Examine":"Xem xét"}}),
+                  patch("prepare_v08_test.load_row_translations",return_value=[])):
                 result=build(core,runtime,output,runtime_only=True)
             self.assertEqual(result["build_mode"],"runtime-overlay-on-v07a")
             self.assertEqual(len(result["install_files"]),1)
