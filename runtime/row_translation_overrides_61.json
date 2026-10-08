@@ -1,0 +1,146 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138119693,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Have a Drink",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Uống một ly",
+    "reason": "Base bar-tumbler interaction may be player-facing in Castaway; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138119693,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Have a Drink",
+    "description": "The Sims 2 - Needs Translation - BatchMTF2 (copied translations from the \"Have a Drink\" above).",
+    "vi": "Uống một ly",
+    "reason": "Base bar-tumbler action-queue duplicate; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138119693,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Have a Drink",
+    "description": "",
+    "vi": "Uống một ly",
+    "reason": "Base bar-tumbler interaction duplicate with empty metadata; retain exact row rather than blanket-promoting shared text."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138119693,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 2,
+    "en": "Have a Drink",
+    "description": "The Sims 2 - Needs Translation - Batch10",
+    "vi": "Uống một ly",
+    "reason": "Base bar-tumbler interaction duplicate language row; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2138119693,
+      128,
+      0
+    ],
+    "row": 4,
+    "category": "menu",
+    "language": 2,
+    "en": "Have a Drink",
+    "description": "The Sims 2 - Needs Translation - BatchMTF2 (copied translations from the \"Have a Drink\" above).",
+    "vi": "Uống một ly",
+    "reason": "Base bar-tumbler action-queue duplicate language row; retain exact row."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147380143,
+      128,
+      0
+    ],
+    "row": 0,
+    "category": "menu",
+    "language": 1,
+    "en": "Clean",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nAquarium interaction and action queue text: Interaction is available when aquarium is dirty. This interaction cleans the aquarium.",
+    "vi": "Vệ sinh",
+    "reason": "Saltwater-aquarium player-facing maintenance interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147380143,
+      128,
+      0
+    ],
+    "row": 1,
+    "category": "menu",
+    "language": 1,
+    "en": "Feed Fish",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nAquarium Interaction and action queue text. ",
+    "vi": "Cho cá ăn",
+    "reason": "Saltwater-aquarium player-facing interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147380143,
+      128,
+      0
+    ],
+    "row": 2,
+    "category": "menu",
+    "language": 1,
+    "en": "Restock",
+    "description": "The Sims2 - Needs Translation - Batch8a\r\n\r\nAquarium interaction and action queue text. Adds fish to empty aquariums.",
+    "vi": "Bổ sung cá",
+    "reason": "Saltwater-aquarium player-facing interaction; retain exact row for possible Castaway reuse."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2147380143,
+      128,
+      0
+    ],
+    "row": 3,
+    "category": "menu",
+    "language": 1,
+    "en": "Watch",
+    "description": "The Sims2 - Needs Translation - Batch10\r\n\r\nAquarium Interaction and action queue text. Watch fish swim in aquarium. ",
+    "vi": "Ngắm cá",
+    "reason": "Saltwater-aquarium player-facing interaction; retain exact row for possible Castaway reuse."
+  }
+]
