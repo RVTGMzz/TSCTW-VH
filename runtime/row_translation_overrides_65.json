@@ -1,0 +1,66 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140010164,
+      128,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Ask",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n\r\naction queue for Ask to be taught.",
+    "category": "menu",
+    "vi": "Nhờ chỉ bảo",
+    "reason": "Base-game teaching-social action-queue phrase; exact localization avoids collisions with generic Ask/Teach labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140010164,
+      128,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Be Asked",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n\r\naction queue for Ask to be taught.",
+    "category": "menu",
+    "vi": "Được nhờ chỉ bảo",
+    "reason": "Base-game teaching-social action-queue phrase; exact localization avoids collisions with generic Ask/Teach labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140010164,
+      128,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "Teach",
+    "description": "The Sims 2 - Needs Translation - Batch19\r\n\r\naction queue for teacher teaching.",
+    "category": "menu",
+    "vi": "Chỉ bảo",
+    "reason": "Base-game teaching-social action-queue phrase; exact localization avoids collisions with generic Ask/Teach labels."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140010164,
+      128,
+      0
+    ],
+    "row": 4,
+    "language": 1,
+    "en": "Wrap Up",
+    "description": "",
+    "category": "menu",
+    "vi": "Kết thúc buổi học",
+    "reason": "Base-game teaching-social action-queue phrase; exact localization avoids collisions with generic Ask/Teach labels."
+  }
+]

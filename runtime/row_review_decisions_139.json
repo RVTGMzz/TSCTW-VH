@@ -3,15 +3,315 @@
     "package": "TSData/Res/Objects/objects.package",
     "key": [
       1414807923,
-      2147380143,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 10,
+    "language": 2,
+    "en": "Join Fight",
+    "description": "Sims 2 EP7: Needs Translation",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 9,
+    "language": 2,
+    "en": "Relax",
+    "description": "",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 11,
+    "language": 2,
+    "en": "Clean",
+    "description": "",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 13,
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 14,
+    "language": 2,
+    "en": "Try for Baby",
+    "description": "",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2133299962,
+      1,
+      0
+    ],
+    "row": 15,
+    "language": 2,
+    "en": "React to Pet WooHoo",
+    "description": "",
+    "status": "excluded",
+    "reason": "Exact EP7 water-balloon-fight inherited interaction, not Castaway island gameplay; generic labels here must not affect retained actions elsewhere."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133299962,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Scratchpaw Manor Pet House",
+    "description": "The Sims2 - Needs Translation",
+    "status": "excluded",
+    "reason": "Pet-only Scratchpaw Manor dog-house text incorrectly co-located with the EP7 water-balloon-fight object; no evidence this is a Castaway catalog item."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133299962,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Domestic trouble got you in the dog house? You wish! The kind of spacious luxury that Scratchpaw Manor provides is for Pets only. Because as everyone knows, every pet’s home is its castle.",
+    "description": "The Sims2 - Needs Translation",
+    "status": "excluded",
+    "reason": "Pet-only Scratchpaw Manor dog-house text incorrectly co-located with the EP7 water-balloon-fight object; no evidence this is a Castaway catalog item."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133299962,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Scratchpaw Manor Pet House",
+    "description": "The Sims2 - Needs Translation",
+    "status": "excluded",
+    "reason": "Pet-only Scratchpaw Manor dog-house text incorrectly co-located with the EP7 water-balloon-fight object; no evidence this is a Castaway catalog item."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2133299962,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Domestic trouble got you in the dog house? You wish! The kind of spacious luxury that Scratchpaw Manor provides is for Pets only. Because as everyone knows, every pet’s home is its castle.",
+    "description": "The Sims2 - Needs Translation",
+    "status": "excluded",
+    "reason": "Pet-only Scratchpaw Manor dog-house text incorrectly co-located with the EP7 water-balloon-fight object; no evidence this is a Castaway catalog item."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140820272,
+      301,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "There aren't enough funds to continue making food.",
+    "description": "The Sims2EP3 - Batch 8",
+    "status": "excluded",
+    "reason": "EP3/Open for Business commercial food-production insufficient-funds dialog, not Castaway survival/barter economy. Leave EP7 fish-stock dialog undecided."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1398034979,
+      2140820272,
+      301,
+      0
+    ],
+    "row": 6,
+    "language": 2,
+    "en": "There aren't enough funds to continue making food.",
+    "description": "The Sims2EP3 - Batch 8",
+    "status": "excluded",
+    "reason": "EP3/Open for Business commercial food-production insufficient-funds dialog, not Castaway survival/barter economy. Leave EP7 fish-stock dialog undecided."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140010164,
       128,
       0
     ],
-    "row": 4,
-    "status": "excluded",
+    "row": 3,
     "language": 1,
-    "en": "Dirty",
-    "description": "!!!!!!!!!!!!!!!",
-    "reason": "Aquarium dirty-state/internal marker, not a player-facing interaction; exclude exact row while retaining Clean/Feed Fish/Restock/Watch."
+    "en": "Override",
+    "description": "",
+    "status": "excluded",
+    "reason": "Teaching-social internal override/cleanup action with no player-facing menu evidence; preserve the neighboring base teaching action-queue translations."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140010164,
+      128,
+      0
+    ],
+    "row": 5,
+    "language": 1,
+    "en": "Wrap Up",
+    "description": "!!!",
+    "status": "excluded",
+    "reason": "Teaching-social internal override/cleanup action with no player-facing menu evidence; preserve the neighboring base teaching action-queue translations."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136235661,
+      129,
+      0
+    ],
+    "row": 2,
+    "language": 1,
+    "en": "OE Debug Only",
+    "description": "!!!!!!!!!!!!!!!!!!!!!!!",
+    "status": "excluded",
+    "reason": "Explicit 'OE Debug Only' internal action."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2136235661,
+      129,
+      0
+    ],
+    "row": 15,
+    "language": 1,
+    "en": "Chew or Scratch",
+    "description": "Sims 2 EP6: Needs Translation",
+    "status": "excluded",
+    "reason": "Pets/EP6 'Chew or Scratch' action inside mixed legacy global, separate from base social actions."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131381400,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Flight of Fancy in Rose",
+    "description": "TheSims2EP3 - Batch 9 Name",
+    "status": "excluded",
+    "reason": "Explicit Sims2EP3 catalog title/description for Storybook Pas Rose modular stairs; no Castaway catalog evidence. Generic base-game stair traversal actions remain undecided."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131381400,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Winding down at the end of the day is easy, with this handsome set of gradually ascending platforms under your feet. Walk up - but take time to look down.  That is, unless you're afraid of heights, in which case you should focus straight ahead and think about unicorns.",
+    "description": "TheSims2EP3 - Batch 5 Description",
+    "status": "excluded",
+    "reason": "Explicit Sims2EP3 catalog title/description for Storybook Pas Rose modular stairs; no Castaway catalog evidence. Generic base-game stair traversal actions remain undecided."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131381400,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Flight of Fancy in Rose",
+    "description": "TheSims2EP3 - Batch 9 Name",
+    "status": "excluded",
+    "reason": "Explicit Sims2EP3 catalog title/description for Storybook Pas Rose modular stairs; no Castaway catalog evidence. Generic base-game stair traversal actions remain undecided."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2131381400,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Winding down at the end of the day is easy, with this handsome set of gradually ascending platforms under your feet. Walk up - but take time to look down.  That is, unless you're afraid of heights, in which case you should focus straight ahead and think about unicorns.",
+    "description": "TheSims2EP3 - Batch 5 Description",
+    "status": "excluded",
+    "reason": "Explicit Sims2EP3 catalog title/description for Storybook Pas Rose modular stairs; no Castaway catalog evidence. Generic base-game stair traversal actions remain undecided."
   }
 ]
