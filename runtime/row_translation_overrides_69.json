@@ -1,0 +1,322 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134948650,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Moved Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Chuyển ra ở riêng",
+    "reason": "Exact Memory - Reputation - Move Out CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134948650,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Out with a place of my own. . . goodbye old life, hello new!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Có chỗ ở riêng rồi! Tạm biệt cuộc sống cũ, chào đón những điều mới mẻ nào!",
+    "reason": "Exact Memory - Reputation - Move Out CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134948650,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Moved Out",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Chuyển ra ở riêng",
+    "reason": "Exact Memory - Reputation - Move Out CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2134948650,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Out with a place of my own. . . goodbye old life, hello new!",
+    "description": "The Sims 2 - Needs Translation - Batch19\nSpaced periods",
+    "category": "story",
+    "vi": "Có chỗ ở riêng rồi! Tạm biệt cuộc sống cũ, chào đón những điều mới mẻ nào!",
+    "reason": "Exact Memory - Reputation - Move Out CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135028869,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Maximized the Logic Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Tư duy",
+    "reason": "Exact Memory - Knowledge - Skill - Max Logic CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135028869,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Hình như mình đã hiểu tường tận mọi thứ về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Logic CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135028869,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Maximized the Logic Skill",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Đạt tối đa kỹ năng Tư duy",
+    "reason": "Exact Memory - Knowledge - Skill - Max Logic CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135028869,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Eureka! Looks like I know all there is to know about this subject.",
+    "description": "The Sims 2 - Needs Translation - Batch19",
+    "category": "story",
+    "vi": "Eureka! Hình như mình đã hiểu tường tận mọi thứ về lĩnh vực này rồi!",
+    "reason": "Exact Memory - Knowledge - Skill - Max Logic CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135084283,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "$Subject Died",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đã qua đời",
+    "reason": "Exact Memory - Knowledge - Death - General CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135084283,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Life's so short--one moment you're here, the next you're gone. Really makes you think. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Cuộc đời ngắn ngủi thật... Mới đó còn ở đây, chớp mắt đã không còn nữa. Nghĩ mà thấm thía...",
+    "reason": "Exact Memory - Knowledge - Death - General CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135084283,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "$Subject Died",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\r\nrefers to the object of the memory: $Subject",
+    "category": "story",
+    "vi": "$Subject đã qua đời",
+    "reason": "Exact Memory - Knowledge - Death - General CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135084283,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Life's so short--one moment you're here, the next you're gone. Really makes you think. . .",
+    "description": "The Sims 2 - Needs Translation - Batch19 - M\nSpaced periods\r\n",
+    "category": "story",
+    "vi": "Cuộc đời ngắn ngủi thật... Mới đó còn ở đây, chớp mắt đã không còn nữa. Nghĩ mà thấm thía...",
+    "reason": "Exact Memory - Knowledge - Death - General CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135273766,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Got Rejected for Engagement to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Bị $Subject từ chối đính hôn",
+    "reason": "Exact Memory - Family - Engagement - Failure CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135273766,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Denied by my true love! I thought the time was right, but it was just all wrong.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Người mình yêu lại từ chối lời cầu hôn! Cứ tưởng đã đến lúc rồi, hóa ra mình nhầm to.",
+    "reason": "Exact Memory - Family - Engagement - Failure CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135273766,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Got Rejected for Engagement to $Subject",
+    "description": "The Sims 2 - Needs Translation - Batch18 - Male\r\nGender refers to $Subject",
+    "category": "story",
+    "vi": "Bị $Subject từ chối đính hôn",
+    "reason": "Exact Memory - Family - Engagement - Failure CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2135273766,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "Denied by my true love! I thought the time was right, but it was just all wrong.",
+    "description": "The Sims 2 - Needs Translation - Batch18 - M",
+    "category": "story",
+    "vi": "Người mình yêu lại từ chối lời cầu hôn! Cứ tưởng đã đến lúc rồi, hóa ra mình nhầm to.",
+    "reason": "Exact Memory - Family - Engagement - Failure CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132689849,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Had an Accident at a Party",
+    "description": "The Sims 2 - Needs Translation - Batch20\n\"Had an Accident at a Party\" (bladder failure).",
+    "category": "story",
+    "vi": "Lỡ tè ra quần trong bữa tiệc",
+    "reason": "Exact Memory - Reputation - Bladder Failure - At Party CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132689849,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "That's the most embarrassed I've ever been! How can I ever show my face at a party again?",
+    "description": "The Sims 2 - Needs Translation - Batch20\nDescription for \"Had an Accident at a Party\" - bladder failure",
+    "category": "story",
+    "vi": "Xấu hổ chưa từng thấy! Giờ mình còn mặt mũi nào mà đến dự tiệc nữa đây?",
+    "reason": "Exact Memory - Reputation - Bladder Failure - At Party CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132689849,
+      2000,
+      0
+    ],
+    "row": 2,
+    "language": 2,
+    "en": "Had an Accident at a Party",
+    "description": "The Sims 2 - Needs Translation - Batch20\n\"Had an Accident at a Party\" (bladder failure).",
+    "category": "story",
+    "vi": "Lỡ tè ra quần trong bữa tiệc",
+    "reason": "Exact Memory - Reputation - Bladder Failure - At Party CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2132689849,
+      2000,
+      0
+    ],
+    "row": 3,
+    "language": 2,
+    "en": "That's the most embarrassed I've ever been! How can I ever show my face at a party again?",
+    "description": "The Sims 2 - Needs Translation - Batch20\nDescription for \"Had an Accident at a Party\" - bladder failure",
+    "category": "story",
+    "vi": "Xấu hổ chưa từng thấy! Giờ mình còn mặt mũi nào mà đến dự tiệc nữa đây?",
+    "reason": "Exact Memory - Reputation - Bladder Failure - At Party CTSS row from the game's base life-event memory resources; translated conservatively without broadening this decision to unrelated EP-specific memories."
+  }
+]
