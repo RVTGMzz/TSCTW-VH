@@ -29,7 +29,8 @@ def local_package_candidates(game, documents=None):
     paths=[]
     for directory in ("TSData/Res/Text", "TSData/Res/UI", "TSData/Res/Objects",
                       "TSData/Res/Catalog", "TSData/Res/Catalog/CANHObjects",
-                      "TSData/Res/Neighborhood"):
+                      "TSData/Res/Neighborhood",
+                      "TSData/Res/UserData/Neighborhoods"):
         root=game/directory
         if root.is_dir():
             paths.extend(p for p in root.glob("*.package") if p.is_file())
@@ -111,7 +112,8 @@ def selector_source_matrix(files, progress=lambda msg:None):
     failures=[]
     for path in files:
         p=Path(path)
-        if not (p.name in ("UIText.package","Neighborhood.package") or
+        if not (p.name in ("UIText.package","Neighborhood.package",
+                           "NeighborhoodManager.package","Neighborhoods.package") or
                 p.name in ("N001_Neighborhood.package","N002_Neighborhood.package")):
             continue
         try:
