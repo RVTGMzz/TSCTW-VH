@@ -98,8 +98,11 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
     additions=[]
     game=Path(game)
     bundle=Path(bundle)
-    for name in sorted(CORE_NAMES):
-        path=f"TSData/Res/Text/{name}"
+    candidate_paths = [(name,f"TSData/Res/Text/{name}") for name in sorted(CORE_NAMES)]
+    # Castaway installations may also have the active UIText resource under
+    # TSData/Res/UI; scan both real locations rather than assuming Text only.
+    candidate_paths.append(("UIText.package","TSData/Res/UI/UIText.package"))
+    for name,path in candidate_paths:
         if path in current:
             raise ValueError(("Core/runtime path collision",path))
         source=game/path
