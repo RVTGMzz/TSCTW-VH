@@ -34,6 +34,7 @@ jobs:
           python src/builder/test_v08_delivery.py
           python src/builder/test_win_v08_installer.py
           python src/builder/test_safe_rebase_runtime.py
+          python src/builder/test_safe_core_text_overlay.py
           python src/builder/smoke_frozen_v08.py
 
       - name: Verify actual bundled localization source coverage
