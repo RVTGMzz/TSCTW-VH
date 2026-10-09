@@ -9,8 +9,9 @@ from validate_runtime import ROOT, RUNTIME, effective_records, load_maps, load_r
 from stage_runtime_inputs import select_inventory
 
 
-def apply(data, records, maps, decisions, exact_translations, preserve_unrecognized=False):
+def apply(data, records, maps, decisions, exact_translations, preserve_unrecognized=False, legacy_migrations=None):
     package = Package(data)
+    legacy_migrations = legacy_migrations or {}
     index = {e.key:e for e in package.entries}
     grouped = collections.defaultdict(list)
     for row in records:
@@ -31,6 +32,13 @@ def apply(data, records, maps, decisions, exact_translations, preserve_unrecogni
             identity = row_identity(row)
             vi = exact_translations[identity]['vi'] if identity in exact_translations else maps[row['category']][row['en']]
             if value == vi:
+                continue
+            old = legacy_migrations.get(identity)
+            if old is not None and value == old["old_vi"]:
+                # Explicit previous approved wording, exact resource/metadata
+                # checked before loading the migration; user requested polishing.
+                rows[row['row']][1] = vi
+                changed_rows += 1
                 continue
             if value != row['en']:
                 if preserve_unrecognized:
