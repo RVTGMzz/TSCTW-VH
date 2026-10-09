@@ -98,9 +98,11 @@ def apply_saved_neighborhood_updates(save_root,backup_dir):
     if backup_dir.exists():
         raise FileExistsError("Đã có thư mục backup, không ghi đè")
     updates=build_saved_neighborhood_updates(save_root)
+    selector_before=selector_translation_status(save_root)
     if not updates:
         return {"state":"NO_NEW_ROWS","saved_files":0,"changed_rows":0,
-                "selector_status":selector_translation_status(save_root)}
+                "selector_status":selector_translation_status(save_root),
+                "selector_before":selector_before}
     # Recheck ALL sources before creating anything.
     for item in updates:
         if hash_bytes(item["source"].read_bytes())!=item["before_hash"]:
@@ -148,7 +150,8 @@ def apply_saved_neighborhood_updates(save_root,backup_dir):
         return {"state":"PATCHED_FOR_TEST","saved_files":len(updates),
                 "changed_rows":sum(x["rows"] for x in updates),
                 "backup":str(backup_dir),
-                "selector_status":selector_translation_status(save_root)}
+                "selector_status":selector_translation_status(save_root),
+                "selector_before":selector_before}
     except Exception:
         # Roll back all written files, even if a post-write check failed.
         for item in reversed(changed):
