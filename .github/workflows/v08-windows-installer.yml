@@ -49,6 +49,8 @@ jobs:
             --name "VotriValley-Castaway-v08-TEST" `
             --paths "src/builder" `
             --add-data "runtime;runtime" `
+            --add-data "translations;translations" `
+            --add-data "castaway-english-strings.json;." `
             --hidden-import "tkinter" `
             --hidden-import "tkinter.filedialog" `
             --hidden-import "tkinter.messagebox" `
