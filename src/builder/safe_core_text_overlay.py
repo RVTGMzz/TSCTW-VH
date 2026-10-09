@@ -32,6 +32,11 @@ SELECTOR_SOURCES = {
 }
 
 
+def selector_quote_normalize(text):
+    """Treat typographic and plain quotes as equivalent, not arbitrary edits."""
+    return text.translate(str.maketrans({"’":"'", "‘":"'", "“":'"', "”":'"'}))
+
+
 def patch_installed_selector(original, island, approved_ui):
     """Patch only known N001/N002 CTSS rows, without touching unrelated resources."""
     if island not in SELECTOR_SOURCES:
@@ -53,7 +58,7 @@ def patch_installed_selector(original, island, approved_ui):
     rows, tail = parse_table(raw)
     changed = 0
     for ordinal, (en, vi) in approved.items():
-        if ordinal < len(rows) and rows[ordinal][0] in (1, 2) and rows[ordinal][1] == en:
+        if ordinal < len(rows) and rows[ordinal][0] in (1, 2) and selector_quote_normalize(rows[ordinal][1]) == selector_quote_normalize(en):
             rows[ordinal][1] = vi
             changed += 1
     if not changed:
