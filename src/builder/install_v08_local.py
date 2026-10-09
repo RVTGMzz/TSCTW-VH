@@ -20,13 +20,21 @@ def sha(path):
     return h.hexdigest()
 
 
+# Only two installed neighborhood templates can be part of a verified
+# game installation transaction. Documents save files stay untouched.
+INSTALLED_NEIGHBORHOOD_ALLOWLIST = frozenset({
+    "TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package",
+    "TSData/Res/UserData/Neighborhoods/N002/N002_Neighborhood.package",
+})
+
+
 def validate_path(rel):
     if not isinstance(rel,str) or not rel.startswith("TSData/Res/") or not rel.endswith(".package"):
         raise ValueError(f"Unsafe payload path: {rel!r}")
     pure=Path(rel.replace("\\","/"))
     if any(t in ("..",".","") for t in pure.parts) or pure.is_absolute():
         raise ValueError(f"Invalid relative path: {rel}")
-    if rel.startswith("TSData/Res/UserData/") or ":" in rel or "\\" in rel:
+    if (rel.startswith("TSData/Res/UserData/") and rel not in INSTALLED_NEIGHBORHOOD_ALLOWLIST) or ":" in rel or "\\" in rel:
         raise ValueError(f"User save or unsupported path forbidden: {rel}")
     return pure
 
