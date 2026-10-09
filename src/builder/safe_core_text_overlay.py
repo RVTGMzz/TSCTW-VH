@@ -248,6 +248,8 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
                 "patched_sha256":sha_bytes(after),
                 "changed_rows":rows,"changed_resources":resources,
             })
+    core_text_file_count = len(additions)
+    core_text_row_count = sum(r["changed_rows"] for r in additions)
     # Installed neighborhood templates are separate from Documents save data.
     # Add only CTSS rows that match the exact full audited English strings.
     installed_candidates = [(island, path) for island, path in INSTALLED_SELECTOR_FILES.items()
@@ -287,8 +289,8 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
     manifest["install_files"]=sorted(manifest["install_files"]+additions,key=lambda r:r["path"])
     manifest["core_text_overlay"]={
         "mode":"approved-English-only-rebase-on-installed-Text",
-        "changed_files":len(additions),
-        "changed_rows":sum(r["changed_rows"] for r in additions),
+        "changed_files":core_text_file_count,
+        "changed_rows":core_text_row_count,
         "unknown_previous_translations":"left unchanged",
         "note":"Same transaction and original-byte backups as runtime overlay; needs real in-game QA",
     }
