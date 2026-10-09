@@ -87,6 +87,16 @@ SELECTOR_ANCHORS = {
 }
 
 
+def selector_source_area(path):
+    """Classify both Windows and POSIX paths without confusing installed N00x with saves."""
+    normalized=str(path).replace(chr(92), "/").casefold()
+    if "/tsdata/res/userdata/neighborhoods/" in normalized:
+        return "installation_neighborhood"
+    if "/neighborhoods/" in normalized:
+        return "documents_neighborhood"
+    return "game_text"
+
+
 def selector_source_matrix(files, progress=lambda msg:None):
     """Read-only source/status matrix for both selection tiles and descriptions.
 
@@ -97,7 +107,6 @@ def selector_source_matrix(files, progress=lambda msg:None):
     failures=[]
     for path in files:
         p=Path(path)
-        normalized=str(p).replace("\\\\","/").lower()
         if not (p.name in ("UIText.package","Neighborhood.package") or
                 p.name in ("N001_Neighborhood.package","N002_Neighborhood.package")):
             continue
@@ -118,9 +127,7 @@ def selector_source_matrix(files, progress=lambda msg:None):
                         if matching:
                             hits.append({
                                 "field":group, "file":str(p),
-                                "source_area":("installation_neighborhood" if "/tsdata/res/userdata/neighborhoods/" in normalized
-                                    else "documents_neighborhood" if "/neighborhoods/" in normalized
-                                    else "game_text"),
+                                "source_area":selector_source_area(p),
                                 "key":list(e.key),"row":index,"language":language,
                                 "state":"vietnamese" if (vietnamese in value) else "english",
                                 "text_preview":value[:250],
