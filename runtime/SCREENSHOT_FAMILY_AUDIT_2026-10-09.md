@@ -1,0 +1,33 @@
+# In-game Castaway screenshot family audit — 2026-10-09
+
+**Priority = gameplay-visible Castaway text only**, not The Sims 2 Legacy Collection. These screenshots were provided after the one-click v0.8 TEST Build 29. They prove that source-level translation coverage was not equivalent to installed in-game coverage. **Do not claim that any new screenshot is fixed in actual game until Ron confirms in-game.** No original commercial game packages have been uploaded or committed to the repo.
+
+## Screenshots and traced owners
+
+| Seen in game | Evidence and target | Work in this pass |
+| --- | --- | --- |
+| `Shipwrecked and Single`, `Wanmami Island`, English selector description | Documents N001/N002 CTSS `(CTSS,0xFFFFFFFF,1,0)`, rows 0/1 have approved translations in `runtime/translations/ui.json`; parallel `UIText.package` core original source has separate descriptions in instances 169/750/755 | Existing approved name **`Đảo Wanmami`**; `patch_neighborhood_text.py` opt-in exact-row N001/N002 text patch and restore; `safe_core_text_overlay.py` patches remaining exact English core Text rows; real selector runtime read precedence **NOT VERIFIED** |
+| Wanmami Island lot/character detail: `Valance`, `Wilson`, Candy / Linea paragraphs, `Spear Point` | N002 neighborhood STR# rows include `Valance` and `Wilson` surnames, their paragraphs, and a `Spear Point` location row | Preserve names `Valance`, `Wilson`; append location mapping `Spear Point → Mũi Giáo`; opt-in Documents save text patch covers their paragraphs, preserves player edits |
+| `Pine Tree`, `Row of Trees` labels while neighborhood trees placement hint is Vietnamese | Neither plain title appears in existing runtime candidate/review or original core Text **catalog**; only `Pointy Things Pencil Pine Tree` was located in objects CTSS | **Unresolved source owner**. Use new on-device read-only `Rà chữ còn sót` scanner, not an invented string patch; investigate `UI.package`, asset/catalog/neighborhood decorative names. Do not translate debug or other games as collateral |
+| `Conveniently Cozy Rock Couch` translates awkwardly as `Ghế đá đôi Êm Tiện Thể` | Objects CTSS `(1129599827,2142986264,2000,0)`, row 0 name / row 1 description; *Cast Catalog COM* | Polished name to **`Ghế đá đôi Êm Một Bên`**, description rewritten naturally; exact older approved values recorded in `runtime/reviewed_translation_migrations.json`, migrated only if full source/metadata agrees; unrelated unknown edits remain untouched |
+| `Elixir of Life` aspiration reward title, description, Gold Aspiration warning | Screenshot-visible *different CTSS* `(1129599827,2140014299,2000,0)` rows 0 and 1, previously out-of-scope inherited TS2 reward; NOT the already translated `Elixir of Life Potion` resource | Exact-row scope promotions `row_scope_overrides_83.json`; name and full reward description approved in `runtime/translations/catalog.json`. **Separate Gold Aspiration warning not located yet**; read-only device scan searches warning/aspiration phrases |
+| Turn-Ons / Turn-Off help panel in English | Original core `CAS.package` instance 140/141 and `Live.package` 211 have approved source translations, but user screenshot uses a longer variant not exactly in committed original catalog | `safe_core_text_overlay.py` patches exact English rows in core Text files (including alternate `Res/UI/UIText.package`) on top of v0.7a. Longer observed variant needs on-device owner identification, not guessed substring rewriting |
+| Credit `Việt hóa bởi Votri Valley` near game opening | Original core `UIText.package` id1 is **application window title**, not a proved blank line under the graphical logo; `Options.package` id128 is Credits menu entry/tooltip, not a graphical slot | **IN-GAME placement still to investigate.** Look for actual title-screen UI layout resources (`TSData/Res/UI/UI.package` and related UI/texture resources). Do NOT corrupt window title/profile name or overwrite official EA credits to claim done. GUI/project already identify Votri Valley as localizer; that alone does not satisfy the in-game credit request |
+
+## Source and binary patching changes
+
+1. `runtime/translations/catalog.json`: upgraded rock couch title+description; added actual Elixir reward description.
+2. `runtime/row_scope_overrides_83.json`: two exact aspiration reward row promotions after screenshot proved reachability.
+3. `runtime/translations/neighborhood.json`: `Spear Point → Mũi Giáo`, preserving people names and the geographical name **Wanmami** as an actual proper noun.
+4. `runtime/reviewed_translation_migrations.json`: two old rock couch strings approved for precise migration. The writer never treats arbitrary Vietnamese values as safe to overwrite.
+5. `safe_core_text_overlay.py` + `test_safe_core_text_overlay.py`: merge vetted original Text translation catalog into the EXISTING user Text packages by exact English string, original file/instance. Retain old nonmatching Vietnamese and other language values. **Include `Res/Text/UIText.package` and `Res/UI/UIText.package`**; no need to reinstall Python.
+6. `diagnose_visible_strings.py`: on-device read-only search for the unresolved screenshot phrases across game Text/UI/Objects and the default Documents N001/N002; EXE button **Rà chữ còn sót**, results saved via **Lưu báo cáo...** (review report for personal paths before sharing).
+7. `patch_neighborhood_text.py` and dedicated synthetic tests: **optional separate confirmed action** to apply exact approved N001/N002 text resources only to the user's local Documents save packages, using verified complete-byte backup + restore; never as default installer action or redistributable file. **Do not edit if player has game running.** Restore refuses if subsequent game progress changed files.
+
+## Remaining verification
+
+- Confirm Windows EXE CI release, then Ron tests **real game** and screenshot after Core Text+Runtime and optionally N001/N002 safe-save patch.
+- Confirm credit position from actual UI layout before implementing in-game overlay.
+- Resolve Pine Tree / Row of Trees / Gold Aspiration warning / alternate Chemistry help using saved diagnostic report (exact package, key, row, language and resource owner), then translate their *whole related families*, not only the reported item.
+- Keep Wanmami map/neighborhood graphical glitch separate; Ron observed it in the original non-localized portable version.
+- **No full v0.8 release until real gameplay/selector/save-load QA.**
