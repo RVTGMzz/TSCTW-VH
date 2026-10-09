@@ -521,6 +521,24 @@ class InstallerApp:
                 elif isinstance(value, tuple):
                     report, manifest = value
                     amount = sum(r["changed_rows"] for r in manifest["install_files"])
+                    # Log the read-only selector snapshot even when the ordinary
+                    # overlay has nothing to change. Never equate this with an
+                    # in-game verification of the active screen source.
+                    snapshot=manifest.get("selector_post_install")
+                    if snapshot:
+                        source_rows=snapshot.get("matches",[])
+                        for field,label in (
+                            ("story_title","Tên Đắm tàu và độc thân"),
+                            ("story_description","Mô tả Đắm tàu và độc thân"),
+                            ("island_title","Tên Đảo Wanmami"),
+                            ("island_description","Mô tả Đảo Wanmami"),
+                        ):
+                            en=sum(r["state"]=="english" and r["field"]==field for r in source_rows)
+                            vi=sum(r["state"]=="vietnamese" and r["field"]==field for r in source_rows)
+                            self.write(f"Màn chọn chế độ | {label}: {en} EN / {vi} VI (các nguồn tìm thấy)")
+                        self.write("Đây là đối chiếu SOURCE; cần xác nhận nguồn game thực sự đọc.")
+                    elif manifest.get("selector_post_install_error"):
+                        self.write("Không rà được màn chọn chế độ: "+manifest["selector_post_install_error"])
                     if report["result"] == "NO_NEW_ROWS":
                         self.status.set("Không có dòng tiếng Anh phù hợp để bổ sung; game giữ nguyên.")
                         self.write("Không có dòng tiếng Anh khớp nguồn nào cần bổ sung. Không thay đổi file, không tạo backup mới.")
@@ -537,21 +555,6 @@ class InstallerApp:
                         if unknown:
                             self.write(f"GIỮ NGUYÊN {unknown} câu từng sửa khác bản dịch hiện tại; "
                                        "không ghi đè và chưa tính những câu này là đã kiểm duyệt.")
-                    selector_scan=manifest.get("selector_post_install")
-                    if selector_scan:
-                        source_rows=selector_scan.get("matches",[])
-                        for field,label in (
-                            ("story_title","Tên Đắm tàu và độc thân"),
-                            ("story_description","Mô tả Đắm tàu và độc thân"),
-                            ("island_title","Tên Đảo Wanmami"),
-                            ("island_description","Mô tả Đảo Wanmami"),
-                        ):
-                            english=sum(r["state"]=="english" and r["field"]==field for r in source_rows)
-                            vietnamese=sum(r["state"]=="vietnamese" and r["field"]==field for r in source_rows)
-                            self.write(f"Màn chọn chế độ | {label}: {english} EN / {vietnamese} VI (các nguồn tìm thấy)")
-                        self.write("Đây là đối chiếu SOURCE; game đang đọc file nào phải xác minh khi chơi.")
-                    elif manifest.get("selector_post_install_error"):
-                        self.write("Không rà được màn chọn chế độ: "+manifest["selector_post_install_error"])
                     messagebox.showinfo(
                         "Đã cài bản v0.8 TEST",
                         "Cài đặt đã qua kiểm tra file và sao lưu.\n"
