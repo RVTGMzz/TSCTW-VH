@@ -65,7 +65,7 @@ def main():
             print(json.dumps({
               "package":row["package"],"key":row["key"],"row":row["row"],
               "language":row["language"],"type":row.get("type"),
-              "category":cat,"description":shorten(row.get("description"),150),
+              "category":cat,"description":shorten(row.get("description"),700 if cluster=="aspiration-rewards" else 170),
               "en":shorten(row.get("en"),510),
               "approved_vi":shorten(vi,300) if vi else None,
               "nearby":nearby
