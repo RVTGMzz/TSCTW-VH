@@ -52,6 +52,9 @@ jobs:
       - name: Trace Castaway story selector source candidates
         run: python src/builder/trace_selector_sources.py
 
+      - name: Trace in-game reported untranslated clusters
+        run: python src/builder/trace_castaway_visible_clusters.py
+
       - name: Print inherited review triage
         run: |
           python src/builder/triage_review_queue.py --groups 80 --samples 8
