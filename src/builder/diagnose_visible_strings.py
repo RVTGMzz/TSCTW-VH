@@ -27,7 +27,9 @@ def local_package_candidates(game, documents=None):
     """Conservative finite list of likely GUI/story/catalog source packages."""
     game=Path(game)
     paths=[]
-    for directory in ("TSData/Res/Text", "TSData/Res/UI", "TSData/Res/Objects"):
+    for directory in ("TSData/Res/Text", "TSData/Res/UI", "TSData/Res/Objects",
+                      "TSData/Res/Catalog", "TSData/Res/Catalog/CANHObjects",
+                      "TSData/Res/Neighborhood"):
         root=game/directory
         if root.is_dir():
             paths.extend(p for p in root.glob("*.package") if p.is_file())
