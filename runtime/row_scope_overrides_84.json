@@ -1,0 +1,17 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1414807923,
+      2140014299,
+      1,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Drink Elixir of Life",
+    "description": "The Sims 2 - Needs Translation - Batch20",
+    "category": "menu",
+    "reason": "Player-visible Elixir of Life aspiration reward confirmed by 2026-10-09 screenshot; same resource group as reviewed CTSS title/description (2140014299). Scope only this exact TTAs action, not other inherited TS2 interactions."
+  }
+]
