@@ -45,6 +45,7 @@ def smoke():
         "source_inventory": lambda: [item],
         "load_maps": lambda: {"menu": {"Examine": "Xem xét"}},
         "load_row_translations": lambda: [],
+        "load_reviewed_legacy_migrations": lambda *args, **kw: {},
         "effective_records": lambda: ([row], []),
     }
     def forbid_core():
