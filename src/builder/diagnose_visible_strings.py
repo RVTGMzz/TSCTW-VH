@@ -159,7 +159,12 @@ def discover_documents_roots():
 def diagnose(game,progress=lambda m:None):
     """Call in GUI background worker. No file modification or network access."""
     roots=discover_documents_roots()
-    files=local_package_candidates(game, roots[0] if roots else None)
+    files=local_package_candidates(game)
+    # Multiple Windows profiles/OneDrive folders may coexist; compare each
+    # independently instead of silently selecting only the first save root.
+    for root in roots:
+        files.extend(local_package_candidates(game, root))
+    files=list(dict.fromkeys(files))
     if not files:
         raise FileNotFoundError("Không tìm thấy package để rà. Chọn thư mục game có TSData.")
     output=[]
