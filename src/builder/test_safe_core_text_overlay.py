@@ -178,6 +178,17 @@ class InstalledSelectorTests(unittest.TestCase):
             self.assertEqual(rows[0][1],translations[title])
             self.assertEqual(rows[1][1],translations[long_keys[0]])
 
+    def test_typographic_apostrophe_does_not_leave_story_description_english(self):
+        en="Very little is known about this remote tropical paradise. Its location isn’t recorded."
+        ui={"Shipwrecked and Single":"Đắm tàu và độc thân",
+            en:"Người ta biết rất ít về thiên đường nhiệt đới xa xôi này."}
+        raw=synthetic_selector_package("Shipwrecked and Single",
+                                       en.replace("’","'"))
+        updated,count,res=patch_installed_selector(raw,"N001",ui)
+        self.assertEqual((count,res),(2,1))
+        rows,_=parse_table(Package(updated).raw(Package(updated).entries[0]))
+        self.assertEqual(rows[1][1],ui[en])
+
     def test_neighborhood_installer_transaction_restores_original_and_leaves_documents(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
