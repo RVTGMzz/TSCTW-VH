@@ -3,7 +3,7 @@ import struct
 import tempfile
 import unittest
 from pathlib import Path
-from diagnose_visible_strings import selector_source_matrix
+from diagnose_visible_strings import selector_source_matrix, selector_source_area
 
 
 def package_with_title(title):
@@ -19,6 +19,11 @@ def package_with_title(title):
 
 
 class SelectorMatrixTest(unittest.TestCase):
+    def test_windows_paths_are_classified_correctly(self):
+        self.assertEqual(selector_source_area(r"G:\\Castaway-Portable\\TSData\\Res\\UserData\\Neighborhoods\\N002\\N002_Neighborhood.package"),"installation_neighborhood")
+        self.assertEqual(selector_source_area(r"C:\\Users\\Player\\Documents\\Electronic Arts\\The Sims Castaway Stories\\Neighborhoods\\N002\\N002_Neighborhood.package"),"documents_neighborhood")
+        self.assertEqual(selector_source_area(r"G:\\Castaway-Portable\\TSData\\Res\\Text\\UIText.package"),"game_text")
+
     def test_original_and_localized_titles_appear_with_source_and_do_not_modify_files(self):
         with tempfile.TemporaryDirectory() as temp:
             root=Path(temp)
