@@ -130,7 +130,8 @@ class SafeRebaseTests(unittest.TestCase):
                   patch("prepare_v08_test.source_inventory",return_value=[item]),
                   patch("prepare_v08_test.effective_records",return_value=(rows,[])),
                   patch("prepare_v08_test.load_maps",return_value=MAPS),
-                  patch("prepare_v08_test.load_row_translations",return_value=[])):
+                  patch("prepare_v08_test.load_row_translations",return_value=[]),
+                  patch("prepare_v08_test.load_reviewed_legacy_migrations",return_value={})):
                 with self.assertRaisesRegex(ValueError, "original missing/hash mismatch"):
                     build(core,input_root,root/"strict",runtime_only=True)
                 result=build(core,input_root,output,runtime_only=True,allow_prepatched_runtime=True)
