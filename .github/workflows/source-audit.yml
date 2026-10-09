@@ -55,6 +55,9 @@ jobs:
       - name: Validate reviewed old-Vietnamese migrations against committed source
         run: python src/builder/test_reviewed_migration_source.py
 
+      - name: Verify exact visible Text and Catalog patches and backups
+        run: python src/builder/test_safe_core_text_overlay.py
+
       - name: Verify opt-in neighborhood text patch preserves saves and supports restore
         run: python src/builder/test_patch_neighborhood_text.py
 
