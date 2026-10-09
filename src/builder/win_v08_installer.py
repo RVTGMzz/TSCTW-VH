@@ -446,7 +446,7 @@ class InstallerApp:
             "Xác nhận cài v0.8 TEST",
             "Ông đã thoát hẳn Castaway chưa?\n\n"
             "Trình cài sẽ kiểm tra và sao lưu file trước khi vá runtime và Text còn tiếng Anh. "
-            "Các câu đã Việt hóa và font cũ được giữ nguyên; không sửa save Documents.\n\n"
+            "Bản này còn thử vá đúng chữ chọn chế độ trong hai package N001/N002 ở thư mục cài game. "\n            "Chỉ những dòng tiếng Anh khớp chính xác được đổi và luôn sao lưu nguyên file. "\n            "Không tự chỉnh save Documents; giữ nguyên font và các câu Việt hóa cũ.\n\n"
             "Tiếp tục?", icon="question",
         ):
             return
