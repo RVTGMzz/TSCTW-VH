@@ -220,6 +220,7 @@ class InstallerApp:
         self.root.resizable(True, True)
         self.events = queue.Queue()
         self.busy = False
+        self.diagnostic_results = None
         self.game = tk.StringVar(value=str(find_game_root() or ""))
         self.status = tk.StringVar(value="Sẵn sàng chọn thư mục Castaway.")
 
@@ -247,6 +248,8 @@ class InstallerApp:
         self.restore_button.pack(side="left", padx=(10, 0))
         self.report_button = ttk.Button(controls, text="Lưu báo cáo...", command=self.save_report)
         self.report_button.pack(side="left", padx=(10, 0))
+        self.diagnose_button = ttk.Button(controls, text="Rà chữ còn sót", command=self.diagnose)
+        self.diagnose_button.pack(side="left", padx=(10, 0))
         self.progressbar = ttk.Progressbar(panel, mode="indeterminate")
         self.progressbar.pack(fill="x", pady=(0, 8))
         ttk.Label(panel, textvariable=self.status, wraplength=620).pack(anchor="w", pady=(0, 6))
@@ -274,6 +277,10 @@ class InstallerApp:
         if not filename:
             return
         data = self.log.get("1.0", "end-1c")
+        if self.diagnostic_results is not None:
+            data += "\n\n=== CHI TIẾT RESOURCE RÀ CHỮ ===\n" + json.dumps(
+                self.diagnostic_results, ensure_ascii=False, indent=2
+            )
         try:
             save_diagnostic_report(Path(filename), data)
             messagebox.showinfo("Đã lưu báo cáo",
@@ -294,12 +301,21 @@ class InstallerApp:
             return None
         return Path(value).resolve()
 
+    def diagnose(self):
+        game = self.selected_game()
+        if game is None:
+            return
+        from diagnose_visible_strings import diagnose
+        self.start("Rà nguồn chữ còn sót (chỉ đọc, không sửa game)",
+                   lambda progress: diagnose(game,progress))
+
     def start(self, job, worker):
         if self.busy:
             return
         self.busy = True
         self.install_button.configure(state="disabled")
         self.restore_button.configure(state="disabled")
+        self.diagnose_button.configure(state="disabled")
         self.browse.configure(state="disabled")
         self.progressbar.start(14)
         self.write(f"--- {job} ---")
@@ -354,7 +370,17 @@ class InstallerApp:
                 self.write(value)
             elif event == "success":
                 self.status.set("Hoàn tất thao tác.")
-                if isinstance(value, tuple):
+                if isinstance(value,dict) and "hits" in value:
+                    from diagnose_visible_strings import concise_for_gui
+                    self.diagnostic_results = value
+                    for line in concise_for_gui(value):
+                        self.write(line)
+                    self.status.set("Rà chữ xong. Nhấn 'Lưu báo cáo...' để gửi các resource còn sót.")
+                    messagebox.showinfo("Đã rà xong",
+                        f"Đã tìm {len(value['hits'])} dòng nghi liên quan. "
+                        "Nhấn 'Lưu báo cáo...' để lưu vị trí package và resource, rồi gửi tui kiểm tra. "
+                        "Không có file game nào bị thay đổi.")
+                elif isinstance(value, tuple):
                     report, manifest = value
                     amount = sum(r["changed_rows"] for r in manifest["install_files"])
                     if report["result"] == "NO_NEW_ROWS":
@@ -389,7 +415,7 @@ class InstallerApp:
             elif event == "done":
                 self.busy = False
                 self.progressbar.stop()
-                for button in (self.install_button, self.restore_button, self.browse):
+                for button in (self.install_button, self.restore_button, self.diagnose_button, self.browse):
                     button.configure(state="normal")
         self.root.after(125, self.process_events)
 
