@@ -73,6 +73,8 @@ def selector_translation_status(save_root):
     report=selector_source_matrix(list(sources.values()))
     fields=("story_title","island_title","story_description","island_description")
     matches=report["matches"]
+    # A source is not completely localized while ANY matching English row
+    # remains, even if another language/duplicate resource has Vietnamese.
     return {
         "fields":{field:{
             "english":sum(r["field"]==field and r["state"]=="english" for r in matches),
