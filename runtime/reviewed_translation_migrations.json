@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142986264,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "description": "Cast Catalog COM",
+    "en": "Conveniently Cozy Rock Couch",
+    "old_vi": "Ghế đá đôi Êm Tiện Thể",
+    "reason": "Verified user screenshot of existing awkward prior Votri Valley translation; upgrade only this exact CTSS title."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2142986264,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "description": "Cast Catalog COM",
+    "en": "Once it was a mere oversized slab of stone. Now, thanks to aeons of wind and rain, the Conveniently Cozy Rock Couch is an invaluable addition to your island decor! It seats two, though one of its seats is much more comfortable than the other.",
+    "old_vi": "Ngày trước chỉ là một phiến đá quá khổ. Giờ nhờ bao thời đại mưa gió, ghế đá đôi Êm Tiện Thể trở thành món trang trí đảo vô giá! Ghế ngồi được hai người, dù một bên êm hơn bên kia rất nhiều.",
+    "reason": "Earlier catalog translation from same exact Cast CTSS row, polished while retaining comic uneven-seat meaning."
+  }
+]
