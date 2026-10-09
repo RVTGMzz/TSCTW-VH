@@ -23,6 +23,7 @@ class SelectorMatrixTest(unittest.TestCase):
         self.assertEqual(selector_source_area(r"G:\\Castaway-Portable\\TSData\\Res\\UserData\\Neighborhoods\\N002\\N002_Neighborhood.package"),"installation_neighborhood")
         self.assertEqual(selector_source_area(r"C:\\Users\\Player\\Documents\\Electronic Arts\\The Sims Castaway Stories\\Neighborhoods\\N002\\N002_Neighborhood.package"),"documents_neighborhood")
         self.assertEqual(selector_source_area(r"G:\\Castaway-Portable\\TSData\\Res\\Text\\UIText.package"),"game_text")
+        self.assertEqual(selector_source_area(r"G:\Castaway-Portable\TSData\Res\UserData\Neighborhoods\N002\N002_Neighborhood.package"),"installation_neighborhood")
 
     def test_original_and_localized_titles_appear_with_source_and_do_not_modify_files(self):
         with tempfile.TemporaryDirectory() as temp:
