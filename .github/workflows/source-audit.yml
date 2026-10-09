@@ -70,6 +70,9 @@ jobs:
       - name: Verify opt-in neighborhood text patch preserves saves and supports restore
         run: python src/builder/test_patch_neighborhood_text.py
 
+      - name: Validate screenshot-visible aspiration reward interaction family
+        run: python src/builder/test_aspiration_reward_family.py
+
       - name: Trace in-game reported untranslated clusters
         run: python src/builder/trace_castaway_visible_clusters.py
 
