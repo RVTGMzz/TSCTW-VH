@@ -32,6 +32,39 @@ SELECTOR_SOURCES = {
 }
 
 
+def patch_installed_selector(original, island, approved_ui):
+    """Patch only known N001/N002 CTSS rows, without touching unrelated resources."""
+    if island not in SELECTOR_SOURCES:
+        raise ValueError(("Unknown installed neighborhood", island))
+    approved = {}
+    for ordinal, anchor in SELECTOR_SOURCES[island]:
+        candidates = [(en, vi) for en, vi in approved_ui.items()
+                      if en == anchor or (ordinal == 1 and en.startswith(anchor))]
+        if len(candidates) != 1:
+            raise ValueError(("Missing/ambiguous selector translation", island, ordinal))
+        approved[ordinal] = candidates[0]
+    package = Package(original)
+    if package.width != 24:
+        return original, 0, 0
+    entry = next((e for e in package.entries if e.key == SELECTOR_KEY), None)
+    if entry is None:
+        return original, 0, 0
+    raw = package.raw(entry)
+    rows, tail = parse_table(raw)
+    changed = 0
+    for ordinal, (en, vi) in approved.items():
+        if ordinal < len(rows) and rows[ordinal][0] in (1, 2) and rows[ordinal][1] == en:
+            rows[ordinal][1] = vi
+            changed += 1
+    if not changed:
+        return original, 0, 0
+    encoded = encode_table(raw, rows)
+    verified, verified_tail = parse_table(encoded)
+    if verified != rows or verified_tail != tail:
+        raise AssertionError(("Neighborhood CTSS roundtrip failed", island))
+    return package.patch({SELECTOR_KEY: encoded}), changed, 1
+
+
 def sha_bytes(data):
     return hashlib.sha256(data).hexdigest()
 
