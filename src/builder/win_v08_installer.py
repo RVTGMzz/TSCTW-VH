@@ -195,7 +195,7 @@ def install_from_game(game, progress=lambda x: None):
         bundle, manifest = build_runtime_overlay(game, Path(work), progress)
         from safe_core_text_overlay import collect_core_overlay
         from build_v07 import CATALOG_PATH, TRANSLATIONS_DIR
-        progress("Đang bổ sung các câu Text gốc còn tiếng Anh, giữ nguyên những câu đã Việt hóa...")
+        progress("Đang vá Text và thử hai chế độ từ package N001/N002 trong thư mục game...")
         manifest = collect_core_overlay(game,bundle,manifest,CATALOG_PATH,TRANSLATIONS_DIR)
         if not manifest["install_files"]:
             try:
@@ -553,6 +553,15 @@ class InstallerApp:
                             "Game không bị thay đổi. Lưu ý: điều này chưa xác nhận mọi chữ trong game đều đã Việt hóa.")
                         continue
                     self.write(f"Đã cài {report['files']} package, thay đổi {amount} dòng. Sao lưu: {report['backup']}")
+                    selector_overlay=manifest.get("installed_selector_overlay", {})
+                    if selector_overlay:
+                        self.write("Package N001/N002 trong thư mục cài: "
+                                   f"{selector_overlay.get('changed_rows',0)} dòng mới / "
+                                   f"{selector_overlay.get('changed_files',0)} file. "
+                                   "Save Documents không bị thay đổi.")
+                        if not selector_overlay.get("changed_rows"):
+                            self.write("CHƯA XÁC MINH: không có dòng N001/N002 khớp nguyên văn; "
+                                       "không được coi màn chọn chế độ đã hoàn tất.")
                     compatibility = manifest.get("modified_baseline_checks", [])
                     if compatibility:
                         self.write(f"Đã kiểm tra {len(compatibility)} package khác hash gốc: "
@@ -564,7 +573,8 @@ class InstallerApp:
                     messagebox.showinfo(
                         "Đã cài bản v0.8 TEST",
                         "Cài đặt đã qua kiểm tra file và sao lưu.\n"
-                        "Bản cài chính không sửa save Documents. Hai tên chế độ và đoạn mô tả có thể vẫn tiếng Anh nếu game đọc N001/N002 trong save.\n"
+                        "Đã thử vá đúng tài nguyên N001/N002 trong thư mục game nếu khớp. Save Documents vẫn được giữ nguyên.\n"
+                        "Nếu game đọc N001/N002 từ save thì màn chọn chế độ vẫn có thể còn tiếng Anh.\n"
                         "Để thử phần này, dùng nút 'Việt hóa đảo & tiểu sử...' riêng (có xác nhận, sao lưu và khôi phục).\n"
                         "Đây vẫn là bản TEST: cần chơi để xác nhận nguồn hiển thị.\n\n"
                         f"Thư mục sao lưu:\n{report['backup']}",
