@@ -40,6 +40,7 @@ jobs:
           python src/builder/test_v08_delivery.py
           python src/builder/test_win_v08_installer.py
           python src/builder/test_safe_rebase_runtime.py
+          python src/builder/test_aspiration_reward_family.py
           python src/builder/test_safe_core_text_overlay.py
           python src/builder/test_diagnose_selector_matrix.py
           python src/builder/test_patch_neighborhood_text.py
