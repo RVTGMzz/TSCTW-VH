@@ -1,20 +1,19 @@
 # The Sims Castaway Stories — Việt hóa
 
-## BẢN CÀI WINDOWS v0.8 TEST — NHẤN ĐÚP, KHÔNG CẦN PYTHON
+## Bản cài Windows mới nhất: v0.8 TEST, Build 66
 
-**Build 29 (2026-10-09):** thêm nút **Lưu báo cáo...** để tự xuất log UTF-8 ra máy khi cài có lỗi (người dùng tự xem trước khi chia sẻ; không tự gửi qua mạng). Bấm **Cài** một lần nữa sau khi đã vá đủ những dòng nguồn xác nhận được sẽ được báo **không có gì cần bổ sung**, thay vì báo lỗi hoặc tạo backup mới. [Windows CI #29](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37861994690) đã PASS kiểm thử dữ liệu dịch và smoke-test EXE đóng gói. Các thay đổi vẫn chỉ được kiểm thử bằng package giả; chưa có kết quả Windows gameplay thật.
+**[TẢI TRỰC TIẾP EXE — VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-66/VotriValley-Castaway-v08-TEST.exe)** (khoảng 15,5 MB). Không cần Python. [GitHub Windows CI Build 66 — PASS](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37865230511). **Đây là TEST: đã thử bộ build, cài và khôi phục trên dữ liệu giả; chưa xác nhận mọi chuỗi và mọi menu trong game thật đã hiển thị tiếng Việt.**
 
+Sau phản hồi bằng ảnh chơi thật ngày 2026-10-09, bản TEST này mở rộng việc xử lý theo **cụm**:
 
+- **Cài Việt hóa v0.8 TEST:** vá các dòng tiếng Anh *đúng nguồn* còn trong cả package runtime và core Text, trên nền bản v0.7a; sao lưu và hỗ trợ khôi phục. Giữ nguyên font và các câu đã Việt hóa khác nguồn, ngoại trừ đúng hai câu tên/mô tả ghế đá đã được kiểm chứng để nâng cấp.
+- **Việt hóa đảo & tiểu sử...**: nút **riêng, chủ động xác nhận** để dịch tài nguyên chữ N001/N002 trong save Documents. Tự backup hoàn chỉnh, không thay toàn bộ save bằng file phát hành; chỉ chạy sau khi đã thoát game.
+- **Khôi phục dữ liệu đảo:** khôi phục file N001/N002 từ backup riêng; từ chối ghi đè nếu save đã phát sinh tiến trình chơi mới.
+- **Rà chữ còn sót:** rà chỉ-đọc các resource còn tiếng Anh từ bản cài, gồm phần thưởng, cây trang trí và bảng Thu hút/Mất hứng. Kết hợp **Lưu báo cáo...** để gửi kết quả; báo cáo có thể chứa đường dẫn Windows cá nhân, nên kiểm tra trước khi chia sẻ.
 
-**Build 23 sửa lỗi thiếu `castaway-english-strings.json` của Build 17.** Runtime-only không cần catalog Text gốc. EXE được kiểm thử đóng gói, tạo bản vá giả, cài và khôi phục thành công trong CI; game thật chưa được kiểm tra. Nếu Build 17 dừng tại lỗi này, không cần khôi phục file nào vì game chưa bị sửa.
+Cụm đã chỉnh nguồn: tên **Đảo Wanmami**, tên khu vực **Mũi Giáo** (`Spear Point`), tên/mô tả **Ghế đá đôi Êm Một Bên**, phần thưởng **Thuốc trường sinh** và hướng dẫn Thu hút/Mất hứng theo đúng package owner. **Chưa khẳng định** đã xử lý nhóm `Pine Tree`, `Row of Trees`, cảnh báo Gold Aspiration hay dòng **“Việt hóa bởi Votri Valley” trong game** vì chưa xác minh được vị trí/chủ sở hữu tài nguyên màn hình; không sửa bừa logo hoặc Credits của EA.
 
-
-**[TẢI TRỰC TIẾP VotriValley-Castaway-v08-TEST.exe](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-29/VotriValley-Castaway-v08-TEST.exe)** (~15 MB) · [Hướng dẫn cài bằng nút bấm](CLICK_TO_INSTALL_WINDOWS.md).
-
-- Giữ nguyên bộ **Text/font v0.7a** đã cài và đang hoạt động; chỉ bổ sung nguồn dịch runtime Castaway.
-- Tự nhận đường dẫn `G:/Castaway-Portable` hoặc chọn thư mục game; nhấn **Cài Việt hóa v0.8 TEST**. Có nút **Khôi phục bản trước**.
-- Kiểm tra SHA-256 các package runtime gốc, sao lưu an toàn, không sửa save Documents hoặc EXE của game. Với câu Việt hóa cũ khác bản mới, chương trình giữ nguyên và chỉ vá những dòng tiếng Anh khớp nguồn; lỗi cấu trúc/metadata vẫn bị chặn. Nếu file gốc đã bị mod, trình cài từ chối thay vì ghi bừa.
-- Build Windows trực tiếp từ GitHub Actions [PASS #4](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37837500377), smoke-test EXE đóng gói PASS. **Chưa test gameplay thật hay hoàn thiện màn chọn story**. Đây là bản TEST, không phải Việt hóa hoàn chỉnh.
+[Xem hướng dẫn thao tác và phục hồi](CLICK_TO_INSTALL_WINDOWS.md) · [Audit theo ảnh và nguồn còn thiếu](runtime/SCREENSHOT_FAMILY_AUDIT_2026-10-09.md).
 
 > Ghi chú lịch sử trong các mục dưới nói về các build cũ, không phải trạng thái phát hành mới nhất.
 
