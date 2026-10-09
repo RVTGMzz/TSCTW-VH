@@ -75,6 +75,60 @@ jobs:
             throw "Commercial game package unexpectedly included in dist"
           }
 
+      - name: Verify portable EXE checksum and commit identity
+        shell: pwsh
+        run: |
+          $file = ".\\dist\\VotriValley-Castaway-v08-TEST.exe"
+          if (!(Test-Path $file)) { throw "No packaged EXE" }
+          $hash = (Get-FileHash -Algorithm SHA256 $file).Hash.ToLowerInvariant()
+          if ($hash -notmatch '^[0-9a-f]{64}        shell: pwsh
+        run: |
+          @'
+          VOTRI VALLEY - THE SIMS CASTAWAY STORIES v0.8 TEST
+          Open VotriValley-Castaway-v08-TEST.exe and click "Cài Việt hóa v0.8 TEST".
+          No Python or extra installer prerequisites on the user's PC.
+          This is a runtime TEXT overlay for an existing working v0.7a installation with RonVN font.
+          The app verifies all 10 input packages; prepatched packages must pass exact row/resource/language compatibility checks and are backed up,
+          and refuses unsafe writes. It will NOT alter Documents save data.
+          Unknown/corrupt/incompatible runtime modifications always stop safely without overwriting files.
+          This build passed synthetic tests, NOT yet verified against the user's real game.
+          Story Selector runtime read path remains unverified.
+          Restore via "Khôi phục bản trước" in the same app after closing the game.
+          '2026-10-09: pre-release TEST; Votri Valley'
+          '@ | Set-Content -Path dist/README-V08-TEST.txt -Encoding utf8
+
+      - name: Provide standalone EXE download
+        uses: actions/upload-artifact@v4
+        with:
+          name: VotriValley-Castaway-v08-TEST-Windows
+          path: |
+            dist/VotriValley-Castaway-v08-TEST.exe
+            dist/README-V08-TEST.txt
+            dist/BUILD-IDENTITY.txt
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 30
+
+      - name: Publish direct EXE as clearly marked experimental prerelease
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = "castaway-v08-test-windows-${{ github.run_number }}"
+          $notes = "Votri Valley - The Sims Castaway Stories v0.8 TEST (Windows). Download EXE and double-click; no Python required. EXPERIMENTAL: only synthetic source/DBPF tests passed, real game packages and gameplay are not yet verified. Runtime overlay requires an existing functional v0.7a Text/font setup, verifies originals by SHA-256 or validates previously patched DBPF rows and metadata before backup/patch. Does not change Documents saves. Restorable using the same EXE."
+          gh release create $tag "dist/VotriValley-Castaway-v08-TEST.exe" "dist/README-V08-TEST.txt" "dist/BUILD-IDENTITY.txt" --repo "${{ github.repository }}" --target "${{ github.sha }}" --title "Castaway Stories Viet hoa v0.8 TEST - Windows build ${{ github.run_number }}" --notes $notes --prerelease
+          if ($LASTEXITCODE -ne 0) { throw "GitHub prerelease creation failed" }
+) { throw "Invalid EXE SHA256" }
+          $version = "${{ github.sha }}"
+          @(
+            "Castaway v0.8 TEST - checksum for this GitHub Actions build"
+            "Commit: $version"
+            "SHA256: $hash"
+            "Filename: VotriValley-Castaway-v08-TEST.exe"
+            "Important: frozen synthetic smoke only; in-game behavior unverified."
+          ) | Set-Content -Path dist/BUILD-IDENTITY.txt -Encoding utf8
+          Write-Output "EXE SHA256: $hash at commit $version"
+
       - name: Write clear TEST caveats for user
         shell: pwsh
         run: |
