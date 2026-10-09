@@ -88,8 +88,8 @@ def core_patch(original, name, locations):
 # substring matching or apply them to a different resource/language.
 VISIBLE_TEXT_TARGETS = {
     ("CAS.package", (STR, 0xFFFFFFFF, 141), 51, 2): (
-        "Please select your Sim's Turn-Ons and Turn-Off. Click on each of the boxes above and select a trait. \\n\\nYour Sim will be more romantically attracted to other Sims who have the traits that you've selected as Turn-Ons. Likewise, your Sim will be less attracted to Sims who have the trait you select as a Turn-Off.\\n\\nThese selections can be changed later by using the ReNuYuSenso Orb Aspiration Reward Object. Get out there and get attracted!",
-        "Hãy chọn những đặc điểm khiến Sim của bạn bị thu hút hoặc mất hứng. Nhấn vào từng ô phía trên để chọn một đặc điểm.\\n\\nSim của bạn sẽ dễ rung động trước những Sim có đặc điểm được chọn trong mục Thu hút. Ngược lại, Sim sẽ ít bị hấp dẫn bởi những đặc điểm trong mục Mất hứng.\\n\\nBạn có thể thay đổi các lựa chọn này về sau bằng phần thưởng Khát vọng Quả cầu ReNuYuSenso. Giờ thì đi tìm người hợp gu thôi!",
+        "Please select your Sim's Turn-Ons and Turn-Off. Click on each of the boxes above and select a trait. \n\nYour Sim will be more romantically attracted to other Sims who have the traits that you've selected as Turn-Ons. Likewise, your Sim will be less attracted to Sims who have the trait you select as a Turn-Off.\n\nThese selections can be changed later by using the ReNuYuSenso Orb Aspiration Reward Object. Get out there and get attracted!",
+        "Hãy chọn những đặc điểm khiến Sim của bạn bị thu hút hoặc mất hứng. Nhấn vào từng ô phía trên để chọn một đặc điểm.\n\nSim của bạn sẽ dễ rung động trước những Sim có đặc điểm được chọn trong mục Thu hút. Ngược lại, Sim sẽ ít bị hấp dẫn bởi những đặc điểm trong mục Mất hứng.\n\nBạn có thể thay đổi các lựa chọn này về sau bằng phần thưởng Khát vọng Quả cầu ReNuYuSenso. Giờ thì đi tìm người hợp gu thôi!",
     ),
     ("Live.package", (STR, 0xFFFFFFFF, 145), 80, 2): (
         "Negative side effects may occur if used below Gold Aspiration. Consult your Aspiration Meter before use.",
