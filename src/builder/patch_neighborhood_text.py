@@ -66,6 +66,24 @@ def build_saved_neighborhood_updates(save_root):
     return updates
 
 
+def selector_translation_status(save_root):
+    """Read-only inspection of both mode titles/descriptions in current N001/N002."""
+    from diagnose_visible_strings import selector_source_matrix
+    sources=guarded_source_paths(save_root)
+    report=selector_source_matrix(list(sources.values()))
+    fields=("story_title","island_title","story_description","island_description")
+    matches=report["matches"]
+    return {
+        "fields":{field:{
+            "english":sum(r["field"]==field and r["state"]=="english" for r in matches),
+            "vietnamese":sum(r["field"]==field and r["state"]=="vietnamese" for r in matches)
+        } for field in fields},
+        "source_files":[str(p) for p in sources.values()],
+        "runtime_read_precedence_verified":False,
+        "files_failed":report["failed"],
+    }
+
+
 def inside(path,parent):
     path,parent=Path(path).resolve(),Path(parent).resolve()
     return path==parent or parent in path.parents
@@ -81,7 +99,8 @@ def apply_saved_neighborhood_updates(save_root,backup_dir):
         raise FileExistsError("Đã có thư mục backup, không ghi đè")
     updates=build_saved_neighborhood_updates(save_root)
     if not updates:
-        return {"state":"NO_NEW_ROWS","saved_files":0,"changed_rows":0}
+        return {"state":"NO_NEW_ROWS","saved_files":0,"changed_rows":0,
+                "selector_status":selector_translation_status(save_root)}
     # Recheck ALL sources before creating anything.
     for item in updates:
         if hash_bytes(item["source"].read_bytes())!=item["before_hash"]:
@@ -128,7 +147,8 @@ def apply_saved_neighborhood_updates(save_root,backup_dir):
                 raise AssertionError("Post-patch Documents save checksum failed")
         return {"state":"PATCHED_FOR_TEST","saved_files":len(updates),
                 "changed_rows":sum(x["rows"] for x in updates),
-                "backup":str(backup_dir)}
+                "backup":str(backup_dir),
+                "selector_status":selector_translation_status(save_root)}
     except Exception:
         # Roll back all written files, even if a post-write check failed.
         for item in reversed(changed):
