@@ -60,6 +60,18 @@ class SelectorMatrixTest(unittest.TestCase):
             self.assertEqual(set(observed),
                 {(name,status) for name in SELECTOR_ANCHORS for status in ("english","vietnamese")})
 
+    def test_reviewed_ui_translations_cover_complete_selector_panels(self):
+        import json
+        root=Path(__file__).resolve().parents[2]
+        translated=json.loads((root/"runtime/translations/ui.json").read_text(encoding="utf-8"))
+        for field,(english,vietnamese) in SELECTOR_ANCHORS.items():
+            matches=[(key,value) for key,value in translated.items()
+                     if key == english or (field.endswith("description") and key.startswith(english))]
+            self.assertEqual(len(matches),1,field)
+            self.assertTrue(matches[0][1].startswith(vietnamese),field)
+            if field.endswith("description"):
+                self.assertGreater(len(matches[0][1]),250,field)
+
     def test_non_selector_file_skipped(self):
         with tempfile.TemporaryDirectory() as temp:
             path=Path(temp)/"objects.package"
