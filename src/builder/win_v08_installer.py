@@ -42,9 +42,13 @@ def configure_embedded_sources(root=None):
     import stage_runtime_inputs
     import check_runtime_packages
     import prepare_v08_test
+    import build_v07
     for module in (validate_runtime, stage_runtime_inputs, check_runtime_packages, prepare_v08_test):
         module.ROOT = root
         module.RUNTIME = root / "runtime"
+    build_v07.ROOT = root
+    build_v07.CATALOG_PATH = root / "castaway-english-strings.json"
+    build_v07.TRANSLATIONS_DIR = root / "translations"
     required = [
         "inventory.json", "catalog.json.gz", "review_queue.json.gz",
         "scope_decisions.json",
@@ -52,6 +56,9 @@ def configure_embedded_sources(root=None):
     for name in required:
         if not (root / "runtime" / name).is_file():
             raise FileNotFoundError(f"Ứng dụng thiếu dữ liệu dịch: runtime/{name}. Tải lại bản EXE hoàn chỉnh.")
+    for path in (build_v07.CATALOG_PATH,build_v07.TRANSLATIONS_DIR):
+        if not path.exists():
+            raise FileNotFoundError(f"Thiếu dữ liệu Text đã được biên dịch kèm EXE: {path.name}")
     return stage_runtime_inputs, prepare_v08_test, check_runtime_packages
 
 
@@ -174,6 +181,10 @@ def install_from_game(game, progress=lambda x: None):
     game = Path(game).resolve()
     with tempfile.TemporaryDirectory(prefix="VV-Castaway-v08-") as work:
         bundle, manifest = build_runtime_overlay(game, Path(work), progress)
+        from safe_core_text_overlay import collect_core_overlay
+        from build_v07 import CATALOG_PATH, TRANSLATIONS_DIR
+        progress("Đang bổ sung các câu Text gốc còn tiếng Anh, giữ nguyên những câu đã Việt hóa...")
+        manifest = collect_core_overlay(game,bundle,manifest,CATALOG_PATH,TRANSLATIONS_DIR)
         if not manifest["install_files"]:
             return {"result": "NO_NEW_ROWS", "files": 0, "backup": None}, manifest
         progress("Đang kiểm tra tính nguyên vẹn của payload và file game...")
@@ -231,8 +242,8 @@ class InstallerApp:
         ttk.Label(panel, text="Bản Việt hóa Votri Valley — v0.8 TEST",
                   font=("Segoe UI", 11)).pack(anchor="w", pady=(2, 12))
         ttk.Label(panel,
-                  text=("Cài bổ sung phần chữ runtime trên nền bản v0.7a đang dùng.\n"
-                        "Không cần Python, không sửa save, không chép đè font đã cài."),
+                  text=("Cài bổ sung phần chữ runtime và Text còn thiếu.\n"
+                        "Không cần Python, không sửa save; giữ font và bản dịch cũ."),
                   justify="left").pack(anchor="w", pady=(0, 12))
         ttk.Label(panel, text="Thư mục game (chứa TSData):").pack(anchor="w")
         location = ttk.Frame(panel)
@@ -336,8 +347,8 @@ class InstallerApp:
         if not messagebox.askyesno(
             "Xác nhận cài v0.8 TEST",
             "Ông đã thoát hẳn Castaway chưa?\n\n"
-            "Trình cài sẽ kiểm tra file gốc, tự tạo bản vá runtime, sao lưu rồi cài. "
-            "Nó sẽ giữ nguyên Text/font v0.7a và save trong Documents.\n\n"
+            "Trình cài sẽ kiểm tra và sao lưu file trước khi vá runtime và Text còn tiếng Anh. "
+            "Các câu đã Việt hóa và font cũ được giữ nguyên; không sửa save Documents.\n\n"
             "Tiếp tục?", icon="question",
         ):
             return
