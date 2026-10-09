@@ -77,6 +77,63 @@ def scan_package(path, max_per_pattern=30, progress=lambda msg:None):
     return results
 
 
+# Selector verification deliberately reports BOTH existing translated and original
+# English values: mere keyword matches cannot prove where the game reads text.
+SELECTOR_ANCHORS = {
+    "story_title": ("Shipwrecked and Single", "Đắm tàu và độc thân"),
+    "island_title": ("Wanmami Island", "Đảo Wanmami"),
+    "story_description": ("Very little is known about this remote tropical paradise.", "Người ta biết rất ít về thiên đường nhiệt đới xa xôi này."),
+    "island_description": ("Wanmami Island is home to the local, the lost", "Đảo Wanmami là mái nhà"),
+}
+
+
+def selector_source_matrix(files, progress=lambda msg:None):
+    """Read-only source/status matrix for both selection tiles and descriptions.
+
+    Inspects only small selector owner candidates (Text/UI and N001/N002),
+    not broad object animation tables. Returns evidence, never runtime proof.
+    """
+    hits=[]
+    failures=[]
+    for path in files:
+        p=Path(path)
+        normalized=str(p).replace("\\\\","/").lower()
+        if not (p.name in ("UIText.package","Neighborhood.package") or
+                p.name in ("N001_Neighborhood.package","N002_Neighborhood.package")):
+            continue
+        try:
+            package=Package(p.read_bytes())
+            for e in package.entries:
+                if e.key[0] not in TEXT_TYPES:
+                    continue
+                try:
+                    rows,_=parse_table(package.raw(e))
+                except (ValueError,IndexError,UnicodeError,AssertionError,OverflowError):
+                    continue
+                for index,(language,value,description) in enumerate(rows):
+                    if language not in (1,2):
+                        continue
+                    for group,(english,vietnamese) in SELECTOR_ANCHORS.items():
+                        matching = (value == english or value == vietnamese) if group.endswith("_title") else (english in value or vietnamese in value)
+                        if matching:
+                            hits.append({
+                                "field":group, "file":str(p),
+                                "source_area":("installation_neighborhood" if "/tsdata/res/userdata/neighborhoods/" in normalized
+                                    else "documents_neighborhood" if "/neighborhoods/" in normalized
+                                    else "game_text"),
+                                "key":list(e.key),"row":index,"language":language,
+                                "state":"vietnamese" if (vietnamese in value) else "english",
+                                "text_preview":value[:250],
+                                "metadata_preview":description[:120],
+                            })
+        except (ValueError,IndexError,OSError,AssertionError,UnicodeError) as exc:
+            failures.append({"file":str(p),"error":f"{type(exc).__name__}: {exc}"})
+    progress(f"Đối chiếu màn chọn chế độ: {len(hits)} dòng nhận diện theo nguồn.")
+    return {"matches":hits,"failed":failures,
+            "runtime_read_precedence_verified":False,
+            "note":"Translated resource existence does not prove the running selector uses that package."}
+
+
 def discover_documents_roots():
     import os
     home=Path.home()
@@ -108,6 +165,7 @@ def diagnose(game,progress=lambda m:None):
             failed.append({"file":str(path),"error":f"{type(exc).__name__}: {exc}"})
     return {
         "files_scanned":len(files),"hits":output,"files_failed":failed,
+        "selector_matrix":selector_source_matrix(files,progress),
         "documents_scanned":bool(roots),
         "evidence_only":True,
         "reminder":"Text resource hit is a candidate; not proof game runtime reads it. No package was changed.",
@@ -119,6 +177,9 @@ def concise_for_gui(report,limit=55):
         f"Đã rà {report['files_scanned']} package (chỉ đọc). Tìm được {len(report['hits'])} dòng liên quan.",
         f"Documents được rà: {'có' if report['documents_scanned'] else 'chưa tìm thấy'}; tệp không đọc được: {len(report['files_failed'])}.",
     ]
+    matrix=report.get("selector_matrix",{})
+    if matrix:
+        lines.append(f"Đối chiếu hai chế độ: {len(matrix.get('matches',[]))} bản ghi; chưa xác minh thứ tự game đọc.")
     for row in report["hits"][:limit]:
         lines.append(
             f"[{row['group']}] {Path(row['file']).name} / {row['key']} / dòng {row['row']} / "
