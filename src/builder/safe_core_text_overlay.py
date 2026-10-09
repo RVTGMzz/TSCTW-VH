@@ -20,6 +20,16 @@ CORE_NAMES = frozenset({
     "CAS_Shared.package", "Tutorial.package",
 })
 STR = 0x53545223
+CTSS = 0x43545353
+SELECTOR_KEY = (CTSS, 0xFFFFFFFF, 1, 0)
+INSTALLED_SELECTOR_FILES = {
+    "N001": "TSData/Res/UserData/Neighborhoods/N001/N001_Neighborhood.package",
+    "N002": "TSData/Res/UserData/Neighborhoods/N002/N002_Neighborhood.package",
+}
+SELECTOR_SOURCES = {
+    "N001": ((0, "Shipwrecked and Single"), (1, "Very little is known about this remote tropical paradise.")),
+    "N002": ((0, "Wanmami Island"), (1, "Wanmami Island is home to the local, the lost")),
+}
 
 
 def sha_bytes(data):
