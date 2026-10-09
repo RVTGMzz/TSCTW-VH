@@ -106,7 +106,7 @@ def synthetic_single_string(key, value, language=1):
     table=bytearray(68)
     table[64:66]=bytes([0xfd,0xff])
     struct.pack_into("<H",table,66,1)
-    table.extend(bytes([language])+value.encode("utf-8")+b"\\0"+b"Cast Catalog COM\\0")
+    table.extend(bytes([language])+value.encode("utf-8")+b"\0"+b"Cast Catalog COM\0")
     width=4*(len(key)+2)
     header=bytearray(96)
     header[:4]=b"DBPF"
@@ -135,7 +135,7 @@ class VisibleOwnerTests(unittest.TestCase):
         for i in range(ordinal+1):
             v=english if i==ordinal else "Keep untouched"
             language=lang if i==ordinal else 1
-            table.extend(bytes([language])+v.encode("utf-8")+b"\\0"+b"CAST UI COM\\0")
+            table.extend(bytes([language])+v.encode("utf-8")+b"\0"+b"CAST UI COM\0")
         header=bytearray(96)
         header[:4]=b"DBPF"
         struct.pack_into("<3I",header,36,1,96,20)
