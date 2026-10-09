@@ -142,6 +142,7 @@ class DeliveryTests(unittest.TestCase):
                   patch("prepare_v08_test.effective_records",return_value=(records,[])),
                   patch("prepare_v08_test.load_maps",return_value={"menu":{"Examine":"Xem xét"}}),
                   patch("prepare_v08_test.load_row_translations",return_value=[]),
+                  patch("prepare_v08_test.load_reviewed_legacy_migrations",return_value={}),
                   patch("prepare_v08_test.load_translations",side_effect=FileNotFoundError("core catalog must never be read")),
                   patch("prepare_v08_test.derive_targets",side_effect=AssertionError("core-only function unexpectedly called")),
                   patch("prepare_v08_test.load_v06_history",side_effect=AssertionError("core history unexpectedly used"))):
