@@ -1,0 +1,32 @@
+[
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140014299,
+      2000,
+      0
+    ],
+    "row": 0,
+    "language": 1,
+    "en": "Elixir of Life",
+    "description": "The Sims 2 - Needs Translation - Batch20\r\nNote for translators: This is a \"life potion\" -- if successful it pushes back the current age transition so the Sim will be in the current age longer. If unsuccessful it makes the current age or time for death quicker.",
+    "category": "catalog",
+    "reason": "Player screenshot 2026-10-09 proves Elixir of Life is visible in Castaway aspiration rewards. This exact CTSS owner, distinct from already covered Elixir of Life Potion, must be translated together with its description."
+  },
+  {
+    "package": "TSData/Res/Objects/objects.package",
+    "key": [
+      1129599827,
+      2140014299,
+      2000,
+      0
+    ],
+    "row": 1,
+    "language": 1,
+    "en": "Perfect for those who like their idle water-cooler chats to go on for ages . . . literally! Gather round this decorative glass urn and sip the sweet nectar of prolonged youth as your Sim resists aging.",
+    "description": "The Sims 2 - Needs Translation - Batch20\r\nNote: The object looks like one of the office water-coolers with the water tank on top and a spigot on the side.",
+    "category": "catalog",
+    "reason": "Same visible aspiration reward Elixir of Life CTSS resource as the title. Translate the full description with matching metadata; do not generically scope other TS2 expansion strings."
+  }
+]
