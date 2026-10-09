@@ -115,6 +115,12 @@ class DeliveryTests(unittest.TestCase):
                 restore(game,backup,dry_run=False)
             self.assertEqual(p.read_bytes(),b"third-party mod installed later")
 
+    def test_selector_overlay_targets_match_installer_allowlist(self):
+        from safe_core_text_overlay import INSTALLED_SELECTOR_FILES
+        from install_v08_local import INSTALLED_NEIGHBORHOOD_ALLOWLIST
+        self.assertEqual(set(INSTALLED_SELECTOR_FILES.values()),
+                         set(INSTALLED_NEIGHBORHOOD_ALLOWLIST))
+
     def test_installed_neighborhood_paths_are_exactly_allowlisted(self):
         for island in ("N001","N002"):
             path=f"TSData/Res/UserData/Neighborhoods/{island}/{island}_Neighborhood.package"
