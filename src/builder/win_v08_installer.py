@@ -194,6 +194,19 @@ def install_from_game(game, progress=lambda x: None):
         backup = backup_base() / game_identifier(game) / now
         progress("Đang tạo bản sao lưu và cài Việt hóa...")
         result = install(bundle, game, backup, dry_run=False)
+    # Read-only post-install selector source comparison. Do not touch Documents
+    # files or make claims about which source the running game will choose.
+    try:
+        from diagnose_visible_strings import (
+            discover_documents_roots, local_package_candidates, selector_source_matrix
+        )
+        selector_files=local_package_candidates(game)
+        for save_root in discover_documents_roots():
+            selector_files.extend(local_package_candidates(game, save_root))
+        selector_files=list(dict.fromkeys(selector_files))
+        manifest["selector_post_install"]=selector_source_matrix(selector_files, progress)
+    except (OSError, ValueError, AssertionError) as exc:
+        manifest["selector_post_install_error"]=f"{type(exc).__name__}: {exc}"
     return result, manifest
 
 
@@ -516,6 +529,21 @@ class InstallerApp:
                         if unknown:
                             self.write(f"GIỮ NGUYÊN {unknown} câu từng sửa khác bản dịch hiện tại; "
                                        "không ghi đè và chưa tính những câu này là đã kiểm duyệt.")
+                    selector_scan=manifest.get("selector_post_install")
+                    if selector_scan:
+                        source_rows=selector_scan.get("matches",[])
+                        for field,label in (
+                            ("story_title","Tên Đắm tàu và độc thân"),
+                            ("story_description","Mô tả Đắm tàu và độc thân"),
+                            ("island_title","Tên Đảo Wanmami"),
+                            ("island_description","Mô tả Đảo Wanmami"),
+                        ):
+                            english=sum(r["state"]=="english" and r["field"]==field for r in source_rows)
+                            vietnamese=sum(r["state"]=="vietnamese" and r["field"]==field for r in source_rows)
+                            self.write(f"Màn chọn chế độ | {label}: {english} EN / {vietnamese} VI (các nguồn tìm thấy)")
+                        self.write("Đây là đối chiếu SOURCE; game đang đọc file nào phải xác minh khi chơi.")
+                    elif manifest.get("selector_post_install_error"):
+                        self.write("Không rà được màn chọn chế độ: "+manifest["selector_post_install_error"])
                     messagebox.showinfo(
                         "Đã cài bản v0.8 TEST",
                         "Cài đặt đã qua kiểm tra file và sao lưu.\n"
