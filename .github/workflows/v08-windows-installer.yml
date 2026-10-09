@@ -25,6 +25,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Guard Windows workflow against duplicate release blocks
+        run: python src/builder/test_ci_workflow_integrity.py
+
       - name: Run binary and delivery regression tests (synthetic game bytes)
         shell: pwsh
         run: |
