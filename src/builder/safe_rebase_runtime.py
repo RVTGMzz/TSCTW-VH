@@ -11,7 +11,7 @@ from runtime_dbpf import Package, parse_table
 from validate_runtime import row_identity
 
 
-def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_translations, preserve_unrecognized=False):
+def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_translations, preserve_unrecognized=False, legacy_migrations=None):
     package = Package(data)
     if package.width != inventory_item["index_width"] or package.count != inventory_item["resources"]:
         raise ValueError((
@@ -33,7 +33,8 @@ def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_transl
     if not groups:
         raise ValueError(("No verified translatable resources in modified package", inventory_item["package"]))
 
-    english = translated = preserved = 0
+    english = translated = preserved = migrated = 0
+    legacy_migrations = legacy_migrations or {}
     examples = []
     checked_rows = 0
     for key, targets in groups.items():
@@ -55,6 +56,8 @@ def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_transl
                 english += 1
             elif actual == vi:
                 translated += 1
+            elif rid in legacy_migrations and actual == legacy_migrations[rid]["old_vi"]:
+                migrated += 1
             else:
                 if not preserve_unrecognized:
                     raise ValueError((
@@ -79,6 +82,7 @@ def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_transl
         "verified_row_count": checked_rows,
         "english_source_rows": english,
         "already_approved_vietnamese_rows": translated,
+        "reviewed_legacy_rows_upgradable": migrated,
         "unrecognized_rows_preserved": preserved,
         "unrecognized_examples": examples,
         "resource_count_checked": len(groups),
