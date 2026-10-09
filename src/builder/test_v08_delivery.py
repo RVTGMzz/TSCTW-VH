@@ -132,7 +132,7 @@ class DeliveryTests(unittest.TestCase):
             pkg.parent.mkdir(parents=True)
             original, keys=dbpf_fixture(24)
             pkg.write_bytes(original)
-            item={"package":package_rel, "sha256":h(original), "bytes":len(original), "errors":[]}
+            item={"package":package_rel, "sha256":h(original), "bytes":len(original), "errors":[], "index_width":24, "resources":2}
             records=[{"package":package_rel,"key":list(keys[0]),"row":i,
                       "language":i+1,"en":"Examine","description":"Castaway action","category":"menu"}
                      for i in (0,1)]
