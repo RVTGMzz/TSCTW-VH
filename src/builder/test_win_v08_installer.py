@@ -69,7 +69,7 @@ class WindowsGuiSafetyTests(unittest.TestCase):
             app.save_diagnostic_report(output, "Đã dừng an toàn: dữ liệu Việt hóa trước")
             content=output.read_text(encoding="utf-8")
             self.assertIn("Đã dừng an toàn: dữ liệu Việt hóa trước",content)
-            self.assertIn("\\n", content)
+            self.assertIn("\n", content)
             self.assertEqual((game/"objects.package").read_bytes(),snapshot)
             self.assertEqual(len(list(folder.glob("*.txt"))),1)
 
