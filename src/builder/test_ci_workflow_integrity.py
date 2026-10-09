@@ -33,6 +33,11 @@ class WorkflowIntegrityTests(unittest.TestCase):
         self.assertIn("python src/builder/test_safe_core_text_overlay.py", source)
         self.assertIn("python src/builder/test_v08_delivery.py", source)
 
+    def test_both_ci_jobs_compile_all_builder_modules(self):
+        guard = "python -m compileall -q src/builder"
+        self.assertIn(guard, WINDOWS.read_text(encoding="utf-8"))
+        self.assertIn(guard, AUDIT.read_text(encoding="utf-8"))
+
     def test_both_ci_jobs_run_structural_guard(self):
         command = "python src/builder/test_ci_workflow_integrity.py"
         self.assertIn(command, WINDOWS.read_text(encoding="utf-8"))
