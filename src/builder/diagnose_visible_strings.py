@@ -196,6 +196,16 @@ def concise_for_gui(report,limit=55):
     matrix=report.get("selector_matrix",{})
     if matrix:
         lines.append(f"Đối chiếu hai chế độ: {len(matrix.get('matches',[]))} bản ghi; chưa xác minh thứ tự game đọc.")
+        for field,label in (("story_title","Chế độ sinh tồn — tên"),
+                            ("story_description","Chế độ sinh tồn — mô tả"),
+                            ("island_title","Đảo Wanmami — tên"),
+                            ("island_description","Đảo Wanmami — mô tả")):
+            hits=[r for r in matrix.get("matches",[]) if r["field"]==field]
+            english=sum(r["state"]=="english" for r in hits)
+            translated=sum(r["state"]=="vietnamese" for r in hits)
+            sources=", ".join(sorted({r["source_area"] for r in hits})) or "không tìm thấy"
+            lines.append(f"  {label}: {english} EN / {translated} VI; nguồn: {sources}")
+
     for row in report["hits"][:limit]:
         lines.append(
             f"[{row['group']}] {Path(row['file']).name} / {row['key']} / dòng {row['row']} / "
