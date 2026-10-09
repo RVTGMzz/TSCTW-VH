@@ -473,7 +473,8 @@ class InstallerApp:
                                        f"{counts['english']} bản ghi EN")
                         self.write("Các dòng trên được kiểm trong SAVE; game thật đọc nguồn nào vẫn cần xác nhận.")
                     selector_missing = (selector is not None and any(
-                        counts["vietnamese"] == 0 for counts in selector["fields"].values()
+                        counts["vietnamese"] == 0 or counts["english"] > 0
+                        for counts in selector["fields"].values()
                     ))
                     if selector_missing and value["state"] != "RESTORED_PREVIOUS_SAVE_STATE":
                         self.write("CHƯA HOÀN TẤT: ít nhất một tiêu đề/mô tả "
