@@ -13,7 +13,7 @@ from pathlib import Path
 from build_v07 import FULL_REQUIRED, STR_TYPE, derive_targets, load_translations, load_v06_history, patch_package
 from dbpf import entries, unpack, strings
 from check_runtime_packages import apply
-from safe_rebase_runtime import inspect_prepatched
+from safe_rebase_runtime import inspect_prepatched, load_reviewed_legacy_migrations
 from stage_runtime_inputs import select_inventory
 from validate_runtime import ROOT, RUNTIME, assess, effective_records, load_maps, load_row_translations, row_identity
 
@@ -80,10 +80,10 @@ def refuse_pretranslated_core(core, names, v06_history):
                     )
 
 
-def runtime_patch(source, path, records, maps, decisions, exact, preserve_unrecognized=False):
+def runtime_patch(source, path, records, maps, decisions, exact, preserve_unrecognized=False, legacy_migrations=None):
     before = source.read_bytes()
-    after, count, resources = apply(before, records, maps, decisions, exact, preserve_unrecognized=preserve_unrecognized)
-    repeated, n2, resource2 = apply(after, records, maps, decisions, exact, preserve_unrecognized=preserve_unrecognized)
+    after, count, resources = apply(before, records, maps, decisions, exact, preserve_unrecognized=preserve_unrecognized, legacy_migrations=legacy_migrations)
+    repeated, n2, resource2 = apply(after, records, maps, decisions, exact, preserve_unrecognized=preserve_unrecognized, legacy_migrations=legacy_migrations)
     if repeated != after or n2 or resource2:
         raise AssertionError(f"Runtime patch is not idempotent: {path}")
     return after, count, resources
@@ -124,6 +124,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
     grouped = collections.defaultdict(list)
     for r in effective:
         grouped[r["package"]].append(r)
+    legacy_migrations = load_reviewed_legacy_migrations(RUNTIME, grouped, maps, exact)
 
     compatibility_checks = []
     for item in inventory:
@@ -132,7 +133,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
             if not allow_prepatched_runtime:
                 raise ValueError(("Modified runtime input not permitted",str(path)))
             compatibility_checks.append(
-                inspect_prepatched(path.read_bytes(),item,grouped[item["package"]],maps,decisions,exact, preserve_unrecognized=True)
+                inspect_prepatched(path.read_bytes(),item,grouped[item["package"]],maps,decisions,exact, preserve_unrecognized=True, legacy_migrations=legacy_migrations)
             )
 
     changed = []
@@ -161,7 +162,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
         for item in inventory:
             rel = item["package"]
             source = runtime/rel
-            patched, count, resources = runtime_patch(source, rel, grouped[rel], maps, decisions, exact, preserve_unrecognized=allow_prepatched_runtime)
+            patched, count, resources = runtime_patch(source, rel, grouped[rel], maps, decisions, exact, preserve_unrecognized=allow_prepatched_runtime, legacy_migrations=legacy_migrations)
             summaries.append({"package":rel,"scope":"runtime","changed_rows":count})
             if count:
                 target = payload/rel
@@ -191,6 +192,7 @@ def build(core, runtime, output, core_original_confirmed=False, runtime_only=Fal
             "no_applicable_english_rows": not changed,
             "modified_baseline_checks": compatibility_checks,
             "unrecognized_rows_preserved": sum(x.get("unrecognized_rows_preserved",0) for x in compatibility_checks),
+            "reviewed_old_translations_upgraded": sum(x.get("reviewed_legacy_rows_upgradable",0) for x in compatibility_checks),
             "build_summary": summaries,
         }
         output.mkdir(parents=True,exist_ok=True)
