@@ -224,6 +224,8 @@ class InstalledSelectorTests(unittest.TestCase):
                     {"schema":"TSCTW-V08-TEST-1","install_files":[]},
                     catalog,root)
             self.assertEqual(manifest["installed_selector_overlay"]["changed_rows"],4)
+            self.assertEqual(manifest["core_text_overlay"]["changed_files"],0)
+            self.assertEqual(manifest["core_text_overlay"]["changed_rows"],0)
             self.assertEqual(len(manifest["install_files"]),2)
             backup=root/"backup"
             self.assertIn("DRY RUN",install(bundle,game,backup)["result"])
