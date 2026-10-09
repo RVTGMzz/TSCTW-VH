@@ -8,7 +8,7 @@ from unittest.mock import patch
 from test_runtime_dbpf_writer import fixture
 from runtime_dbpf import Package, parse_table, encode_table
 from check_runtime_packages import apply
-from safe_rebase_runtime import inspect_prepatched
+from safe_rebase_runtime import inspect_prepatched, load_reviewed_legacy_migrations
 from prepare_v08_test import build
 from install_v08_local import install, restore
 
@@ -41,6 +41,44 @@ class SafeRebaseTests(unittest.TestCase):
         self.assertEqual(report["english_source_rows"],1)
         self.assertEqual(report["already_approved_vietnamese_rows"],1)
         self.assertEqual(report["verified_row_count"],2)
+
+    def test_reviewed_previous_translation_is_upgraded_without_treating_others_as_approved(self):
+        original, rows, item = inputs()
+        source = Package(original)
+        entry = next(x for x in source.entries if x.key == tuple(rows[0]["key"]))
+        raw = source.raw(entry)
+        edited,_ = parse_table(raw)
+        edited[0][1] = "Xem xét kiểu cũ"
+        prepatched = source.patch({entry.key: encode_table(raw,edited)})
+        legacy = {(REL,tuple(rows[0]["key"]),0):{"old_vi":"Xem xét kiểu cũ"}}
+        checked = inspect_prepatched(prepatched,item,rows,MAPS,set(),{},
+                                    preserve_unrecognized=True,legacy_migrations=legacy)
+        self.assertEqual(checked["reviewed_legacy_rows_upgradable"],1)
+        self.assertEqual(checked["unrecognized_rows_preserved"],0)
+        patched,count,_=apply(prepatched,rows,MAPS,set(),{},
+                              preserve_unrecognized=True,legacy_migrations=legacy)
+        self.assertEqual(count,2)
+        table=Package(patched)
+        rewritten,_=parse_table(table.raw(next(e for e in table.entries if e.key==tuple(rows[0]["key"]))))
+        self.assertEqual([r[1] for r in rewritten[:2]],["Xem xét","Xem xét"])
+        self.assertEqual(apply(patched,rows,MAPS,set(),{},
+                              preserve_unrecognized=True,legacy_migrations=legacy)[1],0)
+
+    def test_reviewed_legacy_loader_refuses_a_wrong_resource_or_metadata(self):
+        original, rows, item = inputs()
+        rec=dict(rows[0],old_vi="Xem xét kiểu cũ")
+        with TemporaryDirectory() as tmp:
+            folder=Path(tmp)
+            (folder/"reviewed_translation_migrations.json").write_text(
+                __import__("json").dumps([rec],ensure_ascii=False),encoding="utf-8")
+            grouped={REL:rows}
+            accepted=load_reviewed_legacy_migrations(folder,grouped,MAPS,{})
+            self.assertEqual(len(accepted),1)
+            rec["description"]="not the audited description"
+            (folder/"reviewed_translation_migrations.json").write_text(
+                __import__("json").dumps([rec],ensure_ascii=False),encoding="utf-8")
+            with self.assertRaisesRegex(ValueError,"source identity mismatches"):
+                load_reviewed_legacy_migrations(folder,grouped,MAPS,{})
 
     def test_unknown_translation_is_rejected(self):
         original,rows,item=inputs()
