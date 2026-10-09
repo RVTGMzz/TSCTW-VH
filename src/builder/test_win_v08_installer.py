@@ -58,6 +58,27 @@ class WindowsGuiSafetyTests(unittest.TestCase):
                 with self.assertRaisesRegex(RuntimeError, "font"):
                     app.preflight(game)
 
+    def test_selector_snapshot_deduplicates_install_and_multiple_save_profiles(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            game=Path(tmp)/"game"
+            game.mkdir()
+            base=game/"TSData/Res/Text/UIText.package"
+            save1=Path(tmp)/"Documents1"
+            save2=Path(tmp)/"Documents2"
+            captured={}
+            def candidates(g, documents=None):
+                return [base] if documents is None else [base,documents/"Neighborhoods/N002/N002_Neighborhood.package"]
+            def matrix(files, progress):
+                captured["files"]=files
+                return {"matches":[],"runtime_read_precedence_verified":False}
+            with (patch("diagnose_visible_strings.local_package_candidates",side_effect=candidates),
+                  patch("diagnose_visible_strings.discover_documents_roots",return_value=[save1,save2]),
+                  patch("diagnose_visible_strings.selector_source_matrix",side_effect=matrix)):
+                result=app.capture_selector_sources(game)
+            self.assertFalse(result["runtime_read_precedence_verified"])
+            self.assertEqual(len(captured["files"]),3)
+            self.assertEqual(captured["files"][0],base)
+
     def test_report_export_is_explicit_utf8_and_does_not_access_game_files(self):
         with tempfile.TemporaryDirectory() as tmp:
             folder=Path(tmp)
