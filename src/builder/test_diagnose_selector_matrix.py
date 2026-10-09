@@ -3,7 +3,7 @@ import struct
 import tempfile
 import unittest
 from pathlib import Path
-from diagnose_visible_strings import selector_source_matrix, selector_source_area
+from diagnose_visible_strings import selector_source_matrix, selector_source_area, SELECTOR_ANCHORS
 
 
 def package_with_title(title):
@@ -41,6 +41,23 @@ class SelectorMatrixTest(unittest.TestCase):
             self.assertEqual({r["source_area"] for r in report["matches"]},
                              {"installation_neighborhood","documents_neighborhood"})
             self.assertEqual(old,(english.read_bytes(),vietnamese.read_bytes()))
+
+    def test_all_four_fields_match_english_and_vietnamese(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp)
+            base=root/"TSData/Res/UserData/Neighborhoods"
+            observed=[]
+            for i,(field,(en,vi)) in enumerate(SELECTOR_ANCHORS.items()):
+                for language,value in (("english",en),("vietnamese",vi)):
+                    target=base/("N001" if i%2 else "N002")/("N001_Neighborhood.package" if i%2 else "N002_Neighborhood.package")
+                    # Read each fixture independently to avoid writing a fake
+                    # multi-resource package that could conceal key collisions.
+                    target.parent.mkdir(parents=True,exist_ok=True)
+                    target.write_bytes(package_with_title(value))
+                    hits=selector_source_matrix([target])["matches"]
+                    observed.extend((r["field"],r["state"]) for r in hits)
+            self.assertEqual(set(observed),
+                {(name,status) for name in SELECTOR_ANCHORS for status in ("english","vietnamese")})
 
     def test_non_selector_file_skipped(self):
         with tempfile.TemporaryDirectory() as temp:
