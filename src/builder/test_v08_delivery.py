@@ -115,6 +115,13 @@ class DeliveryTests(unittest.TestCase):
                 restore(game,backup,dry_run=False)
             self.assertEqual(p.read_bytes(),b"third-party mod installed later")
 
+    def test_installed_neighborhood_paths_are_exactly_allowlisted(self):
+        for island in ("N001","N002"):
+            path=f"TSData/Res/UserData/Neighborhoods/{island}/{island}_Neighborhood.package"
+            self.assertEqual(validate_path(path).as_posix(),path)
+        with self.assertRaises(ValueError):
+            validate_path("TSData/Res/UserData/Neighborhoods/N001/other.package")
+
     def test_rejects_documents_saves_and_unsafe_manifest_paths(self):
         with tempfile.TemporaryDirectory() as tmp:
             game,bundle,backup,_=fixture(Path(tmp))
