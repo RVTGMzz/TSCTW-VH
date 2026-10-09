@@ -58,6 +58,9 @@ jobs:
       - name: Verify exact visible Text and Catalog patches and backups
         run: python src/builder/test_safe_core_text_overlay.py
 
+      - name: Verify read-only selector source matrix
+        run: python src/builder/test_diagnose_selector_matrix.py
+
       - name: Verify opt-in neighborhood text patch preserves saves and supports restore
         run: python src/builder/test_patch_neighborhood_text.py
 
