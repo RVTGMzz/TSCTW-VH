@@ -57,6 +57,39 @@ class SaveLocalizationTests(unittest.TestCase):
                 active=save/"Neighborhoods"/island/f"{island}_Neighborhood.package"
                 self.assertEqual(active.read_bytes(),original)
 
+    def test_opt_in_selector_title_really_changes_source_and_restores(self):
+        from runtime_dbpf import encode_table
+        from diagnose_visible_strings import selector_source_matrix
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            save,original,_=self.prepare_fake_documents(root)
+            original_package=Package(original)
+            key=original_package.entries[0].key
+            raw=original_package.raw(original_package.entries[0])
+            rows,tail=parse_table(raw)
+            en="Wanmami Island"
+            vi="Đảo Wanmami"
+            rows[0][1]=en
+            source=original_package.patch({key:encode_table(raw,rows)})
+            n002=save/"Neighborhoods/N002/N002_Neighborhood.package"
+            n002.write_bytes(source)
+            record={"package":SAVE_ALIASES["N002"],"key":list(key),"row":0,
+                    "language":rows[0][0],"en":en,"description":rows[0][2],
+                    "category":"ui"}
+            backup=root/"backup"
+            original_hash=n002.read_bytes()
+            with (patch("patch_neighborhood_text.effective_records",return_value=([record],[])),
+                  patch("patch_neighborhood_text.load_maps",return_value={"ui":{en:vi}}),
+                  patch("patch_neighborhood_text.load_row_translations",return_value=[])):
+                patched=apply_saved_neighborhood_updates(save,backup)
+            self.assertEqual(patched["changed_rows"],1)
+            after=selector_source_matrix([n002])["matches"]
+            self.assertTrue(any(r["field"]=="island_title" and r["state"]=="vietnamese" for r in after))
+            self.assertFalse(any(r["field"]=="island_title" and r["state"]=="english" for r in after))
+            restore_saved_neighborhoods(save,backup)
+            self.assertEqual(n002.read_bytes(),original_hash)
+            self.assertEqual((save/"Neighborhoods/N001/N001_Neighborhood.package").read_bytes(),original)
+
     def test_refuses_to_erase_player_progress_after_save_changed(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
