@@ -243,6 +243,38 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
                 "patched_sha256":sha_bytes(after),
                 "changed_rows":rows,"changed_resources":resources,
             })
+    # Installed neighborhood templates are separate from Documents save data.
+    # Add only CTSS rows that match the exact full audited English strings.
+    ui_file = Path(catalog_path).parent / "runtime" / "translations" / "ui.json"
+    approved_ui = json.loads(ui_file.read_text(encoding="utf-8"))
+    selector_files = 0
+    selector_rows = 0
+    for island, path in INSTALLED_SELECTOR_FILES.items():
+        if path in current:
+            raise ValueError(("Selector/runtime path collision", path))
+        source = game / path
+        if not source.is_file():
+            continue
+        before = source.read_bytes()
+        after, rows, resources = patch_installed_selector(before, island, approved_ui)
+        if not rows:
+            continue
+        target = bundle / "Payload" / path
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(after)
+        additions.append({
+            "path": path, "original_sha256": sha_bytes(before),
+            "patched_sha256": sha_bytes(after),
+            "changed_rows": rows, "changed_resources": resources,
+        })
+        selector_files += 1
+        selector_rows += rows
+    manifest["installed_selector_overlay"] = {
+        "changed_files": selector_files, "changed_rows": selector_rows,
+        "mode": "installed-N001-N002-exact-CTSS-rows-only",
+        "documents_saves_modified": False,
+        "runtime_read_precedence_verified": False,
+    }
     manifest["install_files"]=sorted(manifest["install_files"]+additions,key=lambda r:r["path"])
     manifest["core_text_overlay"]={
         "mode":"approved-English-only-rebase-on-installed-Text",
