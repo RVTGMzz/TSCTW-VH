@@ -63,6 +63,27 @@ class DeliveryTests(unittest.TestCase):
             self.assertEqual(restore(game,backup,dry_run=False)["files"],0)
             self.assertTrue((backup/"restore_manifest.json").is_file())
 
+    def test_symlinked_install_directory_is_rejected_before_backup(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            game,bundle,backup,manifest=fixture(root)
+            external=root/"outside"
+            external.mkdir()
+            source=game/"TSData/Res/Text/Options.package"
+            external_file=external/"Options.package"
+            external_file.write_bytes(source.read_bytes())
+            source.unlink()
+            text_dir=source.parent
+            text_dir.rmdir()
+            try:
+                text_dir.symlink_to(external,target_is_directory=True)
+            except (OSError,NotImplementedError):
+                self.skipTest("Directory symlinks require elevated privileges here")
+            with self.assertRaises((ValueError,FileNotFoundError)):
+                install(bundle,game,backup,dry_run=False)
+            self.assertFalse(backup.exists())
+            self.assertEqual(external_file.read_bytes(),b"ORIGINAL TEST ONLY "+bytes([0]))
+
     def test_mismatched_installed_original_blocks_all_modifications(self):
         with tempfile.TemporaryDirectory() as tmp:
             game,bundle,backup,manifest=fixture(Path(tmp))
