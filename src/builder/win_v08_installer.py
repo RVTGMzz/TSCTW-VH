@@ -536,6 +536,12 @@ class InstallerApp:
                             en=sum(r["state"]=="english" and r["field"]==field for r in source_rows)
                             vi=sum(r["state"]=="vietnamese" and r["field"]==field for r in source_rows)
                             self.write(f"Màn chọn chế độ | {label}: {en} EN / {vi} VI (các nguồn tìm thấy)")
+                        if snapshot.get("failed"):
+                            self.write(f"CẢNH BÁO: {len(snapshot['failed'])} package không đọc được; kết quả không đầy đủ.")
+                        if any(r["state"]=="english" for r in source_rows):
+                            self.write("CHƯA HOÀN TẤT: vẫn tìm thấy tiếng Anh trong nguồn màn chọn chế độ.")
+                        elif not source_rows:
+                            self.write("CHƯA XÁC ĐỊNH: không nhận diện được nguồn chữ màn chọn chế độ.")
                         self.write("Đây là đối chiếu SOURCE; cần xác nhận nguồn game thực sự đọc.")
                     elif manifest.get("selector_post_install_error"):
                         self.write("Không rà được màn chọn chế độ: "+manifest["selector_post_install_error"])
