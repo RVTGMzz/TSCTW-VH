@@ -1,4 +1,5 @@
 """Synthetic-only validation for exact-English core Text overlay."""
+import hashlib
 import json
 import struct
 import tempfile
@@ -6,8 +7,8 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from runtime_dbpf import Package, parse_table
-from safe_core_text_overlay import approved_core_locations, core_patch, collect_core_overlay, exact_visible_patch, VISIBLE_TEXT_TARGETS, TREE_TARGETS, patch_installed_selector, SELECTOR_KEY, INSTALLED_SELECTOR_FILES
+from runtime_dbpf import Package, parse_table, encode_table
+from safe_core_text_overlay import approved_core_locations, core_patch, collect_core_overlay, exact_visible_patch, VISIBLE_TEXT_TARGETS, TREE_TARGETS, patch_installed_selector, SELECTOR_KEY, INSTALLED_SELECTOR_FILES, TREE_RELATIVE
 from install_v08_local import install, restore
 
 
@@ -237,6 +238,50 @@ class InstalledSelectorTests(unittest.TestCase):
                 self.assertEqual((game/relative).read_bytes(),before)
             self.assertEqual(save.read_bytes(),b"Players current untouched neighborhood save")
 
+
+class TreeMergeTests(unittest.TestCase):
+    def test_runtime_tree_merges_exact_catalog_row_and_restores(self):
+        key,(en,vi)=next(iter(TREE_TARGETS.items()))
+        base=synthetic_single_string(key,en)
+        pkg=Package(base)
+        raw=pkg.raw(pkg.entries[0])
+        second=bytes((1,))+b"Runtime English"+bytes((0,))+b"Metadata"+bytes((0,))
+        base=pkg.patch({key:raw[:66]+struct.pack("<H",2)+raw[68:]+second})
+        pkg=Package(base)
+        raw=pkg.raw(pkg.entries[0])
+        rows,_=parse_table(raw)
+        rows[1][1]="Runtime translated"
+        staged=pkg.patch({key:encode_table(raw,rows)})
+        digest=lambda b: hashlib.sha256(b).hexdigest()
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp)
+            game=root/"game"
+            target=game/TREE_RELATIVE
+            target.parent.mkdir(parents=True)
+            target.write_bytes(base)
+            bundle=root/"bundle"
+            payload=bundle/"Payload"/TREE_RELATIVE
+            payload.parent.mkdir(parents=True)
+            payload.write_bytes(staged)
+            catalog=root/"english.json"
+            catalog.write_text("[]")
+            manifest={"schema":"TSCTW-V08-TEST-1","install_files":[{
+                "path":TREE_RELATIVE,"original_sha256":digest(base),
+                "patched_sha256":digest(staged),"changed_rows":1,"changed_resources":1}]}
+            with patch("build_v07.load_translations",return_value=({},[],[])):
+                merged=collect_core_overlay(game,bundle,manifest,catalog,root)
+            self.assertEqual(len(merged["install_files"]),1)
+            self.assertEqual(merged["decor_tree_overlay"]["additional_rows"],1)
+            self.assertEqual(merged["install_files"][0]["changed_rows"],2)
+            final=payload.read_bytes()
+            parsed,_=parse_table(Package(final).raw(Package(final).entries[0]))
+            self.assertEqual([r[1] for r in parsed],[vi,"Runtime translated"])
+            backup=root/"backup"
+            self.assertIn("DRY RUN",install(bundle,game,backup)["result"])
+            install(bundle,game,backup,dry_run=False)
+            self.assertEqual(target.read_bytes(),final)
+            restore(game,backup,dry_run=False)
+            self.assertEqual(target.read_bytes(),base)
 
 class VisibleOwnerTests(unittest.TestCase):
     def test_canh_tree_exact_identity_and_idempotence(self):
