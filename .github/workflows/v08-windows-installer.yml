@@ -127,6 +127,9 @@ jobs:
           retention-days: 30
 
       - name: Publish direct EXE as clearly marked experimental prerelease
+        # Some repositories deny GITHUB_TOKEN release writes (HTTP 403).
+        # Keep the successfully smoke-tested EXE available via Actions artifact.
+        continue-on-error: true
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
