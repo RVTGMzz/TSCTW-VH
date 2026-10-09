@@ -34,6 +34,9 @@ jobs:
           fi
 
 
+      - name: Check Windows release workflow has no duplicated sections
+        run: python src/builder/test_ci_workflow_integrity.py
+
       - name: Verify safe baseline staging with synthetic package fixtures
         run: python src/builder/test_stage_runtime_inputs.py
 
