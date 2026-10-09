@@ -123,8 +123,8 @@ def synthetic_selector_package(first, second, key=SELECTOR_KEY, language=1):
         (language,second,"Cast Neighborhood COM"),
         (3,"Other language must survive","Keep metadata")
     ):
-        table.extend(bytes((lang,))+value.encode("utf-8")+b"\\0"
-                     +description.encode("utf-8")+b"\\0")
+        table.extend(bytes((lang,))+value.encode("utf-8")+bytes((0,))
+                     +description.encode("utf-8")+bytes((0,)))
     header=bytearray(96)
     header[:4]=b"DBPF"
     struct.pack_into("<3I",header,36,1,96,24)
