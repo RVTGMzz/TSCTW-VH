@@ -83,6 +83,66 @@ def core_patch(original, name, locations):
     return after,translated,len(replacements)
 
 
+# Source identities transcribed from the user's Build 66 read-only resource scan.
+# These were absent from the historical core English catalog; never use
+# substring matching or apply them to a different resource/language.
+VISIBLE_TEXT_TARGETS = {
+    ("CAS.package", (STR, 0xFFFFFFFF, 141), 51, 2): (
+        "Please select your Sim's Turn-Ons and Turn-Off. Click on each of the boxes above and select a trait. \\n\\nYour Sim will be more romantically attracted to other Sims who have the traits that you've selected as Turn-Ons. Likewise, your Sim will be less attracted to Sims who have the trait you select as a Turn-Off.\\n\\nThese selections can be changed later by using the ReNuYuSenso Orb Aspiration Reward Object. Get out there and get attracted!",
+        "Hãy chọn những đặc điểm khiến Sim của bạn bị thu hút hoặc mất hứng. Nhấn vào từng ô phía trên để chọn một đặc điểm.\\n\\nSim của bạn sẽ dễ rung động trước những Sim có đặc điểm được chọn trong mục Thu hút. Ngược lại, Sim sẽ ít bị hấp dẫn bởi những đặc điểm trong mục Mất hứng.\\n\\nBạn có thể thay đổi các lựa chọn này về sau bằng phần thưởng Khát vọng Quả cầu ReNuYuSenso. Giờ thì đi tìm người hợp gu thôi!",
+    ),
+    ("Live.package", (STR, 0xFFFFFFFF, 145), 80, 2): (
+        "Negative side effects may occur if used below Gold Aspiration. Consult your Aspiration Meter before use.",
+        "Có thể xảy ra tác dụng phụ nếu dùng khi mức Khát vọng chưa đạt Vàng. Hãy kiểm tra thanh Khát vọng trước khi sử dụng.",
+    ),
+}
+TREE_RELATIVE = "TSData/Res/Catalog/CANHObjects/catcanhobjects.bundle.package"
+TREE_TARGETS = {
+    (STR, 2143531697, 123): ("Row of Trees", "Hàng cây"),
+    (STR, 2142521860, 123): ("Pine Tree", "Cây thông"),
+    (STR, 2140068512, 123): ("Pine Tree", "Cây thông"),
+    (STR, 2144203450, 123): ("Pine Tree", "Cây thông"),
+}
+
+
+def exact_visible_patch(original, name, tree=False):
+    """Match package identity, complete DBPF key, ordinal, language and English."""
+    package = Package(original)
+    targets = TREE_TARGETS if tree else VISIBLE_TEXT_TARGETS
+    replacements = {}
+    touched = 0
+    for entry in package.entries:
+        if tree:
+            if entry.key not in targets:
+                continue
+            en, vi = targets[entry.key]
+            wanted = [(0, 1, en, vi)]
+        else:
+            wanted = [(ordinal, lang, source, target) for
+                      (filename, key, ordinal, lang), (source, target) in targets.items()
+                      if filename == name and key == entry.key]
+        if not wanted:
+            continue
+        raw = package.raw(entry)
+        rows, tail = parse_table(raw)
+        changed = False
+        for ordinal, lang, en, vi in wanted:
+            if ordinal >= len(rows):
+                continue
+            line = rows[ordinal]
+            if line[0] == lang and line[1] == en:
+                line[1] = vi
+                touched += 1
+                changed = True
+        if changed:
+            encoded = encode_table(raw, rows)
+            checked, checked_tail = parse_table(encoded)
+            if checked != rows or checked_tail != tail:
+                raise AssertionError(("Exact visible row round-trip failed", name, entry.key))
+            replacements[entry.key] = encoded
+    return (package.patch(replacements), touched, len(replacements)) if replacements else (original, 0, 0)
+
+
 def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir):
     """Append safe core Text changes to an already-built runtime candidate.
 
@@ -110,6 +170,9 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
             continue
         before=source.read_bytes()
         after,rows,resources=core_patch(before,name,locations)
+        after,extra_rows,extra_resources=exact_visible_patch(after,name)
+        rows+=extra_rows
+        resources+=extra_resources
         if not rows:
             continue
         target=bundle/"Payload"/path
@@ -120,6 +183,23 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
             "patched_sha256":sha_bytes(after),
             "changed_rows":rows,"changed_resources":resources,
         })
+    # Catalog decorative trees live outside Res/Text and Objects. Apply only
+    # four complete source-verified STR# identities; keep all other resources.
+    if TREE_RELATIVE in current:
+        raise ValueError(("Catalog/runtime path collision", TREE_RELATIVE))
+    tree_path=game/TREE_RELATIVE
+    if tree_path.is_file():
+        before=tree_path.read_bytes()
+        after,rows,resources=exact_visible_patch(before,tree_path.name,tree=True)
+        if rows:
+            target=bundle/"Payload"/TREE_RELATIVE
+            target.parent.mkdir(parents=True,exist_ok=True)
+            target.write_bytes(after)
+            additions.append({
+                "path":TREE_RELATIVE,"original_sha256":sha_bytes(before),
+                "patched_sha256":sha_bytes(after),
+                "changed_rows":rows,"changed_resources":resources,
+            })
     manifest["install_files"]=sorted(manifest["install_files"]+additions,key=lambda r:r["path"])
     manifest["core_text_overlay"]={
         "mode":"approved-English-only-rebase-on-installed-Text",
