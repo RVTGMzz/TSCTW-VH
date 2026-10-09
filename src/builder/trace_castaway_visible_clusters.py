@@ -77,6 +77,25 @@ def main():
             candidates+= [(p,k,v) for p,k,v in core_maps if re.search("tiện thể|ghế đá đôi",v,re.I)]
             print("PHRASE_MATCHES",json.dumps([{"source":x,"en":shorten(k,450),"vi":shorten(v,240)}
                                           for x,k,v in candidates[:40]],ensure_ascii=False))
+    # Compare against the separate ORIGINAL core Text catalog: these rows
+    # cannot be fixed by translating runtime/Objects alone.
+    from build_v07 import CATALOG_PATH
+    try:
+        core_catalog=json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+        print("=== CORE TEXT CATALOG CLUSTER TRACE ===")
+        for cluster,patterns in TERMS.items():
+            found=[r for r in core_catalog if isinstance(r.get("text"),str)
+                   and any(re.search(p,r["text"],re.I) for p in patterns)]
+            print("CORE",cluster,"FOUND",len(found))
+            for r in found[:50]:
+                print("CORE_ROW",json.dumps({
+                    "file":r.get("file"),"id":r.get("id"),
+                    "text":shorten(r.get("text"),550),
+                    "description":shorten(r.get("description"),130)
+                },ensure_ascii=False))
+        print("=== END CORE TEXT CATALOG CLUSTER TRACE ===")
+    except (FileNotFoundError,ValueError) as exc:
+        print("CORE_CATALOG_UNAVAILABLE",type(exc).__name__,str(exc))
     print("=== END CASTAWAY CLUSTER TRACE ===")
 
 if __name__=="__main__":
