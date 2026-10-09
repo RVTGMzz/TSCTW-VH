@@ -25,6 +25,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Compile all builder Python modules (catch GUI syntax errors before EXE)
+        run: python -m compileall -q src/builder
+
       - name: Guard Windows workflow against duplicate release blocks
         run: python src/builder/test_ci_workflow_integrity.py
 
