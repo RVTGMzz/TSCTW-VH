@@ -7,7 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from runtime_dbpf import Package, parse_table
-from safe_core_text_overlay import approved_core_locations, core_patch, collect_core_overlay
+from safe_core_text_overlay import approved_core_locations, core_patch, collect_core_overlay, exact_visible_patch, VISIBLE_TEXT_TARGETS, TREE_TARGETS
 from install_v08_local import install, restore
 
 
@@ -100,6 +100,54 @@ class CoreOverlayTests(unittest.TestCase):
         location={("UIText.package",755):{"Aspiration Rewards":"Phần thưởng Khát vọng"}}
         self.assertEqual(core_patch(original,"UIText.package",location),(original,0,0))
 
+
+
+def synthetic_single_string(key, value, language=1):
+    table=bytearray(68)
+    table[64:66]=bytes([0xfd,0xff])
+    struct.pack_into("<H",table,66,1)
+    table.extend(bytes([language])+value.encode("utf-8")+b"\\0"+b"Cast Catalog COM\\0")
+    width=4*(len(key)+2)
+    header=bytearray(96)
+    header[:4]=b"DBPF"
+    struct.pack_into("<3I",header,36,1,96,width)
+    return bytes(header)+struct.pack("<"+"I"*(len(key)+2),*key,96+width,len(table))+bytes(table)
+
+
+class VisibleOwnerTests(unittest.TestCase):
+    def test_canh_tree_exact_identity_and_idempotence(self):
+        for key,(en,vi) in TREE_TARGETS.items():
+            original=synthetic_single_string(key,en)
+            after,rows,resources=exact_visible_patch(original,"catcanhobjects.bundle.package",tree=True)
+            self.assertEqual((rows,resources),(1,1))
+            result=Package(after)
+            self.assertEqual(parse_table(result.raw(result.entries[0]))[0][0][1],vi)
+            self.assertEqual(exact_visible_patch(after,"catcanhobjects.bundle.package",tree=True),(after,0,0))
+            unknown=synthetic_single_string(key,"Unrelated custom tree")
+            self.assertEqual(exact_visible_patch(unknown,"catcanhobjects.bundle.package",tree=True),(unknown,0,0))
+
+    def test_cas_help_exact_language_and_row_guard(self):
+        (name,key,ordinal,lang),(english,vietnamese)=next(iter(VISIBLE_TEXT_TARGETS.items()))
+        # A language-2 row at the required ordinal, not an ordinal-0 shortcut.
+        table=bytearray(68)
+        table[64:66]=bytes([0xfd,0xff])
+        struct.pack_into("<H",table,66,ordinal+1)
+        for i in range(ordinal+1):
+            v=english if i==ordinal else "Keep untouched"
+            language=lang if i==ordinal else 1
+            table.extend(bytes([language])+v.encode("utf-8")+b"\\0"+b"CAST UI COM\\0")
+        header=bytearray(96)
+        header[:4]=b"DBPF"
+        struct.pack_into("<3I",header,36,1,96,20)
+        original=bytes(header)+struct.pack("<5I",*key,116,len(table))+bytes(table)
+        after,rows,resources=exact_visible_patch(original,name)
+        self.assertEqual((rows,resources),(1,1))
+        data=Package(after)
+        parsed,_=parse_table(data.raw(data.entries[0]))
+        self.assertEqual(parsed[ordinal][1],vietnamese)
+        self.assertEqual(parsed[0][1],"Keep untouched")
+        self.assertEqual(exact_visible_patch(after,name),(after,0,0))
+        self.assertEqual(exact_visible_patch(original,"Live.package"),(original,0,0))
 
 if __name__=="__main__":
     unittest.main()
