@@ -461,6 +461,17 @@ class InstallerApp:
                 if isinstance(value,dict) and value.get("state") in (
                         "PATCHED_FOR_TEST","RESTORED_PREVIOUS_SAVE_STATE","NO_NEW_ROWS"):
                     self.write("Dữ liệu đảo: "+json.dumps(value,ensure_ascii=False))
+                    selector=value.get("selector_status")
+                    if selector:
+                        labels={"story_title":"Đắm tàu và độc thân — tiêu đề",
+                                "story_description":"Đắm tàu và độc thân — mô tả",
+                                "island_title":"Đảo Wanmami — tiêu đề",
+                                "island_description":"Đảo Wanmami — mô tả"}
+                        for key,counts in selector["fields"].items():
+                            self.write(f"{labels.get(key,key)}: "
+                                       f"{counts['vietnamese']} bản ghi VI, "
+                                       f"{counts['english']} bản ghi EN")
+                        self.write("Các dòng trên được kiểm trong SAVE; game thật đọc nguồn nào vẫn cần xác nhận.")
                     messagebox.showinfo("Dữ liệu đảo", 
                         ("Không có câu mới cần sửa." if value["state"]=="NO_NEW_ROWS" else
                          "Đã xử lý chữ đảo. Hãy thử game để xác nhận nguồn; backup được lưu riêng."))
