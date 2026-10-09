@@ -72,6 +72,29 @@ class CoreOverlayTests(unittest.TestCase):
             restore(game,backup,dry_run=False)
             self.assertEqual(target.read_bytes(),original)
 
+    def test_ui_folder_uitext_is_supported_when_no_text_folder_copy_exists(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            game=root/"game"
+            src=game/"TSData/Res/UI/UIText.package"
+            src.parent.mkdir(parents=True)
+            src.write_bytes(sample_source())
+            folder=root/"candidate"
+            folder.mkdir()
+            source_catalog=root/"catalog.json"
+            source_catalog.write_text(json.dumps([
+                {"file":"UIText.package","id":150,"text":"Aspiration Rewards"}
+            ]),encoding="utf-8")
+            with patch("build_v07.load_translations",return_value=(
+                {"Aspiration Rewards":"Phần thưởng Khát vọng"},[],[])):
+                result=collect_core_overlay(game,folder,
+                    {"schema":"TSCTW-V08-TEST-1","install_files":[]},source_catalog,root)
+            self.assertEqual([x["path"] for x in result["install_files"]],
+                             ["TSData/Res/UI/UIText.package"])
+            self.assertEqual(result["core_text_overlay"]["changed_files"],1)
+            self.assertNotEqual(src.read_bytes(),
+                                (folder/"Payload"/"TSData/Res/UI/UIText.package").read_bytes())
+
     def test_opaque_or_wrong_index_text_resource_is_not_touched(self):
         original=sample_source()
         location={("UIText.package",755):{"Aspiration Rewards":"Phần thưởng Khát vọng"}}
