@@ -519,8 +519,8 @@ class InstallerApp:
                     messagebox.showinfo(
                         "Đã cài bản v0.8 TEST",
                         "Cài đặt đã qua kiểm tra file và sao lưu.\n"
-                        "Bản cài chính không sửa save Documents. Hai tên chế độ và đoạn mô tả có thể vẫn tiếng Anh nếu game đọc N001/N002 trong save.\n"\
-                        "Để thử phần này, dùng nút 'Việt hóa đảo & tiểu sử...' riêng (có xác nhận, sao lưu và khôi phục).\n"\
+                        "Bản cài chính không sửa save Documents. Hai tên chế độ và đoạn mô tả có thể vẫn tiếng Anh nếu game đọc N001/N002 trong save.\n"
+                        "Để thử phần này, dùng nút 'Việt hóa đảo & tiểu sử...' riêng (có xác nhận, sao lưu và khôi phục).\n"
                         "Đây vẫn là bản TEST: cần chơi để xác nhận nguồn hiển thị.\n\n"
                         f"Thư mục sao lưu:\n{report['backup']}",
                     )
