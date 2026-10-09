@@ -472,8 +472,19 @@ class InstallerApp:
                                        f"{counts['vietnamese']} bản ghi VI, "
                                        f"{counts['english']} bản ghi EN")
                         self.write("Các dòng trên được kiểm trong SAVE; game thật đọc nguồn nào vẫn cần xác nhận.")
-                    messagebox.showinfo("Dữ liệu đảo", 
-                        ("Không có câu mới cần sửa." if value["state"]=="NO_NEW_ROWS" else
+                    selector_missing = (selector is not None and any(
+                        counts["vietnamese"] == 0 for counts in selector["fields"].values()
+                    ))
+                    if selector_missing and value["state"] != "RESTORED_PREVIOUS_SAVE_STATE":
+                        self.write("CHƯA HOÀN TẤT: ít nhất một tiêu đề/mô tả "
+                                   "chưa tìm thấy bản tiếng Việt trong SAVE đã chọn.")
+                    messagebox.showinfo("Dữ liệu đảo",
+                        ("Đã khôi phục dữ liệu đảo." if value["state"]=="RESTORED_PREVIOUS_SAVE_STATE" else
+                         "Đã kiểm tra SAVE nhưng còn thiếu tiếng Việt ở một hoặc nhiều "
+                         "tiêu đề/mô tả. Hãy lưu báo cáo; đừng coi màn chọn chế độ đã hoàn tất."
+                         if selector_missing else
+                         "Không có câu mới cần sửa; vẫn cần kiểm tra trực tiếp trong game."
+                         if value["state"]=="NO_NEW_ROWS" else
                          "Đã xử lý chữ đảo. Hãy thử game để xác nhận nguồn; backup được lưu riêng."))
                 elif isinstance(value,dict) and "hits" in value:
                     from diagnose_visible_strings import concise_for_gui
