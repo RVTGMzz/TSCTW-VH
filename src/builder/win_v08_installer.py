@@ -174,6 +174,18 @@ def build_runtime_overlay(game, work, progress=lambda x: None):
     return bundle, manifest
 
 
+def capture_selector_sources(game, progress=lambda x: None):
+    """Read-only source status; includes install tree and all detected saves."""
+    from diagnose_visible_strings import (
+        discover_documents_roots, local_package_candidates, selector_source_matrix
+    )
+    files=local_package_candidates(game)
+    for save_root in discover_documents_roots():
+        files.extend(local_package_candidates(game, save_root))
+    files=list(dict.fromkeys(files))
+    return selector_source_matrix(files, progress)
+
+
 def install_from_game(game, progress=lambda x: None):
     """One-click operation: verify, locally build, verify again, backup and install."""
     configure_embedded_sources()
@@ -186,6 +198,10 @@ def install_from_game(game, progress=lambda x: None):
         progress("Đang bổ sung các câu Text gốc còn tiếng Anh, giữ nguyên những câu đã Việt hóa...")
         manifest = collect_core_overlay(game,bundle,manifest,CATALOG_PATH,TRANSLATIONS_DIR)
         if not manifest["install_files"]:
+            try:
+                manifest["selector_post_install"]=capture_selector_sources(game, progress)
+            except (OSError, ValueError, AssertionError) as exc:
+                manifest["selector_post_install_error"]=f"{type(exc).__name__}: {exc}"
             return {"result": "NO_NEW_ROWS", "files": 0, "backup": None}, manifest
         progress("Đang kiểm tra tính nguyên vẹn của payload và file game...")
         install(bundle, game, backup_base() / game_identifier(game) / "PREVIEW-ONLY",
@@ -194,17 +210,9 @@ def install_from_game(game, progress=lambda x: None):
         backup = backup_base() / game_identifier(game) / now
         progress("Đang tạo bản sao lưu và cài Việt hóa...")
         result = install(bundle, game, backup, dry_run=False)
-    # Read-only post-install selector source comparison. Do not touch Documents
-    # files or make claims about which source the running game will choose.
+    # A post-install scan is evidence only, not proof of active runtime owner.
     try:
-        from diagnose_visible_strings import (
-            discover_documents_roots, local_package_candidates, selector_source_matrix
-        )
-        selector_files=local_package_candidates(game)
-        for save_root in discover_documents_roots():
-            selector_files.extend(local_package_candidates(game, save_root))
-        selector_files=list(dict.fromkeys(selector_files))
-        manifest["selector_post_install"]=selector_source_matrix(selector_files, progress)
+        manifest["selector_post_install"]=capture_selector_sources(game, progress)
     except (OSError, ValueError, AssertionError) as exc:
         manifest["selector_post_install_error"]=f"{type(exc).__name__}: {exc}"
     return result, manifest
