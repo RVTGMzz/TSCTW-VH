@@ -21,7 +21,7 @@ TERMS = {
        r"Aspiration Meter",r"Aspiration Reward",r"Perfect for those who like their idle"],
     "decor-tree": [r"^Pine Tree$",r"^Row of Trees$",r"pointy things pencil",
        r"cannot place decoration on an occupied lot"],
-    "stone-loveseat": [r"While You.re At It",r"At It.*Loveseat",r"stone.*love",
+    "stone-loveseat": [r"Conveniently Cozy Rock Couch",r"While You.re At It",r"At It.*Loveseat",r"stone.*love",
        r"Em Tiện Thể",r"tough yesterday",r"hard day",
        r"terrible day",r"yesterday was a hard"],
     "credit-possibilities": [r"^Credits$",r"^About$",r"Game Credits",r"Castaway Stories",r"^Main Menu$"],
