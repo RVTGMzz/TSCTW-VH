@@ -7,8 +7,37 @@ Unknown edits on target resources block installation. Non-target resources stay
 byte-identical during patching.
 """
 import collections
+import json
 from runtime_dbpf import Package, parse_table
 from validate_runtime import row_identity
+
+
+def load_reviewed_legacy_migrations(runtime_dir, grouped, maps, exact):
+    """Allow old->new wording ONLY where all source identifiers still match.
+
+    Never infer old Vietnamese text from whether a string merely looks
+    Vietnamese. The migration file lists the exact old approved wording.
+    """
+    path = runtime_dir / "reviewed_translation_migrations.json"
+    if not path.is_file():
+        return {}
+    records = json.loads(path.read_text(encoding="utf-8"))
+    out = {}
+    rows_by_id = {
+        row_identity(row): row for package_rows in grouped.values() for row in package_rows
+    }
+    for old_row in records:
+        ident = (old_row["package"], tuple(old_row["key"]), old_row["row"])
+        if ident in out:
+            raise ValueError(("Duplicate reviewed legacy migration", ident))
+        original = rows_by_id.get(ident)
+        if original is None or any(original[k] != old_row[k] for k in ("language","en","description")):
+            raise ValueError(("Reviewed legacy migration source identity mismatches audited data", ident))
+        new_vi = exact[ident]["vi"] if ident in exact else maps.get(original["category"],{}).get(original["en"])
+        if not new_vi or new_vi == old_row["old_vi"]:
+            raise ValueError(("Reviewed legacy migration lacks different approved new translation", ident))
+        out[ident] = old_row
+    return out
 
 
 def inspect_prepatched(data, inventory_item, rows, maps, decisions, exact_translations, preserve_unrecognized=False, legacy_migrations=None):
