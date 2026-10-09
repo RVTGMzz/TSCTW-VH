@@ -162,6 +162,22 @@ class InstalledSelectorTests(unittest.TestCase):
                 wrong_key=synthetic_selector_package(*fields,key=(SELECTOR_KEY[0],SELECTOR_KEY[1],2,0))
                 self.assertEqual(patch_installed_selector(wrong_key,island,approved),(wrong_key,0,0))
 
+    def test_approved_full_mode_descriptions_patch(self):
+        translations=json.loads((Path(__file__).resolve().parents[2]/
+            "runtime/translations/ui.json").read_text(encoding="utf-8"))
+        for island,title,anchor in (
+            ("N001","Shipwrecked and Single","Very little is known about"),
+            ("N002","Wanmami Island","Wanmami Island is home to"),
+        ):
+            long_keys=[k for k in translations if k.startswith(anchor)]
+            self.assertEqual(len(long_keys),1)
+            source=synthetic_selector_package(title,long_keys[0])
+            updated,count,resources=patch_installed_selector(source,island,translations)
+            self.assertEqual((count,resources),(2,1))
+            rows,_=parse_table(Package(updated).raw(Package(updated).entries[0]))
+            self.assertEqual(rows[0][1],translations[title])
+            self.assertEqual(rows[1][1],translations[long_keys[0]])
+
     def test_neighborhood_installer_transaction_restores_original_and_leaves_documents(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
