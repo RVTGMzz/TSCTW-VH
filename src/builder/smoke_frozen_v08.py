@@ -86,6 +86,30 @@ def smoke():
         restored = restore(game, backup, dry_run=False)
         assert restored["files"] == 1
         assert live.read_bytes() == original
+
+        # Core TEXT included in frozen installer, using real bundled approved
+        # translations and original English catalog. No actual EA file needed.
+        from safe_core_text_overlay import approved_core_locations, core_patch
+        from build_v07 import CATALOG_PATH, load_translations
+        approved,_,_=load_translations()
+        assert approved["Aspiration Rewards"] == "Phần thưởng Khát vọng"
+        catalog=json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+        locations=approved_core_locations(catalog,approved)
+        assert ("UIText.package",150) in locations
+        core_header=bytearray(96)
+        core_header[:4]=b"DBPF"
+        body=bytearray(68)
+        body[64:66]=bytes([0xfd,0xff])
+        struct.pack_into("<H",body,66,1)
+        body.extend(bytes([1])+b"Aspiration Rewards"+bytes([0])+b"Cast UI COM"+bytes([0]))
+        struct.pack_into("<3I",core_header,36,1,96,20)
+        core_original=bytes(core_header)+struct.pack("<5I",0x53545223,0x22222222,150,116,len(body))+bytes(body)
+        core_translated,n_core,r_core=core_patch(core_original,"UIText.package",locations)
+        assert (n_core,r_core)==(1,1)
+        p2=Package(core_translated)
+        content,_=parse_table(p2.raw(p2.entries[0]))
+        assert content[0][1]=="Phần thưởng Khát vọng"
+        assert core_patch(core_translated,"UIText.package",locations)==(core_translated,0,0)
     return True
 
 
