@@ -78,10 +78,22 @@ jobs:
       - name: Verify portable EXE checksum and commit identity
         shell: pwsh
         run: |
-          $file = ".\\dist\\VotriValley-Castaway-v08-TEST.exe"
-          if (!(Test-Path $file)) { throw "No packaged EXE" }
+          $file = '.\dist\VotriValley-Castaway-v08-TEST.exe'
+          if (!(Test-Path $file)) { throw 'No packaged EXE' }
           $hash = (Get-FileHash -Algorithm SHA256 $file).Hash.ToLowerInvariant()
-          if ($hash -notmatch '^[0-9a-f]{64}        shell: pwsh
+          if ($hash.Length -ne 64) { throw 'Invalid EXE SHA256' }
+          $version = '${{ github.sha }}'
+          @(
+            'Castaway v0.8 TEST - checksum for this GitHub Actions build'
+            "Commit: $version"
+            "SHA256: $hash"
+            'Filename: VotriValley-Castaway-v08-TEST.exe'
+            'Important: frozen synthetic smoke only; in-game behavior unverified.'
+          ) | Set-Content -Path dist/BUILD-IDENTITY.txt -Encoding utf8
+          Write-Output "EXE SHA256: $hash at commit $version"
+
+      - name: Write clear TEST caveats for user
+        shell: pwsh
         run: |
           @'
           VOTRI VALLEY - THE SIMS CASTAWAY STORIES v0.8 TEST
@@ -96,7 +108,6 @@ jobs:
           Restore via "Khôi phục bản trước" in the same app after closing the game.
           '2026-10-09: pre-release TEST; Votri Valley'
           '@ | Set-Content -Path dist/README-V08-TEST.txt -Encoding utf8
-
       - name: Provide standalone EXE download
         uses: actions/upload-artifact@v4
         with:
