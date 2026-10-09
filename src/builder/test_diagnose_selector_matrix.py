@@ -3,7 +3,7 @@ import struct
 import tempfile
 import unittest
 from pathlib import Path
-from diagnose_visible_strings import selector_source_matrix, selector_source_area, SELECTOR_ANCHORS
+from diagnose_visible_strings import selector_source_matrix, selector_source_area, SELECTOR_ANCHORS, local_package_candidates
 
 
 def package_with_title(title):
@@ -71,6 +71,19 @@ class SelectorMatrixTest(unittest.TestCase):
             self.assertTrue(matches[0][1].startswith(vietnamese),field)
             if field.endswith("description"):
                 self.assertGreater(len(matches[0][1]),250,field)
+
+    def test_installed_neighborhood_manager_is_discovered_and_inspected(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)/"game"
+            manager=root/"TSData/Res/UserData/Neighborhoods/NeighborhoodManager.package"
+            manager.parent.mkdir(parents=True)
+            manager.write_bytes(package_with_title("Shipwrecked and Single"))
+            found=local_package_candidates(root)
+            self.assertIn(manager.resolve(),found)
+            hits=selector_source_matrix(found)["matches"]
+            self.assertTrue(any(x["field"]=="story_title" and
+                                x["source_area"]=="installation_neighborhood"
+                                for x in hits))
 
     def test_non_selector_file_skipped(self):
         with tempfile.TemporaryDirectory() as temp:
