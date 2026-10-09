@@ -233,21 +233,54 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
         })
     # Catalog decorative trees live outside Res/Text and Objects. Apply only
     # four complete source-verified STR# identities; keep all other resources.
-    if TREE_RELATIVE in current:
-        raise ValueError(("Catalog/runtime path collision", TREE_RELATIVE))
     tree_path=game/TREE_RELATIVE
+    staged_tree=next((r for r in manifest["install_files"]
+                      if r["path"] == TREE_RELATIVE), None)
+    tree_merge_rows=0
     if tree_path.is_file():
         before=tree_path.read_bytes()
-        after,rows,resources=exact_visible_patch(before,tree_path.name,tree=True)
-        if rows:
-            target=bundle/"Payload"/TREE_RELATIVE
-            target.parent.mkdir(parents=True,exist_ok=True)
-            target.write_bytes(after)
-            additions.append({
-                "path":TREE_RELATIVE,"original_sha256":sha_bytes(before),
-                "patched_sha256":sha_bytes(after),
-                "changed_rows":rows,"changed_resources":resources,
-            })
+        target=bundle/"Payload"/TREE_RELATIVE
+        if staged_tree is not None:
+            # A previous runtime pass already owns this installed package.
+            # Merge vetted tree rows ONTO that prepared candidate instead of
+            # inventing a second manifest entry or touching the game.
+            if sha_bytes(before) != staged_tree["original_sha256"]:
+                raise ValueError(("Runtime tree original hash mismatch", TREE_RELATIVE))
+            if not target.is_file():
+                raise FileNotFoundError(("Runtime tree payload missing", TREE_RELATIVE))
+            staged=target.read_bytes()
+            if sha_bytes(staged) != staged_tree["patched_sha256"]:
+                raise ValueError(("Runtime tree payload hash mismatch", TREE_RELATIVE))
+            after,rows,resources=exact_visible_patch(staged,tree_path.name,tree=True)
+            if rows:
+                # The candidate is disposable until the installer verifies and
+                # atomically applies its sole hash-guarded manifest entry.
+                target.write_bytes(after)
+                staged_tree["patched_sha256"]=sha_bytes(after)
+                staged_tree["changed_rows"]+=rows
+                old_pkg,new_pkg=Package(before),Package(after)
+                old_by_key={e.key:e for e in old_pkg.entries}
+                staged_tree["changed_resources"]=sum(
+                    old_pkg.raw(old_by_key[e.key]) != new_pkg.raw(e)
+                    for e in new_pkg.entries if e.key in old_by_key
+                )
+                tree_merge_rows=rows
+        else:
+            after,rows,resources=exact_visible_patch(before,tree_path.name,tree=True)
+            if rows:
+                target.parent.mkdir(parents=True,exist_ok=True)
+                target.write_bytes(after)
+                additions.append({
+                    "path":TREE_RELATIVE,"original_sha256":sha_bytes(before),
+                    "patched_sha256":sha_bytes(after),
+                    "changed_rows":rows,"changed_resources":resources,
+                })
+    manifest["decor_tree_overlay"]={
+        "merged_into_runtime":staged_tree is not None,
+        "additional_rows":tree_merge_rows if staged_tree is not None else (
+            rows if tree_path.is_file() else 0),
+        "no_second_payload_entry":True,
+    }
     core_text_file_count = len(additions)
     core_text_row_count = sum(r["changed_rows"] for r in additions)
     # Installed neighborhood templates are separate from Documents save data.
