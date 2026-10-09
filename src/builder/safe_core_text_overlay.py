@@ -245,11 +245,15 @@ def collect_core_overlay(game, bundle, manifest, catalog_path, translations_dir)
             })
     # Installed neighborhood templates are separate from Documents save data.
     # Add only CTSS rows that match the exact full audited English strings.
-    ui_file = Path(catalog_path).parent / "runtime" / "translations" / "ui.json"
-    approved_ui = json.loads(ui_file.read_text(encoding="utf-8"))
+    installed_candidates = [(island, path) for island, path in INSTALLED_SELECTOR_FILES.items()
+                            if (game / path).is_file()]
+    approved_ui = {}
+    if installed_candidates:
+        ui_file = Path(catalog_path).parent / "runtime" / "translations" / "ui.json"
+        approved_ui = json.loads(ui_file.read_text(encoding="utf-8"))
     selector_files = 0
     selector_rows = 0
-    for island, path in INSTALLED_SELECTOR_FILES.items():
+    for island, path in installed_candidates:
         if path in current:
             raise ValueError(("Selector/runtime path collision", path))
         source = game / path
