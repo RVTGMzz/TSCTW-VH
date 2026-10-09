@@ -90,6 +90,10 @@ SELECTOR_ANCHORS = {
 def selector_source_area(path):
     """Classify both Windows and POSIX paths without confusing installed N00x with saves."""
     normalized=str(path).replace(chr(92), "/").casefold()
+    # Windows paths may arrive with doubled separators (e.g. escaped report paths).
+    # Collapse them before matching installation-vs-Documents ownership.
+    while "//" in normalized:
+        normalized=normalized.replace("//","/")
     if "/tsdata/res/userdata/neighborhoods/" in normalized:
         return "installation_neighborhood"
     if "/neighborhoods/" in normalized:
