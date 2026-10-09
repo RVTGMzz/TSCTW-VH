@@ -82,6 +82,8 @@ def main():
     from build_v07 import CATALOG_PATH
     try:
         core_catalog=json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
+        from build_v07 import load_translations
+        translations,_,_ = load_translations()
         print("=== CORE TEXT CATALOG CLUSTER TRACE ===")
         for cluster,patterns in TERMS.items():
             found=[r for r in core_catalog if isinstance(r.get("text"),str)
@@ -90,7 +92,8 @@ def main():
             for r in found[:50]:
                 print("CORE_ROW",json.dumps({
                     "file":r.get("file"),"id":r.get("id"),
-                    "text":shorten(r.get("text"),550),
+                    "text":shorten(r.get("text"),1100),
+                    "approved_vi":shorten(translations.get(r.get("text")),450) if r.get("text") in translations else None,
                     "description":shorten(r.get("description"),130)
                 },ensure_ascii=False))
         print("=== END CORE TEXT CATALOG CLUSTER TRACE ===")
