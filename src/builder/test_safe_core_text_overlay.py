@@ -7,7 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from runtime_dbpf import Package, parse_table
-from safe_core_text_overlay import approved_core_locations, core_patch, collect_core_overlay, exact_visible_patch, VISIBLE_TEXT_TARGETS, TREE_TARGETS
+from safe_core_text_overlay import approved_core_locations, core_patch, collect_core_overlay, exact_visible_patch, VISIBLE_TEXT_TARGETS, TREE_TARGETS, patch_installed_selector, SELECTOR_KEY, INSTALLED_SELECTOR_FILES
 from install_v08_local import install, restore
 
 
@@ -112,6 +112,101 @@ def synthetic_single_string(key, value, language=1):
     header[:4]=b"DBPF"
     struct.pack_into("<3I",header,36,1,96,width)
     return bytes(header)+struct.pack("<"+"I"*(len(key)+2),*key,96+width,len(table))+bytes(table)
+
+
+def synthetic_selector_package(first, second, key=SELECTOR_KEY, language=1):
+    table=bytearray(68)
+    table[64:66]=bytes((253,255))
+    struct.pack_into("<H",table,66,3)
+    for lang,value,description in (
+        (language,first,"Cast Neighborhood COM"),
+        (language,second,"Cast Neighborhood COM"),
+        (3,"Other language must survive","Keep metadata")
+    ):
+        table.extend(bytes((lang,))+value.encode("utf-8")+b"\\0"
+                     +description.encode("utf-8")+b"\\0")
+    header=bytearray(96)
+    header[:4]=b"DBPF"
+    struct.pack_into("<3I",header,36,1,96,24)
+    return bytes(header)+struct.pack("<6I",*key,120,len(table))+bytes(table)
+
+
+class InstalledSelectorTests(unittest.TestCase):
+    def test_both_mode_titles_and_descriptions_are_patched_only_by_exact_source(self):
+        from diagnose_visible_strings import SELECTOR_ANCHORS
+        approved={
+            "Shipwrecked and Single":"Đắm tàu và độc thân",
+            "Very little is known about this remote tropical paradise. More English description.":"Người ta biết rất ít về thiên đường nhiệt đới xa xôi này. Nội dung đầy đủ.",
+            "Wanmami Island":"Đảo Wanmami",
+            "Wanmami Island is home to the local, the lost and others.":"Đảo Wanmami là mái nhà của mọi người.",
+        }
+        for island,fields in (("N001",("Shipwrecked and Single",
+               "Very little is known about this remote tropical paradise. More English description.")),
+                              ("N002",("Wanmami Island",
+               "Wanmami Island is home to the local, the lost and others."))):
+            with self.subTest(island=island):
+                original=synthetic_selector_package(*fields)
+                patched,rows,resources=patch_installed_selector(original,island,approved)
+                self.assertEqual((rows,resources),(2,1))
+                pkg=Package(patched)
+                result,tail=parse_table(pkg.raw(pkg.entries[0]))
+                self.assertEqual([result[0][1],result[1][1]],[approved[v] for v in fields])
+                self.assertEqual(result[2][1],"Other language must survive")
+                self.assertEqual(result[0][2],"Cast Neighborhood COM")
+                self.assertEqual(patch_installed_selector(patched,island,approved),(patched,0,0))
+                other=synthetic_selector_package("User custom title",fields[1])
+                mod,amount,_=patch_installed_selector(other,island,approved)
+                self.assertEqual(amount,1)
+                self.assertEqual(parse_table(Package(mod).raw(Package(mod).entries[0]))[0][0][1],
+                                 "User custom title")
+                wrong_key=synthetic_selector_package(*fields,key=(SELECTOR_KEY[0],SELECTOR_KEY[1],2,0))
+                self.assertEqual(patch_installed_selector(wrong_key,island,approved),(wrong_key,0,0))
+
+    def test_neighborhood_installer_transaction_restores_original_and_leaves_documents(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            game=root/"game"
+            bundle=root/"bundle"
+            bundle.mkdir()
+            save=root/"Documents"/"Neighborhoods"/"N002"/"N002_Neighborhood.package"
+            save.parent.mkdir(parents=True)
+            save.write_bytes(b"Players current untouched neighborhood save")
+            approved={
+                "Shipwrecked and Single":"Đắm tàu và độc thân",
+                "Very little is known about this remote tropical paradise. More description.":"Người ta biết rất ít về thiên đường nhiệt đới xa xôi này. Mô tả.",
+                "Wanmami Island":"Đảo Wanmami",
+                "Wanmami Island is home to the local, the lost. More description.":"Đảo Wanmami là mái nhà của mọi người.",
+            }
+            originals={}
+            for island,relative in INSTALLED_SELECTOR_FILES.items():
+                title=("Shipwrecked and Single" if island=="N001" else "Wanmami Island")
+                detail=("Very little is known about this remote tropical paradise. More description."
+                        if island=="N001" else
+                        "Wanmami Island is home to the local, the lost. More description.")
+                target=game/relative
+                target.parent.mkdir(parents=True,exist_ok=True)
+                originals[relative]=synthetic_selector_package(title,detail)
+                target.write_bytes(originals[relative])
+            (root/"runtime/translations").mkdir(parents=True)
+            (root/"runtime/translations/ui.json").write_text(
+                json.dumps(approved,ensure_ascii=False),encoding="utf-8")
+            catalog=root/"castaway-english-strings.json"
+            catalog.write_text("[]",encoding="utf-8")
+            with patch("build_v07.load_translations",return_value=({},[],[])):
+                manifest=collect_core_overlay(game,bundle,
+                    {"schema":"TSCTW-V08-TEST-1","install_files":[]},
+                    catalog,root)
+            self.assertEqual(manifest["installed_selector_overlay"]["changed_rows"],4)
+            self.assertEqual(len(manifest["install_files"]),2)
+            backup=root/"backup"
+            self.assertIn("DRY RUN",install(bundle,game,backup)["result"])
+            self.assertFalse(backup.exists())
+            install(bundle,game,backup,dry_run=False)
+            self.assertEqual(save.read_bytes(),b"Players current untouched neighborhood save")
+            restore(game,backup,dry_run=False)
+            for relative,before in originals.items():
+                self.assertEqual((game/relative).read_bytes(),before)
+            self.assertEqual(save.read_bytes(),b"Players current untouched neighborhood save")
 
 
 class VisibleOwnerTests(unittest.TestCase):
