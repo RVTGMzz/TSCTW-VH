@@ -65,7 +65,12 @@ def check_destinations(rows,game,kind):
     if not (game/"TSData").is_dir():
         raise FileNotFoundError(f"Not a Castaway game installation: {game}")
     for row in rows:
-        target=game/validate_path(row["path"])
+        rel=validate_path(row["path"])
+        target=game/rel
+        # Reject directory junctions/symlinked ancestors too: checking only
+        # the .package leaf would allow writes outside the chosen game root.
+        if not inside(target,game) or any(p.is_symlink() for p in (target, *target.parents) if p != game and inside(p,game)):
+            raise ValueError(f"Unsafe redirected package target: {target}")
         if not target.is_file() or target.is_symlink():
             raise FileNotFoundError(f"Missing/symlinked target: {target}")
         current=sha(target)
