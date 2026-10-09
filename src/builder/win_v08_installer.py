@@ -261,6 +261,12 @@ class InstallerApp:
         self.report_button.pack(side="left", padx=(10, 0))
         self.diagnose_button = ttk.Button(controls, text="Rà chữ còn sót", command=self.diagnose)
         self.diagnose_button.pack(side="left", padx=(10, 0))
+        extras = ttk.Frame(panel)
+        extras.pack(fill="x", pady=(0,10))
+        self.save_patch_button = ttk.Button(extras, text="Việt hóa đảo & tiểu sử...", command=self.patch_saves)
+        self.save_patch_button.pack(side="left")
+        self.save_restore_button = ttk.Button(extras, text="Khôi phục dữ liệu đảo", command=self.restore_saves)
+        self.save_restore_button.pack(side="left",padx=(10,0))
         self.progressbar = ttk.Progressbar(panel, mode="indeterminate")
         self.progressbar.pack(fill="x", pady=(0, 8))
         ttk.Label(panel, textvariable=self.status, wraplength=620).pack(anchor="w", pady=(0, 6))
@@ -312,6 +318,75 @@ class InstallerApp:
             return None
         return Path(value).resolve()
 
+    def choose_save_root(self):
+        from diagnose_visible_strings import discover_documents_roots
+        roots = discover_documents_roots()
+        if len(roots)==1:
+            return roots[0]
+        chosen = filedialog.askdirectory(title="Chọn thư mục save Castaway có Neighborhoods")
+        if chosen and (Path(chosen)/"Neighborhoods").is_dir():
+            return Path(chosen).resolve()
+        messagebox.showwarning("Chưa có save", "Hãy chọn thư mục dữ liệu Castaway trong Documents có Neighborhoods.")
+        return None
+
+    def patch_saves(self):
+        game = self.selected_game()
+        if game is None:
+            return
+        save_root = self.choose_save_root()
+        if save_root is None:
+            return
+        if not messagebox.askyesno(
+            "Xác nhận sửa dữ liệu đảo (TÙY CHỌN)",
+            "Thao tác này KHÁC bản cài Việt hóa thông thường: sẽ sửa đúng các resource chữ "
+            "trong SAVE N001/N002 ở Documents. Trình cài sao lưu nguyên file trước khi thay.\n\n"
+            "Hãy THOÁT GAME, sao lưu save riêng nếu cần. Nếu chơi và lưu sau khi vá, việc "
+            "khôi phục sẽ KHÔNG tự ghi đè tiến trình mới.\n\n"
+            "Tiếp tục Việt hóa tiêu đề, tiểu sử và tên địa điểm đã kiểm duyệt?"
+        ):
+            return
+        from patch_neighborhood_text import apply_saved_neighborhood_updates
+        if game_running():
+            messagebox.showwarning("Game đang mở","Hãy thoát Castaway trước khi sửa save.")
+            return
+        backup = backup_base() / game_identifier(game) / "SavedNeighborhoods" / datetime.now().strftime("%Y%m%d-%H%M%S-%f")
+        self.start("Vá chữ đảo có sao lưu (Documents)",
+                   lambda progress: apply_saved_neighborhood_updates(save_root,backup))
+
+    def restore_saves(self):
+        game = self.selected_game()
+        if game is None:
+            return
+        save_root = self.choose_save_root()
+        if save_root is None:
+            return
+        base = backup_base() / game_identifier(game) / "SavedNeighborhoods"
+        possible=[]
+        if base.is_dir():
+            for directory in sorted(base.iterdir(),reverse=True):
+                manifest=directory/"restore_manifest.json"
+                if manifest.is_file():
+                    try:
+                        data=json.loads(manifest.read_text(encoding="utf-8"))
+                        if data.get("save_root")==str(save_root):
+                            possible.append(directory)
+                    except (ValueError,OSError):
+                        continue
+        if not possible:
+            messagebox.showinfo("Chưa có sao lưu đảo","Không có bản sao lưu đảo phù hợp với save đang chọn.")
+            return
+        if game_running():
+            messagebox.showwarning("Game đang mở","Hãy thoát Castaway trước khi khôi phục.")
+            return
+        if not messagebox.askyesno("Khôi phục dữ liệu đảo",
+            "Khôi phục N001/N002 về trạng thái ngay trước khi Việt hóa đảo? "
+            "Nếu save đã thay đổi sau đó, trình cài sẽ TỪ CHỐI để không xóa tiến trình.\n\n"
+            +str(possible[0])):
+            return
+        from patch_neighborhood_text import restore_saved_neighborhoods
+        self.start("Khôi phục gói chữ đảo",
+                   lambda progress: restore_saved_neighborhoods(save_root,possible[0]))
+
     def diagnose(self):
         game = self.selected_game()
         if game is None:
@@ -327,6 +402,8 @@ class InstallerApp:
         self.install_button.configure(state="disabled")
         self.restore_button.configure(state="disabled")
         self.diagnose_button.configure(state="disabled")
+        self.save_patch_button.configure(state="disabled")
+        self.save_restore_button.configure(state="disabled")
         self.browse.configure(state="disabled")
         self.progressbar.start(14)
         self.write(f"--- {job} ---")
@@ -381,7 +458,13 @@ class InstallerApp:
                 self.write(value)
             elif event == "success":
                 self.status.set("Hoàn tất thao tác.")
-                if isinstance(value,dict) and "hits" in value:
+                if isinstance(value,dict) and value.get("state") in (
+                        "PATCHED_FOR_TEST","RESTORED_PREVIOUS_SAVE_STATE","NO_NEW_ROWS"):
+                    self.write("Dữ liệu đảo: "+json.dumps(value,ensure_ascii=False))
+                    messagebox.showinfo("Dữ liệu đảo", 
+                        ("Không có câu mới cần sửa." if value["state"]=="NO_NEW_ROWS" else
+                         "Đã xử lý chữ đảo. Hãy thử game để xác nhận nguồn; backup được lưu riêng."))
+                elif isinstance(value,dict) and "hits" in value:
                     from diagnose_visible_strings import concise_for_gui
                     self.diagnostic_results = value
                     for line in concise_for_gui(value):
@@ -426,7 +509,8 @@ class InstallerApp:
             elif event == "done":
                 self.busy = False
                 self.progressbar.stop()
-                for button in (self.install_button, self.restore_button, self.diagnose_button, self.browse):
+                for button in (self.install_button,self.restore_button,self.diagnose_button,
+                               self.save_patch_button,self.save_restore_button,self.browse):
                     button.configure(state="normal")
         self.root.after(125, self.process_events)
 
