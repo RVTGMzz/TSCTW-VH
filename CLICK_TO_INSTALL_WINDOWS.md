@@ -1,35 +1,45 @@
-# Việt hóa Castaway Stories v0.8 TEST — cài bằng một file EXE
+# Castaway Stories Việt hóa v0.8 TEST — Cài một lần nhấn trên Windows
 
-**Dành cho Windows, không cần cài Python hoặc công cụ phụ.** Bản này là **bản thử nghiệm** mở rộng runtime, tiếp tục sử dụng Text và bộ font Votri Valley v0.7a đã có. Chưa xác nhận trên toàn bộ game và chưa sửa xong nguồn hiển thị chữ màn chọn cốt truyện.
+**[TẢI EXE MỚI NHẤT — Build 66](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-66/VotriValley-Castaway-v08-TEST.exe)** · [GitHub Release](https://github.com/RVTGMzz/TSCTW-VH/releases/tag/castaway-v08-test-windows-66) · [CI Build 66 PASS](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37865230511).
 
-**Build 17 sửa lỗi `Unrecognized translated/source text` khi file đã được Việt hóa trước:** Các dòng có đúng resource/key/row/ngôn ngữ và metadata nhưng nội dung khác bản hiện hành được **giữ nguyên, không ghi đè và không tính là bản dịch mới đã kiểm duyệt**. Chỉ những dòng trùng chính xác tiếng Anh gốc mới được dịch; cấu trúc/metadata sai vẫn khiến trình cài dừng. Hãy dùng [EXE Build 17](https://github.com/RVTGMzz/TSCTW-VH/releases/download/castaway-v08-test-windows-29/VotriValley-Castaway-v08-TEST.exe), không sử dụng Build 11 với lỗi trước đó.
+Không cần cài Python hay công cụ lập trình. EXE chỉ chứa mã vá và bản dịch, **không chứa game của EA**. Bản này đã qua test cấu trúc và thử cài/khôi phục trên package giả; **vẫn là TEST, chưa xác minh toàn bộ gameplay thực tế**.
 
-**Lỗi Build 17: `FileNotFoundError: castaway-english-strings.json`.** Đây là lỗi gọi nhầm dữ liệu Text gốc khi đang build runtime overlay. **Build 23** đã tách đúng nhánh runtime-only, không cần file này. GitHub Actions #23 chạy smoke-test ngay trên EXE đóng gói: dữ liệu DBPF giả → tạo payload → dry-run → cài → khôi phục đều PASS. Không cần tải JSON riêng. Nếu Build 17 đã dừng tại lỗi này, **chưa có thao tác cài và chưa có gì cần phục hồi**.
+## Bước 1 — cài Text + runtime
 
-**Khôi phục sau khi cài thành công:** đóng game, mở lại EXE và chọn **Khôi phục bản trước**. Bản sao lưu nằm trong `%LOCALAPPDATA%\\Votri Valley\\Castaway v0.8 TEST\\Backups` và trả lại **đúng các package của ông trước khi cài v0.8**, kể cả Việt hóa cũ; không phải khôi phục bộ game tiếng Anh gốc.
+1. Thoát hẳn game, đóng các trình cài Build 29/Build 23 cũ.
+2. Mở EXE Build 66, chọn thư mục có `TSData`, ví dụ `G:\Castaway-Portable`.
+3. Bấm **Cài Việt hóa v0.8 TEST**, xác nhận. Ứng dụng kiểm tra và sao lưu các package sẽ chỉnh, bổ sung chỉ những dòng tiếng Anh *đúng nguồn* trong runtime **và Text**. Hai dòng đã dịch cũ của ghế đá được nâng cấp bằng quy tắc exact-row đã kiểm duyệt; những dòng lạ được giữ nguyên. Không ghi đè font hoặc save Documents trong bước này.
+4. Nếu thành công, mở game kiểm tra **Thu hút/Mất hứng**, **Phần thưởng Khát vọng**, item mô tả và menu.
 
-**Build 29 (2026-10-09):** thêm nút **Lưu báo cáo...** để tự xuất log UTF-8 ra máy khi cài có lỗi (người dùng tự xem trước khi chia sẻ; không tự gửi qua mạng). Bấm **Cài** một lần nữa sau khi đã vá đủ những dòng nguồn xác nhận được sẽ được báo **không có gì cần bổ sung**, thay vì báo lỗi hoặc tạo backup mới. [Windows CI #29](https://github.com/RVTGMzz/TSCTW-VH/actions/runs/37861994690) đã PASS kiểm thử dữ liệu dịch và smoke-test EXE đóng gói. Các thay đổi vẫn chỉ được kiểm thử bằng package giả; chưa có kết quả Windows gameplay thật.
+**Khôi phục các package Text/runtime:** thoát game, mở EXE, nhấn **Khôi phục bản trước**. Ứng dụng trả lại byte nguyên trạng lúc trước khi bấm Cài, bao gồm những bản Việt hóa cũ; **không** xóa dữ liệu tiến trình nhân vật/nhà trong Documents.
 
-## Cách cài
+## Bước 2 — tùy chọn, chỉ khi muốn Việt hóa tên đảo và tiểu sử trong save
 
-1. Mở [GitHub Releases của dự án](https://github.com/RVTGMzz/TSCTW-VH/releases), chọn bản mới nhất có tên **Castaway Stories Việt hóa v0.8 TEST — Windows**.
-2. Bấm tải trực tiếp **`VotriValley-Castaway-v08-TEST.exe`**. *Không cần tải source code hay cài Python*.
-3. Thoát hẳn game. Nhấn đúp EXE. Nếu game đang đặt tại `G:\Castaway-Portable`, trình cài sẽ tự nhận; nếu không, nhấn **Chọn thư mục...**, chọn folder có `TSData`.
-4. Bấm **Cài Việt hóa v0.8 TEST**. Trình cài tự kiểm tra 10 file `.package` nguyên bản, sao lưu, tạo bản vá từ nguồn dịch, kiểm tra lại rồi cài. Font và các file Text v0.7a vẫn giữ nguyên, không đụng save trong Documents.
-5. Sau khi cài, mở game như bình thường. Test cốt truyện, Wants, Rewards, item, menu Examine/Use. Nếu gặp lỗi, quay lại trình cài và chọn **Khôi phục bản trước**.
+**Đây là bước RIÊNG, có thể bỏ qua**. Tên `Wanmami Island`, hai giới thiệu Story Mode, tiểu sử Candy/Linea và các tên địa điểm được tìm thấy ở N001/N002 của Documents, chứ không chỉ trong các package cài đặt.
 
-**Nếu báo sai SHA-256 hoặc file không nguyên bản:** DỪNG. Một trong các package runtime đã bị thay đổi (có thể do mod/bản Việt hóa trước). Đừng tắt kiểm tra hoặc chép đè file bằng bản người khác. Đường khôi phục chỉ khôi phục package mà chính trình cài này đã sao lưu.
+1. **Thoát hoàn toàn game**, nên có thêm bản sao lưu save cá nhân nếu đây là save đang chơi lâu.
+2. Nhấn **Việt hóa đảo & tiểu sử...**. Nếu có nhiều profile/Documents (kể cả OneDrive), chọn đúng thư mục dữ liệu game đang dùng có folder `Neighborhoods`.
+3. Đọc cảnh báo và đồng ý **chỉ nếu muốn sửa nội dung chữ trong save**. Công cụ sao lưu nguyên bản N001/N002, kiểm định resource key/ngôn ngữ/metadata rồi chỉ cập nhật các dòng khớp tiếng Anh gốc. Không thay bằng package save của người khác, không đổi đồ/nhà/tiến trình.
+4. Chạy lại game kiểm tra màn chọn `Đảo Wanmami`, các mô tả và tiểu sử.
 
-**Nếu báo thiếu font:** phiên bản này là *runtime overlay*, chưa chứa font độc lập. Máy cần có bản font Việt hóa v0.7a đang sử dụng tốt. Trình cài cố ý không thay đổi font.
+**Khôi phục riêng dữ liệu đảo:** đóng game, chọn **Khôi phục dữ liệu đảo**. Nếu game đã lưu tiến trình mới sau khi dịch đảo, công cụ sẽ **từ chối** tự động ghi đè, tránh làm mất dữ liệu chơi. Đây là đường khôi phục **khác** với nút Khôi phục bản trước của gói Text/runtime.
 
-**Nếu Windows cảnh báo ứng dụng chưa ký:** đây là bản thử nghiệm xây dựng tự động từ [mã nguồn của dự án](https://github.com/RVTGMzz/TSCTW-VH). Chỉ chạy khi đã kiểm tra nguồn tải và tin tưởng file; không cần tắt Windows Defender. File EXE từ bên thứ ba không do Votri Valley phát hành không được hỗ trợ.
+> *Lưu ý:* Resource này đã được truy vết tới package trên đĩa, nhưng chưa xác minh game thực sự ưu tiên đọc đúng bản Documents đang sửa. Bước 2 vẫn là thử nghiệm, không bảo đảm ngay lập tức hết tiếng Anh ở màn chọn chuyện.
 
-## Những gì trình cài làm và không làm
+## Bước 3 — giúp rà toàn bộ các nhóm còn tiếng Anh
 
-- **Có:** nhúng sẵn bản dịch nguồn, dò thư mục portable, vá trong máy người dùng, kiểm tra hash, sao lưu có ngày giờ tại `%LOCALAPPDATA%\Votri Valley\Castaway v0.8 TEST\Backups`, khôi phục bằng nút bấm.
-- **Không:** cài Python, mở mạng để tải package game, ghi đè `.exe` của game, sửa save N001/N002 trong Documents, sửa font đang chạy, hoặc phát tán dữ liệu thương mại của EA.
-- **Chưa xác minh:** chạy thật trên bộ package đang cài của người dùng, giao diện selector, tương thích save/load và tất cả chữ trong gameplay.
+Những tên **Pine Tree**, **Row of Trees**, cảnh báo dùng **Elixir of Life** lúc chưa đạt Khát vọng Vàng, và phiên bản đoạn hướng dẫn Thu hút/Mất hứng dài hơn hiện chưa có chủ resource được xác minh từ catalog đã kiểm tra.
 
-## Dành cho người đóng góp
+Trong EXE, nhấn **Rà chữ còn sót** (chỉ đọc file, không sửa game), đợi hoàn tất, sau đó nhấn **Lưu báo cáo...** để lưu TXT UTF-8. Gửi file đó trong cuộc trò chuyện để tiếp tục dịch theo **cả resource/cụm**, không vá từng ảnh. Báo cáo có thể ghi lại đường dẫn Windows cá nhân, hãy mở xem trước khi gửi.
 
-Build EXE từ `.github/workflows/v08-windows-installer.yml` qua GitHub Actions Windows. Workflow chạy toàn bộ test giả lập, test source, đóng gói với PyInstaller trên runner, chạy `--self-test` trên file EXE đóng gói, upload bản tải xuống và gắn **pre-release TEST**. Bản phát hành trực tiếp luôn phải ghi rõ đây không phải bản v0.8 hoàn chỉnh.
+## Dòng ghi công
+
+Yêu cầu chính xác: **“Việt hóa bởi Votri Valley”**. Chưa chèn được vào game: tên ứng dụng nằm trong một chuỗi tiêu đề cửa sổ, còn logo ở màn mở đầu là giao diện/đồ họa khác; chỉnh chuỗi tên ứng dụng không tạo được dòng nhỏ nằm dưới logo. Đang tìm tài nguyên layout/splash phù hợp. Không chèn gian lận vào Credits của EA hoặc gây lỗi game để báo hoàn tất.
+
+## An toàn và phạm vi TEST
+
+- Dùng đúng file EXE từ GitHub Releases của repo này; Windows có thể cảnh báo ứng dụng chưa ký số. Không cần tắt Defender.
+- Cài Text/runtime và sửa save là **hai thao tác khác nhau** với hai loại backup khác nhau. Không làm hai việc này nếu game đang mở.
+- Nếu công cụ báo lỗi DBPF hoặc metadata, giữ nguyên file, xuất **Lưu báo cáo...** gửi để rà đúng nguồn, **đừng xóa** `objects.package` hoặc `Wants.package`.
+- Lần cài lại khi không còn dòng *khớp tiếng Anh gốc* để bổ sung sẽ chỉ thông báo, không làm thay đổi file và không tạo thêm backup.
+- Bản thử chưa giải quyết lỗi đồ họa map đảo Wanmami vốn cũng xuất hiện ở bản gốc chưa Việt hóa.
