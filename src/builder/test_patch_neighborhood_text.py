@@ -8,7 +8,7 @@ from unittest.mock import patch
 from test_runtime_dbpf_writer import fixture
 from patch_neighborhood_text import (
     apply_saved_neighborhood_updates, restore_saved_neighborhoods,
-    build_saved_neighborhood_updates, guarded_source_paths, SAVE_ALIASES,
+    build_saved_neighborhood_updates, guarded_source_paths, selector_translation_status, SAVE_ALIASES,
 )
 from runtime_dbpf import Package, parse_table
 
@@ -72,6 +72,17 @@ class SaveLocalizationTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError,"Save changed"):
                 restore_saved_neighborhoods(save,backup)
             self.assertEqual(path.read_bytes(),edited)
+
+    def test_selector_status_is_read_only_for_unrelated_synthetic_rows(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            save,original,rows=self.prepare_fake_documents(root)
+            before=selector_translation_status(save)
+            self.assertFalse(before["runtime_read_precedence_verified"])
+            self.assertTrue(all(v=={"english":0,"vietnamese":0} for v in before["fields"].values()))
+            for island in ("N001","N002"):
+                source=save/"Neighborhoods"/island/f"{island}_Neighborhood.package"
+                self.assertEqual(source.read_bytes(),original)
 
     def test_missing_save_is_hard_failure_before_creating_backup(self):
         with tempfile.TemporaryDirectory() as tmp:
